@@ -1,0 +1,17 @@
+14296 | St Clair West Station | 43.6841499 | -79.41524 | 14779
+8870 | St Clair Ave West At Bathurst St West Side | 43.6831399 | -79.41889 | 14337
+7324 | Vaughan Rd At St Clair Ave West North Side | 43.6831699 | -79.42061 | 8421
+1386 | Vaughan Rd At Louise Ave | 43.6841799 | -79.4212299 | 8415
+867 | Vaughan Rd At Maplewood Ave | 43.6857 | -79.42194 | 8418
+5431 | Vaughan Rd At Kenwood Ave | 43.68761 | -79.42347 | 8413
+7562 | Vaughan Rd At Connaught Cir | 43.6883899 | -79.4253499 | 8407
+1247 | Vaughan Rd At Humewood Dr | 43.6888499 | -79.4281099 | 8411
+3536 | Vaughan Rd At Rushton Rd | 43.6888799 | -79.43054 | 8419
+2738 | Vaughan Rd At Arlington Ave | 43.68887 | -79.4315199 | 8404
+1610 | Vaughan Rd At Atlas Ave | 43.68917 | -79.43372 | 8406
+4772 | Vaughan Rd At Winona Dr West Side | 43.6902299 | -79.4362399 | 8423
+6978 | Vaughan Rd At Glenora Ave | 43.6914299 | -79.4385599 | 11830
+5940 | Vaughan Rd At Oakwood Ave | 43.6925699 | -79.4406 | 11831
+4975 | Vaughan Rd At Glenholme Ave | 43.69396 | -79.44442 | 11832
+10337 | Vaughan Rd At Northcliffe Blvd | 43.6946399 | -79.4467199 | 11833
+1730_ar | Northcliffe Ave At Eglinton Ave West | 43.6960199 | -79.44753

@@ -1,0 +1,61 @@
+6029 | Steeles Ave West At Alness St East Side | 43.7848199 | -79.48012 | 13435
+6609 | 2215 Steeles Ave West | 43.7853499 | -79.47783 | 8258
+2775 | Steeles Ave West At Gerry Fitzgerald Dr | 43.7860499 | -79.47492 | 8275
+5867 | Steeles Ave West At Dufferin St | 43.7870999 | -79.47043 | 8268
+3850 | Dufferin St At Steeles Ave West South Side | 43.78674 | -79.4702199 | 7658
+6349 | Dufferin St At Gerry Fitzgerald Dr | 43.78403 | -79.4702499 | 7662
+9031 | Dufferin St At Dolomite Dr | 43.7810899 | -79.4699399 | 7649
+5714 | Dufferin St At Supertest Rd | 43.7781199 | -79.4692299 | 7661
+3803 | Dufferin St At Martin Ross Ave | 43.77531 | -79.46856 | 7655
+9099 | 4610 Dufferin St | 43.7722399 | -79.46781 | 0978
+5165 | Dufferin St At Finch Ave West | 43.7692399 | -79.46715 | 0981
+9124 | Dufferin St At Finch Ave West South Side | 43.76825 | -79.46695 | 12176
+5726 | 4400 Dufferin St | 43.7655699 | -79.4662999 | 11342
+7130 | Dufferin St At Steeprock Dr | 43.7618899 | -79.4654899 | 9417
+14361 | William R Allen Rd At Rimrock Rd | 43.75778 | -79.4651799 | 14835
+7719 | William R Allen Rd At Sheppard Ave West South Side | 43.7496699 | -79.46339 | 1647
+14182_ar | Downsview Station | 43.7493599 | -79.46249
+858 | Transit Rd At Wilson Ave | 43.7343899 | -79.45266 | 11879
+3502 | Alness St At Steeles Ave West South Side | 43.7842199 | -79.48087 | 0007
+6722 | Alness St At Magnetic Dr | 43.7825699 | -79.4795199 | 0006
+9252 | Alness St At Flint Rd | 43.782 | -79.47837 | 0512
+5018 | Alness St At Dolomite Dr | 43.7796199 | -79.4756799 | 0002
+5227 | Supertest Rd At Alness St West Side | 43.7767099 | -79.47498 | 1606
+7358 | 590 Supertest Rd | 43.7763299 | -79.47684 | 1605
+9258 | 800 Supertest Rd | 43.77581 | -79.4792399 | 1608
+2835 | Supertest Rd At Flint Rd | 43.7754699 | -79.48083 | 1609
+5687 | Martin Ross Ave At Flint Rd East Side | 43.77276 | -79.4799499 | 1283
+3407 | Martin Ross Ave At Brisbane Rd (West) | 43.77344 | -79.4768799 | 1279
+9426 | Martin Ross Ave At Alness St | 43.7741499 | -79.47371 | 1275
+14364 | Alness St At Brisbane Rd | 43.77235 | -79.4726 | 14838
+14182 | Downsview Station | 43.7493599 | -79.46249 | 14661
+14182_IB | Downsview Station | 43.7493599 | -79.46249 | 14661
+8170 | William Allen Rd At Sheppard Ave West | 43.7500399 | -79.46317 | 3172
+14360 | William R Allen Rd At Rimrock Rd | 43.75758 | -79.46475 | 14834
+9079 | William R Allen Rd At Overbrook Pl | 43.76088 | -79.46498 | 1645
+7259 | Dufferin St At Stanstead Dr | 43.76306 | -79.46548 | 0983
+7080 | Opposite 4400 Dufferin St | 43.76536 | -79.466 | 11341
+14362 | Dufferin St At Finch Ave West North Side | 43.7696299 | -79.46689 | 14836
+14363 | Alness St At Brisbane Rd North Side | 43.77251 | -79.47249 | 14837
+14365 | Alness St At Martin Ross Ave | 43.7741199 | -79.4732099 | 14839
+6657 | Alness St At Supertest Rd | 43.77653 | -79.47425 | 9480
+5644 | Alness St At Dolomite Dr | 43.77939 | -79.47545 | 0001
+1717 | Alness St At Flint Rd | 43.78175 | -79.47761 | 0003
+3640 | Alness St At Magnetic Dr North Side | 43.7826999 | -79.4795499 | 0540
+6029_ar | Steeles Ave West At Alness St East Side | 43.7848199 | -79.48012
+14366 | Martin Ross Ave At Alness St West Side | 43.7741499 | -79.47418 | 14840
+8667 | Martin Ross Ave At Brisbane Rd (West) | 43.77366 | -79.4762599 | 1280
+2807 | Martin Ross Ave At Flint Rd | 43.77281 | -79.4800699 | 1284
+8169 | Flint Rd At Supertest Rd | 43.7750999 | -79.48106 | 1065
+9395 | 777 Supertest Rd | 43.77575 | -79.4791099 | 1610
+5287 | Opposite 590 Supertest Rd | 43.77617 | -79.4771599 | 8324
+3276 | Supertest Rd At Alness St | 43.7766599 | -79.47486 | 1607
+8935 | Opposite 4630 Dufferin St | 43.77372 | -79.468 | 7657
+8555 | Dufferin St At Martin Ross Ave | 43.7750899 | -79.46832 | 7654
+7706 | Dufferin St At Supertest Rd | 43.77784 | -79.46899 | 7660
+6825 | Dufferin St At Dolomite Dr | 43.7806999 | -79.4696799 | 7648
+2868 | Dufferin St At Gerry Fitzgerald Dr | 43.7837099 | -79.47007 | 14313
+838 | Steeles Ave West At Dufferin St West Side | 43.7872399 | -79.47077 | 9342
+3670 | Steeles Ave West At Futurity Gate | 43.78635 | -79.4745299 | 8274
+3502_ar | Alness St At Steeles Ave West South Side | 43.7842199 | -79.48087
+857 | Transit Rd At Wilson Ave North Side | 43.7347199 | -79.45217 | 11878

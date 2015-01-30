@@ -1,0 +1,44 @@
+14237 | Kipling Station | 43.6374699 | -79.53581 | 14718
+3686 | Dundas St West At Acorn Ave | 43.6375099 | -79.53898 | 2138
+10129 | Dundas St West At Poplar Ave | 43.63627 | -79.5400699 | 5022
+2965 | Dundas St West At Wilmar Rd | 43.6349299 | -79.54129 | 2196
+5620 | Shorncliffe Rd At Dundas St West South Side | 43.6317299 | -79.5445 | 9234
+1806 | 50 Shorncliffe Rd | 43.6289099 | -79.5433799 | 11121
+3506 | Shorncliffe Ave At Lockport Ave South Side | 43.6275999 | -79.5429099 | 9235
+7394 | Shorncliffe Ave At Newbridge Rd South Side | 43.6258199 | -79.5421499 | 9236
+3413 | Opposite 115 Shorncliffe Rd | 43.62451 | -79.54159 | 10657
+753 | Shorncliffe Ave At North Queen St | 43.62272 | -79.54082 | 9237
+8994 | North Queen St At Atomic Ave | 43.6220599 | -79.54263 | 9511
+10201 | North Queen St At Medulla Ave | 43.6215199 | -79.54519 | 9238
+10303 | North Queen St At The East Mall | 43.6206299 | -79.5491 | 10627
+2634 | North Queen St At Eastside Dr | 43.61994 | -79.5520299 | 10628
+8092 | North Queen St At Index Rd West Side | 43.6194199 | -79.55435 | 10629
+7090 | North Queen St At Manstor Rd | 43.61848 | -79.5575599 | 10630
+8333 | North Queen St At Nova Rd | 43.6163 | -79.55712 | 10631
+7954 | North Queen St At The Queensway | 43.6145799 | -79.5564499 | 10632
+4554 | 1800 The Queensway | 43.6140899 | -79.55933 | 9407
+881 | The West Mall At Queensway South Side | 43.61175 | -79.5623 | 11119
+7093 | The West Mall At Trillium Health Centre (North Stop) | 43.61038 | -79.56145 | 1631
+540 | Sherway Gardens Rd At Sherway Gate (Mall) | 43.6097799 | -79.55823 | 3117
+3830 | Sherway Gate At Evans Ave | 43.60951 | -79.5567299 | 3116
+6397 | Evans Ave At Gair Dr | 43.60982 | -79.5524199 | 2440
+10306 | Evans Ave At Browns Line | 43.6104499 | -79.54948 | 2434
+9187 | Browns Line At Coules Crt (North) South Side | 43.6080699 | -79.54806 | 6268
+6340 | Browns Line At Valermo Dr | 43.60624 | -79.54732 | 6273
+9776 | Browns Line At Finsbury Cres | 43.604 | -79.54632 | 6269
+7696 | Browns Line At Horner Ave | 43.6017999 | -79.5453799 | 6270
+10100 | Browns Line At Horner Ave South Side | 43.6013299 | -79.5451699 | 3382
+7400 | Browns Line At Woodbury Rd | 43.59938 | -79.54425 | 3388
+9117 | Browns Line At Jellicoe Ave South Side | 43.59629 | -79.54285 | 3385
+477_ar | Long Branch Loop | 43.5921199 | -79.54368
+6264 | The East Mall At North Queen St South Side | 43.6200699 | -79.5493399 | 9239
+4873 | 70 The East Mall | 43.6184199 | -79.5478199 | 5044
+2643 | The East Mall At The Queensway | 43.6167399 | -79.5465399 | 5055
+4382 | The East Mall At Evans Ave | 43.61208 | -79.54398 | 9628
+9791 | Evans Ave At Sheldon Ave West Side | 43.6115099 | -79.54574 | 2452
+359 | Evans Ave At Browns Line | 43.61078 | -79.5489899 | 2435
+5481 | 620 Evans Ave | 43.6104299 | -79.55042 | 2429
+7435 | Evans Ave At Gair Dr | 43.61008 | -79.5519499 | 2441
+7836 | Evans Ave At Sherway Gate West Side | 43.60899 | -79.55685 | 2454
+4588 | The West Mall At Sherway Dr (Trillium Health Ctr South Stop) | 43.6094 | -79.5597999 | 3169
+542 | Sherway Gardens Rd At Sherway Gate (Mall) | 43.6098099 | -79.55801 | 9109

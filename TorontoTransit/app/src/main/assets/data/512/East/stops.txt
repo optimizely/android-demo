@@ -1,0 +1,27 @@
+14688 | Gunns Loop At St Clair Ave West | 43.6719499 | -79.47144 | 14958
+14838 | St Clair Ave West At Old Stock Yards Rd | 43.6718099 | -79.4706 | 15050
+14674 | St Clair Ave West At Keele/Weston | 43.6724399 | -79.46783 | 14939
+14672 | St Clair Ave West At Old Weston Rd East Side | 43.67358 | -79.4625399 | 14937
+14670 | St Clair Ave West At Hounslow Heath Rd East Side | 43.6743 | -79.4593199 | 14935
+14668 | St Clair Ave West At Laughton Ave East Side | 43.6747499 | -79.45711 | 14933
+14666 | St Clair Ave West At Caledonia Rd East Side | 43.67547 | -79.4537899 | 14931
+14382 | St Clair Ave West At Lansdowne Ave East Side | 43.6763799 | -79.45008 | 14889
+14383 | St Clair Ave West At Earlscourt Ave East Side | 43.6770699 | -79.44685 | 14887
+14384 | St Clair Ave West At Dufferin St West Side | 43.6780599 | -79.44251 | 14885
+14385 | St Clair Ave West At Northcliffe Blvd East Side | 43.67852 | -79.4402699 | 14883
+14386 | St Clair Ave West At Glenholme Ave East Side | 43.67905 | -79.4380299 | 14881
+14387 | St Clair Ave West At Oakwood Ave East Side | 43.6796899 | -79.43512 | 14879
+14388 | St Clair Ave West At Winona Dr East Side | 43.6803699 | -79.43193 | 14877
+14389 | St Clair Ave West At Arlington Ave East Side | 43.68116 | -79.4283099 | 14874
+14390 | St Clair Ave West At Christie St East Side | 43.6817999 | -79.42516 | 14872
+14391 | St Clair Ave West At Wychwood Ave East Side | 43.68228 | -79.4226299 | 14870
+8868 | St Clair Ave West At Vaughan Rd East Side | 43.6828299 | -79.41931 | 14335
+8869 | St Clair Ave West At Bathurst St East Side | 43.6831599 | -79.41764 | 14336
+14297 | St Clair West Station | 43.6846199 | -79.41544 | 14780
+8875 | St Clair Ave West At Tweedsmuir Ave | 43.6841099 | -79.41346 | 14343
+8876 | St Clair Ave West At Spadina Rd East Side | 43.6846399 | -79.41057 | 14344
+8976 | St Clair Ave West At Russell Hill Rd East Side | 43.6854599 | -79.40734 | 8181
+10450 | St Clair Ave West At Dunvegan Rd | 43.6859 | -79.4047699 | 14351
+1494 | St Clair Ave West At Avenue Rd East Side | 43.6866499 | -79.40087 | 8149
+2189 | St Clair Ave West At Deer Park Cres East Side | 43.68738 | -79.3976899 | 8160
+14295_ar | St Clair Station | 43.6877499 | -79.39223

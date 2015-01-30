@@ -1,0 +1,67 @@
+10038 | Middlefield Rd Loop At Steeles Ave East | 43.8350899 | -79.26829 | 10920
+7923 | Middlefield Rd At Steeles Ave East | 43.8329599 | -79.2680999 | 10923
+8039 | Opposite 955 Middlefield Rd | 43.83092 | -79.26715 | 13425
+3857 | Middlefield Rd At Select Ave | 43.8295899 | -79.2665399 | 11603
+2893 | Middlefield Rd At Ingleton Blvd South Side | 43.82695 | -79.26502 | 10242
+7233 | Middlefield Rd At Newmill Gate | 43.82517 | -79.26409 | 10243
+6563 | Middlefield Rd At Pebblewood Ave | 43.82334 | -79.26331 | 6596
+1326 | Middlefield Rd At McNicoll Ave | 43.82031 | -79.26223 | 6588
+5358 | Middlefield Rd At Nashdene Rd | 43.8174699 | -79.26105 | 6590
+9931 | Middlefield Rd At Richmond Park Blvd | 43.8143899 | -79.2597099 | 6598
+3824 | Middlefield Rd At Arbor Low Gate | 43.8119899 | -79.2586699 | 6581
+9487 | Middlefield Rd At Finch Ave East | 43.8100799 | -79.2578999 | 6586
+14693 | Middlefield Rd At Orator Gate | 43.8079899 | -79.25647 | 6593
+1011 | Middlefield Rd At Walkway To Buckhurst Cres | 43.8054 | -79.25476 | 6600
+5734 | 330 Middlefield Rd | 43.80386 | -79.2553599 | 10804
+3633 | Middlefield Rd At Compass Crt | 43.80263 | -79.2562899 | 6584
+2389 | 150 Middlefield Rd | 43.80115 | -79.2574299 | 6582
+2891 | Middlefield Rd At McCowan Rd | 43.7991599 | -79.26068 | 6602
+6068 | McCowan Rd At Commander Blvd | 43.7963 | -79.26167 | 1290
+2442 | 2050 McCowan Rd | 43.7950999 | -79.26114 | 1311
+2289 | McCowan Rd At Nugget Ave | 43.79225 | -79.26005 | 9858
+1082 | McCowan Rd At Sheppard Ave East | 43.7898399 | -79.2590399 | 1318
+5609 | McCowan Rd At Pitfield Rd | 43.7874999 | -79.25748 | 1312
+10097 | McCowan Rd At Milner Ave | 43.7855599 | -79.2566799 | 1309
+7239 | McCowan Rd At Triton Rd | 43.7755499 | -79.2528199 | 9623
+14739_ar | Scarborough Centre Station | 43.7741699 | -79.25881
+5397 | Middlefield Rd At Passmore Ave East Side | 43.8274699 | -79.26441 | 11604
+5158 | Maybrook Dr At Passmore Ave South Side | 43.8277399 | -79.26173 | 10240
+6477 | Maybrook Dr At Newmill Gate | 43.8258899 | -79.2615499 | 10241
+5290 | Opposite 71 Maybrook Dr | 43.8243399 | -79.26089 | 6561
+3845 | Maybrook Dr At McNicoll Ave | 43.8216899 | -79.2593799 | 6560
+9000 | McNicoll Ave At Middlefield Rd | 43.8205899 | -79.26084 | 6563
+14739 | Scarborough Centre Station | 43.7741699 | -79.25881 | 15002
+2541 | McCowan Rd At Progress Ave North Side | 43.7766499 | -79.2528899 | 1313
+2286 | McCowan Rd At Highway 401 | 43.78257 | -79.25523 | 12078
+9413 | McCowan Rd At Milner Ave North Side | 43.7859599 | -79.2565699 | 1308
+7294 | McCowan Rd At Invergordon Ave | 43.7873099 | -79.2570899 | 1300
+9391 | McCowan Rd At Sheppard Ave East | 43.78947 | -79.25859 | 1317
+3476 | McCowan Rd At Nugget Ave | 43.7918999 | -79.25963 | 1310
+564 | 2061 McCowan Rd | 43.7954099 | -79.2611099 | 1286
+8204 | McCowan Rd At Commander Blvd North Side | 43.7964799 | -79.26155 | 1289
+1238 | McCowan Rd At Middlefield Rd | 43.7985399 | -79.2623299 | 1307
+2946 | Middlefield Rd At Opposite Walkway To Bushcroft Grove | 43.799 | -79.2608099 | 6599
+8951 | Opposite 156 Middlefield Rd | 43.8011599 | -79.25732 | 6592
+5587 | Middlefield Rd At Compass Crt | 43.8023399 | -79.25638 | 6583
+10017 | Opposite 330 Middlefield Rd | 43.8038099 | -79.25528 | 10803
+5715 | Middlefield Rd At Opposite Walkway To Buckhurst Cres | 43.8052799 | -79.2546 | 6601
+9268 | Middlefield Rd At Orator Gate North Side | 43.80825 | -79.2565 | 13896
+6011 | Middlefield Rd At Finch Ave East | 43.80969 | -79.25744 | 6585
+7550 | Middlefield Rd At Arbor Low Gate North Side | 43.8119699 | -79.2585 | 6580
+2318 | Middlefield Rd At Richmond Park Blvd | 43.81417 | -79.25945 | 6597
+7859 | Middlefield Rd At Nashdene Rd North Side | 43.8175899 | -79.2609399 | 6589
+2003 | Middlefield Rd At McNicoll Ave | 43.8199499 | -79.2619199 | 6587
+3619 | Middlefield Rd At Pebblewood Ave | 43.8230399 | -79.26301 | 6595
+9766 | Middlefield Rd At Newmill Gate | 43.82475 | -79.26376 | 10238
+7414 | Middlefield Rd At Passmore Ave | 43.82698 | -79.26482 | 10239
+2218 | Middlefield Rd At Select Ave | 43.8291299 | -79.2661399 | 11600
+9405 | 955 Middlefield Rd | 43.8306699 | -79.2668699 | 13424
+2118 | Middlefield Rd At Steeles Ave East | 43.83249 | -79.26765 | 11605
+7339 | Middlefield Rd At Steeles Ave East North Side | 43.83345 | -79.26802 | 10921
+10038_ar | Middlefield Rd Loop At Steeles Ave East | 43.8350899 | -79.26829
+2590 | McNicoll Ave At Tiffield Rd East Side | 43.8208699 | -79.25995 | 6562
+771 | Maybrook Dr At McNicoll Ave North Side | 43.8220099 | -79.25959 | 10833
+6066 | 61 Maybrook Dr | 43.8235 | -79.26041 | 6559
+703 | Maybrook Dr At Newmill Gate | 43.8254499 | -79.2612399 | 10237
+2428 | Maybrook Dr At Passmore Ave | 43.8278399 | -79.26171 | 10236
+8525 | Passmore Ave At Middlefield Rd | 43.8274599 | -79.26505 | 11601

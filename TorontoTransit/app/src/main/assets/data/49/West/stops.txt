@@ -1,0 +1,14 @@
+14239 | Kipling Station | 43.6377199 | -79.53551 | 14720
+3426 | Aukland Rd At Dundas St West North Side | 43.63877 | -79.53854 | 5128
+9444 | Bloor St West At Ashbourne Dr | 43.6404 | -79.5420199 | 0489
+3331 | Bloor St West At Martin Grove Rd | 43.63975 | -79.5448799 | 0548
+6419 | Bloor St West At Shaver Ave North | 43.6391599 | -79.54747 | 0582
+2467 | Bloor St West At Laurel Ave | 43.6382699 | -79.55129 | 0537
+4710 | Bloor St West At The East Mall | 43.63709 | -79.5564999 | 0511
+6438 | Bloor St West At The West Mall | 43.6357799 | -79.56206 | 0596
+5655 | Bloor St West At Peacock Ave | 43.63492 | -79.5655999 | 0568
+2589 | Bloor St West At Markland Dr (East) | 43.63369 | -79.5704399 | 0547
+1441 | Bloor St West At Mapledawn Rd | 43.63287 | -79.5732499 | 0541
+5574 | Bloor St West At Mill Rd | 43.6322999 | -79.5747 | 0552
+8326 | Opposite 4345 Bloor St West | 43.6310999 | -79.5773 | 0560
+1523_ar | Markland Dr (West) At Bloor St West North Side | 43.6296499 | -79.58023

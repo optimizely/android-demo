@@ -1,0 +1,56 @@
+14156 | Broadview Station | 43.6771499 | -79.35785 | 14634
+6070 | 849 Broadview Ave | 43.6792199 | -79.35813 | 3369
+9364 | Broadview Ave At Browning Ave | 43.6808899 | -79.35767 | 0655
+5522 | Mortimer Ave At Broadview Ave East Side | 43.68393 | -79.3564599 | 5766
+9698 | Mortimer Ave At Burley Ave East Side | 43.6844 | -79.3540799 | 5767
+6288 | Mortimer Ave At Logan Ave | 43.6847999 | -79.35205 | 5788
+9715 | Mortimer Ave At Carlaw Ave East Side | 43.68531 | -79.3494599 | 5769
+10286 | Mortimer Ave At Pape Ave | 43.68567 | -79.3475999 | 5790
+1543 | Mortimer Ave At Woodycrest Ave | 43.6865099 | -79.34458 | 5798
+2427 | Mortimer Ave At Dewhurst Blvd | 43.6869499 | -79.3423 | 5774
+8423 | Mortimer Ave At Donlands Ave | 43.68751 | -79.3404499 | 5776
+3482 | Mortimer Ave At Inwood Ave | 43.6881599 | -79.33746 | 5784
+6552 | Mortimer Ave At Greenwood Ave | 43.68854 | -79.3356299 | 5781
+8665 | Mortimer Ave At Linsmore Cres | 43.6891599 | -79.33276 | 5787
+3524 | Mortimer Ave At Roosevelt Rd | 43.6897799 | -79.32993 | 5793
+965 | Mortimer Ave At Coxwell Ave (Toronto East General Hospital) | 43.6904599 | -79.32673 | 5771
+9027 | Mortimer Ave At Knight St | 43.6910099 | -79.32417 | 5785
+6001 | Mortimer Ave At Glebemount Ave | 43.6913399 | -79.32079 | 5779
+9962 | Mortimer Ave At Woodmount Ave | 43.6919 | -79.3183099 | 5796
+8028 | Mortimer Ave At Woodbine Ave | 43.6925299 | -79.31593 | 5795
+6937 | Lumsden Ave At Cedarvale Ave East Side | 43.6930699 | -79.31365 | 5522
+6732 | Lumsden Ave At Oak Park Ave | 43.69385 | -79.3105199 | 5525
+7875 | Lumsden Ave At Westlake Ave | 43.69429 | -79.3086399 | 5526
+7636 | Chisholm Ave At Crewe Ave | 43.69431 | -79.30582 | 4871
+7146 | Chisholm Ave At Epsom Ave | 43.6922899 | -79.3049499 | 4872
+285 | Doncaster Ave At Main St | 43.69163 | -79.3035299 | 5007
+14259_ar | Main St Station | 43.6890299 | -79.30121
+14259 | Main St Station | 43.6890299 | -79.30121 | 14740
+284 | Doncaster Ave At Main St West Side | 43.69166 | -79.3037799 | 5006
+6588 | Chisholm Ave At Orley Ave North Side | 43.6929299 | -79.3050699 | 4870
+10345 | Chisholm Ave At Lumsden Ave | 43.6944799 | -79.3057699 | 4869
+486 | Lumsden Ave At Westlake Ave | 43.6945499 | -79.30785 | 2852
+3588 | Lumsden Ave At Gledhill Ave | 43.6938399 | -79.31095 | 5524
+5338 | Lumsden Ave At Cedarvale Ave West Side | 43.6931699 | -79.31439 | 5523
+5977 | Mortimer Ave At Woodbine Ave West Side | 43.6925499 | -79.31618 | 5794
+4834 | Mortimer Ave At Woodmount Ave | 43.69203 | -79.3180499 | 5797
+2509 | Mortimer Ave At Glebemount Ave | 43.69154 | -79.3203899 | 5780
+2431 | Mortimer Ave At Dunkirk Rd | 43.6912999 | -79.32319 | 5778
+5104 | Mortimer Ave At Coxwell Ave (Toronto East General Hospital) | 43.6906799 | -79.32634 | 5772
+590 | Mortimer Ave At Coxwell Ave West Side (East Gen Hospital) | 43.6905599 | -79.32705 | 5773
+6147 | Mortimer Ave At Roosevelt Rd | 43.6900199 | -79.3293 | 5792
+7091 | Mortimer Ave At Linsmore Cres | 43.6894299 | -79.33207 | 5786
+10035 | Mortimer Ave At Greenwood Ave | 43.68872 | -79.3353499 | 5782
+3299 | Mortimer Ave At Inwood Ave West Side | 43.6881499 | -79.33809 | 5783
+8618 | Mortimer Ave At Donlands Ave | 43.6877399 | -79.33992 | 5777
+3901 | Mortimer Ave At Dewhurst Blvd | 43.6871499 | -79.34187 | 5775
+1565 | Mortimer Ave At Woodycrest Ave | 43.68669 | -79.3442399 | 5799
+7279 | Mortimer Ave At Pape Ave | 43.6858499 | -79.34726 | 5791
+4126 | Mortimer Ave At Carlaw Ave | 43.6853699 | -79.34969 | 5770
+8558 | Mortimer Ave At Logan Ave | 43.6849499 | -79.35181 | 5789
+5288 | Mortimer Ave At Burley Ave | 43.6844499 | -79.35441 | 5768
+7151 | Broadview Ave At Pottery Rd South Side | 43.6835599 | -79.35714 | 0659
+5650 | Broadview Ave At Chester Hill Rd | 43.6814 | -79.3577099 | 0651
+6540 | 876 Broadview Ave | 43.67976 | -79.3581399 | 0649
+5251 | Broadview Ave At Pretoria Ave | 43.6785299 | -79.35846 | 0660
+14156_ar | Broadview Station | 43.6771499 | -79.35785

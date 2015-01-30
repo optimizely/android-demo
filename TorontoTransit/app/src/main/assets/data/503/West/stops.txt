@@ -1,0 +1,44 @@
+1480 | Bingham Loop | 43.6815599 | -79.28492 | 2839
+2863 | Bingham Ave At Kingston Rd | 43.6808399 | -79.2852099 | 1738
+9054 | Kingston Rd At Scarborough Rd | 43.6806099 | -79.28706 | 2795
+3301 | Kingston Rd At Beech Ave | 43.6803099 | -79.29052 | 2767
+1246 | Kingston Rd At Malvern Ave | 43.6801799 | -79.29251 | 2786
+6285 | Kingston Rd At Walter St | 43.6793999 | -79.29619 | 2799
+9441 | Kingston Rd At Main St | 43.67904 | -79.2977399 | 2785
+4119 | Kingston Rd At Lee Ave | 43.6783499 | -79.3008299 | 2783
+6290 | Kingston Rd At Brookside Dr | 43.67711 | -79.3038399 | 2770
+9032 | Kingston Rd At Elmer Ave | 43.6758199 | -79.30587 | 2777
+8652 | Kingston Rd At Woodbine Ave West Side | 43.67364 | -79.3083399 | 2801
+6027 | Kingston Rd At Columbine Ave | 43.67168 | -79.3103599 | 2772
+3281 | Kingston Rd At Dundas St East | 43.6700899 | -79.31123 | 2775
+4577 | Kingston Rd At Queen St East | 43.6679899 | -79.31227 | 14058
+4034 | Queen St East At Coxwell Ave | 43.6664299 | -79.31645 | 3045
+1997 | Queen St East At Kent Rd | 43.6656399 | -79.31989 | 3053
+6156 | Queen St East At Connaught Ave | 43.6651199 | -79.32221 | 3043
+1189 | Queen St East At Greenwood Ave | 43.6644599 | -79.32518 | 3049
+3385 | Queen St East At Alton Ave | 43.66387 | -79.3277499 | 3029
+8882 | Queen St East At Leslie St | 43.66333 | -79.3301299 | 3057
+746 | Queen St East At Jones Ave | 43.66279 | -79.3325599 | 3052
+1744 | Queen St East At Brooklyn Ave | 43.66207 | -79.3357999 | 3034
+2650 | Queen St East At Pape Ave | 43.66166 | -79.3376199 | 3063
+3577 | Queen St East At Carlaw Ave | 43.6611499 | -79.33995 | 3036
+6902 | Queen St East At Logan Ave | 43.6605999 | -79.34237 | 3059
+6682 | Queen St East At Empire Ave | 43.6602199 | -79.34408 | 3047
+3384 | Queen St East At Boulton Ave | 43.6596599 | -79.34655 | 3031
+7385 | Queen St East At Broadview Ave | 43.6589899 | -79.34956 | 3033
+1070 | Queen St East At Carroll St | 43.65844 | -79.3519899 | 3039
+10272 | Queen St East At River St | 43.6574499 | -79.35641 | 3067
+8731 | Queen St East At Sumach St | 43.6569099 | -79.35882 | 3074
+7217 | Queen St East At Sackville St | 43.6563499 | -79.36135 | 3069
+5599 | Queen St East At Parliament St | 43.65568 | -79.3642699 | 3065
+3261 | Parliament St At Richmond St East | 43.65463 | -79.3641 | 10229
+1263 | Parliament St At Adelaide St East | 43.6536299 | -79.3636699 | 6632
+6122 | Parliament St At King St East | 43.6527999 | -79.3633199 | 6640
+1581 | King St East At Ontario St | 43.65191 | -79.3657199 | 4139
+1962 | King St East At Sherbourne St | 43.6513399 | -79.36816 | 4146
+5334 | King St East At Jarvis St | 43.65056 | -79.3717399 | 4136
+5595 | King St East At Church St | 43.6499999 | -79.37426 | 4134
+2299 | Church St At Wellington St East | 43.6487099 | -79.3739899 | 12320
+4268 | Wellington St At Yonge St | 43.6479499 | -79.3772 | 4711
+877 | Wellington St West At Bay St | 43.64742 | -79.3795499 | 4710
+878_ar | Wellington St West At York St | 43.6467299 | -79.38288

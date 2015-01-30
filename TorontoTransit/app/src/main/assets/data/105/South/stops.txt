@@ -1,0 +1,33 @@
+12921 | Major Mackenzie Dr West At Dufferin St | 43.8609799 | -79.48796 | 14463
+12865 | Dufferin St At Freedom Trail | 43.85856 | -79.48693 | 14464
+12866 | Dufferin St At Ivy Glen Dr | 43.8546699 | -79.4860499 | 14465
+12867 | Dufferin St At Maurier Blvd | 43.85043 | -79.48505 | 14466
+12868 | Dufferin St At District Ave | 43.84655 | -79.48406 | 14467
+12869 | Dufferin St At Rutherford Rd | 43.8427999 | -79.4833499 | 14468
+7416 | Dufferin St At Dufferin Hill Dr | 43.83993 | -79.4826 | 13353
+6238 | Dufferin St At Ten Oaks Blvd | 43.83616 | -79.4817199 | 13354
+4671 | Dufferin St At Confederation Pkwy | 43.8297699 | -79.48029 | 13355
+5505 | Dufferin St At Langstaff Rd | 43.8244 | -79.47883 | 13356
+10422 | Dufferin St At Caraway Dr | 43.81537 | -79.47668 | 14388
+3781 | Dufferin St At Racco Pkwy | 43.81336 | -79.47625 | 13674
+5517 | Dufferin St At Beverly Glen Blvd | 43.8098099 | -79.4755799 | 11411
+1088 | Dufferin St At Centre St | 43.8058299 | -79.47478 | 11412
+7249 | Dufferin St At Glen Shields Ave (North) South Side | 43.80129 | -79.47365 | 7652
+2781 | Dufferin St At Walkways To Unity Cres &amp; Twin Pines Cres | 43.79876 | -79.47299 | 9524
+6008 | Dufferin St At Clark Ave West South Side | 43.7968499 | -79.4726499 | 7656
+3504 | Dufferin St At Walkway To Pauline Crt | 43.7943199 | -79.4719299 | 9681
+3940 | Dufferin St At Glen Shields Ave (South) South Side | 43.7919599 | -79.47144 | 7653
+9585 | Dufferin St At Viceroy Rd | 43.78915 | -79.47076 | 14193
+3379 | Dufferin St At Steeles Ave West | 43.78743 | -79.47031 | 14194
+3850 | Dufferin St At Steeles Ave West South Side | 43.7867399 | -79.47022 | 7658
+6349 | Dufferin St At Gerry Fitzgerald Dr | 43.78403 | -79.4702499 | 7662
+9031 | Dufferin St At Dolomite Dr | 43.7810899 | -79.4699399 | 7649
+5714 | Dufferin St At Supertest Rd | 43.7781199 | -79.4692299 | 7661
+3803 | Dufferin St At Martin Ross Ave | 43.77531 | -79.46856 | 7655
+9099 | 4610 Dufferin St | 43.7722399 | -79.4678099 | 0978
+5165 | Dufferin St At Finch Ave West | 43.76924 | -79.46715 | 0981
+9124 | Dufferin St At Finch Ave West South Side | 43.7682499 | -79.46695 | 12176
+5726 | 4400 Dufferin St | 43.76557 | -79.4663 | 11342
+7130 | Dufferin St At Steeprock Dr | 43.76189 | -79.46549 | 9417
+14361 | William R Allen Rd At Rimrock Rd | 43.7577799 | -79.4651799 | 14835
+14174_ar | Downsview Station | 43.7495299 | -79.46255

@@ -1,0 +1,13 @@
+14045 | Mount Dennis Garage | 43.6937399 | -79.49551 | 14533
+14046 | Industry St At Ray Ave | 43.6925599 | -79.4914799 | 14534
+2256 | Industry St At Bertal Rd South Side | 43.69168 | -79.4892699 | 9325
+3535 | Industry St At Todd Baylis Blvd | 43.69303 | -79.4863999 | 9326
+10398 | Trethewey Dr At Todd Baylis Blvd South Side | 43.69498 | -79.48729 | 3141
+9140 | Eglinton Ave West At Black Creek Dr West Side | 43.68834 | -79.4832999 | 2401
+3953 | Eglinton Ave West At Photography Dr West Side | 43.68761 | -79.4869399 | 2373
+343 | Eglinton Ave West At Weston Rd | 43.68713 | -79.4893099 | 2419
+3711 | Weston Rd At Oxford Dr | 43.68794 | -79.4918 | 8755
+3343 | Weston Rd At Ray Ave | 43.6886599 | -79.4939999 | 8759
+7111 | Weston Rd At Victoria Blvd | 43.6895 | -79.4964 | 8775
+1395 | Weston Rd At Craydon Ave | 43.6903599 | -79.4984799 | 8713
+9856_ar | Weston Rd At Jane St | 43.6912799 | -79.50065

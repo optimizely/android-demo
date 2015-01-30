@@ -1,0 +1,56 @@
+14225 | Keele Station | 43.6554599 | -79.45958 | 14705
+8910 | Keele St At Glenlake Ave | 43.6581499 | -79.4613599 | 7888
+10331 | Keele St At Humberside Ave | 43.66154 | -79.46281 | 7891
+3335 | Keele St At Annette St | 43.66341 | -79.46359 | 7882
+2271 | Keele St At Dundas St West | 43.6652799 | -79.4644099 | 7886
+6844 | Keele St At Junction Rd | 43.6676899 | -79.46543 | 7893
+6868 | Keele St At West Toronto St | 43.6698899 | -79.4663699 | 7901
+429 | Keele St At St Clair Ave West | 43.67209 | -79.4673 | 7899
+600 | Old Weston Rd At St Clair Ave West North Side | 43.6739399 | -79.46306 | 4509
+5957 | Old Weston Rd At Rockwell Ave | 43.6764699 | -79.4637699 | 4502
+7749 | Old Weston Rd At Turnberry Ave | 43.6782499 | -79.4646299 | 4510
+10355 | Old Weston Rd At Kane Ave | 43.68052 | -79.46625 | 4506
+9843 | Old Weston Rd At Rogers Rd | 43.68172 | -79.46746 | 4505
+6689 | Rogers Rd At Scott Rd | 43.6823799 | -79.4689899 | 4567
+2905 | Keele St At Rogers Rd North Side | 43.6826299 | -79.4717199 | 4024
+6334 | Keele St At Donald Ave | 43.68482 | -79.47266 | 3978
+5162 | Keele St At Ypres Rd | 43.68743 | -79.47379 | 4057
+7429 | Keele St At Eglinton Ave West | 43.68998 | -79.47485 | 3985
+2652 | Keele St At Yore Rd North Side | 43.6921499 | -79.4742 | 4053
+5777 | Keele St At Beechborough Ave | 43.6942599 | -79.4746799 | 3955
+4989 | Keele St At Canon Jackson Dr North Side (Humber River Hosp) | 43.69692 | -79.47525 | 3966
+1672 | Keele St At Ingram Dr | 43.69929 | -79.47579 | 4002
+7314 | Keele St At Densley Ave | 43.7028499 | -79.4765799 | 3975
+4428 | Keele St At Milford Ave | 43.70447 | -79.47696 | 4012
+5036 | Keele St At Colville Rd | 43.70608 | -79.47731 | 3971
+1678 | Keele St At Lawrence Ave West North Side | 43.7093499 | -79.47801 | 4007
+10126 | Keele St At North Park Dr North Side | 43.71141 | -79.4785 | 4015
+4509 | Keele St At Maple Leaf Dr North Side | 43.71511 | -79.47934 | 4010
+6701 | Keele St At Rustic Rd | 43.71782 | -79.47995 | 4025
+10060 | Keele St At Falstaff Ave North Side | 43.72062 | -79.48057 | 3986
+5661 | Keele St At George Appleton Way | 43.7248099 | -79.48146 | 3982
+431 | Keele St At Wilson Ave North Side | 43.7271699 | -79.48197 | 9154
+9654 | Keele St At Paxtonia Blvd | 43.72898 | -79.48242 | 4018
+7018 | Keele St At Wandle Ave | 43.73107 | -79.48295 | 4045
+427 | Keele St At Keelegate Dr | 43.73293 | -79.48341 | 4003
+7134 | Keele St At Whitburn Cres | 43.7368299 | -79.48436 | 4047
+8579 | Keele St At Diana Dr | 43.74099 | -79.48537 | 3977
+3520 | Keele St At Wycombe Rd | 43.74279 | -79.4858 | 4051
+5451 | Keele St At Sheppard Ave West North Side | 43.7451799 | -79.48631 | 7897
+7540 | Opposite 3400 Keele St | 43.7479199 | -79.4870399 | 7895
+4993 | Keele St At Dovehouse Ave North Side | 43.7498299 | -79.4874699 | 3981
+8019 | Keele St At Grandravine Dr | 43.75194 | -79.48797 | 9151
+4724 | Keele St At St Regis Cres North Side | 43.75479 | -79.4887 | 13924
+764 | Keele St At Broadoaks Dr | 43.75734 | -79.48931 | 3959
+5771 | Keele St At Toro Rd | 43.75954 | -79.48985 | 4043
+15099 | Tangiers Rd At Finch Ave W North Side | 43.7644299 | -79.48826 | 15274
+10069 | Keele St At The Pond Rd | 43.7716699 | -79.4928599 | 4028
+2284 | York Blvd At Keele St West Side | 43.7750199 | -79.49525 | 4634
+913_IB | York Blvd (North) At York University Commons | 43.7740899 | -79.50106 | 11416
+7271 | Ian Macdonald Blvd At The Chimneystack Rd | 43.7762099 | -79.50054 | 11939
+636_IB | Founders Rd At Steeles Ave West | 43.7789599 | -79.50413 | 4512
+842 | Steeles Ave West At Keele St East Side | 43.7816099 | -79.49376 | 1590
+3784 | Petrolia Rd At Steeles Ave West South Side | 43.7817599 | -79.4898099 | 4529
+4252 | Petrolia Rd At Limestone Cres | 43.7801299 | -79.4890899 | 4528
+7337 | Petrolia Rd At Wildcat Rd | 43.7783899 | -79.4884599 | 4530
+7116_ar | Petrolia Rd At Canarctic Dr | 43.7763899 | -79.48897

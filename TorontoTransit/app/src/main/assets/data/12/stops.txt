@@ -1,0 +1,111 @@
+14305 | Victoria Park Station | 43.6938799 | -79.2883 | 14788
+14731 | Victoria Park Ave At Denton Ave | 43.6931 | -79.28931 | 14962
+8504 | Victoria Park Ave At Danforth Ave | 43.6913699 | -79.2885099 | 4690
+2623 | Victoria Park Ave At Wakehood St South Side | 43.6900499 | -79.2879699 | 4697
+2608 | Victoria Park Ave At Gerrard St East | 43.68756 | -79.28693 | 4692
+7921 | Victoria Park Ave At Swanwick Ave | 43.68526 | -79.28594 | 4696
+8160 | Victoria Park Ave At Woodale Ave | 43.68342 | -79.28519 | 9414
+7857 | Victoria Park Ave At Meadow Ave | 43.68182 | -79.28453 | 9415
+2966 | Kingston Rd At Victoria Park Ave East Side | 43.6807899 | -79.28362 | 3344
+8892 | Kingston Rd At Blantyre Ave | 43.6813499 | -79.28146 | 11840
+2600 | Kingston Rd At Fallingbrook Rd | 43.68215 | -79.2793399 | 4221
+2801 | Kingston Rd At Wood Glen Rd | 43.6840799 | -79.27615 | 4270
+15031 | Kingston Rd At Queensbury Ave | 43.6853399 | -79.27431 | 15211
+4720 | Kingston Rd At Warden Ave | 43.68761 | -79.2710299 | 4267
+8516 | Kingston Rd At Manderley Dr | 43.6886799 | -79.26942 | 4235
+9456 | Kingston Rd At Kildonan Dr | 43.6899699 | -79.26735 | 4232
+1190 | Kingston Rd At Birchcliff Ave | 43.69136 | -79.2648199 | 4205
+8107 | Birchmount Rd At Kingston Rd North Side | 43.6935999 | -79.26248 | 7563
+4872 | Birchmount Rd At Hollis Ave | 43.6949299 | -79.2630299 | 7551
+7686 | Birchmount Rd At Danforth Ave | 43.6967799 | -79.2638 | 7547
+14779 | 3701 Danforth Ave (Variety Village) | 43.6987399 | -79.25899 | 15011
+2802 | Kingston Rd At Cliffside Dr | 43.70381 | -79.2526599 | 4217
+9445 | Kingston Rd At Ridgemoor Ave | 43.7061599 | -79.2512 | 4259
+7720 | Kingston Rd At Sandown Ave | 43.70858 | -79.2496899 | 4260
+3922 | Kingston Rd At Midland Ave | 43.7107999 | -79.24824 | 4246
+7014 | Kingston Rd At Chine Dr | 43.7139399 | -79.24506 | 4214
+4158 | 2665 Kingston Rd East Side | 43.7159199 | -79.24279 | 4199
+4586 | Brimley Rd At Kingston Rd North Side | 43.7190999 | -79.24064 | 3361
+10330 | Brimley Rd At St Clair Ave East | 43.72074 | -79.24132 | 3366
+10066 | Brimley Rd At Mandarin Rd | 43.72245 | -79.24203 | 9635
+4819 | Brimley Rd At Anson Ave | 43.72433 | -79.2428 | 9636
+5249 | Brimley Rd At Oakridge Dr | 43.7258099 | -79.2433999 | 9637
+4616 | Brimley Rd At Skagway Ave | 43.7282699 | -79.2444099 | 9638
+6917 | Brimley Rd At Lombardy Cres North Side | 43.7321799 | -79.2460499 | 9639
+9536 | Brimley Rd At Danforth Rd | 43.7350799 | -79.2472299 | 9640
+317 | Eglinton Ave East At Brimley Rd West Side | 43.7366499 | -79.24876 | 2253
+4194 | Eglinton Ave East At Gilder Dr | 43.73577 | -79.2529699 | 1033
+8550 | Eglinton Ave East At Huntington Ave West Side | 43.7350899 | -79.25601 | 1034
+323 | Eglinton Ave East At Midland Ave West Side | 43.7344699 | -79.25888 | 1036
+5465 | 2466 Eglinton Ave East (Rainbow Village) | 43.7340999 | -79.26044 | 6365
+9949 | North Service Rd At Eglinton Ave East | 43.73305 | -79.2654799 | 1038
+14232_ar | Kennedy Station | 43.7325199 | -79.26389
+6012 | Kingston Rd At Birchmount Rd East Side | 43.6932399 | -79.26188 | 4207
+6067 | 1859 Kingston Rd (Opposite Birchmount Park) | 43.69512 | -79.2594099 | 4243
+6581 | Kingston Rd At Lakehurst Dr | 43.6961799 | -79.25802 | 4233
+1949 | Kingston Rd At Glen Everest Rd East Side | 43.69802 | -79.2562199 | 4227
+6172 | 2121 Kingston Rd | 43.70086 | -79.2544899 | 4230
+6712 | St Clair Ave East At Fermoy Rd | 43.72126 | -79.2392999 | 4624
+5975 | St Clair Ave East At Kingston Rd | 43.7217699 | -79.23684 | 4626
+1757 | Brooklawn Ave At Kingston Rd South Side | 43.7216299 | -79.2359 | 3378
+2794 | Brooklawn Ave At Sloley Rd | 43.71961 | -79.23493 | 3381
+2043_ar | Brooklawn Ave At Barkdene Hills | 43.7169199 | -79.23381
+1330 | Brimley Rd South At Kingston Rd South Side | 43.7177199 | -79.24021 | 3362
+9472 | Brimley Rd At Barkdene Hills | 43.71546 | -79.23929 | 3359
+5336 | Barkdene Hill At Larwood Blvd | 43.71546 | -79.2379299 | 3307
+7133 | Barkdene Hill At Gradwell Dr | 43.71586 | -79.2361099 | 3305
+1430_ar | Barkdene Hill At Brooklawn Ave | 43.7166099 | -79.23379
+3243 | Bingham Loop East Side | 43.6814999 | -79.28485 | 13519
+3243_ar | Bingham Loop East Side | 43.6814999 | -79.28485
+1430 | Barkdene Hill At Brooklawn Ave | 43.7166099 | -79.23379 | 3304
+7056 | Brooklawn Ave At Sloley Rd | 43.7194099 | -79.2347299 | 3380
+9451 | Brooklawn Ave At Kingston Rd | 43.72178 | -79.23596 | 3379
+3024 | Kingston Rd At St Clair Ave East West Side | 43.7218899 | -79.23716 | 1565
+3630 | St Clair Ave East At Fermoy Rd | 43.72147 | -79.2390399 | 1560
+4405 | Brimley Rd At St Clair Ave East South Side | 43.7205 | -79.2414 | 3367
+6241 | Kingston Rd At Brimley Rd West Side | 43.7179999 | -79.2409 | 10970
+1758 | Kingston Rd At Resthaven Memorial Gardens | 43.7158199 | -79.24337 | 13334
+1752 | Kingston Rd At Chine Dr | 43.7143 | -79.2450899 | 4215
+2746 | Kingston Rd At Midland Ave West Side | 43.7109799 | -79.2485 | 4245
+9298 | Kingston Rd At Sandown Ave | 43.70898 | -79.2498299 | 4261
+9196 | Kingston Rd At Sharpe St | 43.7065299 | -79.25136 | 4264
+9987 | Kingston Rd At Claremore Ave | 43.70416 | -79.2528199 | 4216
+5945 | Kingston Rd At Glen Everest Rd | 43.6978699 | -79.25667 | 4228
+5490 | Opposite 1859 Kingston Rd (Birchmount Park) | 43.6954099 | -79.2594 | 4244
+3801 | Kingston Rd At Birchmount Rd | 43.69321 | -79.2622399 | 4208
+1529 | Kingston Rd At Birchcliff Ave | 43.6915999 | -79.26466 | 4206
+7514 | Kingston Rd At Eastwood Ave | 43.6902999 | -79.26703 | 4218
+5532 | Kingston Rd At Manderley Dr | 43.68908 | -79.2690999 | 7904
+2522 | Kingston Rd At Warden Ave | 43.68802 | -79.2706699 | 4268
+15032 | Kingston Rd At Queensbury Ave | 43.68562 | -79.2742399 | 15212
+7020 | Kingston Rd At Hunt Club Dr | 43.68371 | -79.2769499 | 4231
+1939 | Kingston Rd At Fallingbrook Rd | 43.68241 | -79.2790899 | 4222
+8903 | Kingston Rd At Blantyre Ave | 43.6815599 | -79.28128 | 4209
+999 | Kingston Rd At Victoria Park Ave | 43.6809099 | -79.2839199 | 4266
+14232 | Kennedy Station | 43.7325199 | -79.26389 | 14713
+311 | 2495 Eglinton Ave East At South Service Rd (East) | 43.73404 | -79.2597999 | 1031
+8890 | Eglinton Ave East At Midland Ave | 43.7343199 | -79.25847 | 1037
+2447 | Eglinton Ave East At Huntington Ave | 43.73489 | -79.2558799 | 1035
+8986 | Eglinton Ave East At Falmouth Ave | 43.73547 | -79.2533099 | 1032
+6997 | Eglinton Ave East At Brimley Rd | 43.73652 | -79.2482799 | 2254
+2250 | Brimley Rd At Danforth Rd | 43.73532 | -79.24758 | 9641
+9111 | Brimley Rd At Lombardy Cres | 43.7319599 | -79.2461699 | 9642
+4771 | Brimley Rd At Skagway Ave | 43.72854 | -79.24476 | 9643
+6168 | Brimley Rd At Comrie Terr (North) | 43.72615 | -79.24374 | 9644
+2963 | Brimley Rd At Comrie Terr (South) | 43.7246899 | -79.2431399 | 9645
+2526 | Brimley Rd At Minerva Ave | 43.7227299 | -79.2423299 | 9646
+2328 | Brimley Rd At St Clair Ave East | 43.72108 | -79.24165 | 9647
+14780 | Opposite 3701 Danforth Ave (Variety Village) | 43.6991299 | -79.2588299 | 15012
+14778 | Birchmount Rd At Parkette Pl | 43.6962699 | -79.26379 | 15010
+6965 | Birchmount Rd At Hollis Ave South Side | 43.6948199 | -79.2631499 | 7552
+2275 | Birchmount Rd At Kingston Rd | 43.6931399 | -79.2624499 | 7553
+3243_IB | Bingham Loop East Side | 43.6814999 | -79.28485 | 13519
+10085 | Victoria Park Ave At Winston Ave | 43.6837 | -79.28518 | 4698
+1468 | Victoria Park Ave At Swanwick Ave | 43.6849099 | -79.2856799 | 4695
+3287 | Victoria Park Ave At Gerrard St East North Side | 43.6873899 | -79.2866499 | 4691
+2450 | Victoria Park Ave At Danforth Ave | 43.69108 | -79.2882 | 4689
+5105 | Victoria Park Ave At Denton Ave | 43.6926399 | -79.2887899 | 11348
+14305_ar | Victoria Park Station | 43.6938799 | -79.2883
+2043 | Brooklawn Ave At Barkdene Hills | 43.7169199 | -79.23381 | 3377
+4311 | Barkdene Hill At Gradwell Dr | 43.71601 | -79.2358099 | 3306
+6452 | Barkdene Hills At Larwood Blvd | 43.7155799 | -79.23779 | 14297

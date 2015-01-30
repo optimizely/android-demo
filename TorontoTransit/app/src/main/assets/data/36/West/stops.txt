@@ -1,0 +1,84 @@
+14205_IB | Finch Station | 43.7804699 | -79.41464 | 14685
+7753 | Finch Ave West At Yonge St West Side | 43.7797076 | -79.4161507 | 9130
+6783 | Finch Ave West At Greenview Ave | 43.77924 | -79.4183299 | 3595
+9004 | Finch Ave West At Kensington Ave | 43.7788 | -79.4204899 | 3603
+10328 | Finch Ave West At Talbot Rd West Side | 43.7781699 | -79.4233 | 3617
+2331 | Finch Ave West At Altamont Rd | 43.7777299 | -79.42527 | 3576
+4537 | Finch Ave West At Carney Rd | 43.7771999 | -79.42767 | 3584
+775 | Finch Ave West At Grantbrook St West Side | 43.7762199 | -79.43208 | 3594
+4781 | Finch Ave West At Clarkhill St | 43.7755899 | -79.4349 | 3586
+752 | Finch Ave West At Endell St | 43.77507 | -79.4372499 | 3590
+10250 | Finch Ave West At Ancona St | 43.77474 | -79.4387099 | 3578
+5663 | Finch Ave West At Muirkirk Rd | 43.7742599 | -79.44085 | 3607
+6073 | Finch Ave West At Bathurst St | 43.7739899 | -79.44267 | 3582
+9646 | Finch Ave West At Arnott Ave | 43.77336 | -79.4465099 | 3610
+8527 | Finch Ave W At Virgilwood Dr West Side (Branson Hospital) | 43.77291 | -79.4485499 | 3619
+7664 | Finch Ave West At Torresdale Ave West Side | 43.7723399 | -79.45133 | 3618
+9088 | Opposite 625 Finch Ave West | 43.77164 | -79.4546899 | 3609
+7938 | Opposite 685 Finch Ave West (St Bernards) | 43.7710399 | -79.45745 | 3615
+7736 | Finch Ave West At Wilmington Ave | 43.77038 | -79.4606099 | 3623
+5982 | Finch Ave West At Dufferin St | 43.7691399 | -79.46627 | 3588
+4520 | Finch Ave West At Alness St | 43.76801 | -79.4711899 | 2582
+9212 | Opposite 1111 Finch Ave West | 43.7671499 | -79.475 | 3580
+3676 | Finch Ave West At Chesswood Dr West Side | 43.7664999 | -79.47803 | 2591
+1231 | 1150 Finch Ave West | 43.7652799 | -79.48364 | 2603
+3868 | Finch Ave West At Alexdon Rd West Side | 43.7647099 | -79.48598 | 2581
+7917 | Finch Ave West At Tangiers Rd | 43.76426 | -79.4880699 | 2635
+5955 | Finch Ave West At Keele St | 43.7636499 | -79.49073 | 2611
+9644 | Finch Ave West At Romfield Lane | 43.76272 | -79.4935799 | 2626
+5007 | Finch Ave West At Walkway Opposite Paulvale Cres | 43.7617299 | -79.49736 | 2599
+6887 | Finch Ave West At Sentinel Rd | 43.76119 | -79.4997899 | 2629
+7741 | Opposite 1685 Finch Ave West (St Wilfreds School) | 43.76041 | -79.5032199 | 2633
+5568 | Finch Ave West At Tobermory Dr | 43.75938 | -79.5077999 | 2637
+5215 | Finch Ave West At Topcliffe Ave | 43.7589999 | -79.50946 | 2639
+9216 | Finch Ave West At Driftwood Ave | 43.7581899 | -79.51326 | 2594
+10339 | Finch Ave West At Jane St West Side | 43.7573099 | -79.51868 | 3600
+6554 | Finch Ave West At York Gate Boulveard | 43.7569 | -79.5205299 | 3626
+8554 | Finch Ave West At Norfinch Dr (Humber River Hospital) | 43.7561299 | -79.52409 | 2621
+6455 | Finch Ave West At Signet Dr West Side | 43.7532699 | -79.53702 | 2630
+6456 | Finch Ave West At Weston Rd | 43.7522799 | -79.54179 | 2643
+9499 | Weston Rd At Toryork Dr | 43.7531799 | -79.5425199 | 9104
+8625 | Toryork Dr At Weston Rd West Side | 43.75345 | -79.54336 | 4675
+5648 | 50 Toryork Dr | 43.7546099 | -79.5464799 | 4673
+1135 | 98 Toryork Dr | 43.7557899 | -79.5493099 | 4667
+4701 | 114 Toryork Dr | 43.75671 | -79.55146 | 4668
+4132 | 130 Toryork Dr | 43.7574899 | -79.5533899 | 4669
+9223 | 166 Toryork Dr | 43.75907 | -79.55629 | 4670
+3895 | 192 Toryork Dr | 43.76038 | -79.55875 | 4671
+9551 | 220 Toryork Dr | 43.7613499 | -79.5611199 | 4672
+5528_ar | Toryork Dr At Milvan Dr | 43.7625699 | -79.56405
+14206 | Finch Station | 43.7802799 | -79.41454 | 14686
+2304 | Finch Ave West At Weston Rd West Side | 43.7520799 | -79.54289 | 7761
+6362 | Finch Ave West At Jayzel Dr West Side | 43.7506899 | -79.5494599 | 2608
+8116 | Finch Ave West At Milvan Dr | 43.7501099 | -79.5521 | 2620
+3396 | Finch Ave West At Duncanwoods Dr | 43.7489599 | -79.5574799 | 2596
+4134 | Finch Ave West At Pearldale Ave | 43.74792 | -79.5621799 | 2624
+10164 | Finch Ave West At Milady Rd | 43.74745 | -79.5642399 | 2619
+8706 | Finch Ave West At Islington Ave West Side | 43.7462099 | -79.56912 | 11028
+2792 | Finch Ave West At Walkway To Farr Ave | 43.7437299 | -79.57954 | 11250
+9953 | Finch Ave West At Kipling Ave West Side | 43.7433199 | -79.58268 | 11029
+9695 | Finch Ave West At Opposite Albion Mall | 43.74317 | -79.5875399 | 11041
+3540 | Finch Ave West At Albion Rd South Side | 43.7407199 | -79.58958 | 2579
+4116 | Finch Ave West At Kendleton Dr | 43.7389399 | -79.58995 | 2614
+8561 | Finch Ave West At Martin Grove Rd | 43.7369499 | -79.59136 | 2617
+3066 | Finch Ave West At Silverstone Dr | 43.7361699 | -79.59475 | 2631
+3793 | Finch Ave West At Damascus Dr | 43.73542 | -79.5978599 | 2592
+5835 | Finch Ave West At Westmore Dr | 43.73486 | -79.6006099 | 2641
+1399 | Finch Ave West At Highway 27 West Side | 43.7340399 | -79.60409 | 11293
+758 | Finch Ave West At Woodbine Downs Blvd | 43.7337999 | -79.6064199 | 2644
+1367 | Humber College Blvd At Finch Ave West South Side | 43.7337199 | -79.61012 | 7857
+649 | Humber College Blvd At Humberline Dr | 43.73229 | -79.6094 | 7861
+3252 | Humberline Dr At Holyoake Cres (East) West Side | 43.73189 | -79.61223 | 11030
+4931 | Humberline Dr At Woodlot Cres (West) | 43.73215 | -79.6147299 | 11032
+7762 | Humberline Dr At Viewcrest Cir | 43.7322799 | -79.6172299 | 13473
+1881 | Humberwood Blvd At Honeyview Pl | 43.7333999 | -79.61919 | 11417
+5324 | Humberwood Blvd At Topbank Dr | 43.7304999 | -79.6197599 | 12199
+3103 | Humberwood Blvd At Pinecone Dr | 43.72911 | -79.6200699 | 11848
+9727 | Humberwood Blvd At Upper Humber Dr | 43.7275899 | -79.62177 | 11849
+12920 | Humberwood Blvd At Morning Star Dr | 43.72629 | -79.6223599 | 14514
+4534_ar | Humberwood Blvd Loop At View Green Cres | 43.7244699 | -79.62116
+14792 | Fenmar Dr At Weston Rd West Side | 43.7577799 | -79.5445499 | 15019
+14793 | 86 Fenmar Dr | 43.75879 | -79.54696 | 15020
+14794 | Fenmar Dr At Kenhar Dr West Side | 43.76 | -79.54977 | 15021
+14795 | 174 Fenmar Dr | 43.76094 | -79.5521 | 15022
+14796 | Ormont Dr At Fenmar Dr West Side | 43.7622999 | -79.55642 | 15023

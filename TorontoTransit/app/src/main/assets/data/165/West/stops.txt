@@ -1,0 +1,100 @@
+14324 | York Mills Station | 43.7451399 | -79.40613 | 14807
+4868 | Wilson Ave At Yonge St West Side | 43.74394 | -79.4074699 | 8891
+1167 | Wilson Ave At Yonge Blvd | 43.7414199 | -79.41508 | 8890
+6173 | Wilson Ave At Belgrave Ave West Side | 43.7406399 | -79.41845 | 8841
+5752 | Wilson Ave At Avenue Rd | 43.7401 | -79.4209899 | 8838
+10211 | Wilson Ave At Ridley Blvd | 43.7395099 | -79.42356 | 8883
+8063 | Wilson Ave At Clyde Ave West Side | 43.7387499 | -79.42692 | 8846
+5772 | Wilson Ave At Allard Ave | 43.7380099 | -79.42928 | 8835
+3309 | Wilson Ave At Bathurst St | 43.73747 | -79.4337299 | 8840
+3132 | Wilson Ave At Bathurst St West Side | 43.7373599 | -79.43456 | 1654
+4755 | Wilson Ave At Collinson Blvd | 43.7369499 | -79.4365 | 1655
+1901 | Wilson Ave At Laurentia Cres | 43.73624 | -79.4398099 | 1664
+8362 | Wilson Ave At Allingham Gardens | 43.7356799 | -79.44241 | 1661
+1171 | Wilson Ave At Faywood Blvd | 43.7348799 | -79.44622 | 1659
+14318 | Wilson Station | 43.7347599 | -79.45086 | 14801
+895 | Opposite 675 Wilson Ave | 43.73297 | -79.4550299 | 13470
+8737 | Wilson Ave At Dufferin St West Side | 43.7321199 | -79.4593399 | 1656
+10047 | Wilson Ave At Lady York Ave | 43.73129 | -79.4642799 | 8870
+4926 | Wilson Ave At Garratt Blvd | 43.73046 | -79.4679299 | 8857
+7617 | Wilson Ave At Murray Rd | 43.7297 | -79.4713399 | 8876
+5623 | Wilson Ave At Apex Lane | 43.72871 | -79.4756699 | 8843
+3913 | Wilson Ave At Dubray Ave | 43.7283 | -79.4775099 | 8851
+893 | Wilson Ave At Keele St | 43.7269 | -79.4816599 | 8869
+5357 | Wilson Ave At Agate Rd West Side | 43.7257899 | -79.48633 | 8833
+8411 | Wilson Ave At Julian Rd West Side | 43.7246599 | -79.49141 | 8866
+3393 | Wilson Ave At Ridge Rd West Side | 43.72392 | -79.4945799 | 8881
+2474 | Wilson Ave At Lexfield Ave West Side | 43.7234 | -79.4969899 | 8872
+2978 | Wilson Ave At William Cragg Dr | 43.72266 | -79.5002899 | 8888
+9514 | Wilson Ave At Epic Lane Rd | 43.72136 | -79.5060699 | 8856
+4647 | Wilson Ave At Jane St | 43.72107 | -79.5082999 | 8862
+8318 | 1700 Wilson Ave (Sheridan Mall) | 43.7205399 | -79.5109 | 8879
+6874 | Wilson Ave At Dallner Rd | 43.7199199 | -79.51365 | 8850
+8120 | Wilson Ave At Haymarket Rd | 43.7194599 | -79.51576 | 8859
+8971 | Wilson Ave At Jethro Rd West Side | 43.71875 | -79.5188599 | 8864
+1930 | Wilson Ave At Clayson Rd West Side | 43.7177099 | -79.52347 | 8844
+6005 | Wilson Ave At Wendell Ave | 43.71694 | -79.5268999 | 8854
+3272 | Wilson Ave At Walsh Ave | 43.71599 | -79.5311299 | 8885
+6189 | Walsh Ave At Weston Rd | 43.7171499 | -79.53721 | 8524
+6535 | Weston Rd At Wallasey Ave | 43.7184899 | -79.53761 | 8777
+1139 | Weston Rd At Gaydon Ave | 43.7202599 | -79.53738 | 8727
+2281 | Weston Rd At Sunset Trail | 43.72174 | -79.5371099 | 8771
+7188 | Weston Rd At Aura Lea Blvd | 43.7232499 | -79.53685 | 8693
+10313 | Weston Rd At Jubilee Cres | 43.7258399 | -79.53561 | 8737
+1732 | Weston Rd At Burgundy Crt North Side | 43.72928 | -79.53592 | 8690
+9957 | Weston Rd At Mainshep Rd North Side | 43.73191 | -79.53753 | 8745
+7263 | Weston Rd At Sheppard Ave West | 43.73348 | -79.53802 | 8766
+2763 | Weston Rd At Coral Gable Dr | 43.7355199 | -79.53849 | 6174
+883 | Weston Rd At Bradstock Rd | 43.7388699 | -79.5392599 | 8698
+8212 | Weston Rd At Coronado Crt | 43.7401999 | -79.5395899 | 8709
+3251 | Weston Rd At Imogene Ave | 43.74264 | -79.54015 | 8731
+8595 | Weston Rd At Habitant Dr | 43.7458599 | -79.5408999 | 8728
+9365 | 3395 Weston Rd | 43.7471999 | -79.5412199 | 8688
+7226 | Weston Rd At Lanyard Rd | 43.74818 | -79.54143 | 8741
+885 | Weston Rd At Finch Ave West | 43.75179 | -79.54216 | 8723
+9499 | Weston Rd At Toryork Dr | 43.7531799 | -79.54252 | 9104
+3025 | Weston Rd At Fenmar Dr North Side | 43.7580699 | -79.5437099 | 8720
+8576 | Weston Rd At Kenhar Dr | 43.76153 | -79.54449 | 8739
+8912 | 3689 Weston Rd | 43.7628799 | -79.5448099 | 8701
+5830 | Weston Rd At Ormont Dr | 43.7646799 | -79.5451499 | 8753
+2132 | Weston Rd At Garyray Dr | 43.76754 | -79.54576 | 8726
+888 | Weston Rd At Steeles Ave West | 43.7692 | -79.54613 | 14064
+5974 | Weston Rd At Steeles Ave West | 43.77014 | -79.5463 | 11875
+12884 | Weston Rd At Steeles Ave West North Side | 43.7705599 | -79.54636 | 14505
+12895 | Weston Rd At Old Weston Rd | 43.7729699 | -79.54438 | 14506
+3746 | Old Weston Rd At Steeles Ave West | 43.7711199 | -79.5435299 | 10651
+846_IB | Steeles Ave West At Weston Rd | 43.7705199 | -79.54615 | 8316
+3377_IB | Steeles Ave West At Pearce Rd | 43.7698499 | -79.54934 | 8297
+5596_IB | Steeles Ave West At Klondike Dr | 43.7692299 | -79.55208 | 8288
+6417_ar | Barmac Dr At Steeles Ave West South Side | 43.7679999 | -79.5548
+14014 | Wilson Ave At Elrose Ave | 43.71731 | -79.5253399 | 14569
+9930 | 3637 Weston Rd | 43.7594099 | -79.5440499 | 11981
+5947 | Weston Rd At Century Pl | 43.77725 | -79.5446 | 11793
+9615 | Weston Rd At Colossus Centre | 43.7829899 | -79.5458299 | 10688
+7382 | Weston Rd At Highway 7 | 43.78915 | -79.54723 | 10689
+6637 | Weston Rd At Highway 7 North Side | 43.7900599 | -79.54737 | 11373
+3763 | Weston Rd At Chrislea Rd | 43.7928299 | -79.5481599 | 10690
+5747 | Weston Rd At Blue Willow Dr North Side | 43.7959799 | -79.5489099 | 12086
+4494 | Weston Rd At Carlauren Rd | 43.7983399 | -79.5493999 | 10691
+5828 | Weston Rd At Roytec Rd | 43.80297 | -79.55048 | 10692
+5567 | Weston Rd At Langstaff Rd | 43.8076499 | -79.5516199 | 10693
+949 | Weston Rd At Crestmount Blvd | 43.81126 | -79.55247 | 11398
+2583 | Weston Rd At Valeria Blvd | 43.81496 | -79.55341 | 11399
+4570 | Weston Rd At Astona Blvd | 43.8207499 | -79.5547599 | 11400
+8839 | Weston Rd At Rutherford Rd North Side | 43.8258899 | -79.55597 | 11979
+5645 | Weston Rd At Hawkview Blvd | 43.8276299 | -79.5563899 | 14222
+8710 | Weston Rd At Comdel Blvd | 43.83015 | -79.55701 | 14075
+2114 | Weston Rd At Ashberry Blvd | 43.8341799 | -79.5580399 | 14076
+2874 | Weston Rd At Villa Royale Ave | 43.8373499 | -79.5587299 | 14077
+7819 | Weston Rd At Hawstone Rd | 43.84037 | -79.55938 | 14078
+7459 | Weston Rd At Major Mackenzie Dr West (Vellore Village) | 43.84364 | -79.56014 | 14311
+6580 | Weston Rd At Major Mackenzie Dr West | 43.84476 | -79.56045 | 14223
+5491 | Major Mackenzie West Dr At Starling Blvd | 43.8450599 | -79.55736 | 14224
+12911 | Major Mackenzie Dr West At Vellore Woods Blvd | 43.8453699 | -79.55433 | 14481
+5185_ar | Wonderland Loop At Major Mackenzie Dr West | 43.8469499 | -79.5402
+12863 | Weston Rd At Retreat Blvd | 43.8489999 | -79.5613899 | 14471
+12922 | Weston Rd At Lormel Gate | 43.8518599 | -79.5620799 | 14472
+12931 | Weston Rd At Canada Dr | 43.8553799 | -79.56288 | 14473
+12903 | Canada Dr At Vellore Park Ave | 43.85604 | -79.5598899 | 14474
+12904 | Canada Dr At Summit Dr | 43.8571699 | -79.55614 | 14475
+12924_ar | Cityview Blvd At Canada Dr South Side | 43.8573299 | -79.55396

@@ -1,0 +1,51 @@
+14281 | Scarborough Centre Station | 43.7744399 | -79.25821 | 14762
+9276 | Triton Rd At McCowan Rd | 43.77532 | -79.2529599 | 9614
+2541 | McCowan Rd At Progress Ave North Side | 43.7766499 | -79.2528899 | 1313
+2286 | McCowan Rd At Highway 401 | 43.78257 | -79.25523 | 12078
+9413 | McCowan Rd At Milner Ave North Side | 43.7859599 | -79.2565699 | 1308
+7294 | McCowan Rd At Invergordon Ave | 43.7873099 | -79.2570899 | 1300
+9391 | McCowan Rd At Sheppard Ave East | 43.7894699 | -79.25859 | 1317
+3476 | McCowan Rd At Nugget Ave | 43.7918999 | -79.2596299 | 1310
+564 | 2061 McCowan Rd | 43.7954099 | -79.2611099 | 1286
+8204 | McCowan Rd At Commander Blvd North Side | 43.7964799 | -79.26155 | 1289
+1238 | McCowan Rd At Middlefield Rd | 43.7985399 | -79.2623299 | 1307
+695 | McCowan Rd At Kenhatch Blvd | 43.80133 | -79.2636 | 1301
+7341 | McCowan Rd At Sandhurst Cir (South) | 43.8049799 | -79.2650999 | 1315
+7348 | McCowan Rd At Finch Ave East | 43.8078799 | -79.26626 | 1296
+7115 | McCowan Rd At Finch Ave East North Side | 43.8086299 | -79.2666099 | 2872
+9857 | McCowan Rd At Opposite Woodside Square Mall | 43.8101699 | -79.2678299 | 1319
+744 | McCowan Rd At Sandhurst Cir (North) | 43.8114699 | -79.26902 | 2873
+7844 | McCowan Rd At Big Red Ave North Side | 43.81479 | -79.27048 | 9358
+2466 | McCowan Rd At McNicoll Ave | 43.81782 | -79.2718 | 9359
+9372 | McCowan Rd At Walkway To Historic Terr | 43.8201999 | -79.2728799 | 9799
+8391 | McCowan Rd At Alton Towers Cir (South) | 43.8223799 | -79.2737899 | 9805
+1963 | McCowan Rd At Opposite Milliken Wells Plaza | 43.8250099 | -79.2749999 | 10653
+7340 | McCowan Rd At Alton Towers Cir (North) | 43.8266899 | -79.27574 | 9806
+1571 | 4325 McCowan Rd (Milliken Park Rec Centre) | 43.8289599 | -79.27511 | 9818
+6720 | McCowan Rd At Steeles Ave East | 43.8308499 | -79.27501 | 10576
+567 | McCowan Rd At Steeles Ave East North Side | 43.8317699 | -79.27524 | 9807
+566 | McCowan Rd At Elson St | 43.83494 | -79.27607 | 9993
+8492 | McCowan Rd At Coleraine Ave | 43.8382299 | -79.2769099 | 11800
+8622 | McCowan Rd At Denison St | 43.8413499 | -79.2777399 | 9994
+6558 | McCowan Rd At Highglen Ave | 43.84566 | -79.27888 | 11801
+6875 | McCowan Rd At 14th Ave | 43.8488699 | -79.2794899 | 9995
+8220 | McCowan Rd At 14th Ave North Side | 43.8502299 | -79.27967 | 13480
+4986 | McCowan Rd At South Unionville Ave | 43.86071 | -79.28277 | 9996
+4761 | McCowan Ave At Southdale Dr | 43.86544 | -79.28395 | 14238
+10368 | McCowan Rd At Highway 7 | 43.8670399 | -79.28433 | 9997
+8604 | McCowan Rd At Heritage Rd | 43.8695999 | -79.2850099 | 9998
+6635 | McCowan Rd At Bullock Dr | 43.8725099 | -79.28564 | 9999
+4609 | McCowan Rd At Raymerville Dr (South) | 43.87681 | -79.28668 | 10435
+7930 | McCowan Rd At Raymerville Dr (North) | 43.88143 | -79.28781 | 10001
+3865 | McCowan Rd At 16th Ave | 43.8850299 | -79.2887 | 10002
+2637 | McCowan Rd At Trail Ridge Lane | 43.8872599 | -79.2892599 | 13520
+3084 | McCowan Rd At Wilfred Murison Ave | 43.89012 | -79.28991 | 14158
+4209 | McCowan Rd At Bur Oak Ave | 43.89452 | -79.29095 | 13521
+5849 | McCowan Rd At Castlemore Ave | 43.8983999 | -79.2918699 | 13877
+15009 | Major Mackenzie Dr East At Stonebridge Dr | 43.9020299 | -79.29956 | 15187
+9237 | Richcrest Rd At Major Mackenzie Dr East South Side | 43.9003599 | -79.3044999 | 13717
+8556 | Ridgecrest Rd At Wiltshire Dr | 43.89878 | -79.30362 | 13626
+6296 | Castlemore Ave At Ridgecrest Rd West Side | 43.89718 | -79.3034399 | 13523
+1993 | Castlemore Ave At The Bridle Walk | 43.89617 | -79.3080599 | 13524
+1539 | The Bridle Walk At Major Mackenzie Dr East | 43.8994399 | -79.3094099 | 13526
+7619_ar | Major Mackenzie Dr East At Ridgecrest Rd | 43.9006599 | -79.30481

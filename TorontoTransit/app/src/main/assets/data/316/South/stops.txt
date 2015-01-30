@@ -1,0 +1,34 @@
+335 | Eglinton Ave West At Everden Rd (Eglinton West Station) | 43.6988499 | -79.43595 | 9895
+338 | Eglinton Ave West At Marlee Ave | 43.6981299 | -79.4392 | 2380
+597 | Oakwood Ave At Eglinton Ave South Side | 43.6969399 | -79.4427 | 5904
+5003 | Oakwood Ave At Clovelly Ave | 43.6950999 | -79.4419399 | 5897
+2095 | Oakwood Ave At Vaughan Rd | 43.69234 | -79.44076 | 5905
+4196 | Oakwood Ave At Jesmond Ave | 43.6898699 | -79.4397099 | 5910
+9353 | Oakwood Ave At Rogers Rd | 43.6872399 | -79.4388199 | 5912
+9182 | Oakwood Ave At Earlsdale Ave | 43.6850999 | -79.4379999 | 5900
+10063 | Oakwood Ave At Earnscliffe Rd | 43.6838199 | -79.4374499 | 5902
+3689 | Oakwood Ave At Glenhurst Ave | 43.6819499 | -79.4367099 | 5907
+9023 | Oakwood Ave At St Clair Ave West | 43.6798999 | -79.4358699 | 5916
+8430 | Oakwood Ave At Rosemount Ave | 43.6781899 | -79.43539 | 5913
+7474 | Oakwood Ave At Highview Cres | 43.6763499 | -79.4346499 | 5908
+3604 | Oakwood Ave At Davenport Rd | 43.6748 | -79.43397 | 5898
+2952 | Ossington Ave At Davenport Rd South Side | 43.67434 | -79.43088 | 5958
+9849 | Ossington Ave At Geary Ave | 43.6718899 | -79.4298799 | 5968
+2197 | Ossington Ave At Dupont St | 43.6704099 | -79.4292399 | 13895
+7017 | Ossington Ave At Hallam St | 43.6680799 | -79.42824 | 5970
+2502 | Ossington Ave At Pendrith St | 43.66599 | -79.42737 | 5977
+7691 | Ossington Ave At Leeds St South Side | 43.6638899 | -79.4265099 | 5975
+607 | Ossington Ave At Bloor St West | 43.66208 | -79.42576 | 9857
+1172 | Ossington Ave At Hepbourne St | 43.6598599 | -79.42486 | 5974
+10175 | Ossington Ave At Harbord St South Side | 43.65828 | -79.42425 | 5971
+6506 | Ossington Ave At Dewson St South Side | 43.65663 | -79.42361 | 5960
+2867 | Ossington Ave At College St | 43.6545799 | -79.4228399 | 5957
+8564 | Ossington Ave At Churchill Ave | 43.6521199 | -79.42187 | 5955
+7989 | Ossington Ave At Dundas St West | 43.6494499 | -79.4208399 | 5962
+3353 | Ossington Ave At Argyle St | 43.647 | -79.41991 | 5952
+9390 | Ossington Ave At Queen St West | 43.6444999 | -79.4190299 | 5979
+491 | Queen St West At Shaw St | 43.6445099 | -79.41686 | 6051
+5704 | Shaw St At Adelaide St West | 43.6427199 | -79.4155499 | 11691
+435 | King St West At Shaw St East Side | 43.6414599 | -79.41454 | 13624
+849 | Strachan Ave At Fleet St | 43.6365999 | -79.40988 | 11992
+557 | Exhibition Loop At Manitoba Dr | 43.6363499 | -79.41499 | 11989

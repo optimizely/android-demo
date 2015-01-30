@@ -1,0 +1,72 @@
+5312 | Jane St At Pennsylvania Ave | 43.8033999 | -79.52666 | 10427
+6871 | Jane St At Portage Pkwy | 43.7986499 | -79.52561 | 10428
+1590 | Jane St At Highway 7 | 43.7943399 | -79.52472 | 10429
+7110 | Jane St At Interchange Way | 43.78976 | -79.5240699 | 10431
+6465 | 7230 Jane St | 43.7807199 | -79.5212899 | 10432
+2124 | Jane St At Steeles Ave West | 43.77561 | -79.5218699 | 10433
+8682 | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185 | 1173
+665 | Jane St At Hullmar Dr | 43.7733699 | -79.52157 | 3904
+7255 | 4800 Jane St | 43.7710999 | -79.5209899 | 3861
+8895 | Jane St At Shoreham Dr | 43.7689299 | -79.52052 | 3923
+1136 | Jane St At Milo Park Gate | 43.7659799 | -79.5198199 | 3911
+2733 | Opposite 4355-4363 Jane St | 43.7639099 | -79.5193499 | 3858
+4951 | Jane St At Yorkgate Blvd | 43.7620199 | -79.51893 | 3945
+7218 | 4148 Jane St | 43.7595699 | -79.5184 | 9146
+662 | Jane St At Finch Ave West South Side | 43.7563999 | -79.51763 | 3891
+8394 | Jane St At Firgrove Cres (North) South Side | 43.75456 | -79.51712 | 3892
+10059 | 2900 Jane St | 43.75265 | -79.51664 | 10447
+4521 | Jane St At Firgrove Cres (South) South Side | 43.75044 | -79.51609 | 3893
+8780 | Jane St At Eddystone Ave | 43.7492399 | -79.5157799 | 3885
+2121 | Jane St At Frith Rd | 43.7465499 | -79.5151099 | 3894
+1840 | Jane St At Courage Ave South Side | 43.7447499 | -79.5146599 | 3876
+7974 | Jane St At Stanley Rd | 43.74318 | -79.51429 | 3930
+3227 | Jane St At Clair Rd | 43.74136 | -79.51382 | 3873
+2567 | Jane St At Sheppard Ave West | 43.7395299 | -79.5133899 | 3921
+8228 | Jane St At Sheppard Ave West South Side | 43.7389299 | -79.51323 | 10616
+5173 | Jane St At Giltspur Dr | 43.73473 | -79.51205 | 3897
+6009 | Jane St At Troutbrooke Dr | 43.7321399 | -79.5114399 | 14257
+7300 | Jane St At Chalkfarm Dr (North) South Side | 43.7289399 | -79.5107499 | 3870
+6295 | Opposite 2265 Jane St | 43.7274299 | -79.5103299 | 3859
+4742 | Jane St At Chalkfarm Dr (South) South Side | 43.7246299 | -79.5096899 | 3871
+6444 | Jane St At William Cragg Dr | 43.7224199 | -79.5091199 | 3939
+8970 | Jane St At Wilson Ave South Side | 43.7204299 | -79.50864 | 3941
+2827 | Jane St At Beverly Hills Dr | 43.7191999 | -79.5083299 | 3866
+3647 | Jane St At Gordon Mackay Rd South Side | 43.7151499 | -79.5072399 | 3898
+807 | Jane St At Church St | 43.7095099 | -79.5056799 | 3872
+14964 | Jane St At John St | 43.7066999 | -79.5049499 | 15153
+9547 | Jane St At Lawrence Ave West | 43.7031399 | -79.50394 | 3907
+668 | Jane St At Wright Ave | 43.70111 | -79.50339 | 2740
+7235 | Jane St At Harding Ave | 43.69977 | -79.50306 | 2737
+661 | Jane St At Trethewey Dr | 43.6978299 | -79.5025599 | 3878
+1383 | Jane St At Weston Rd | 43.69169 | -79.50111 | 3935
+1895 | Jane St At Goldwin Ave South Side | 43.6890199 | -79.5004199 | 2735
+9130 | Jane St At Eglinton Ave West South Side | 43.6840599 | -79.49886 | 3887
+4352 | Jane St At Bexley Cres South Side | 43.6803899 | -79.4975799 | 3867
+3395 | Jane St At East Dr | 43.67903 | -79.49696 | 3883
+2405 | Jane St At Black Creek Blvd | 43.67732 | -79.49625 | 3868
+2489 | Jane St At Alliance Ave | 43.6765 | -79.49591 | 3862
+6361 | Jane St At Haney Ave | 43.6740999 | -79.4948699 | 3902
+6797 | Jane St At Foxwell St | 43.67176 | -79.49386 | 3895
+667 | Jane St At Pritchard Ave | 43.6697599 | -79.4929999 | 3916
+1449 | Jane St At St Clair Ave West | 43.6676699 | -79.4920799 | 3927
+5556 | Jane St At Dundas St West South Side | 43.6651799 | -79.49104 | 3881
+4369 | Jane St At Bradley Ave | 43.66339 | -79.49029 | 3869
+9751 | Jane St At St Johns Rd | 43.6620699 | -79.4897499 | 3929
+9642 | Jane St At St Marks Rd | 43.66052 | -79.4891 | 3925
+6557 | Jane St At Annette St South Side | 43.65797 | -79.48808 | 13623
+14044 | Jane St At Ardagh St | 43.6558599 | -79.4872399 | 14547
+8578 | Jane St At Colbeck St | 43.6533399 | -79.4861999 | 1171
+1184 | Jane St At Weatherell St South Side | 43.65138 | -79.48539 | 1174
+14223_ar | Jane Station | 43.6501299 | -79.48333
+4463 | Hullmar Dr At Jane St West Side | 43.77318 | -79.5218999 | 1157
+6458 | Hullmar Dr At Wheelwright Cres (East) | 43.7733299 | -79.5240699 | 1159
+1052 | Hullmar Dr At Peter Kaiser Gate | 43.77325 | -79.5259199 | 1158
+7369 | Hullmar Dr At Hisey Cres (North) | 43.77253 | -79.5286099 | 3736
+4069 | Hullmar Dr At Hisey Cres (South) | 43.7699899 | -79.5301099 | 3739
+4773 | Hullmar Dr At Bamford Cres | 43.76858 | -79.52918 | 3730
+6931 | Hullmar Dr At Shoreham Dr | 43.7671299 | -79.52859 | 3745
+7610 | Hullmar Dr At Monaco Crt | 43.7652799 | -79.5278999 | 3740
+6527 | Hullmar Dr At Ruthmar Cres (North) | 43.76389 | -79.52664 | 3741
+3595 | Hullmar Dr At Ruthmar Cres (South) | 43.76217 | -79.52623 | 3743
+9634 | Hullmar Dr At Bloomington Cres (East) | 43.7613 | -79.5235299 | 3733
+978 | York Gate Blvd At Jane St | 43.7618 | -79.5190899 | 4738

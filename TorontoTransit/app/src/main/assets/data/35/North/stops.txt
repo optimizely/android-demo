@@ -1,0 +1,100 @@
+14223 | Jane Station | 43.6501299 | -79.48333 | 14703
+5905 | Jane St At Bloor St West North Side | 43.6500199 | -79.48464 | 1169
+6884 | Jane St At Weatherell St | 43.6514 | -79.48524 | 1175
+9969 | Jane St At Colbeck St North Side | 43.65335 | -79.48604 | 1170
+7797 | Jane St At Ardagh St | 43.65565 | -79.48696 | 1168
+660 | Jane St At Annette St | 43.6581599 | -79.4880099 | 3863
+6228 | Jane St At Hanley St | 43.6598699 | -79.48872 | 9144
+6522 | Jane St At St Johns Rd | 43.6618999 | -79.4895499 | 3928
+2153 | Jane St At Page Ave | 43.6639899 | -79.4903899 | 3913
+731 | Jane St At Dundas St West | 43.6654299 | -79.49097 | 3882
+6003 | Jane St At St Clair Ave West North Side | 43.66761 | -79.49186 | 3926
+9204 | Jane St At Pritchard Ave | 43.6694499 | -79.4927199 | 3915
+9038 | Jane St At Woolner Ave | 43.67157 | -79.49363 | 3942
+10043 | Jane St At Haney Ave | 43.6738499 | -79.4945899 | 3901
+6280 | Jane St At Dalrymple Dr | 43.6770699 | -79.4959699 | 3877
+7326 | Jane St At Outlook Ave | 43.67889 | -79.49671 | 9145
+3530 | Jane St At Lambton Ave North Side | 43.68133 | -79.49767 | 3905
+1687 | Jane St At Eglinton Ave West North Side | 43.6848599 | -79.49877 | 3886
+4423 | Jane St At Cornell Ave | 43.6891699 | -79.5001699 | 3874
+2525 | Jane St At Weston Rd | 43.6909899 | -79.5006799 | 3936
+1724 | Jane St At Trethewey Dr | 43.69731 | -79.50218 | 3932
+4102 | Jane St At Harding Ave | 43.69946 | -79.50271 | 2736
+14814 | Jane St At Wright Ave | 43.7006899 | -79.5030899 | 15045
+3208 | Jane St At Lawrence Ave West | 43.7025999 | -79.50356 | 3906
+8533 | Jane St At Patika Ave | 43.7052 | -79.50426 | 3914
+14963 | Jane St At John St | 43.70657 | -79.50468 | 15152
+9271 | Jane St At Maple Leaf Dr | 43.70912 | -79.50533 | 3908
+5572 | Jane St At Raven Rd North Side | 43.71377 | -79.50656 | 9481
+1126 | Jane St At Falstaff Ave | 43.71513 | -79.50696 | 3889
+6327 | Jane St At Downsview Ave North Side | 43.71865 | -79.50788 | 3879
+5507 | Jane St At Wilson Ave North Side | 43.7213399 | -79.50853 | 3940
+7046 | Jane St At William Cragg Dr North Side | 43.72274 | -79.50892 | 3938
+663 | Jane St At Heathrow Dr | 43.7248 | -79.50945 | 3903
+5799 | 2265 Jane St | 43.72751 | -79.51013 | 3910
+8405 | Jane St At Exbury Rd North Side | 43.7296499 | -79.5105999 | 3888
+8033 | Jane St At Troutbrooke Dr North Side | 43.73235 | -79.51123 | 3934
+2777 | Jane St At Giltspur Dr North Side | 43.73492 | -79.51185 | 3896
+1116 | Jane St At Sheppard Ave West | 43.7392099 | -79.51297 | 3920
+4203 | Jane St At Spenvalley Dr | 43.7411499 | -79.5134899 | 3924
+3277 | Jane St At Rita Dr North Side | 43.7434199 | -79.5140699 | 3919
+10213 | Jane St At Courage Ave | 43.74478 | -79.5144 | 3875
+5079 | Jane St At Grandravine Dr | 43.7469899 | -79.5149399 | 3899
+9570 | Jane St At Eddystone Ave | 43.7490299 | -79.5154599 | 3884
+6658 | Jane St At Yorkwoods Gate | 43.7506699 | -79.5158599 | 3946
+1884 | 2901 Jane St | 43.7528999 | -79.5164199 | 10446
+1542 | Jane St At Yewtree Blvd North Side | 43.7551499 | -79.5169899 | 3944
+9888 | Jane St At Finch Ave West North Side | 43.7577199 | -79.51764 | 3890
+9347 | Jane St At San Romanoway North Side | 43.75935 | -79.51803 | 3864
+1021 | Jane St At Stong Crt | 43.7617999 | -79.51862 | 3931
+9015 | 4359 Jane St | 43.76405 | -79.51913 | 2739
+6801 | Jane St At Driftwood Ave North Side | 43.76615 | -79.51961 | 3880
+9993 | Jane St At Shoreham Dr | 43.7686899 | -79.5202 | 3922
+6828 | 4717 Jane St | 43.7712199 | -79.5207999 | 3860
+664 | Jane St At Hullmar Dr | 43.7727899 | -79.52114 | 10411
+669 | Jane St At Steeles Ave West | 43.7752899 | -79.52153 | 10412
+716 | Jane St At Steeles Ave West North Side | 43.77624 | -79.52154 | 10413
+10003 | Jane St At Ups Parking Lot (North Of Steeles) | 43.7783199 | -79.52057 | 13333
+3394 | 7171 Jane St | 43.7807199 | -79.5209899 | 10414
+2833 | 7241 Jane St (Beechwood Cemetery) | 43.7826199 | -79.5215 | 12082
+9075 | Jane St At Peelar Rd | 43.78919 | -79.52375 | 10415
+4790 | Jane St At Doughton Rd | 43.79164 | -79.5238 | 10416
+5895 | Jane St At Highway 7 | 43.7937999 | -79.52424 | 10417
+1622 | Portage Pkwy At Jane St West Side | 43.7983899 | -79.52615 | 12106
+2999 | Portage Pkwy At Buttermill Ave | 43.79775 | -79.5296899 | 12108
+9073 | Portage Pkwy At Edgeley Blvd | 43.79717 | -79.5324999 | 14161
+8483 | 291 Edgely Blvd | 43.80008 | -79.53386 | 14160
+2840 | Edgeley Blvd At Pennsylvania Ave | 43.80193 | -79.5346 | 12111
+1020 | Edgeley Blvd At Cidermill Ave | 43.80467 | -79.53536 | 12112
+974 | Edgeley Blvd At Applewood Cres (North) | 43.80779 | -79.53623 | 12113
+2731 | Edgeley Blvd At Langstaff Rd | 43.8103199 | -79.53749 | 12114
+6615 | Edgeley Blvd At Courtland Ave | 43.8128399 | -79.5384999 | 11814
+7568 | Courtland Ave At Millway Ave | 43.81388 | -79.5339499 | 11815
+8074 | Courtland Ave At Jane St | 43.81512 | -79.52967 | 11816
+8905 | Langstaff Rd At Jane St East Side | 43.8125899 | -79.52755 | 12115
+7372 | Langstaff Rd At Creditstone Rd | 43.81391 | -79.5225599 | 12116
+9434 | Pippin Rd At Creditstone Rd West Side | 43.81037 | -79.5218299 | 12117
+6815 | Pippin Rd At Jane St | 43.80954 | -79.5270299 | 12119
+5404 | Jane St At Cidermill Ave | 43.80646 | -79.52728 | 10426
+5312_ar | Jane St At Pennsylvania Ave | 43.8033999 | -79.52666
+2915 | York Gate Blvd At Jane St West Side | 43.7619099 | -79.51939 | 4737
+8494 | Hullmar Dr At Gosford Blvd | 43.76185 | -79.52131 | 3735
+7383 | Hullmar Dr At Bloomington Cres (East) | 43.76163 | -79.5230999 | 9142
+5670 | Hullmar Dr At Ruthmar Cres (South) | 43.76209 | -79.52608 | 3744
+4125 | Hullmar Dr At Ruthmar Cres (North) | 43.7642599 | -79.52666 | 3742
+3526 | Hullmar Dr At Bimini Cres (South) | 43.7650799 | -79.5275299 | 3731
+5144 | Hullmar Dr At Shoreham Dr | 43.7668099 | -79.5284 | 3746
+802 | Hullmar Dr At Bamford Cres | 43.7684999 | -79.5289199 | 3729
+7465 | Hullmar Dr At Hisey Cres (South) North Side | 43.77009 | -79.5299899 | 3738
+3416 | Hullmar Dr At Hisey Cres (North) | 43.7723599 | -79.52876 | 9143
+617 | Peter Kaiser Gate At Steeles Ave West | 43.7740099 | -79.52665 | 1453
+8682_ar | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185
+3870 | 2259 Jane St | 43.72642 | -79.50988 | 11950
+4463_IB | Hullmar Dr At Jane St West Side | 43.7731799 | -79.5219 | 1157
+6458_IB | Hullmar Dr At Wheelwright Cres (East) | 43.7733299 | -79.5240699 | 1159
+1052_IB | Hullmar Dr At Peter Kaiser Gate | 43.77325 | -79.5259199 | 1158
+10372 | Shoreham Dr At Shoreham Crt | 43.76906 | -79.5187999 | 13618
+7519 | 31 Shoreham Dr | 43.7698899 | -79.51647 | 13619
+6622 | Murray Ross Pkwy At Shoreham Dr North Side | 43.77224 | -79.51388 | 12658
+3574 | 1000 Murray Ross Pkwy (Black Creek Pioneer Village) | 43.77416 | -79.51549 | 13620
+9780_ar | Murray Ross Pkwy At Steeles Ave West | 43.7759599 | -79.51668

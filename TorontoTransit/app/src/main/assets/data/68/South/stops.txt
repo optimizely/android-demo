@@ -1,0 +1,64 @@
+9429 | Angus Glen Community Centre Loop At Major Mackenzie Dr East | 43.8948199 | -79.33716 | 14248
+8749 | Warden Ave At Major Mackenzie Dr East South Side | 43.8914099 | -79.3431699 | 14249
+7145 | Warden Ave At Cachet Pkwy (South) | 43.8885199 | -79.3424099 | 14250
+4208 | Warden Ave At Glenbourne Park Dr | 43.88247 | -79.34083 | 14251
+4380 | Warden Ave At Calvert Rd | 43.8771 | -79.33955 | 14252
+5971 | Warden Ave At 16th Ave | 43.87424 | -79.33892 | 13385
+5118 | Warden Ave At Baycliffe Rd | 43.8677 | -79.3371699 | 13386
+10382 | Warden Ave At Apple Creek Blvd | 43.8600699 | -79.3351599 | 10554
+8087 | Warden Ave At Bridge To Markham Theatre | 43.85811 | -79.33468 | 10555
+9281 | Warden Ave At Highway 7 | 43.8559099 | -79.3341099 | 10556
+10416 | Warden Ave At Clegg Rd | 43.8537099 | -79.33361 | 14430
+1102 | Warden Ave At Enterprise Blvd | 43.8486799 | -79.3321699 | 10558
+5716 | Warden Ave At Alden Rd South Side | 43.83719 | -79.3292599 | 10559
+5202 | Warden Ave At McPherson St | 43.8334399 | -79.3282399 | 10560
+10101 | Opposite 7303 Warden Ave | 43.83022 | -79.32734 | 10561
+3772 | Warden Ave At Denison St | 43.82765 | -79.3267099 | 10562
+7373 | Warden Ave At Gibson Dr | 43.8240599 | -79.3257599 | 10563
+10275 | 7075 Warden Ave At Plaza North Of Steeles | 43.82221 | -79.32532 | 14150
+3687 | Warden Ave At Steeles Ave East | 43.8197499 | -79.3246599 | 10564
+876 | Warden Ave At Steeles Ave East South Side | 43.81909 | -79.3244599 | 10565
+4837 | Warden Ave At Bamburgh Cir (North) | 43.8162999 | -79.32463 | 10566
+1841 | Warden Ave At 125 Bamburgh Cir Apts | 43.8136199 | -79.3243699 | 9634
+9718 | Warden Ave At Bamburgh Cir (South) | 43.81177 | -79.3236 | 8532
+2587 | Warden Ave At Opposite Walkway To Seagrave Cres | 43.8091599 | -79.3223699 | 8594
+4847 | Warden Ave At McNicoll Ave | 43.80652 | -79.32115 | 8590
+8966 | Warden Ave At Glen Springs Dr | 43.8047099 | -79.32035 | 8570
+10381 | Warden Ave At Bridletown Cir (North) South Side | 43.8011899 | -79.3186999 | 8540
+2310 | 2900 Warden Ave (Bridletown Mall) | 43.79926 | -79.31717 | 14276
+2849 | Warden Ave At Finch Ave East | 43.79689 | -79.31598 | 8566
+7971 | Warden Ave At Apartments (South Of Finch) | 43.7947899 | -79.31512 | 8528
+5001 | Warden Ave At Bridletown Cir (South) | 43.79232 | -79.31406 | 8543
+3344 | Opposite 2501 Warden Ave | 43.7901299 | -79.3131099 | 8597
+7589 | Warden Ave At Huntingwood Dr | 43.78558 | -79.31113 | 8574
+8829 | Warden Ave At Wardencourt Dr | 43.7826 | -79.30981 | 8618
+9600 | Warden Ave At Bowater Dr | 43.7810199 | -79.3091499 | 8539
+8323 | Warden Ave At Sheppard Ave East | 43.77892 | -79.3081699 | 8599
+1204 | Warden Ave At Lowcrest Blvd | 43.7754799 | -79.3065 | 8583
+2414 | Warden Ave At Cloverleaf Gate | 43.7731899 | -79.3055299 | 8550
+7667 | Warden Ave At Metropolitan Rd South Side | 43.7667599 | -79.30279 | 8592
+936 | Warden Ave At Lupin Dr | 43.76566 | -79.30233 | 8585
+8088 | Warden Ave At Sylla Ave | 43.76395 | -79.30157 | 8610
+4533 | Warden Ave At Ellesmere Rd | 43.76138 | -79.3009099 | 8561
+9157 | Warden Ave At Canadian Rd | 43.7585799 | -79.30021 | 8545
+7467 | Warden Ave At Murray Glen Dr | 43.7561699 | -79.2992099 | 8596
+6542 | Warden Ave At Tower Dr | 43.75447 | -79.29853 | 8612
+2221 | Warden Ave At Manhattan Dr | 43.7521699 | -79.2975999 | 8587
+5271 | Warden Ave At Boem Ave | 43.74844 | -79.2961 | 8537
+6302 | Warden Ave At Lawrence Ave East | 43.74556 | -79.29495 | 8582
+2786 | Warden Ave At Danube Dr | 43.7436699 | -79.29417 | 8556
+5460 | Warden Ave At Sherwood Ave South Side | 43.74192 | -79.29345 | 8602
+8450 | Warden Ave At Walbon Rd | 43.7397899 | -79.2925799 | 8615
+4629 | Warden Ave At Wayne Ave | 43.7380699 | -79.2918799 | 8619
+6486 | Warden Ave At Marble Arch Cres | 43.73628 | -79.29114 | 8588
+2579 | Warden Ave At Bertrand Ave | 43.73325 | -79.28991 | 8535
+4992 | Warden Ave At Ashtonbee Rd | 43.7308799 | -79.28903 | 8531
+5744 | Warden Ave At Eglinton Ave East | 43.72801 | -79.28787 | 8558
+7386 | 800 Warden Ave | 43.7252199 | -79.28673 | 8548
+5330 | Warden Ave At Sherry Rd | 43.7234999 | -79.2859999 | 8601
+5784 | Warden Ave At Comstock Rd | 43.72185 | -79.28531 | 8552
+10148 | Warden Ave At Hymus Rd | 43.7197299 | -79.28438 | 8576
+4248 | Warden Ave At Upton Rd | 43.71845 | -79.28388 | 8614
+1727 | Warden Ave At Fairfax Cres | 43.7162599 | -79.2829499 | 8564
+4050 | Warden Ave At Roper Rd | 43.7144399 | -79.28214 | 14319
+14312_ar | Warden Station | 43.7110099 | -79.27996

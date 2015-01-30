@@ -1,0 +1,101 @@
+425 | 3450 Danforth Ave | 43.6941799 | -79.27503 | 1842
+1971 | Danforth Ave At Leyton Ave West Side | 43.6935199 | -79.27836 | 1833
+2416 | Danforth Ave At August Ave | 43.6929099 | -79.28109 | 1831
+2245 | Danforth Ave At Pharmacy Ave | 43.6924399 | -79.2832 | 1836
+7491 | Danforth Ave At St Dunstan Dr West Side | 43.6918599 | -79.2858399 | 1838
+3960 | Danforth Ave At Victoria Park Ave | 43.69139 | -79.2880099 | 1839
+1321 | Danforth Ave At Sibley Ave | 43.6903499 | -79.29247 | 1837
+7164 | Danforth Ave At Dawes Rd | 43.68942 | -79.2966099 | 1832
+7627 | 2666 Danforth Ave | 43.6888 | -79.2993199 | 13464
+426 | Danforth Ave At Main St | 43.6882599 | -79.30167 | 9955
+4600 | Danforth Ave At Westlake Ave | 43.68759 | -79.3048899 | 0913
+3985 | Danforth Ave At Gledhill Ave | 43.6867699 | -79.30845 | 0891
+8519 | Danforth Ave At Cedarvale Ave | 43.6862099 | -79.31082 | 0879
+738 | Danforth Ave At Woodbine Ave | 43.6857899 | -79.31264 | 0915
+10414 | Danforth Ave At Woodmount Ave | 43.68525 | -79.3151399 | 0917
+2494 | Danforth Ave At Glebemount Ave | 43.6847299 | -79.31755 | 0890
+8112 | Danforth Ave At Woodington Ave | 43.68405 | -79.3206899 | 0916
+8624 | Danforth Ave At Coxwell Ave | 43.6834799 | -79.32345 | 0920
+1575 | Danforth Ave At Monarch Park Ave | 43.68269 | -79.3270799 | 0903
+2956 | Danforth Ave At Linsmore Cres | 43.6821299 | -79.32967 | 0899
+8300 | Danforth Ave At Greenwood Ave | 43.68157 | -79.3322499 | 0893
+6484 | Danforth Ave At Caithness Ave | 43.6810699 | -79.3346 | 0874
+5192 | Danforth Ave At Donlands Ave | 43.6805299 | -79.33713 | 0884
+2806 | Danforth Ave At Jones Ave | 43.67996 | -79.3399899 | 0896
+2636 | Danforth Ave At Woodycrest Ave | 43.6796299 | -79.34166 | 0918
+2052 | Danforth Ave At Pape Ave | 43.6790499 | -79.34474 | 0905
+1042 | Danforth Ave At Carlaw Ave | 43.67856 | -79.3471599 | 0877
+4213 | Danforth Ave At Logan Ave | 43.67811 | -79.3494599 | 0900
+4499 | Danforth Ave At Chester Ave | 43.67765 | -79.3518299 | 0881
+3232 | Danforth Ave At Playter Blvd | 43.67704 | -79.3549799 | 0908
+5401 | Danforth Ave At Broadview Ave | 43.6763499 | -79.35854 | 0871
+6060 | Bloor St East At Castle Frank Rd | 43.6740199 | -79.36803 | 0476
+956 | Bloor St East At Parliament St | 43.67215 | -79.3707099 | 0483
+5503 | Bloor St East At Sherbourne St | 43.6724999 | -79.3766499 | 0485
+8629 | Bloor St East At Jarvis St | 43.67171 | -79.3803999 | 0480
+1773 | Bloor St East At Church St | 43.67119 | -79.3829899 | 0479
+6984 | Bloor St East At Yonge St | 43.6703299 | -79.38661 | 0486
+14403 | Bloor St West At Bay St | 43.66986 | -79.3892999 | 0494
+6961 | Bloor St West At Avenue Rd | 43.66882 | -79.3939499 | 0490
+7065 | Bloor St West At Bedford Rd | 43.6681599 | -79.39724 | 0496
+3693 | Bloor St West At St George St | 43.66762 | -79.3996599 | 0588
+5597 | Bloor St West At Spadina Rd | 43.6667599 | -79.40365 | 0586
+1540 | Bloor St West At Brunswick Ave | 43.666 | -79.4073199 | 0499
+7103 | Bloor St West At Bathurst St | 43.6652199 | -79.41104 | 0492
+940 | Bloor St West At Palmerston Blvd | 43.6646799 | -79.41346 | 0564
+2694 | Bloor St West At Manning Ave | 43.6641499 | -79.41588 | 0539
+9601 | Bloor St West At Christie St | 43.66356 | -79.4186299 | 0500
+9150 | Bloor St West At Shaw St | 43.6625799 | -79.4231 | 0584
+3224 | Bloor St West At Ossington Ave | 43.6620599 | -79.42546 | 0562
+5360 | Bloor St West At Dovercourt Rd | 43.6612299 | -79.42924 | 0504
+9709 | Bloor St West At Havelock St | 43.6605799 | -79.43222 | 0521
+3586 | Bloor St West At Dufferin St | 43.6599599 | -79.43509 | 0473
+4250 | Bloor St West At Pauline Ave | 43.65952 | -79.4372899 | 0567
+8304 | Bloor St West At Margueretta St | 43.6589699 | -79.44007 | 0542
+7374 | Bloor St West At Lansdowne Ave | 43.6584499 | -79.44255 | 0536
+406 | 1388 Bloor St West | 43.65764 | -79.4462399 | 11396
+9366 | Bloor St West At Symington Ave | 43.65738 | -79.4475899 | 0592
+5033 | Bloor St West At Dundas St West | 43.6564699 | -79.45211 | 0507
+10002 | Bloor St West At Indian Rd | 43.65548 | -79.4566999 | 0474
+4752 | Bloor St West At Keele St | 43.65483 | -79.4597199 | 0530
+9940 | Bloor St West At High Park Ave | 43.65366 | -79.4651199 | 0522
+1448 | Bloor St West At Quebec Ave | 43.6533099 | -79.46671 | 0572
+1144 | Bloor St West At Clendenan Ave | 43.6526199 | -79.46987 | 0514
+5323 | Bloor St West At Glendonwynne Rd | 43.65171 | -79.4738999 | 0515
+1141 | Bloor St West At Runnymede Rd | 43.6512399 | -79.47605 | 0475
+9679 | Bloor St West At Windermere Ave | 43.65033 | -79.4802099 | 0599
+1140 | Bloor St West At Jane St | 43.6494299 | -79.48423 | 0529
+2080 | Bloor St West At Riverview Gardens | 43.64866 | -79.4854499 | 0577
+4569 | 2500 Bloor St West | 43.6478499 | -79.48749 | 0556
+7977 | Bloor St West At Riverside Dr (North) | 43.64804 | -79.49046 | 0575
+4229 | Bloor St West At Old Mill Trail | 43.64958 | -79.49505 | 0523
+3819 | Bloor St West At Old Mill Rd | 43.6501599 | -79.4988599 | 0559
+4730 | Bloor St West At Kingsmill Rd | 43.64928 | -79.5030499 | 0532
+1848 | Bloor St West At Prince Edward Dr North West Side | 43.6486299 | -79.50603 | 0569
+2402 | Bloor St West At Jackson Ave | 43.64802 | -79.5087599 | 0528
+6744 | Bloor St West At Royal York Rd West Side | 43.6473599 | -79.51164 | 0578
+5419 | Bloor St West At Montgomery Rd | 43.6467899 | -79.51425 | 0553
+4112 | Bloor St West At Aberfoyle Cres | 43.64578 | -79.5187599 | 0487
+404 | Bloor St West At Islington Ave | 43.6448399 | -79.52312 | 11999
+403 | Bloor St West At Islington Ave West Side | 43.6445899 | -79.52415 | 0526
+1791 | 3700 Bloor St West At Resurrection Rd | 43.6431399 | -79.53059 | 0590
+14241 | Kipling Station | 43.6379599 | -79.53521 | 14722
+3426 | Aukland Rd At Dundas St West North Side | 43.63877 | -79.53854 | 5128
+9444 | Bloor St West At Ashbourne Dr | 43.6404 | -79.5420199 | 0489
+3331 | Bloor St West At Martin Grove Rd | 43.6397499 | -79.54488 | 0548
+6419 | Bloor St West At Shaver Ave North | 43.63916 | -79.5474699 | 0582
+2467 | Bloor St West At Laurel Ave | 43.63827 | -79.5512899 | 0537
+4710 | Bloor St West At The East Mall | 43.63709 | -79.5564999 | 0511
+6438 | Bloor St West At The West Mall | 43.63578 | -79.5620599 | 0596
+4275 | The West Mall At Bloor St West North Side | 43.6360199 | -79.5623499 | 8669
+1860 | 339 The West Mall | 43.63793 | -79.56407 | 8666
+7253 | The West Mall At Eva Rd | 43.63916 | -79.56461 | 8674
+1000 | 361 The West Mall | 43.6407999 | -79.5652399 | 9992
+6405 | The West Mall At Civic Centre Crt | 43.64206 | -79.56574 | 8672
+5009 | 399 The West Mall (Etobicoke Civic Centre) | 43.64326 | -79.56653 | 8681
+6695 | The West Mall At Burnhamthorpe Rd | 43.64433 | -79.56693 | 8670
+2607 | Airport Rd At Highway 427 Overpass West Side | 43.6864299 | -79.60232 | 4986
+14957 | Jetliner Rd At Airport Rd South Side | 43.68461 | -79.6075899 | 15144
+653 | Airport Roadway At Jetliner Rd | 43.6855299 | -79.6064399 | 14267
+7221 | Pearson Airport Terminal 1 (Column R4) | 43.6815999 | -79.61183 | 14092
+3169_ar | Pearson Airport Terminal 3 (Columns C8-C12) | 43.6859399 | -79.62016

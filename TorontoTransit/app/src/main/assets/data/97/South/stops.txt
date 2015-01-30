@@ -1,0 +1,89 @@
+14323 | York Mills Station | 43.7451699 | -79.40593 | 14806
+3458 | Yonge St At McGlashan Rd South Side | 43.74162 | -79.40635 | 9025
+2535 | 3800 Yonge St | 43.7391099 | -79.4057999 | 8954
+15103 | Yonge Blvd At Brooke Ave | 43.7356 | -79.40895 | 15277
+8452 | Yonge St At Yonge Blvd South Side | 43.7340099 | -79.40458 | 9064
+10055 | Yonge St At Melrose Ave | 43.7330099 | -79.4043499 | 9028
+2230 | Yonge St At Fairlawn Ave | 43.7309799 | -79.4038299 | 8985
+1802 | Yonge St At Cranbrooke Ave | 43.72927 | -79.40338 | 8974
+2469 | Yonge St At Ranleigh Ave | 43.72799 | -79.40305 | 9039
+9839 | Yonge St At Lawrence Ave West (Lawrence Station) | 43.7252099 | -79.40235 | 9020
+9207 | Yonge St At Chatsworth Dr | 43.72215 | -79.40168 | 8969
+1691 | Yonge St At Glengrove Ave West | 43.71967 | -79.40122 | 8998
+8390 | Yonge St At Lytton Blvd | 43.71675 | -79.40057 | 9023
+9939 | Yonge St At Craighurst Ave South Side | 43.7151899 | -79.4002499 | 8973
+9061 | Yonge St At Briar Hill Ave | 43.71374 | -79.39994 | 8960
+9587 | Yonge St At Castlefield Ave | 43.7120299 | -79.3995899 | 8966
+1794 | Yonge St At Montgomery Ave | 43.7097599 | -79.3990699 | 9030
+4035 | Yonge St At Eglinton Ave West (Eglinton Station) | 43.7071599 | -79.39856 | 8981
+14676 | 2190 Yonge St | 43.70566 | -79.39821 | 14950
+4646 | Yonge St At Berwick Ave | 43.70442 | -79.39797 | 8958
+3847 | Yonge St At Manor Rd West | 43.70272 | -79.3976 | 1673
+14965 | Yonge St At Belsize Dr South Side | 43.7001499 | -79.3970999 | 15154
+2795 | Yonge St At Chaplin Cres | 43.6984299 | -79.3967399 | 1669
+14169 | Davisville Station | 43.6977899 | -79.39695 | 14647
+4550 | Yonge St At Merton St | 43.6962199 | -79.3962699 | 10800
+4111 | Yonge St At Heath St West | 43.69026 | -79.395 | 4732
+8942 | Yonge St At St Clair Ave West (St Clair Station) | 43.68835 | -79.3943 | 9053
+3097 | Yonge St At Balmoral Ave | 43.6859499 | -79.3932799 | 8957
+4171 | Yonge St At Woodlawn Ave West | 43.6839999 | -79.3924699 | 9063
+9262 | Yonge St At Alcorn Ave (Summerhill Station) | 43.6821899 | -79.3917399 | 8953
+4094 | Yonge St At Macpherson Ave | 43.6792099 | -79.3905199 | 9027
+1630 | Yonge St At Crescent Rd South Side (Rosedale Station) | 43.6765799 | -79.3894399 | 9037
+5519 | Yonge St At Frichot Ave | 43.67504 | -79.38883 | 3224
+5392 | Yonge St At Davenport Rd | 43.67299 | -79.38799 | 3220
+7560 | Yonge St At Bloor St West (Bloor Station) | 43.6704499 | -79.38694 | 3214
+8083 | Yonge St At Charles St West | 43.6688599 | -79.3862599 | 3217
+1493 | Yonge St At Irwin Ave | 43.66676 | -79.38539 | 3233
+7614 | Yonge St At Wellesley St (Wellesley Station) | 43.66493 | -79.38466 | 3246
+3329 | Yonge St At Grosvenor St | 43.66309 | -79.38387 | 3229
+5919 | Yonge St At College St (College Station) | 43.6616099 | -79.38326 | 3218
+7209 | Yonge St At College Park | 43.65995 | -79.38261 | 3230
+9164 | Yonge St At Elm St | 43.65801 | -79.38169 | 3223
+6614 | Yonge St At Dundas St West (Dundas Station) | 43.65641 | -79.38089 | 3222
+3390 | Opposite 247 Yonge St (Eatons Centre) | 43.6548699 | -79.3803299 | 3237
+760 | Yonge St At Shuter St | 43.6540899 | -79.3801099 | 3244
+8672 | Yonge St At Queen St West (Queen Station) | 43.6525199 | -79.37939 | 3239
+9980 | Yonge St At Richmond St West | 43.65179 | -79.37908 | 3241
+8441 | Yonge St At King St West (King Station) | 43.64927 | -79.37803 | 9016
+9324 | Yonge St At Wellington St West | 43.6479599 | -79.37749 | 3247
+14806 | Bay St At Front St West | 43.6461499 | -79.37932 | 15037
+7536 | Bay St At Harbour St South Side (Toronto Island Ferry) | 43.6417 | -79.3773 | 0254
+4411 | Queens Quay West At Bay St East Side | 43.64152 | -79.3754999 | 1465
+7363_ar | Yonge St At Queens Quay East North Side | 43.6427799 | -79.37508
+8718 | Hilda Ave At Steeles Ave West | 43.7955699 | -79.42904 | 12004
+4765 | Steeles Ave West At Tangreen Crt | 43.79654 | -79.4265399 | 8309
+8127 | Steeles Ave West At Yonge St (Centerpoint Mall) | 43.7973399 | -79.42281 | 8299
+5372 | Yonge St At Steeles Ave West South Side | 43.7974299 | -79.4200399 | 9059
+6903 | Yonge St At Abitibi Ave South Side | 43.79607 | -79.41972 | 8952
+1843 | Yonge St At Moore Park Ave | 43.7939799 | -79.41918 | 9031
+9003 | Yonge St At Homewood Ave | 43.7913899 | -79.4185699 | 9000
+10159 | Yonge St At Connaught Ave | 43.78946 | -79.41808 | 8972
+4271 | Yonge St At Drewry Ave | 43.78719 | -79.41752 | 8976
+900 | 5800 Yonge St | 43.7842099 | -79.4167699 | 9013
+905 | Yonge St At Hendon Ave (Finch Station) | 43.7817399 | -79.4161699 | 9003
+1668 | Yonge St At Finch Ave West | 43.7799499 | -79.41577 | 8989
+3809 | Yonge St At Kempford Blvd | 43.7770699 | -79.4150199 | 9015
+7852 | Yonge St At Horsham Ave | 43.7752699 | -79.4145699 | 9009
+6093 | Yonge St At Churchill Ave | 43.7739 | -79.41427 | 8971
+2127 | Yonge St At Ellerslie Ave | 43.7722999 | -79.4137999 | 8982
+6865 | Yonge St At Park Home Ave (North York Centre Station) | 43.76945 | -79.41307 | 9033
+6050 | Yonge St At Hillcrest Ave (Mel Lastman Square) | 43.76785 | -79.4127 | 9005
+9591 | Yonge St At North York Blvd | 43.7669099 | -79.4124499 | 13869
+6930 | Yonge St At Upper Madison Ave (North) | 43.7648099 | -79.4120099 | 9007
+6879 | Yonge St At Elmhurst Ave | 43.76337 | -79.41154 | 8983
+6206 | Yonge St At Sheppard Ave West (Sheppard Station) | 43.7616899 | -79.41112 | 9050
+3415 | Yonge St At Florence Ave | 43.7587 | -79.41047 | 8990
+8439 | Yonge St At Lord Seaton Rd South Side | 43.75212 | -79.4082499 | 9021
+10131 | Yonge St At William Carson Cres | 43.74737 | -79.40762 | 8964
+9756 | Yonge St At Wilson Ave (York Mills Station) | 43.7442799 | -79.40689 | 9066
+15029_ar | Lawrence Station | 43.7254099 | -79.40239
+4868 | Wilson Ave At Yonge St West Side | 43.74394 | -79.4074699 | 8891
+1338 | Yonge Blvd At Esgore Dr South Side | 43.7407099 | -79.41469 | 8940
+3681 | Yonge Blvd At Apsley Rd | 43.7393299 | -79.4131599 | 8934
+8712 | Yonge Blvd At Harley Ave | 43.73824 | -79.412 | 8945
+9769 | Yonge Blvd At Ridley Blvd | 43.73745 | -79.4111 | 8947
+10031 | Yonge Blvd At Felbrigg Ave | 43.7366899 | -79.4100799 | 8943
+908 | Yonge St At Wanless Ave South Side | 43.7261999 | -79.4025799 | 10218
+901 | Yonge St At Cheritan Ave | 43.7232499 | -79.4018999 | 10216
+14167_ar | Davisville Station | 43.6976099 | -79.39691

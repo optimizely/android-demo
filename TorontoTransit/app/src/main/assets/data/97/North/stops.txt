@@ -1,0 +1,86 @@
+15029 | Lawrence Station | 43.7254099 | -79.40239 | 15215
+6980 | Yonge St At Lawrence Ave East North Side (Lawrence Stn) | 43.7253799 | -79.40211 | 9019
+3065 | Yonge St At Ranleigh Ave | 43.7277399 | -79.4027799 | 9038
+5605 | Yonge St At Roslin Ave | 43.7292799 | -79.4032099 | 9041
+6045 | Yonge St At Glenforest Rd North Side | 43.73064 | -79.40356 | 8996
+4923 | Yonge St At Teddington Park Ave | 43.7329 | -79.40413 | 9061
+3882 | Yonge St At Yonge Blvd | 43.7341699 | -79.40442 | 8993
+9435 | Yonge St At Mill St | 43.7399399 | -79.4056799 | 9029
+3125 | Yonge St At McGlashan Rd | 43.7417699 | -79.4060499 | 9060
+2036 | Yonge St At York Mills Rd North Side (York Mills Station) | 43.7448799 | -79.40669 | 9065
+8735 | Yonge St At William Carson Cres | 43.7471999 | -79.4072399 | 8963
+6254 | Yonge St At Lord Seaton Rd | 43.75231 | -79.40786 | 9022
+5190 | Yonge St At Avondale Ave North Side | 43.7585499 | -79.4100299 | 13559
+8898 | Yonge St At Sheppard Ave East North Side (Sheppard Station) | 43.7621799 | -79.41094 | 9048
+4916 | Yonge St At Greenfield Ave | 43.76321 | -79.41121 | 9001
+1266 | Yonge St At Elmwood Ave | 43.7665099 | -79.4120399 | 11494
+8543 | Yonge St At Empress Ave (North York Centre Station) | 43.76917 | -79.41271 | 8984
+3484 | Yonge St At Norton Ave | 43.77215 | -79.41347 | 9032
+8642 | Yonge St At Church Ave | 43.7736799 | -79.4138499 | 8970
+6954 | Yonge St At Horsham Ave North Side | 43.77558 | -79.41433 | 9008
+9782 | Yonge St At Byng Ave | 43.77651 | -79.41457 | 8962
+6208 | Yonge St At Finch Ave East | 43.7794499 | -79.4153 | 8988
+14212 | Finch Station | 43.7814299 | -79.41519 | 14692
+1805 | Yonge St At Bishop Ave North Side (Finch Station) | 43.78219 | -79.41601 | 3212
+12888 | 5799 Yonge St | 43.78495 | -79.41668 | 14447
+1100 | Yonge St At Cummer Ave | 43.78692 | -79.41716 | 8975
+9807 | Yonge St At Patricia Ave | 43.79007 | -79.41791 | 9034
+5220 | Yonge St At Centre Ave | 43.7914699 | -79.4182899 | 8968
+2523 | Moore Park Ave At Yonge St West Side | 43.7937199 | -79.41984 | 12003
+9928 | 34 Moore Park Ave | 43.7932599 | -79.42197 | 12043
+2122 | Moore Park Ave At Fargo Ave | 43.79273 | -79.4243499 | 12044
+5124 | Hilda Ave At Moore Park Ave North Side | 43.79275 | -79.42708 | 12045
+8972 | Hilda Ave At Green Bush Rd | 43.7943499 | -79.4283999 | 12046
+8718_ar | Hilda Ave At Steeles Ave West | 43.7955699 | -79.42904
+14167 | Davisville Station | 43.6976099 | -79.39691 | 14645
+6782 | Yonge St At Davisville Ave North Side | 43.6986599 | -79.39659 | 1670
+1696 | Yonge St At Belsize Dr | 43.7001799 | -79.3968699 | 1667
+5688 | Yonge St At Manor Rd East | 43.7023999 | -79.3973299 | 1672
+9747 | Yonge St At Soudan Ave | 43.70403 | -79.39763 | 1674
+3908 | Yonge St At Eglinton Ave East North Side (Eglinton Station) | 43.7074299 | -79.39837 | 8980
+8897 | Yonge St At Broadway Ave | 43.70944 | -79.3988 | 8961
+2715 | Yonge St At Castlefield Ave | 43.7116899 | -79.3992999 | 8965
+2303 | Yonge St At Sherwood Ave | 43.71333 | -79.39962 | 9051
+9311 | Yonge St At Sheldrake Blvd | 43.71483 | -79.39995 | 9044
+7555 | Yonge St At Blythwood Rd | 43.71627 | -79.40027 | 8959
+6810 | Yonge St At Glencairn Ave | 43.71822 | -79.40069 | 8995
+1390 | Yonge St At Glengrove Ave East | 43.7193599 | -79.4009299 | 8997
+5756 | Yonge St At St Edmunds Dr | 43.72182 | -79.40143 | 9054
+906 | Yonge St At Lympstone Ave | 43.72329 | -79.40175 | 10214
+907 | Yonge St At Wanless Ave North Side | 43.72646 | -79.40245 | 10215
+8034 | Yonge Blvd At Yonge St West Side | 43.7343599 | -79.40497 | 8949
+4182 | Yonge Blvd At Brooke Ave | 43.73548 | -79.4085 | 8937
+2064 | Yonge Blvd At Felbrigg Ave | 43.7365999 | -79.4098199 | 8942
+5245 | Yonge Blvd At Harley Ave | 43.73819 | -79.41176 | 8944
+7422 | Yonge Blvd At Dunster Ave North Side | 43.73986 | -79.41361 | 8939
+5593 | Yonge Blvd At Wilson Ave | 43.7411299 | -79.41495 | 8948
+970 | Wilson Ave At Yonge St | 43.7438199 | -79.40726 | 8892
+14323_ar | York Mills Station | 43.7451699 | -79.40593
+7363 | Yonge St At Queens Quay East North Side | 43.6427799 | -79.37508 | 11902
+902 | Yonge St At Front St East North Side | 43.6473799 | -79.37703 | 3225
+2439 | Yonge St At King St East (King Station) | 43.6490299 | -79.3777399 | 3234
+2044 | Yonge St At Richmond St East | 43.6514799 | -79.3787399 | 3240
+8510 | Yonge St At Queen St East (Queen Station) | 43.6522999 | -79.37912 | 3238
+9708 | Yonge St At Shuter St | 43.65394 | -79.37985 | 3243
+3165 | Yonge St At Dundas St East (Dundas Station) | 43.65612 | -79.38075 | 3221
+4917 | Yonge St At Elm St | 43.65786 | -79.38147 | 3228
+10218 | Yonge St At Gerrard St East | 43.65896 | -79.38195 | 3226
+8161 | Yonge St At Opposite College Park | 43.6600099 | -79.3824099 | 3236
+3615 | Yonge St At Carlton St (College Station) | 43.6611499 | -79.3829 | 3215
+7168 | Yonge St At Alexander St | 43.66277 | -79.38355 | 3209
+7956 | Yonge St At Wellesley St (Wellesley Station) | 43.6648199 | -79.3843999 | 3245
+4576 | Yonge St At Gloucester St | 43.6664799 | -79.3851199 | 3227
+9125 | Yonge St At Charles St East | 43.66855 | -79.38601 | 3216
+7143 | Yonge St At Bloor St East North Side (Bloor Station) | 43.6708099 | -79.38688 | 3213
+5476 | Yonge St At Scollard St | 43.67262 | -79.3876 | 3242
+1012 | 877 Yonge St | 43.67411 | -79.38825 | 3210
+4964 | Yonge St At Aylmer Ave | 43.67549 | -79.38886 | 3211
+8984 | Yonge St At Crescent Rd (Rosedale Station) | 43.6768199 | -79.3893799 | 3219
+6468 | Yonge St At Rowanwood Ave | 43.67904 | -79.39029 | 9042
+2897 | Yonge St At Shaftesbury Ave North Side (Summerhill Station) | 43.6824199 | -79.3916799 | 9043
+8153 | Yonge St At Woodlawn Ave East | 43.68379 | -79.39225 | 9062
+8988 | Yonge St At Rosehill Ave | 43.6861199 | -79.3932099 | 9040
+1381 | Yonge St At St Clair Ave East | 43.6879099 | -79.3939299 | 4733
+904 | Yonge St At Heath St East | 43.6898999 | -79.39475 | 9002
+732 | Yonge St At Glen Elm Ave | 43.6911699 | -79.3950099 | 8994
+1220 | Yonge St At Merton St North Side | 43.6964799 | -79.3961299 | 10797

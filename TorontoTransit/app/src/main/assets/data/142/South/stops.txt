@@ -1,0 +1,38 @@
+3197 | Bombay Loop At Avenue Rd | 43.7435899 | -79.42419 | 14189
+382 | Avenue Rd At Wilson Ave South Side | 43.7393999 | -79.42155 | 11936
+6766 | Avenue Rd At Carmichael Ave | 43.7376099 | -79.4207399 | 0054
+4974 | Avenue Rd At Dunblaine Ave | 43.7360099 | -79.4201899 | 0060
+5531 | Avenue Rd At Brooke Ave | 43.73331 | -79.4196 | 0053
+381 | Avenue Rd At Old Orchard Grove | 43.7318499 | -79.41942 | 11238
+6472 | Avenue Rd At Melrose Ave | 43.72998 | -79.41881 | 4790
+8520 | Avenue Rd At Fairlawn Ave | 43.72797 | -79.418 | 4777
+5062 | Avenue Rd At Woburn Ave | 43.7255299 | -79.4170099 | 4798
+2216 | Avenue Rd At Douglas Ave | 43.72381 | -79.41631 | 4771
+3365 | Avenue Rd At Lawrence Ave West South Side | 43.7219299 | -79.41562 | 4785
+3813 | Opposite 1451 Avenue Rd (Havergal College) | 43.7204199 | -79.4151599 | 4791
+4162 | Avenue Rd At Otter Cres | 43.71817 | -79.41464 | 4792
+8854 | Avenue Rd At Glengrove Ave West | 43.71702 | -79.41365 | 4780
+3007 | Avenue Rd At Glencairn Ave | 43.7160699 | -79.4124899 | 4778
+3468 | Avenue Rd At Lytton Blvd | 43.7141899 | -79.4119999 | 4788
+7002 | Avenue Rd At Hillhurst Blvd | 43.71221 | -79.41177 | 4784
+3489 | Avenue Rd At St Clements Ave | 43.7104199 | -79.4112299 | 4796
+1109 | Avenue Rd At Roselawn Ave South Side | 43.7080299 | -79.4102899 | 4793
+6655 | Avenue Rd At Elwood Blvd | 43.70698 | -79.41002 | 4775
+380 | Avenue Rd At Eglinton Ave West | 43.7048299 | -79.4086899 | 4773
+7494 | Avenue Rd At Lonsdale Rd South Side | 43.6902999 | -79.40303 | 0067
+8615 | Avenue Rd At St Clair Ave West | 43.6867499 | -79.4016699 | 0071
+8931 | Avenue Rd At Edmund Ave | 43.6826099 | -79.39993 | 0064
+9653 | Avenue Rd At Davenport Rd | 43.67481 | -79.39673 | 0057
+5046 | Avenue Rd At Bloor St West | 43.6688 | -79.39428 | 0048
+8352 | Queen&apos;S Park At Charles St (Museum Station) | 43.6671 | -79.39358 | 1458
+9666 | Queen&apos;S Park Cres West At Hart House | 43.6637199 | -79.3934899 | 1457
+6734 | Queen&apos;S Park Cres At College St (Queen&apos;S Park Station) | 43.6605899 | -79.3912399 | 1615
+8920 | University Ave At Gerrard St West | 43.6576699 | -79.3897799 | 1616
+863 | University Ave At Dundas St West (St Patrick Station) | 43.6549699 | -79.3886499 | 10895
+866 | University Ave At Queen St West (Osgoode Station) | 43.6510399 | -79.38697 | 10896
+7924 | Adelaide St West At University Ave East Side | 43.6489099 | -79.38508 | 10897
+9156 | Adelaide St West At York St | 43.6490999 | -79.38419 | 11007
+10427 | Adelaide St West At Bay St | 43.64977 | -79.3809299 | 14426
+3748 | Adelaide St East At Yonge St East Side | 43.6504899 | -79.37778 | 10899
+412 | Church St At Lombard St North Side | 43.65213 | -79.37525 | 14314
+9339_ar | Richmond St East At Church St West Side | 43.6524299 | -79.37588

@@ -1,0 +1,38 @@
+3946 | Neptune Dr At Bathurst St | 43.7312999 | -79.43341 | 6613
+10146 | Hotspur Rd At Bathurst St West Side | 43.7331299 | -79.4335699 | 6421
+3594 | Hotspur Rd At Neptune Dr | 43.7325299 | -79.43556 | 6422
+973 | 86 Neptune Dr | 43.7322899 | -79.43734 | 6612
+1779 | Neptune Dr At Rajah St | 43.7320699 | -79.43843 | 6618
+8012 | 122 Neptune Dr | 43.7313299 | -79.44 | 6615
+5729 | 150 Neptune Dr | 43.72972 | -79.4411799 | 6611
+3739 | Neptune Dr At Sir Sandford Fleming Academy | 43.7289199 | -79.4411199 | 6237
+10412 | Neptune Dr At Baycrest Ave | 43.72796 | -79.44074 | 6235
+7658 | Ameer Ave At Sultana Ave | 43.72704 | -79.44037 | 6240
+5857 | Ameer Ave At Ranee Ave | 43.7253699 | -79.4396699 | 6236
+2285 | Ranee Ave At Mikado Ave | 43.7246099 | -79.44266 | 6929
+1287 | Varna Dr At Ranee Ave South Side | 43.7235099 | -79.4455199 | 7407
+9475 | Varna Dr At Bredonhill Crt East Side | 43.72279 | -79.4436599 | 7400
+4803 | Varna Dr At Bagot Crt East Side | 43.7225099 | -79.4417899 | 7398
+5333 | Varna Dr At Rondale Blvd South Side | 43.72124 | -79.44105 | 7410
+5310 | Varna Dr At Tundra Lane | 43.7194699 | -79.43959 | 7397
+1594 | Varna Dr At Lawrence Ave West | 43.7178499 | -79.4378299 | 7405
+7926 | Lawrence Ave West At Shermount Ave | 43.71686 | -79.4410299 | 5408
+14252 | Lawrence West Station | 43.7155899 | -79.44413 | 14733
+3958 | Marlee Ave At Lawrence Ave West South Side | 43.7150499 | -79.4463099 | 6545
+1130 | Marlee Ave At Wenderly Dr South Side | 43.7131499 | -79.4455399 | 6556
+7140 | Marlee Ave At Glengrove Ave South Side | 43.71051 | -79.44449 | 6544
+5930 | Marlee Ave At Glencairn Ave | 43.7090999 | -79.4439099 | 6542
+3515 | Marlee Ave At Viewmount Ave South Side | 43.70689 | -79.44299 | 6554
+9887 | Marlee Ave At Stayner Ave | 43.7056599 | -79.4425199 | 6553
+7534 | Marlee Ave At Ridelle Ave | 43.7039399 | -79.4418399 | 6549
+7049 | Marlee Ave At Roselawn Ave | 43.70234 | -79.44118 | 6551
+9538 | Marlee Ave At Whitmore Ave | 43.7003999 | -79.4404099 | 6558
+9498 | Marlee Ave At Livingstone Ave | 43.69891 | -79.43979 | 6547
+14202_ar | Eglinton West Station | 43.6992999 | -79.43585
+4333 | Ranee Ave At Yorkdale Station | 43.7234999 | -79.4479 | 6932
+10242 | Felmington Rd At Ranee Ave South Side | 43.7228499 | -79.44853 | 6390
+9251 | Flemington Rd At Stockton Rd | 43.72094 | -79.4493699 | 6388
+1684 | Flemington Rd At Blossomfield Dr | 43.71916 | -79.44834 | 6382
+7203 | Flemington Rd At Dynasty Lane | 43.71883 | -79.4467499 | 13622
+5155 | Flemington Rd At Replin Rd East Side | 43.71948 | -79.4432599 | 6385
+4559 | Flemington Rd At Varna Dr | 43.71965 | -79.44137 | 6389

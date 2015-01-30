@@ -1,0 +1,75 @@
+14575 | Esna Park Dr Loop At Steeles Ave East | 43.8181999 | -79.33697 | 10722
+9131 | Pharmacy Ave At Steeles Ave East South Side | 43.81633 | -79.33636 | 6753
+8061 | Pharmacy Ave At Opposite Walkway To Crayford Dr | 43.8139399 | -79.3352099 | 6763
+6642 | Pharmacy Ave At Gordon Baker Rd | 43.81202 | -79.33439 | 8034
+9629 | Pharmacy Ave At Gordon Baker Rd South Side | 43.8112 | -79.33405 | 6708
+10079 | Pharmacy Ave At Opposite Walkway To Ecclesfield Dr | 43.8088999 | -79.3329999 | 6733
+10062 | Pharmacy Ave At Arnall Ave | 43.80734 | -79.33228 | 6662
+7657 | 3370 Pharmacy Ave | 43.8057799 | -79.3315599 | 6668
+5477 | Pharmacy Ave At McNicoll Ave | 43.8043299 | -79.3309399 | 6727
+6503 | Pharmacy Ave At Chester Le Blvd (North) | 43.80199 | -79.32982 | 6675
+1182 | 3200 Pharmacy Ave | 43.7999099 | -79.3288999 | 6679
+2110 | Pharmacy Ave At Chester Le Blvd (South) | 43.7964999 | -79.3273299 | 6676
+10284 | Pharmacy Ave At Finch Ave East | 43.7945399 | -79.3262799 | 6704
+8577 | Pharmacy Ave At Corinthian Blvd (North) | 43.7929099 | -79.32511 | 6683
+10152 | Pharmacy Ave At Corinthian Blvd (South) South Side | 43.7891899 | -79.3235099 | 14060
+7402 | Pharmacy Ave At Rosscowan Gate South Side | 43.7850099 | -79.3217099 | 6743
+7401 | Pharmacy Ave At Huntingwood Dr | 43.7818199 | -79.3203199 | 6713
+6424 | 2036 Pharmacy Ave | 43.77938 | -79.31926 | 6663
+8053 | Pharmacy Ave At Sheppard Ave East | 43.7767599 | -79.3180399 | 6746
+4745 | Sheppard Ave East At Chichester Pl | 43.7760799 | -79.3201 | 11026
+872 | Victoria Park Ave At Sheppard Ave East South Side | 43.7746599 | -79.32288 | 7425
+9920 | Victoria Park Ave At Lansing Sq | 43.77357 | -79.32239 | 7413
+3012 | Victoria Park Ave At Consumers Rd | 43.77211 | -79.32174 | 7411
+8037 | Consumers Rd At Victoria Park Ave West Side | 43.7718799 | -79.3223 | 6324
+4652 | 422 Consumers Rd | 43.7707899 | -79.32693 | 6323
+1835 | 250 Consumers Rd | 43.7705299 | -79.33017 | 6321
+4036 | Yorkland Blvd (South) At Consumers Rd West Side | 43.7711599 | -79.33196 | 10252
+6262 | 180 Yorkland Blvd | 43.77116 | -79.33518 | 10253
+9802 | Yorkland Blvd (North) At Yorkland Rd East Side | 43.77297 | -79.3357599 | 9515
+6861 | 280 Yorkland Blvd (North) | 43.77338 | -79.3339299 | 9516
+6006 | Yorkland Blvd (North) At Consumers Rd | 43.7736899 | -79.33252 | 9517
+2901 | Sheppard Ave East At Brian Dr West Side | 43.7753 | -79.33173 | 7161
+2857 | 1900 Sheppard Ave East | 43.77573 | -79.33573 | 7191
+5856 | Sheppard Ave East At Parkway Forest Dr West Side | 43.7756399 | -79.345 | 7226
+14151_ar | Don Mills Station | 43.7757199 | -79.34576
+7613 | Sheppard Ave East At Victoria Park Ave | 43.7754299 | -79.32273 | 7251
+9120 | Sheppard Ave East At Victoria Park Ave West Side | 43.77533 | -79.3236099 | 9513
+8151 | Sheppard Ave East At Settlers Rd | 43.7747899 | -79.3264 | 7245
+14151 | Don Mills Station | 43.7757199 | -79.34576 | 14629
+5480 | Sheppard Ave East At Parkway Forest Dr East Side | 43.77588 | -79.3429299 | 13705
+4699 | 2025 Sheppard Ave East | 43.77549 | -79.33544 | 7190
+6700 | Consumers Rd At Sheppard Ave East South Side | 43.77448 | -79.3315099 | 13683
+10234 | Yorkland Blvd (North) At Consumers Rd West Side | 43.7737499 | -79.33253 | 7476
+2941 | 279 Yorkland Blvd (North) | 43.7733399 | -79.33441 | 7475
+3439 | Yorkland Blvd (North) At Yorkland Rd | 43.7729799 | -79.33595 | 7477
+7789 | 185 Yorkland Blvd | 43.77128 | -79.33536 | 13684
+3984 | Yorkland Blvd (South) At Consumers Rd | 43.77109 | -79.3320299 | 13685
+6666 | 251 Consumers Rd | 43.77039 | -79.3302299 | 13686
+8828 | 501 Consumers Rd | 43.77066 | -79.3275299 | 12352
+5137 | Consumers Rd At Hallcrown Pl | 43.77154 | -79.3234399 | 13687
+6705 | Victoria Park Ave At Esquire Rd | 43.7733799 | -79.32197 | 7412
+9608 | Victoria Park Ave At Sheppard Ave East | 43.7750599 | -79.32271 | 8497
+533 | Sheppard Ave East At Commons Dr | 43.7756399 | -79.32097 | 11025
+9466 | Pharmacy Ave At Sheppard Ave East North Side | 43.7770699 | -79.31797 | 6745
+9410 | Opposite 2036 Pharmacy Ave | 43.7793899 | -79.31912 | 6730
+3921 | Pharmacy Ave At Huntingwood Dr | 43.78146 | -79.32001 | 6712
+4852 | Pharmacy Ave At Rosscowan Gate | 43.7851899 | -79.3216099 | 6744
+4608 | Pharmacy Ave At Collingsbrook Blvd | 43.7893499 | -79.3234199 | 6680
+7272 | Pharmacy Ave At Pinemeadow Blvd | 43.79263 | -79.32486 | 6737
+7225 | Pharmacy Ave At Finch Ave East | 43.7940899 | -79.3257099 | 6703
+3061 | Pharmacy Ave At Finch Ave East North Side | 43.7951099 | -79.32639 | 6702
+2620 | Pharmacy Ave At Huntingdale Blvd | 43.79612 | -79.32699 | 6711
+6128 | Opposite 3200 Pharmacy Ave At Walkway To Deerbrook Trail | 43.8000299 | -79.3287799 | 6731
+2208 | Pharmacy Ave At Beverly Glen Blvd | 43.8016999 | -79.3295499 | 6669
+4988 | Pharmacy Ave At McNicoll Ave | 43.8039 | -79.33056 | 6726
+7332 | Opposite 3370 Pharmacy Ave | 43.80573 | -79.33139 | 6732
+2277 | Pharmacy Ave At Arnall Ave | 43.80706 | -79.332 | 6661
+6630 | Pharmacy Ave At Walkway To Ecclesfield Dr | 43.80905 | -79.33291 | 6762
+9253 | Pharmacy Ave At Glendinning Ave | 43.8108699 | -79.3337299 | 6707
+4006 | Pharmacy Ave At Walkway To Crayford Dr | 43.81398 | -79.33508 | 9440
+4547 | Pharmacy Ave At Steeles Ave East | 43.81666 | -79.33625 | 6754
+14575_ar | Esna Park Dr Loop At Steeles Ave East | 43.8181999 | -79.33697
+3573 | Sheppard Ave East At Consumers Rd East Side | 43.7749499 | -79.3305399 | 7175
+9598 | Sheppard Ave East At Settlers Rd | 43.77458 | -79.32707 | 7244
+2068 | Sheppard Ave East At Victoria Park Ave | 43.77509 | -79.3233199 | 7250

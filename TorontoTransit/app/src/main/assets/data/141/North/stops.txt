@@ -1,0 +1,30 @@
+1756 | Adelaide St West At Simcoe St | 43.6485699 | -79.38673 | 11889
+7924 | Adelaide St West At University Ave East Side | 43.6489099 | -79.38508 | 10897
+9156 | Adelaide St West At York St | 43.6491 | -79.3841899 | 11007
+10427 | Adelaide St West At Bay St | 43.64977 | -79.3809299 | 14426
+3748 | Adelaide St East At Yonge St East Side | 43.6504899 | -79.37778 | 10899
+1424 | Adelaide St West At Church St | 43.6510799 | -79.37507 | 11186
+676 | Jarvis St At Queen St East | 43.6535999 | -79.3731 | 11009
+672 | Jarvis St At Dundas St East | 43.65691 | -79.37437 | 11010
+670 | Jarvis St At Carlton St North Side | 43.6626799 | -79.3767099 | 11011
+679 | Jarvis St At Wellesley St East | 43.6662 | -79.37818 | 11012
+675 | Jarvis St At Mt Pleasant Rd | 43.6695699 | -79.3795199 | 11013
+7873 | Mt Pleasant Rd At Elm Ave | 43.67444 | -79.38002 | 11452
+593 | Mt Pleasant Rd At Inglewood Dr | 43.68823 | -79.3834799 | 11705
+3912 | Mt Pleasant Rd At St Clair Ave East North Side | 43.69085 | -79.38339 | 5844
+6725 | Mt Pleasant Rd At Heath St East | 43.6921599 | -79.3839399 | 5822
+2949 | Mt Pleasant Rd At Moore Ave | 43.69347 | -79.38448 | 5835
+3726 | Mt Pleasant Rd At Mt Pleasant Cemetery | 43.69574 | -79.38538 | 5808
+2824 | Mt Pleasant Rd At Merton St | 43.6980499 | -79.3862999 | 5833
+7367 | Mt Pleasant Rd At Davisville Ave | 43.70021 | -79.38678 | 5810
+4002 | Mt Pleasant Rd At Belsize Dr | 43.70238 | -79.38761 | 5802
+4922 | Mt Pleasant Rd At Manor Rd East | 43.70423 | -79.38838 | 5831
+5894 | Mt Pleasant Rd At Soudan Ave | 43.70596 | -79.3891 | 5842
+9670 | Mt Pleasant Rd At Eglinton Ave East | 43.7082999 | -79.39 | 5814
+591 | Mt Pleasant Rd At Eglinton Ave East North Side | 43.7089099 | -79.3902 | 5813
+7122 | Mt Pleasant Rd At Broadway Ave | 43.71102 | -79.39104 | 5806
+357 | Erskine Ave At Mt Pleasant Rd West Side | 43.71251 | -79.3924999 | 11107
+505 | Redpath Ave At Erskine Ave South Side | 43.7115499 | -79.39431 | 11122
+502 | Redpath Ave At Broadway Ave | 43.71071 | -79.39396 | 11109
+508 | Redpath Ave At Roehampton Ave | 43.70918 | -79.39335 | 11110
+504 | Redpath Ave At Eglinton Ave East | 43.7080999 | -79.39295 | 11123

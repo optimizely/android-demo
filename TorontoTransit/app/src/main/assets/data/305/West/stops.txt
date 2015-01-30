@@ -1,0 +1,84 @@
+470 | Rouge Hill Go Station Loop At Lawrence Ave East | 43.7807499 | -79.13011 | 6530
+9903 | Lawrence Ave East At Brimforest Gate West Side | 43.78033 | -79.1335899 | 12016
+5875 | Lawrence Ave East At Port Union Rd West Side | 43.77955 | -79.1373499 | 5309
+7771 | 5450 Lawrence Ave East | 43.7792299 | -79.13863 | 5278
+9789 | Lawrence Ave East At Charlottetown Blvd West Side | 43.7785999 | -79.14126 | 5249
+8349 | Lawrence Ave East At Centennial Rd | 43.7775499 | -79.14592 | 5248
+5044 | Lawrence Ave East At Bathgate Dr | 43.77658 | -79.1503099 | 5231
+6048 | Lawrence Ave East At Goldberry Sq | 43.7760599 | -79.1525 | 5304
+8001 | Lawrence Ave East At Meadowvale Rd | 43.77533 | -79.1559599 | 5292
+4211 | Lawrence Ave East At Beechgrove Dr West Side | 43.7739599 | -79.16219 | 4412
+8100 | Lawrence Ave East At Bennett Rd | 43.7729899 | -79.16599 | 4415
+4648 | Lawrence Ave East At Flerimac Rd | 43.7724 | -79.1686999 | 4417
+1207 | Lawrence Ave East At Fern Meadow Rd | 43.77175 | -79.1715299 | 13704
+6231 | Lawrence Ave East At Manse Rd West Side | 43.77056 | -79.1769299 | 5285
+6940 | Lawrence Ave East At West Hill Dr | 43.7699599 | -79.17963 | 4427
+3406 | Lawrence Ave East At Collinsgrove Rd | 43.76926 | -79.1826899 | 5252
+4235 | Lawrence Ave East At Morningside Ave | 43.7685599 | -79.18579 | 4424
+3774 | Kingston Rd At Poplar Rd | 43.76621 | -79.1910599 | 6496
+2682 | 4314 Kingston Rd | 43.7642899 | -79.19281 | 4202
+4654 | Kingston Rd At Galloway Rd | 43.7624399 | -79.19451 | 4226
+769 | Kingston Rd At Overture Rd | 43.7591499 | -79.19754 | 4249
+8535 | Kingston Rd At Celeste Dr | 43.75721 | -79.1992999 | 4213
+6525 | Kingston Rd At Dale Ave | 43.75186 | -79.2041399 | 4248
+7581 | Kingston Rd At Cromwell Rd West Side | 43.74935 | -79.2063999 | 6486
+8916 | Kingston Rd At Saunders Rd | 43.7481499 | -79.2075 | 2791
+2034 | Kingston Rd At Scarborough Golf Club Rd | 43.7464 | -79.2091199 | 2793
+1281 | Eglinton Ave East At Kingston Rd West Side | 43.74404 | -79.2123 | 2282
+8596 | Eglinton Ave East At Cedar Dr | 43.74408 | -79.2153799 | 2257
+715 | Eglinton Ave East At Markham Rd | 43.74336 | -79.2185699 | 11282
+1933 | Eglinton Ave East At Beachell St | 43.7426299 | -79.22189 | 2242
+10176 | Eglinton Ave East At Mason Rd | 43.7419399 | -79.22495 | 2291
+2440 | Eglinton Ave East At Bellamy Rd North | 43.7404199 | -79.23187 | 2243
+7941 | Eglinton Ave East At Torrance Rd West Side | 43.73952 | -79.2357699 | 1040
+3042 | Eglinton Ave East At McCowan Rd | 43.7389799 | -79.23819 | 2293
+4553 | Eglinton Ave East At Barbados Blvd | 43.73833 | -79.2411099 | 2237
+2909 | Eglinton Ave East At Oswego Rd | 43.7377899 | -79.24345 | 2297
+8136 | Eglinton Ave East At Danforth Rd | 43.7373 | -79.2457099 | 2260
+2463 | Eglinton Ave East At Brimley Rd | 43.7368499 | -79.24785 | 10140
+317 | Eglinton Ave East At Brimley Rd West Side | 43.73665 | -79.2487599 | 2253
+4194 | Eglinton Ave East At Gilder Dr | 43.73577 | -79.2529699 | 1033
+8550 | Eglinton Ave East At Huntington Ave West Side | 43.7350899 | -79.25601 | 1034
+323 | Eglinton Ave East At Midland Ave West Side | 43.7344699 | -79.25888 | 1036
+5465 | 2466 Eglinton Ave East (Rainbow Village) | 43.7340999 | -79.26044 | 6365
+9949 | North Service Rd At Eglinton Ave East | 43.73305 | -79.2654799 | 1038
+14233 | Kennedy Station | 43.7325899 | -79.26369 | 14714
+8469 | Eglinton Ave East At Kennedy Rd | 43.73241 | -79.2677499 | 2280
+7782 | Eglinton Ave East At Ionview Rd | 43.7316099 | -79.27112 | 2276
+1561 | Eglinton Ave East At Rosemount Dr | 43.73097 | -79.2738199 | 2307
+5970 | Eglinton Ave East At Birchmount Rd | 43.73017 | -79.2775499 | 2250
+9847 | Eglinton Ave East At Thermos Rd | 43.7294299 | -79.28103 | 2315
+1569 | Opposite 2001 Eglinton Ave East | 43.7289999 | -79.28304 | 2302
+1837 | Eglinton Ave East At Prudham Gate | 43.7286 | -79.2846899 | 13449
+6762 | Eglinton Ave East At Warden Ave | 43.7280399 | -79.28733 | 2318
+3063 | Eglinton Ave East At Lebovic Ave | 43.7271199 | -79.29132 | 2232
+3285 | 1900 Eglinton Ave East | 43.7265699 | -79.29383 | 2231
+10389 | Eglinton Ave East At Pharmacy Ave | 43.72586 | -79.2971699 | 2300
+318 | Eglinton Ave East At Eglinton Sq | 43.7251099 | -79.30049 | 10467
+4140 | Eglinton Ave East At Victoria Park Ave | 43.7248399 | -79.30237 | 11722
+7446 | Eglinton Ave East At Victoria Park Ave | 43.7248199 | -79.3035799 | 2317
+7886 | Eglinton Ave East At Jonesville Cres | 43.7251299 | -79.3066499 | 2278
+8884 | Eglinton Ave East At Sloane Ave | 43.7261299 | -79.3131699 | 2311
+4683 | Eglinton Ave East At Swift Dr | 43.7263199 | -79.3181 | 2314
+721 | Eglinton Ave East At Wynford Dr West Side | 43.72431 | -79.3261299 | 2320
+8425 | Eglinton Ave East At Don Valley Pkwy East Side | 43.7236899 | -79.32838 | 2265
+2805 | Eglinton Ave East At Don Valley Pkwy West Side | 43.7229 | -79.3314599 | 2267
+4150 | Eglinton Ave East At Don Mills Rd | 43.72074 | -79.3385099 | 2263
+5231 | Eglinton Ave East At Leslie St West Side | 43.7171099 | -79.35018 | 2287
+3783 | Eglinton Ave East At Brentcliffe Rd West Side | 43.71462 | -79.3601199 | 2251
+4307 | Eglinton Ave East At Don Avon Dr | 43.7142199 | -79.36209 | 2261
+5181 | Eglinton Ave East At Laird Dr West Side | 43.71358 | -79.3651999 | 2285
+1462 | Eglinton Ave East At Sutherland Dr | 43.7132 | -79.3669799 | 2313
+6735 | Eglinton Ave East At Rumsey Rd | 43.7126799 | -79.36946 | 2309
+5737 | Eglinton Ave East At Hanna Rd | 43.7121799 | -79.37191 | 2273
+2396 | Eglinton Ave East At Bessborough Dr West Side | 43.71171 | -79.3743699 | 2248
+7190 | Eglinton Ave East At Bayview Ave | 43.71124 | -79.3768199 | 2239
+1341 | Eglinton Ave East At Bruce Park Ave | 43.7105299 | -79.38007 | 2255
+8427 | Eglinton Ave East At Banff Rd | 43.7100999 | -79.38208 | 2235
+8911 | Eglinton Ave East At Petman Ave | 43.70959 | -79.3846199 | 2298
+2209 | Eglinton Ave East At Falcon St West Side | 43.7091699 | -79.3867 | 2269
+8203 | Eglinton Ave East At Mt Pleasant Rd | 43.7085399 | -79.38999 | 2295
+4697 | Eglinton Ave East At Redpath Ave | 43.70796 | -79.3926599 | 2305
+9633 | Eglinton Ave East At Dunfield Ave | 43.70746 | -79.3952499 | 2268
+326 | Eglinton Ave East At Yonge St (Eglinton Station) | 43.7070599 | -79.39726 | 5081
+344 | Eglinton Ave West At Yonge St West Side | 43.7066999 | -79.39896 | 9898

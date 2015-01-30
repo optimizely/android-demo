@@ -1,0 +1,52 @@
+14170 | Davisville Station | 43.6976299 | -79.39687 | 14648
+1149 | Davisville Ave At Yonge St East Side | 43.6983399 | -79.39619 | 1882
+730 | Davisville Ave At Pailton Cres | 43.69921 | -79.3920099 | 1867
+7559 | Davisville Ave At Acacia Rd | 43.69963 | -79.3898299 | 1866
+2073 | Davisville Ave At Mt Pleasant Rd | 43.7001999 | -79.38715 | 1878
+737 | Davisville Ave At Belle Ayre Blvd | 43.7010099 | -79.38344 | 1875
+7466 | Davisville Ave At Forman Ave | 43.70155 | -79.3807599 | 1873
+265 | Davisville Ave At Cleveland St | 43.7021 | -79.3781499 | 1871
+10375 | Davisville Ave At Bayview Ave | 43.7028399 | -79.3747 | 1869
+7942 | Bayview Ave At Millwood Rd | 43.70415 | -79.37445 | 1728
+1839 | Bayview Ave At Fleming Cres North Side | 43.7071799 | -79.3756299 | 1722
+8067 | Bayview Ave At Parkhurst Blvd North Side | 43.7089899 | -79.3762899 | 1730
+9775 | Bayview Ave At Eglinton Ave East | 43.7109299 | -79.37693 | 1721
+9624 | Bayview Ave At Eglinton Ave East North Side | 43.71156 | -79.37702 | 1720
+2604 | Bayview Ave At Broadway Ave North Side | 43.7143799 | -79.3775099 | 1714
+5614 | Bayview Ave At Glenvale Blvd | 43.71601 | -79.37782 | 1724
+2606 | Bayview Ave At Kilgour Rd North Side (Cnib) | 43.7171999 | -79.3780199 | 1717
+8152 | Bayview Ave At Blythwood Rd | 43.7208099 | -79.3786999 | 1713
+852 | Wellness Way At Hospital Rd (Odette Cancer Centre) | 43.72138 | -79.37777 | 11996
+854 | Hospital Rd At Wellness Way East Side (Sunnybrook Main Ent) | 43.7218099 | -79.37689 | 1729
+850 | Raab Blvd At Hospital Rd West Side (K &amp; L Wings) | 43.7225999 | -79.3761599 | 11247
+12890 | Wellness Way At Armistice Dr (Wellspring Centre) | 43.7235499 | -79.3785899 | 14510
+394 | Bayview Ave At Vallyanna Dr | 43.7241999 | -79.37944 | 9122
+8328 | Bayview Ave At Lawrence Ave East (York U Glendon Campus) | 43.7272699 | -79.38157 | 1726
+1040 | 2395 Bayview Ave (Bob Rumball Centre For The Deaf) | 43.73397 | -79.38124 | 0298
+2336 | Bayview Ave At Post Rd North Side | 43.73678 | -79.38185 | 0311
+8524 | Bayview Ave At The Bridle Path | 43.73836 | -79.38216 | 0278
+5096 | Bayview Ave At Country Lane | 43.7402299 | -79.3824999 | 0285
+2968 | Bayview Ave At Tudor Gate North Side | 43.7436499 | -79.3831999 | 0324
+7462 | Bayview Ave At Wilket Rd | 43.7459199 | -79.3836099 | 0326
+2349 | Bayview Ave At York Mills Rd | 43.7478499 | -79.38393 | 0328
+1343 | Bayview Ave At Heathcote Ave | 43.7520599 | -79.3847899 | 0301
+2557 | Bayview Ave At Fife Rd | 43.7547199 | -79.3853699 | 0289
+3858 | Bayview Ave At Forest Heights Blvd | 43.75813 | -79.38601 | 0294
+1760 | Bayview Ave At Truman Rd | 43.76033 | -79.3864 | 0323
+5753 | Bayview Ave At Sheppard Ave East North Side (Bayview Stn) | 43.7671299 | -79.38791 | 0317
+5910 | Bayview Ave At Bayview Mews Lane | 43.7692499 | -79.3884599 | 0276
+6427 | Bayview Ave At Foxwarren Dr | 43.7704899 | -79.3887899 | 0296
+8627 | Bayview Ave At Hillcrest Ave | 43.77233 | -79.38921 | 0302
+3734 | Bayview Ave At Citation Dr North Side | 43.77483 | -79.38976 | 0284
+8803 | Bayview Ave At McKee Ave | 43.77789 | -79.39044 | 0306
+2268 | Bayview Ave At Burleigh Heights Dr North Side | 43.77969 | -79.39087 | 0280
+1477 | Bayview Ave At Byng Ave North Side | 43.78221 | -79.3914 | 0282
+6886 | Bayview Ave At Finch Ave East North Side | 43.7856099 | -79.39212 | 0292
+8178 | Bayview Ave At Ruddington Dr | 43.78788 | -79.39258 | 0315
+5258 | 3311 Bayview Ave | 43.79043 | -79.39309 | 0313
+7896 | Bayview Ave At Cummer Ave | 43.79215 | -79.39344 | 0286
+3724 | Bayview Ave At Argonne Cres | 43.7940199 | -79.3938499 | 0274
+10168 | 3377 Bayview Ave (Sisters Of St Josephs) | 43.7969899 | -79.3945199 | 0320
+5861 | Bayview Ave At Garnier Crt | 43.7990699 | -79.3950299 | 0297
+1661 | Bayview Ave At Garnier Park | 43.80105 | -79.3955 | 0273
+9655_ar | Steeles Ave East Loop At Bayview Ave | 43.8033799 | -79.39735

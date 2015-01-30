@@ -1,0 +1,44 @@
+8290 | Lawrence Ave West At Royal York Rd | 43.6962799 | -79.53246 | 5401
+9168 | Royal York Rd At Royaleigh Ave | 43.69851 | -79.53356 | 7026
+522 | Royal York Rd At Dixon Rd | 43.69961 | -79.53399 | 6991
+6707 | Dixon Rd At Royal York Rd East Side | 43.69984 | -79.53363 | 5001
+9611 | Dixon Rd At Roxaline St | 43.7004499 | -79.53072 | 4999
+10042 | Scarlett Rd At Dixon Rd East Side | 43.70114 | -79.5275599 | 5002
+3186 | Scarlett Rd At Lockheed Blvd | 43.69985 | -79.52536 | 6045
+451 | Lawrence Ave West At Scarlett Rd East Side | 43.69839 | -79.5223099 | 6046
+4884 | Lawrence Ave West At Hickory Tree Rd | 43.69909 | -79.5201499 | 5377
+7273 | Lawrence Ave West At Weston Rd | 43.6999399 | -79.51679 | 5414
+4350 | Lawrence Ave West At Ralph St East Side | 43.7011099 | -79.51172 | 5397
+10388 | Lawrence Ave West At Pine St | 43.7018799 | -79.50841 | 5395
+6244 | Lawrence Ave East At Jane St | 43.7027599 | -79.50422 | 2824
+7313 | Lawrence Ave West At Duckworth St | 43.7034799 | -79.50016 | 5359
+6273 | Lawrence Ave West At Brookhaven Dr | 43.70424 | -79.4967999 | 5346
+9363 | Lawrence Ave West At Olympia Dr East Side | 43.70545 | -79.4912699 | 5391
+8583 | Lawrence Ave West At Culford Rd East Side | 43.7063299 | -79.48734 | 5356
+6160 | Lawrence Ave West At Pimlico Rd | 43.70739 | -79.4825399 | 5394
+5332 | Lawrence Ave West At Keele St East Side | 43.70884 | -79.4773999 | 5381
+5621 | Lawrence Ave West At Duval Dr | 43.7095899 | -79.47471 | 5366
+7681 | Lawrence Ave West At Benton Rd | 43.7101599 | -79.47203 | 5340
+3948 | Lawrence Ave West At Caledonia Rd East Side | 43.71146 | -79.4660999 | 5350
+3280 | Lawrence Ave West At Sage Ave | 43.7121199 | -79.46329 | 5403
+5277 | Lawrence Ave West At Dufflaw Rd | 43.7126299 | -79.46095 | 5363
+1443 | Lawrence Ave West At Good Shepherd Crt | 43.7131499 | -79.45863 | 5373
+6485 | Lawrence Ave West At Dufferin St | 43.7139099 | -79.455 | 5360
+15038 | Lawrence Ave West At Corona St | 43.71423 | -79.45258 | 15198
+4829 | Lawrence Ave West At Bolingbroke Rd | 43.7148599 | -79.44954 | 5343
+1125 | Lawrence Ave West At Marlee Ave | 43.71545 | -79.4467699 | 5389
+6770 | Lawrence West Station | 43.7160499 | -79.44409 | 12202
+6123 | Lawrence Ave West At Shermount Ave East Side | 43.7166699 | -79.44103 | 5407
+6143 | Lawrence Ave West At Englemount Ave East Side | 43.71731 | -79.4380599 | 5369
+8778 | Lawrence Ave West At Brookview Dr | 43.7178999 | -79.43529 | 5347
+4794 | Lawrence Ave West At Glenmount Ave | 43.7183799 | -79.43315 | 5371
+3328 | Lawrence Ave West At Bathurst St | 43.7190499 | -79.43018 | 5337
+6133 | Lawrence Ave West At Glen Rush Blvd | 43.7198 | -79.4268899 | 5370
+3194 | Lawrence Ave West At Ledbury St | 43.7207 | -79.4226199 | 5385
+8940 | Lawrence Ave West At Kimbark Blvd | 43.7215799 | -79.41851 | 5384
+10298 | Lawrence Ave West At Avenue Rd | 43.72209 | -79.4158399 | 5335
+4672 | Lawrence Ave West At Rosewell Ave East Side | 43.7227099 | -79.41323 | 5392
+1199 | Lawrence Ave West At Chatsworth Dr | 43.7231 | -79.4113899 | 5352
+6303 | Lawrence Ave West At Greer Rd | 43.72362 | -79.4089199 | 5374
+6661 | Lawrence Ave West At Duplex Ave | 43.7242599 | -79.40576 | 5365
+9325 | Lawrence Ave West At Lorindale Ave East Side | 43.7247599 | -79.40344 | 5355

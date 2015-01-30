@@ -1,0 +1,59 @@
+14257 | Main St Station | 43.6891599 | -79.30148 | 14738
+9308 | Danforth Ave At Main St East Side | 43.6882299 | -79.30111 | 0901
+4377 | 2681 Danforth Ave | 43.6887299 | -79.29897 | 0875
+3653 | Danforth Ave At Dawes Rd | 43.6891599 | -79.29705 | 0883
+8856 | Danforth Ave At Sibley Ave | 43.6901099 | -79.29282 | 0910
+9681 | Danforth Ave At Victoria Park Ave | 43.69107 | -79.2887399 | 0911
+7361 | Danforth Ave At Emmott Ave | 43.6918899 | -79.2851 | 0887
+8754 | Danforth Ave At Elward Blvd | 43.69251 | -79.2822299 | 0886
+5341 | Danforth Ave At Byng Ave | 43.6929499 | -79.28028 | 0872
+2684 | Danforth Ave At Leyton Ave | 43.6934199 | -79.27806 | 0897
+6513 | Danforth Rd At Landry Ave | 43.6948099 | -79.27626 | 1863
+9238 | Danforth Rd At Warden Ave | 43.69677 | -79.2748699 | 9442
+7063 | Danforth Rd At Medford Ave | 43.6987199 | -79.27362 | 1857
+9480 | Danforth Rd At Mack Ave | 43.7001099 | -79.27265 | 1852
+8029 | 295 Danforth Rd | 43.70147 | -79.2716299 | 1849
+4613 | 347 Danforth Rd | 43.70343 | -79.2702099 | 1841
+5199 | 375 Danforth Rd | 43.70487 | -79.2692799 | 1843
+8705 | Danforth Rd At Birchmount Rd | 43.70612 | -79.2685399 | 1845
+14679 | Danforth Rd At North Woodrow Blvd | 43.7100499 | -79.26476 | 14953
+3965 | Danforth Rd At Cotton Ave East Side | 43.71251 | -79.26211 | 1846
+1645 | Kennedy Rd At Danforth Rd North Side | 43.71559 | -79.26097 | 2750
+1876 | Kennedy Rd At St Clair Ave East North Side | 43.7168499 | -79.26127 | 2762
+1780 | 519 Kennedy Rd | 43.7195599 | -79.2624099 | 2746
+7596 | Kennedy Rd At Summer Dr North Side | 43.7222299 | -79.2635399 | 2764
+3612 | Kennedy Rd At Corvette Ave | 43.7251999 | -79.2648499 | 2748
+6253 | Kennedy Rd At Merrian Rd | 43.72737 | -79.26577 | 2760
+8762 | Kennedy Rd At Kenmark Blvd | 43.72996 | -79.26689 | 2756
+433 | Kennedy Rd At Eglinton Ave East | 43.7319099 | -79.2676699 | 2752
+14232_ar | Kennedy Station | 43.7325199 | -79.26389
+14232 | Kennedy Station | 43.7325199 | -79.26389 | 14713
+1187 | Kennedy Rd At Eglinton Ave South Side | 43.73185 | -79.2679899 | 2753
+5488 | Kennedy Rd At Kenmark Blvd | 43.73029 | -79.26732 | 2757
+3558 | Kennedy Rd At Merrian Rd South Side | 43.72716 | -79.26596 | 2759
+7266 | Kennedy Rd At Corvette Ave | 43.72537 | -79.26515 | 2755
+4067 | Kennedy Rd At Foxridge Dr | 43.72417 | -79.26468 | 2754
+4607 | Kennedy Rd At Summer Dr South Side | 43.7218699 | -79.2636399 | 2765
+1828 | Opposite 519 Kennedy Rd (Cemetery) | 43.7194299 | -79.2625799 | 2747
+8589 | Kennedy Rd At St Clair Ave East | 43.71676 | -79.2615399 | 2763
+9058 | Kennedy Rd At Danforth Rd | 43.7150099 | -79.26106 | 2751
+6150 | Danforth Rd At Hubert Ave | 43.7139299 | -79.26155 | 1848
+2933 | Danforth Rd At Marsh Rd | 43.71182 | -79.2628399 | 1854
+14842 | Danforth Rd At North Woodrow Blvd | 43.71037 | -79.2645799 | 15062
+6752 | Danforth Rd At Birchmount Rd West Side | 43.7066599 | -79.26847 | 1844
+6853 | 400 Danforth Rd (Birchmount Garage) | 43.7053399 | -79.26928 | 1840
+4841 | Opposite 347 Danforth Rd | 43.7034399 | -79.27049 | 1862
+2272 | 300 Danforth Rd | 43.70178 | -79.2716899 | 1850
+7532 | Danforth Rd At Mack Ave | 43.70027 | -79.2728199 | 1853
+7242 | Danforth Rd At Medford Ave | 43.69914 | -79.2735799 | 1856
+1357 | Danforth Rd At Warden Ave | 43.6976699 | -79.2747799 | 9441
+3150 | Danforth Rd At McDonald Ave West Side | 43.69578 | -79.2758299 | 1855
+1971 | Danforth Ave At Leyton Ave West Side | 43.6935199 | -79.27836 | 1833
+2416 | Danforth Ave At August Ave | 43.6929099 | -79.28109 | 1831
+2245 | Danforth Ave At Pharmacy Ave | 43.6924399 | -79.2832 | 1836
+7491 | Danforth Ave At St Dunstan Dr West Side | 43.6918599 | -79.2858399 | 1838
+3960 | Danforth Ave At Victoria Park Ave | 43.69139 | -79.2880099 | 1839
+1321 | Danforth Ave At Sibley Ave | 43.6903499 | -79.29247 | 1837
+7164 | Danforth Ave At Dawes Rd | 43.68942 | -79.2966099 | 1832
+7627 | 2666 Danforth Ave | 43.6888 | -79.2993199 | 13464
+14257_ar | Main St Station | 43.6891599 | -79.30148

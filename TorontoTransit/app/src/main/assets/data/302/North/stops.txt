@@ -1,0 +1,64 @@
+424_IB | 3450 Danforth Ave | 43.6941099 | -79.27531 | 11720
+6513 | Danforth Rd At Landry Ave | 43.6948099 | -79.27626 | 1863
+9238 | Danforth Rd At Warden Ave | 43.69677 | -79.2748699 | 9442
+7063 | Danforth Rd At Medford Ave | 43.6987199 | -79.27362 | 1857
+9480 | Danforth Rd At Mack Ave | 43.7001099 | -79.27265 | 1852
+8029 | 295 Danforth Rd | 43.70147 | -79.2716299 | 1849
+4613 | 347 Danforth Rd | 43.70343 | -79.2702099 | 1841
+5199 | 375 Danforth Rd | 43.70487 | -79.2692799 | 1843
+8705 | Danforth Rd At Birchmount Rd | 43.70612 | -79.2685399 | 1845
+14679 | Danforth Rd At North Woodrow Blvd | 43.71005 | -79.26476 | 14953
+3965 | Danforth Rd At Cotton Ave East Side | 43.7125099 | -79.26211 | 1846
+262 | Danforth Rd At Kennedy Rd | 43.7144 | -79.2609599 | 0662
+4907 | Danforth Rd At St Clair Ave East North Side | 43.71749 | -79.2594799 | 4964
+7738 | Danforth Rd At Hart Ave | 43.71876 | -79.25865 | 4947
+5689 | Danforth Rd At Linden Ave | 43.72059 | -79.2572099 | 4953
+4081 | Danforth Rd At Magnolia Ave | 43.7223999 | -79.25579 | 4955
+9432 | Danforth Rd At Midland Ave East Side | 43.7251599 | -79.25367 | 4958
+9362 | Danforth Rd At Gordonridge Pl East Side | 43.7278599 | -79.25233 | 4950
+6765 | Danforth Rd At Glenshephard Dr West | 43.7306099 | -79.25079 | 4946
+4507 | Danforth Rd At Glenshephard Dr (East) East Side | 43.7318299 | -79.24979 | 4944
+3860 | Danforth Rd At Tyne Crt | 43.73321 | -79.2486499 | 4968
+10485 | Danforth Rd At Brimley Rd | 43.7347399 | -79.24757 | 4939
+6699 | Danforth Rd At Eglinton Ave East | 43.73679 | -79.2462999 | 4941
+2573 | Danforth Rd At Trudelle St | 43.7395199 | -79.24543 | 4967
+14648 | Danforth Rd At Savarin St North Side | 43.74359 | -79.24481 | 14894
+8299 | Danforth Rd At Carslake Cres (South) | 43.74624 | -79.24449 | 4940
+10187 | Danforth Rd At Seminole Ave North Side | 43.7480099 | -79.24445 | 4962
+9272 | Danforth Rd At Hollyhedge Dr (South) | 43.75106 | -79.24433 | 4952
+6383 | McCowan Rd At Hollyhedge Dr (North) | 43.75347 | -79.24458 | 5668
+3367 | McCowan Rd At Lawrence Ave E (Scarborough General Hospital) | 43.7552399 | -79.2452699 | 5672
+5216 | McCowan Rd At Benleigh Dr | 43.75822 | -79.24599 | 5661
+1662 | McCowan Rd At St Andrews Rd | 43.76003 | -79.24672 | 5677
+5636 | McCowan Rd At Bellechasse St North Side | 43.76135 | -79.24725 | 5660
+7129 | McCowan Rd At Meldazy Dr (North) North Side | 43.76357 | -79.24811 | 5674
+8825 | McCowan Rd At Brimorton Dr | 43.7652599 | -79.2487699 | 5663
+6382 | McCowan Rd At Walkway To Acre Heights Cres | 43.76665 | -79.24931 | 5667
+4485 | McCowan Rd At Huronia Gate | 43.76842 | -79.25001 | 5671
+9505 | McCowan Rd At Ellesmere Rd | 43.77198 | -79.25122 | 5665
+565 | McCowan Rd At Bushby Dr North Side | 43.7749999 | -79.25221 | 0777
+2541 | McCowan Rd At Progress Ave North Side | 43.77665 | -79.25289 | 1313
+2286 | McCowan Rd At Highway 401 | 43.7825699 | -79.2552299 | 12078
+9413 | McCowan Rd At Milner Ave North Side | 43.78596 | -79.25657 | 1308
+7294 | McCowan Rd At Invergordon Ave | 43.78731 | -79.25709 | 1300
+9391 | McCowan Rd At Sheppard Ave East | 43.7894699 | -79.2585899 | 1317
+3476 | McCowan Rd At Nugget Ave | 43.7918999 | -79.2596299 | 1310
+564 | 2061 McCowan Rd | 43.79541 | -79.26111 | 1286
+8204 | McCowan Rd At Commander Blvd North Side | 43.7964799 | -79.2615499 | 1289
+1238 | McCowan Rd At Middlefield Rd | 43.79854 | -79.26233 | 1307
+695 | McCowan Rd At Kenhatch Blvd | 43.80133 | -79.2636 | 1301
+7341 | McCowan Rd At Sandhurst Cir (South) | 43.80498 | -79.2651 | 1315
+7348 | McCowan Rd At Finch Ave East | 43.80788 | -79.26626 | 1296
+7115 | McCowan Rd At Finch Ave East North Side | 43.8086299 | -79.26661 | 2872
+9857 | McCowan Rd At Opposite Woodside Square Mall | 43.8101699 | -79.2678299 | 1319
+744 | McCowan Rd At Sandhurst Cir (North) | 43.81147 | -79.26902 | 2873
+7844 | McCowan Rd At Big Red Ave North Side | 43.81479 | -79.27048 | 9358
+2466 | McCowan Rd At McNicoll Ave | 43.8178199 | -79.2717999 | 9359
+9372 | McCowan Rd At Walkway To Historic Terr | 43.8201999 | -79.2728799 | 9799
+8391 | McCowan Rd At Alton Towers Cir (South) | 43.8223799 | -79.2737899 | 9805
+1963 | McCowan Rd At Opposite Milliken Wells Plaza | 43.8250099 | -79.2749999 | 10653
+7340 | McCowan Rd At Alton Towers Cir (North) | 43.8266899 | -79.27574 | 9806
+1571 | 4325 McCowan Rd (Milliken Park Rec Centre) | 43.8289599 | -79.27511 | 9818
+6720 | McCowan Rd At Steeles Ave East | 43.8308499 | -79.27501 | 10576
+567 | McCowan Rd At Steeles Ave East North Side | 43.8317699 | -79.2752399 | 9807
+702_ar | McCowan Rd Loop At Steeles Ave East | 43.8323499 | -79.27538

@@ -1,0 +1,98 @@
+8800 | Martin Grove Rd At Tollington Rd | 43.6866799 | -79.56878 | 5650
+1555 | The Westway At Martin Grove Rd East Side | 43.68338 | -79.5666099 | 6195
+4487 | The Westway At Callowhill Dr | 43.6838899 | -79.56439 | 6184
+6499 | The Westway At Brampton Rd | 43.6846599 | -79.56111 | 6182
+4831 | The Westway At Celestine Dr East Side | 43.6853 | -79.55647 | 6185
+1904 | The Westway At Kipling Ave | 43.6854799 | -79.555 | 6192
+2302 | The Westway At Kipling Ave East Side | 43.68567 | -79.5541699 | 6194
+5860 | The Westway At Fulford Pl | 43.6865199 | -79.55201 | 6188
+4098 | The Westway At Wincott Dr East Side | 43.6874 | -79.5494099 | 6205
+7298 | The Westway At Hartsdale Dr | 43.6881 | -79.5448699 | 6189
+8934 | The Westway At Islington Ave | 43.6884699 | -79.54315 | 6190
+755 | The Westway At Sun Row Dr East Side | 43.6892399 | -79.54051 | 6202
+5550 | The Westway At Trehorne Dr | 43.69102 | -79.5362599 | 6172
+6278 | 65 The Westway | 43.6930199 | -79.53505 | 6197
+14804 | The Westway At Trio Ave East Side | 43.6944699 | -79.53468 | 15035
+6562 | The Westway At Royal York Rd | 43.69602 | -79.5329399 | 6198
+1119 | Lawrence Ave West At Royal York Rd East Side | 43.6961799 | -79.53218 | 5402
+7694 | Lawrence Ave West At Roxaline St | 43.69672 | -79.5297899 | 5399
+5225 | Lawrence Ave West At Westona St East Side | 43.6972999 | -79.52698 | 5418
+7490 | Lawrence Ave West At Scarlett Rd | 43.6980699 | -79.52339 | 5405
+451 | Lawrence Ave West At Scarlett Rd East Side | 43.6983899 | -79.52231 | 6046
+4884 | Lawrence Ave West At Hickory Tree Rd | 43.6990899 | -79.52015 | 5377
+7273 | Lawrence Ave West At Weston Rd | 43.6999399 | -79.51679 | 5414
+4350 | Lawrence Ave West At Ralph St East Side | 43.7011099 | -79.51172 | 5397
+10388 | Lawrence Ave West At Pine St | 43.7018799 | -79.50841 | 5395
+6244 | Lawrence Ave East At Jane St | 43.7027599 | -79.50422 | 2824
+7313 | Lawrence Ave West At Duckworth St | 43.7034799 | -79.50016 | 5359
+6273 | Lawrence Ave West At Brookhaven Dr | 43.70424 | -79.4967999 | 5346
+9363 | Lawrence Ave West At Olympia Dr East Side | 43.70545 | -79.4912699 | 5391
+8583 | Lawrence Ave West At Culford Rd East Side | 43.7063299 | -79.48734 | 5356
+6160 | Lawrence Ave West At Pimlico Rd | 43.70739 | -79.4825399 | 5394
+5332 | Lawrence Ave West At Keele St East Side | 43.7088399 | -79.4774 | 5381
+5621 | Lawrence Ave West At Duval Dr | 43.70959 | -79.4747099 | 5366
+7681 | Lawrence Ave West At Benton Rd | 43.71016 | -79.4720299 | 5340
+3948 | Lawrence Ave West At Caledonia Rd East Side | 43.7114599 | -79.4661 | 5350
+3280 | Lawrence Ave West At Sage Ave | 43.71212 | -79.4632899 | 5403
+5277 | Lawrence Ave West At Dufflaw Rd | 43.71263 | -79.4609499 | 5363
+1443 | Lawrence Ave West At Good Shepherd Crt | 43.71315 | -79.4586299 | 5373
+6485 | Lawrence Ave West At Dufferin St | 43.7139099 | -79.455 | 5360
+15038 | Lawrence Ave West At Corona St | 43.71423 | -79.45258 | 15198
+4829 | Lawrence Ave West At Bolingbroke Rd | 43.7148599 | -79.44954 | 5343
+1125 | Lawrence Ave West At Marlee Ave | 43.71545 | -79.4467699 | 5389
+14251 | Lawrence West Station | 43.7156299 | -79.44391 | 14732
+6123 | Lawrence Ave West At Shermount Ave East Side | 43.7166699 | -79.44103 | 5407
+6143 | Lawrence Ave West At Englemount Ave East Side | 43.71731 | -79.4380599 | 5369
+8778 | Lawrence Ave West At Brookview Dr | 43.7178999 | -79.43529 | 5347
+4794 | Lawrence Ave West At Glenmount Ave | 43.7183799 | -79.43315 | 5371
+3328 | Lawrence Ave West At Bathurst St | 43.7190499 | -79.43018 | 5337
+6133 | Lawrence Ave West At Glen Rush Blvd | 43.7198 | -79.4268899 | 5370
+3194 | Lawrence Ave West At Ledbury St | 43.7207 | -79.4226199 | 5385
+8940 | Lawrence Ave West At Kimbark Blvd | 43.7215799 | -79.41851 | 5384
+10298 | Lawrence Ave West At Avenue Rd | 43.72209 | -79.4158399 | 5335
+4672 | Lawrence Ave West At Rosewell Ave East Side | 43.7227099 | -79.41323 | 5392
+1199 | Lawrence Ave West At Chatsworth Dr | 43.7231 | -79.4113899 | 5352
+6303 | Lawrence Ave West At Greer Rd | 43.72362 | -79.4089199 | 5374
+6661 | Lawrence Ave West At Duplex Ave | 43.7242599 | -79.40576 | 5365
+9325 | Lawrence Ave West At Lorindale Ave East Side | 43.72476 | -79.40344 | 5355
+14244_ar | Lawrence Station | 43.7255199 | -79.40237
+14254_ar | Lawrence West Station | 43.7154999 | -79.44457
+6707 | Dixon Rd At Royal York Rd East Side | 43.6998399 | -79.53363 | 5001
+9611 | Dixon Rd At Roxaline St | 43.70045 | -79.5307199 | 4999
+10042 | Scarlett Rd At Dixon Rd East Side | 43.70114 | -79.5275599 | 5002
+3186 | Scarlett Rd At Lockheed Blvd | 43.6998499 | -79.5253599 | 6045
+15003_ar | Lawrence Station | 43.7254099 | -79.40234
+8612 | Victory Cres At McNaughton Ave | 43.7086899 | -79.64483 | 6154
+7135 | Airport Rd At Ripon St South Side | 43.7058499 | -79.6452699 | 4755
+2162 | 6900 Airport Rd (International Centre - North Entrance) | 43.7018699 | -79.64019 | 9320
+5881 | Airport Rd At Northwest Dr | 43.69892 | -79.63629 | 4764
+9845 | Airport Rd At Silver Dart Dr | 43.6951099 | -79.6311099 | 4767
+5368 | Airport Rd At Flight Training Centre | 43.69339 | -79.6288 | 4758
+5555 | Airport Rd At American Dr | 43.68913 | -79.62166 | 4747
+10087 | Airport Rd At Jetliner Rd East Side | 43.68583 | -79.6062699 | 4751
+9967 | Airport Rd At Highway 427 (On Ramp) | 43.6860399 | -79.60357 | 4760
+2280 | Opposite 950 Dixon Rd | 43.68653 | -79.59835 | 4974
+10365 | Dixon Rd At Carlingview Dr | 43.68661 | -79.59575 | 4975
+6183 | Dixon Rd At Skyway Ave | 43.6877499 | -79.58713 | 5003
+9905 | Dixon Rd At Kelfield St | 43.6900599 | -79.57721 | 4989
+3977 | 585 Dixon Rd | 43.69077 | -79.5742699 | 4998
+6350 | Dixon Rd At Martin Grove Rd | 43.6913899 | -79.57112 | 4992
+8119 | Dixon Rd At Highway 401 | 43.69221 | -79.5671699 | 4996
+10086 | Dixon Rd At Celestine Dr | 43.6932499 | -79.56262 | 4977
+8226 | Dixon Rd At Kipling Ave | 43.6940999 | -79.55889 | 4990
+4602 | 327 Dixon Rd | 43.6949299 | -79.55541 | 13698
+7807 | Dixon Rd At Wincott Dr | 43.6956499 | -79.55234 | 5005
+795 | Dixon Rd At Islington Ave East Side | 43.6971199 | -79.54599 | 4987
+2184 | Dixon Rd At Dixington Cres East Side | 43.69782 | -79.5428599 | 4980
+8164 | Dixon Rd At Tamarack Cir | 43.6984499 | -79.53998 | 4981
+3879 | Dixon Rd At McManus Rd | 43.6990199 | -79.53737 | 4995
+485 | Westwood Mall Loop At Morning Star Dr | 43.7216799 | -79.64075 | 14061
+584 | Morning Star Dr At Catalpa Rd | 43.7200799 | -79.64305 | 5756
+14785 | Morningstar Dr At Cambrett Dr | 43.7174699 | -79.64533 | 15016
+4714 | Morning Star Dr At Netherwood Rd | 43.7162899 | -79.64591 | 5762
+588 | Morning Star Dr At Reindeer Dr West Side | 43.71398 | -79.6469699 | 5763
+587 | Morning Star Dr At Manion Rd | 43.71259 | -79.6476699 | 5760
+1488 | Morningstar Dr At Collett Rd | 43.71021 | -79.6496599 | 10260
+4215 | Airport Rd At Morning Star Dr South Side | 43.7091599 | -79.6499 | 4762
+366 | Airport Rd At Beverley St | 43.7075999 | -79.6477199 | 4750
+3169 | Pearson Airport Terminal 3 (Columns C8-C12) | 43.6859399 | -79.62016 | 14278

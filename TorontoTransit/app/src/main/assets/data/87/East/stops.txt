@@ -1,0 +1,34 @@
+14159 | Broadview Station | 43.6767799 | -79.35841 | 14637
+6070 | 849 Broadview Ave | 43.6792199 | -79.35813 | 3369
+9364 | Broadview Ave At Browning Ave | 43.6808899 | -79.35767 | 0655
+2329 | Broadview Ave At Mortimer Ave North Side | 43.68435 | -79.3567399 | 0657
+1114 | Broadview Ave At Hillside Dr North Side | 43.68617 | -79.3561099 | 13939
+5662 | Broadview Ave At Bater Ave | 43.6869699 | -79.35578 | 0650
+4157 | Cosburn Ave At Broadview Ave East Side | 43.68839 | -79.35469 | 0856
+6140 | Cosburn Ave At Logan Ave | 43.68845 | -79.3533999 | 0859
+14568 | 75 Cosburn Ave | 43.68893 | -79.3509499 | 0854
+9250 | Cosburn Ave At Pape Ave | 43.68932 | -79.3489699 | 0861
+6304 | Cosburn Ave At Todmorden Lane | 43.6899999 | -79.34548 | 0863
+2906 | Cosburn Ave At Gowan Ave | 43.6905199 | -79.34286 | 0858
+5257 | Cosburn Ave At Donlands Ave East Side | 43.6912499 | -79.3411 | 9450
+9351 | Cosburn Ave At Greenwood Ave | 43.69192 | -79.3380199 | 9451
+7222 | Cosburn Ave At Linsmore Cres | 43.69257 | -79.3349399 | 9452
+1554 | Cosburn Ave At Roosevelt Rd East Side | 43.69351 | -79.3305699 | 9453
+6030 | Cosburn Ave At Coxwell Ave | 43.69391 | -79.3283999 | 9454
+8426 | Cosburn Ave At Binswood Ave | 43.6949199 | -79.3241 | 9478
+1283 | Cosburn Ave At Glebemount Ave | 43.6954299 | -79.32173 | 9455
+9923 | Cosburn Ave At Woodmount Ave | 43.69579 | -79.3200499 | 9629
+1447 | Cosburn Ave At Woodbine Ave | 43.69632 | -79.3175599 | 9456
+10190 | Cosburn Ave At Cedarvale Ave | 43.6967299 | -79.31577 | 1777
+3351 | Cosburn Ave At Gledhill Ave | 43.69695 | -79.31338 | 1779
+4897 | East York Acres Parking Lot At Haldon Ave | 43.6978799 | -79.31139 | 2228
+4810 | Cosburn Ave At Westlake Cres East Side | 43.69738 | -79.3100699 | 1781
+6680 | Westlake Ave At Hamstead Ave | 43.69659 | -79.30926 | 3167
+8808 | Westlake Ave At Lumsden Ave | 43.6944999 | -79.3083499 | 3170
+5671 | Lumsden Ave At Main St | 43.69475 | -79.3049099 | 2851
+4673 | Lumsden Ave At Barrington Ave East Side | 43.69517 | -79.3030099 | 5521
+5150 | Eastdale Ave At Goodwood Park Cres | 43.69453 | -79.30073 | 5056
+2725 | Eastdale Ave At Secord Ave | 43.69337 | -79.30024 | 5057
+2813 | Secord Ave At Barrington Ave | 43.6927799 | -79.30196 | 6049
+286 | Doncaster Ave At Main St | 43.69182 | -79.3031099 | 5008
+14258_ar | Main St Station | 43.6892199 | -79.30127

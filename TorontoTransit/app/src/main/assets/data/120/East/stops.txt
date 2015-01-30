@@ -1,0 +1,42 @@
+8661 | Northover St At Sheppard Ave West South Side | 43.7408599 | -79.50126 | 11222
+2697 | Northover St At Slater Crt | 43.74012 | -79.50094 | 11232
+8603 | Northover St At Giltspur Dr | 43.73873 | -79.50037 | 11233
+5008 | Giltspur Dr At Calico Dr | 43.73745 | -79.5036799 | 11234
+8650 | Giltspur Dr At Peterdale Rd | 43.7362699 | -79.50592 | 11235
+8472 | Giltspur Dr At Magellan Dr | 43.7353899 | -79.50834 | 11236
+1748 | Giltspur Dr At Jane St | 43.7348099 | -79.51099 | 11237
+6009 | Jane St At Troutbrooke Dr | 43.73214 | -79.51144 | 14257
+7300 | Jane St At Chalkfarm Dr (North) South Side | 43.72894 | -79.51075 | 3870
+6295 | Opposite 2265 Jane St | 43.72743 | -79.51033 | 3859
+4304 | Heathrow Dr At Jane St East Side | 43.72496 | -79.5090899 | 9749
+10196 | Heathrow Dr At Datchet Rd | 43.7256199 | -79.50814 | 9205
+7510 | Heathrow Dr At Chesham Dr | 43.7267299 | -79.50505 | 9206
+7247 | Forthbridge Cres At Calvington Dr | 43.7278 | -79.5041899 | 9207
+2998 | Calvington Dr At Dalsby Rd | 43.7294099 | -79.50182 | 9208
+2422 | Calvington Dr At Lexfield Ave | 43.73005 | -79.4991199 | 3396
+9955 | Calvington Dr At Exbury Rd | 43.73086 | -79.4954599 | 3393
+9173 | Calvington Dr At Roding St | 43.7313599 | -79.49323 | 3399
+1309 | Calvington Dr At Dalraith Rd East Side | 43.7319899 | -79.49005 | 9137
+6425 | Calvington Dr At Renshaw St | 43.7326099 | -79.48704 | 3398
+9141 | Keele St At Calvington Dr South Side | 43.7331499 | -79.48369 | 3964
+3643 | Keele St At Tilbury Dr | 43.7304699 | -79.4830699 | 9801
+1160 | Keele St At Victory Dr | 43.7286799 | -79.4826099 | 9880
+892 | Wilson Ave At Keele St East Side | 43.7269399 | -79.48102 | 8867
+10109 | Wilson Ave At Dubray Ave | 43.72809 | -79.4776999 | 8848
+2458 | 949 Wilson Ave | 43.7287899 | -79.47446 | 8873
+8004 | Wilson Ave At Murray Rd | 43.7294099 | -79.47172 | 8875
+3373 | Wilson Ave At Northgate Dr | 43.7302099 | -79.4682 | 8877
+3583 | Maniza Rd At Regent Rd | 43.73223 | -79.46309 | 1267
+6242 | Maniza Rd At Spalding Rd | 43.7340299 | -79.4638599 | 1268
+6945 | Maniza Rd At Plewes Rd | 43.7349 | -79.46423 | 1266
+9059 | Maniza Rd At Gilley Rd | 43.73573 | -79.46457 | 1265
+3907 | Maniza Rd At Home Rd | 43.73649 | -79.4649 | 11194
+5617 | Maniza Rd At Powell Rd | 43.7374799 | -79.4653399 | 11450
+8384 | Ancaster Rd At Powell Rd South Side | 43.7365899 | -79.46794 | 11451
+4108 | Ancaster Rd At Home Rd South Side | 43.7356899 | -79.4675599 | 11195
+3082 | Gilley Rd At Garratt Blvd | 43.7347499 | -79.4697999 | 1130
+4876 | Garratt Blvd At Plewes Rd South Side | 43.73337 | -79.46943 | 1075
+5224 | Garratt Blvd At Katherine Rd | 43.7322599 | -79.4689899 | 1074
+5436 | Garratt Blvd At Regent Rd South Side | 43.73099 | -79.46844 | 1076
+5935 | Wilson Ave At Dufferin St | 43.73193 | -79.45913 | 1657
+14319_ar | Wilson Station | 43.7345999 | -79.4508

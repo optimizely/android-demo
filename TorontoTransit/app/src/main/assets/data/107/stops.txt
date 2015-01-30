@@ -1,0 +1,193 @@
+1355 | Craigton Dr At Teston Rd | 43.8702399 | -79.52957 | 13598
+7623 | Teston Rd At St Joan Of Arc Ave | 43.8715999 | -79.52448 | 13599
+1451 | Teston Rd At Keele St | 43.8731999 | -79.51693 | 13600
+7475 | 10588 Keele St | 43.8698299 | -79.5158799 | 13601
+1868 | Keele St At Drummond Dr | 43.8678399 | -79.51547 | 13602
+7600 | 10424 Keele St | 43.86439 | -79.51461 | 13603
+8433 | Keele St At McNaughton Rd East | 43.8612199 | -79.5138999 | 13604
+2566 | Keele St At Maple Loop | 43.86018 | -79.51366 | 13605
+8871 | Keele St At Masters Ave | 43.85909 | -79.51342 | 14338
+9745 | Keele St At Killian Rd | 43.8568899 | -79.5129099 | 14095
+8078 | Keele St At Major Mackenzie Dr West | 43.8551399 | -79.51251 | 10101
+2348 | Keele St At Church St | 43.85282 | -79.51199 | 10680
+5999 | Keele St At Barrhill Rd | 43.8507199 | -79.5114999 | 10681
+2060 | Keele St At Knightswood Dr | 43.84574 | -79.51039 | 10682
+1673 | Keele St At Cromwell Rd | 43.8425899 | -79.5097099 | 10683
+5443 | Keele St At Dina Rd | 43.83952 | -79.50893 | 11818
+8316 | Keele St At Rutherford Rd | 43.8366699 | -79.50829 | 10684
+3314 | Keele St At Gantner Gate | 43.83367 | -79.50757 | 13893
+5022 | 9024 Keele St | 43.83125 | -79.50703 | 11857
+3607 | 8820 Keele St | 43.82642 | -79.50603 | 3962
+1230 | 8600 Keele St | 43.8226099 | -79.5050299 | 4008
+6091 | Keele St At Langstaff Rd | 43.8187999 | -79.50415 | 4005
+2009 | 8420 Keele St | 43.8169699 | -79.5036999 | 4042
+3959 | Keele St At Bowes Rd | 43.81501 | -79.50323 | 3957
+2902 | 8200 Keele St | 43.81158 | -79.50235 | 3969
+8548 | Keele St At Rivermede Rd South Side | 43.8084899 | -79.50159 | 4020
+5941 | 8000 Keele St | 43.80629 | -79.50102 | 4044
+5618 | Keele St At Administration Rd South Side | 43.8029699 | -79.5001899 | 3960
+2988 | Keele St At Highway 7 South Side | 43.7991799 | -79.49934 | 13942
+7432 | Keele St At Doney Cres | 43.7961 | -79.4985099 | 4034
+1237 | Keele St At Snidercroft Rd | 43.7891399 | -79.4967699 | 4032
+9549 | Keele St At Ronrose Dr | 43.78734 | -79.49632 | 3973
+5217 | Keele St At Steeles Ave West South Side | 43.7806499 | -79.49446 | 4039
+5346 | Keele St At The Chimneystack Rd South Side | 43.7774699 | -79.4947499 | 4055
+2059 | Keele St At York Blvd | 43.7754 | -79.49421 | 4035
+9907 | Keele St At The Pond Rd South Side | 43.77167 | -79.49328 | 13374
+9439 | Keele St At Murray Ross Pkwy | 43.76746 | -79.49223 | 4014
+15100 | Tangiers Rd At Finch Ave W South Side | 43.7633399 | -79.4881799 | 15275
+7427 | Lepage Crt At Keele St East Side | 43.7581399 | -79.48891 | 4431
+4172 | 25 Lepage Crt | 43.7586099 | -79.48681 | 4433
+5774 | Lepage Crt At Ceramic Rd | 43.7589599 | -79.48524 | 4430
+4109 | Ceramic Rd At Ashwarren Rd | 43.75757 | -79.4846 | 3403
+9106 | St Regis Cres North At Ceramic Rd East Side | 43.75649 | -79.4835999 | 4637
+8175 | St Regis Cres North At Bakersfield St | 43.75705 | -79.4810899 | 4636
+5762 | St Regis Cres (South) At Bakersfield St West Side | 43.75523 | -79.4810899 | 4639
+8242 | Tuscan Gate At St Regis Cres (South) South Side | 43.7540399 | -79.4839499 | 4679
+2279 | Tuscan Gate At Sheppard Ave West | 43.7529199 | -79.48316 | 3151
+2042 | Sheppard Ave West At Chesswood Dr | 43.75542 | -79.4744599 | 7271
+3355 | Sheppard Ave West At Yukon Lane | 43.7519399 | -79.4674499 | 3109
+7719 | William R Allen Rd At Sheppard Ave West South Side | 43.7496699 | -79.46339 | 1647
+858 | Transit Rd At Wilson Ave | 43.7343899 | -79.45266 | 11879
+5461 | Rutherford Go Station Loop At Rutherford Rd | 43.8385799 | -79.49882 | 13589
+4291 | Westburne Dr At Rutherford Rd South Side | 43.83781 | -79.50202 | 13606
+2969 | Westburne Dr At Moyal Crt | 43.8361199 | -79.5001399 | 13607
+2378 | Opposite 517 Basaltic Rd | 43.8325199 | -79.4992999 | 13608
+9868 | Basaltic Rd At Jacob Keffer Pkwy South Side | 43.8291699 | -79.4986599 | 13609
+734 | 280 Basaltic Rd | 43.8274 | -79.49818 | 13610
+10411 | 180 Basaltic Rd | 43.82408 | -79.49764 | 13611
+5759 | 128 Basaltic Rd | 43.8233299 | -79.4975199 | 13612
+6337 | Basaltic Rd At Planchet Rd | 43.82116 | -79.4989899 | 13613
+2741 | Planchet Rd At Langstaff Rd | 43.81998 | -79.4991 | 13614
+10395 | Langstaff Rd At Connie Cres | 43.82123 | -79.4913399 | 4394
+8666 | North Rivermede Rd At Langstaff Rd South Side | 43.8222099 | -79.4848499 | 9431
+1228 | North Rivermede Rd At Connie St | 43.82016 | -79.48438 | 9432
+9018 | North Rivermede Rd At Bradwick (North) | 43.81829 | -79.48394 | 9433
+10289 | North Rivermede Rd At Bradwick (South) | 43.8164699 | -79.4835199 | 9434
+1152 | North Rivermede Rd At Audia Crt | 43.81411 | -79.4831299 | 9435
+7170 | North Rivermede Rd At Rivermede Rd | 43.8122799 | -79.48362 | 9436
+1081 | Rivermede Rd At Ortona Crt | 43.81137 | -79.4881899 | 14059
+3028 | Rivermede Rd At Bowes Garden Crt | 43.8103299 | -79.4927 | 9437
+8459 | Rivermede Rd At Rayette Rd | 43.8097099 | -79.49733 | 9438
+6269 | Rivermede Rd At Keele St | 43.8088599 | -79.50078 | 9439
+3786 | Finch Ave West At Alexdon Rd East Side | 43.7646599 | -79.48515 | 2580
+9332 | 1183 Finch Ave West | 43.76512 | -79.4830399 | 9129
+1313 | Chesswood Dr At Finch Ave West South Side | 43.76577 | -79.47724 | 3428
+7248 | Chesswood Dr At Champagne Dr | 43.76441 | -79.47666 | 3427
+8395 | Chesswood Dr At Vanley Cres (North) | 43.76279 | -79.4764599 | 3432
+6589 | 4420 Chesswood Dr | 43.76105 | -79.4780799 | 3425
+7825 | Chesswood Dr At Vanley Cres (South) South Side | 43.7593899 | -79.4781199 | 3433
+7250 | 4050 Chesswood Dr | 43.7582399 | -79.4771599 | 3422
+2202 | Steeprock Dr At Chesswood Dr East Side | 43.75741 | -79.4746199 | 9098
+1675 | Steeprock Dr At Whitehorse Rd | 43.75835 | -79.4726499 | 9099
+3102 | Whitehorse Rd At Rimrock Rd | 43.7564399 | -79.4713999 | 9100
+1285 | 44 Kodiak Cres | 43.75493 | -79.4680899 | 9101
+7779 | Opposite 25 Kodiak Cres | 43.75409 | -79.46619 | 9102
+8443 | Kodiak Cres At Sheppard Ave West | 43.7520899 | -79.467 | 9091
+14178_ar | Downsview Station | 43.7487199 | -79.46191
+2284 | York Blvd At Keele St West Side | 43.7750199 | -79.49525 | 4634
+914 | York Blvd (North) At York University Commons | 43.7740399 | -79.50134 | 11924
+14138 | Eagle Rock Way At McNaughton Rd West Side | 43.8614099 | -79.50049 | 14615
+14139 | McNaughton Rd East At Falvo St | 43.8616199 | -79.51121 | 14616
+857 | Transit Rd At Wilson Ave North Side | 43.7347199 | -79.45217 | 11878
+8170 | William Allen Rd At Sheppard Ave West | 43.75004 | -79.46317 | 3172
+538 | Sheppard Ave At William R Allen Rd West Side | 43.7502699 | -79.46388 | 4598
+1632 | Sheppard Ave West At Kodiak Cres (South) | 43.7518599 | -79.4669499 | 4596
+5261 | 23 Kodiak Cres | 43.75418 | -79.4661 | 9093
+5896 | Kodiak Cres At Whitehorse Rd | 43.75479 | -79.4687899 | 9094
+4842 | Whitehorse Rd At Rimrock Rd | 43.75613 | -79.47112 | 9095
+8921 | Whitehorse Rd At Steeprock Dr | 43.7582799 | -79.4722299 | 9096
+5437 | Steeprock Dr At Chesswood Dr | 43.75739 | -79.4748699 | 9097
+8024 | 4069 Chesswood Dr | 43.7582299 | -79.4769199 | 3423
+1374 | Chesswood Dr At Vanley Cres (South) | 43.75944 | -79.47803 | 3434
+1798 | 4375 Chesswood Dr | 43.76107 | -79.4779599 | 3424
+9438 | Chesswood Dr At Vanley Cres (North) | 43.7625 | -79.4765599 | 3431
+10006 | Chesswood Dr At Champagne Dr | 43.7641399 | -79.4764499 | 3426
+622 | Finch Ave West At Chesswood Dr West Side | 43.7663699 | -79.47848 | 9737
+1231 | 1150 Finch Ave West | 43.76528 | -79.4836399 | 2603
+3868 | Finch Ave West At Alexdon Rd West Side | 43.76471 | -79.4859799 | 2581
+7917 | Finch Ave West At Tangiers Rd | 43.7642599 | -79.48807 | 2635
+10069 | Keele St At The Pond Rd | 43.7716699 | -79.49286 | 4028
+3358 | Keele St At Canarctic Dr North Side | 43.77574 | -79.49392 | 3965
+4262 | Keele St At The Chimneystack Rd | 43.7775299 | -79.4943799 | 4056
+7651 | Keele St At Steeles Ave West | 43.7812299 | -79.49423 | 4040
+9864 | Keele St At Ronrose Dr | 43.78685 | -79.49587 | 14051
+8306 | Keele St At Great Gulf Dr | 43.78879 | -79.49638 | 13891
+10039 | Keele St At Jardin Dr North Side | 43.7964099 | -79.4982599 | 4033
+2943 | Keele St At Highway 7 | 43.8000899 | -79.49918 | 4000
+8653 | Keele St At Administration Rd | 43.8029399 | -79.4999499 | 3961
+8776 | 8001 Keele St | 43.8061499 | -79.5007199 | 4017
+5969 | Keele St At Rivermede Rd | 43.8084899 | -79.50129 | 4021
+7814 | Rivermede Rd At Rayette Rd | 43.8095599 | -79.4978 | 13571
+7094 | Rivermede Rd At Bowes Rd | 43.81015 | -79.4933599 | 13572
+1921 | Rivermede Rd At Ortona Crt | 43.8110899 | -79.48881 | 13573
+8254 | North Rivermede Rd At Rivermede Rd North Side | 43.81239 | -79.4834099 | 13574
+4981 | North Rivermede Rd At Audia Crt | 43.81418 | -79.48304 | 13575
+3030 | North Rivermede Rd At Bradwick Dr (South) | 43.81609 | -79.48333 | 13576
+5281 | North Rivermede Rd At Bradwick Dr N(Orth) | 43.8177099 | -79.4837 | 13577
+3849 | North Rivermede Rd At Connie Cres | 43.82016 | -79.48422 | 13578
+8234 | North Rivermede Rd At Langstaff Rd | 43.82186 | -79.4846 | 13579
+1541 | Langstaff Rd At Spinnaker Way | 43.82146 | -79.4907799 | 13580
+8144 | Langstaff Rd At Planchet Rd | 43.81976 | -79.4986499 | 13581
+6776 | Basaltic Rd At Planchet Rd East Side | 43.8210999 | -79.49879 | 13582
+2212 | 139 Basaltic Rd | 43.8238499 | -79.4974899 | 13583
+8760 | 277 Basaltic Rd | 43.82706 | -79.498 | 13584
+5106 | Basaltic Rd At Jacob Keffer Pkwy North Side | 43.8301299 | -79.4987999 | 13585
+9284 | 517 Basaltic Rd | 43.8328099 | -79.49919 | 13586
+9025 | Westburne Dr At Moyal Crt | 43.8353 | -79.49984 | 13587
+6653 | Westburne Dr At Rutherford Rd | 43.8379699 | -79.5019299 | 13588
+5461_ar | Rutherford Go Station Loop At Rutherford Rd | 43.8385799 | -79.49882
+14178 | Downsview Station | 43.7487199 | -79.46191 | 14657
+2365 | Sheppard Ave West At Dufferin St (Downsview Station) | 43.7505399 | -79.4626 | 7275
+3554 | Sheppard Ave West At Kodiak Cres (North) | 43.75397 | -79.46938 | 6076
+6042 | Sheppard Ave West At Chesswood Dr | 43.7555999 | -79.4738 | 3108
+9504 | Sheppard Ave West At Bakersfield St West Side | 43.7543399 | -79.48058 | 3106
+6125 | Sheppard Ave West At Tuscan Gate | 43.7529899 | -79.48276 | 3113
+860 | Tuscan Gate At St Regis Cres (South) | 43.75434 | -79.4839 | 4678
+2829 | St Regis Cres (South) At Bakersfield St | 43.75522 | -79.4807299 | 3303
+8458 | St Regis Cres North At Bakersfield St West Side | 43.75703 | -79.4816099 | 4635
+6348 | St Regis Cres North At Ceramic Rd | 43.75655 | -79.4837999 | 4638
+9465 | Ceramic Rd At Ashwarren Rd | 43.7571299 | -79.4843799 | 3404
+7648 | Ceramic Rd At Lepage Crt | 43.75885 | -79.48474 | 3405
+5713 | 22 Lepage Crt | 43.7585999 | -79.48725 | 4429
+7232 | Lepage Crt At Keele St | 43.75818 | -79.4891599 | 4432
+15099 | Tangiers Rd At Finch Ave W North Side | 43.7644299 | -79.48826 | 15274
+6102 | 8201 Keele St | 43.81142 | -79.502 | 3968
+2992 | Keele St At Bowes Rd | 43.8145999 | -79.5027799 | 3956
+1206 | 8461 Keele St | 43.81682 | -79.50333 | 4041
+1829 | Keele St At Langstaff Rd | 43.8183199 | -79.50372 | 4004
+4737 | 8635 Keele St | 43.82219 | -79.5047 | 4009
+3017 | 8775 Keele St | 43.8248799 | -79.5053699 | 13615
+4824 | 8811 Keele St | 43.8265799 | -79.5057899 | 13616
+793 | Opposite 8950 Keele St | 43.82889 | -79.50631 | 10108
+6272 | Opposite 9024 Keele St | 43.83145 | -79.50684 | 11853
+4958 | Keele St At Gantner Gate | 43.83317 | -79.50718 | 13892
+988 | Keele St At Rutherford Rd | 43.8362199 | -79.50786 | 10109
+5098 | Keele St At Dina Rd | 43.83907 | -79.50853 | 11817
+5908 | Keele St At Fieldgate Dr | 43.84193 | -79.50929 | 10678
+7430 | Keele St At Knightswood Ave | 43.84566 | -79.51027 | 10131
+10204 | Keele St At Barrhill Rd | 43.85027 | -79.51126 | 10679
+3038 | Keele St At Church St | 43.85286 | -79.51185 | 14094
+6855 | Keele St At Major Mackenzie Dr West | 43.8554099 | -79.5124 | 10113
+6967 | Keele St At Railway St | 43.85652 | -79.51271 | 10115
+2853 | Keele St At Masters Ave | 43.8586199 | -79.5131499 | 11994
+2846 | Keele St At McNaughton Rd East | 43.86078 | -79.51368 | 13590
+1998 | 10475 Keele St | 43.86493 | -79.51461 | 13591
+8733 | Keele St At Drummond Dr | 43.8672399 | -79.51505 | 14096
+8375 | Drummond Dr At Keele St West Side | 43.8675099 | -79.51617 | 13592
+1797 | Drummond Dr At St Joan Of Arc Ave | 43.86686 | -79.5198899 | 13593
+6470 | Drummond Dr At Monteith Cres | 43.86594 | -79.5246399 | 13594
+5388 | Drummond Dr At Cranston Park Ave | 43.86543 | -79.5287499 | 13595
+1332 | Cranston Park Ave At Princeton Gate | 43.8669199 | -79.5298399 | 13596
+7236 | Cranston Park Ave At Isaac Murray Ave | 43.8680299 | -79.52985 | 13597
+1355_ar | Craigton Dr At Teston Rd | 43.8702399 | -79.52957
+2284_IB | York Blvd At Keele St West Side | 43.7750199 | -79.49525 | 4634
+914_IB | York Blvd (North) At York University Commons | 43.7740399 | -79.50134 | 11924
+14136 | McNaughton Rd East At Falvo St East Side | 43.86145 | -79.5110799 | 14613
+14137 | McNaughton Rd East At Falvo St | 43.86316 | -79.5020599 | 14614
+14138_ar | Eagle Rock Way At McNaughton Rd West Side | 43.8614099 | -79.50049
+1355_IB | Craigton Dr At Teston Rd | 43.8702399 | -79.52957 | 13598
+7623_IB | Teston Rd At St Joan Of Arc Ave | 43.8715999 | -79.52448 | 13599
+1451_IB | Teston Rd At Keele St | 43.8731999 | -79.51693 | 13600
+7475_IB | 10588 Keele St | 43.8698299 | -79.5158799 | 13601
+1868_ar | Keele St At Drummond Dr | 43.8678399 | -79.51547

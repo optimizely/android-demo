@@ -1,0 +1,74 @@
+463 | Exhibition Loop At Manitoba Dr | 43.6362499 | -79.41559 | 12584
+7734 | Fleet St At Strachan Ave | 43.63619 | -79.4102399 | 1062
+1910 | Fleet St At Fort York Blvd | 43.63633 | -79.4071 | 1058
+14641 | Fleet St At Bathurst St | 43.63649 | -79.4000199 | 14864
+2380 | Bathurst St At Fort York Blvd | 43.6386799 | -79.4004599 | 13672
+10014 | Bathurst St At Wellington St West | 43.6425799 | -79.4020499 | 0217
+7197 | Bathurst St At King St West | 43.6437899 | -79.4025099 | 0161
+3000 | Bathurst St At Adelaide St West | 43.645 | -79.40301 | 0078
+15051 | Bathurst St At Queen St W | 43.6471599 | -79.4038699 | 15230
+4029 | Bathurst St At Carr St North Side | 43.6493399 | -79.40472 | 0103
+4322 | Bathurst St At Dundas St West (Toronto Western Hospital) | 43.6521799 | -79.4058699 | 0126
+6072 | Bathurst St At Nassau St (Toronto Western Hospital) | 43.6541999 | -79.4066999 | 0177
+3455 | Bathurst St At College St | 43.65626 | -79.40753 | 0110
+8508 | Bathurst St At Ulster St | 43.6597299 | -79.40894 | 0212
+7317 | Bathurst St At Harbord St | 43.6614199 | -79.4096199 | 0148
+9659 | Bathurst St At Lennox St | 43.66372 | -79.41052 | 0167
+5953 | Bathurst St At Bloor St West | 43.66503 | -79.41107 | 0096
+3195 | Bathurst St At Barton Ave | 43.6680399 | -79.41225 | 0092
+5400 | Bathurst St At Wells St | 43.6699999 | -79.4130199 | 0219
+5475 | Bathurst St At Dupont St | 43.6730499 | -79.4142199 | 0128
+1857 | Bathurst St At Bridgman Ave | 43.67499 | -79.415 | 0153
+4858 | Bathurst St At Davenport Rd | 43.67651 | -79.41559 | 0117
+6550 | Bathurst St At Nina St | 43.6797199 | -79.4168699 | 0180
+1066 | Bathurst St At Helena Ave | 43.6809199 | -79.4173499 | 0152
+707 | Bathurst St At St Clair Ave West North Side | 43.6835399 | -79.41834 | 0202
+6335 | Bathurst St At Tichester Rd | 43.68529 | -79.41909 | 0211
+9464 | Bathurst St At Lonsdale Rd | 43.6868599 | -79.4197299 | 0168
+7806 | Bathurst St At Heathdale Rd | 43.68883 | -79.42053 | 0151
+5668 | Bathurst St At Burton Rd | 43.6917899 | -79.4217299 | 0101
+5634 | Bathurst St At Ardmore Rd | 43.6935999 | -79.4224599 | 0083
+4889 | Bathurst St At Elderwood Dr | 43.69517 | -79.4231 | 0132
+6297 | Bathurst St At Ava Rd | 43.69785 | -79.4242 | 0087
+5037 | Bathurst St At Dewbourne Ave | 43.69889 | -79.42462 | 0120
+6993 | Bathurst St At Eglinton Ave West | 43.7008399 | -79.4253599 | 0130
+9198 | Bathurst St At Vesta Dr | 43.7031499 | -79.42575 | 0214
+3099 | Bathurst St At Roselawn Ave | 43.7050099 | -79.4261999 | 0195
+5979 | Bathurst St At Briar Hill Ave | 43.7077299 | -79.4269199 | 0098
+4324 | Bathurst St At Lytton Blvd | 43.71038 | -79.42753 | 0171
+386 | Bathurst St At Glencairn Ave | 43.71224 | -79.42798 | 0143
+4934 | Bathurst St At Glengrove Ave | 43.7141199 | -79.4284499 | 0145
+7973 | Bathurst St At Shelborne Ave | 43.7159299 | -79.4288799 | 0197
+8831 | Bathurst St At Caribou Rd | 43.71753 | -79.42925 | 0102
+1320 | Bathurst St At Lawrence Ave West | 43.71909 | -79.42961 | 0165
+5538 | Bathurst St At Douglas Ave | 43.7207099 | -79.42999 | 0124
+7605 | Bathurst St At Woburn Ave | 43.7224299 | -79.4303899 | 0224
+2493 | Bathurst St At Fairlawn Ave | 43.7247099 | -79.4309199 | 0135
+2005 | Bathurst St At Melrose Ave | 43.72719 | -79.4315 | 0175
+9721 | Bathurst St At Baycrest Ave | 43.7295199 | -79.4320399 | 0094
+4496 | Bathurst St At Bannockburn Ave | 43.7311999 | -79.4324399 | 0091
+3942 | Bathurst St At Joicey Blvd | 43.7338399 | -79.4330699 | 0158
+7994 | Bathurst St At Wilson Ave | 43.7371899 | -79.4338299 | 0221
+1164 | Bathurst St At Southbourne Ave | 43.7382699 | -79.43412 | 0220
+15024 | Bathurst St At Invermay Ave | 43.74141 | -79.43487 | 15196
+3326 | Bathurst St At Raeburn Ave | 43.7441699 | -79.4355799 | 0188
+2817 | Bathurst St At York Downs Dr | 43.7470599 | -79.4362999 | 0227
+7835 | Bathurst St At Danby Ave North Side | 43.74925 | -79.43683 | 0115
+6400 | Bathurst St At Bainbridge Ave | 43.7506099 | -79.4371599 | 0089
+1270 | Bathurst St At McAllister Rd North Side | 43.75352 | -79.43787 | 0174
+6054 | Bathurst St At Sheppard Ave West | 43.7551999 | -79.4382599 | 0199
+3605 | Bathurst St At Codsell Ave | 43.7583899 | -79.4390399 | 0108
+9550 | Opposite 4600 Bathurst St | 43.7623199 | -79.4400099 | 0226
+1262 | Bathurst St At Ellerslie Ave North Side | 43.7658899 | -79.4408599 | 0133
+7388 | Bathurst St At Horsham Ave | 43.76843 | -79.44153 | 0155
+4932 | Bathurst St At Stafford Rd | 43.77028 | -79.44196 | 0205
+4216 | Bathurst St At Yorkview Dr | 43.7722299 | -79.4424499 | 0230
+2035 | Bathurst St At Finch Ave West | 43.7736099 | -79.4427599 | 0136
+8080 | 4979 Bathurst St | 43.7755999 | -79.4433 | 0085
+6331 | Bathurst St At Kenton Dr | 43.7779799 | -79.4439199 | 0160
+1793 | Bathurst St At Drewry Ave | 43.78078 | -79.44458 | 0125
+1891 | Bathurst St At Patricia Ave North Side | 43.7842 | -79.44544 | 0184
+8137 | Bathurst St At Dewlane Dr | 43.7858299 | -79.4458499 | 0122
+10065 | 6101 Bathurst St | 43.7873999 | -79.4462999 | 0183
+837 | Steeles Ave West At Bathurst St East Side | 43.7925999 | -79.44458 | 1585
+8853_ar | Village Gate At Steeles Ave West | 43.7925899 | -79.44068

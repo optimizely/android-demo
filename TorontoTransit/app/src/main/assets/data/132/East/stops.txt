@@ -1,0 +1,39 @@
+14279 | Scarborough Centre Station | 43.7741499 | -79.25864 | 14760
+9276 | Triton Rd At McCowan Rd | 43.77532 | -79.2529599 | 9614
+2541 | McCowan Rd At Progress Ave North Side | 43.7766499 | -79.2528899 | 1313
+2286 | McCowan Rd At Highway 401 | 43.78257 | -79.25523 | 12078
+7888 | Milner Ave At McCowan Rd East Side | 43.7854999 | -79.25566 | 1361
+3570 | Opposite 44 Milner Ave | 43.7849899 | -79.2536899 | 1369
+6788 | 75 Milner Ave | 43.7840599 | -79.25135 | 1357
+2366 | 115 Milner Ave | 43.7847 | -79.2483899 | 1366
+1004 | 125 Milner Ave | 43.7852999 | -79.24611 | 1367
+2354 | Milner Ave At Executive Crt | 43.7864999 | -79.24248 | 1358
+10094 | Opposite 210 Milner Ave | 43.7883399 | -79.2407 | 9412
+5403 | Milner Ave At Markham Rd | 43.78945 | -79.2373899 | 1360
+10180 | Milner Ave At Progress Ave East Side | 43.7903899 | -79.23308 | 1368
+2363 | Milner Ave At Novopharm Crt | 43.79084 | -79.2308799 | 1364
+6366 | 525 Milner Ave | 43.7926299 | -79.22645 | 1354
+7495 | 601 Milner Ave | 43.79398 | -79.2231999 | 1355
+9368 | Milner Ave At Burrows Hall Blvd | 43.79475 | -79.2197499 | 9548
+3947 | Milner Ave At Neilson Rd East Side | 43.7955499 | -79.21597 | 9549
+6670 | 709 Milner Ave | 43.79604 | -79.2137899 | 14079
+6126 | 715 Milner Ave (Honda Plant-West Entrance) | 43.7960499 | -79.21004 | 11795
+2393 | 715 Milner Ave (Honda Plant-East Entrance) | 43.79678 | -79.2067199 | 9550
+6023 | Milner At Cinemart Dr | 43.7975699 | -79.20448 | 12065
+8046 | Murison Blvd At Milner Ave North Side | 43.79927 | -79.20254 | 9723
+9147 | 150 Murison Blvd | 43.8001399 | -79.20468 | 9551
+2367 | Murison Blvd At Breckon Gate | 43.7997699 | -79.2062299 | 9552
+2023 | Breckon Gate At Sheppard Ave East | 43.80027 | -79.20676 | 9553
+3992 | Brenyon Way At Foregate Ave | 43.80167 | -79.20729 | 9837
+2818 | Brenyon Way At Walkway To John Tabor Trail | 43.80354 | -79.20817 | 9838
+2814 | Brenyon Way At John Tabor Trail | 43.8055299 | -79.2113099 | 9839
+6905 | Brenyon Way At Pioneer Pathway | 43.8064499 | -79.2137699 | 9840
+9580 | Brenyon Way At Sewells Rd | 43.8076099 | -79.2153699 | 9841
+3944 | Sewells Rd At Alford Cres | 43.8091299 | -79.21395 | 9842
+10050 | McLevin Ave At Sewells Rd West Side | 43.81055 | -79.21467 | 9589
+8474 | McLevin Ave At Pennyhill Dr | 43.81055 | -79.2175799 | 9590
+4406 | McLevin Ave At Hupfield Trail | 43.81045 | -79.21981 | 9591
+2664 | Hupfield Trail At Horseshoe Cres (North) | 43.8124599 | -79.22057 | 11623
+2564 | Hupfield Trail At Lady Bower Cres (South) North Side | 43.81496 | -79.2187999 | 11624
+2665 | Hupfield Trail At Overlord Cres (East) East Side | 43.8161199 | -79.21685 | 11625
+6959_ar | Sewells Rd At Hupfield Trail West Side | 43.8144099 | -79.21353

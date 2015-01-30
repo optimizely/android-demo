@@ -1,0 +1,30 @@
+14232 | Kennedy Station | 43.7325199 | -79.26389 | 14713
+1187 | Kennedy Rd At Eglinton Ave South Side | 43.73185 | -79.2679899 | 2753
+5488 | Kennedy Rd At Kenmark Blvd | 43.73029 | -79.26732 | 2757
+3558 | Kennedy Rd At Merrian Rd South Side | 43.72716 | -79.26596 | 2759
+7266 | Kennedy Rd At Corvette Ave | 43.72537 | -79.26515 | 2755
+4067 | Kennedy Rd At Foxridge Dr | 43.72417 | -79.26468 | 2754
+4607 | Kennedy Rd At Summer Dr South Side | 43.7218699 | -79.2636399 | 2765
+1828 | Opposite 519 Kennedy Rd (Cemetery) | 43.7194299 | -79.2625799 | 2747
+8589 | Kennedy Rd At St Clair Ave East | 43.71676 | -79.2615399 | 2763
+9058 | Kennedy Rd At Danforth Rd | 43.7150099 | -79.26106 | 2751
+6150 | Danforth Rd At Hubert Ave | 43.7139299 | -79.26155 | 1848
+2933 | Danforth Rd At Marsh Rd | 43.71182 | -79.2628399 | 1854
+14842 | Danforth Rd At North Woodrow Blvd | 43.71037 | -79.2645799 | 15062
+6752 | Danforth Rd At Birchmount Rd West Side | 43.7066599 | -79.26847 | 1844
+6853 | 400 Danforth Rd (Birchmount Garage) | 43.7053399 | -79.26928 | 1840
+4841 | Opposite 347 Danforth Rd | 43.7034399 | -79.27049 | 1862
+2272 | 300 Danforth Rd | 43.70178 | -79.2716899 | 1850
+7532 | Danforth Rd At Mack Ave | 43.70027 | -79.2728199 | 1853
+7242 | Danforth Rd At Medford Ave | 43.69914 | -79.2735799 | 1856
+1357 | Danforth Rd At Warden Ave | 43.6976699 | -79.2747799 | 9441
+3150 | Danforth Rd At McDonald Ave West Side | 43.69578 | -79.2758299 | 1855
+1971 | Danforth Ave At Leyton Ave West Side | 43.6935199 | -79.27836 | 1833
+2416 | Danforth Ave At August Ave | 43.6929099 | -79.28109 | 1831
+2245 | Danforth Ave At Pharmacy Ave | 43.6924399 | -79.2832 | 1836
+7491 | Danforth Ave At St Dunstan Dr West Side | 43.6918599 | -79.2858399 | 1838
+3960 | Danforth Ave At Victoria Park Ave | 43.69139 | -79.2880099 | 1839
+1321 | Danforth Ave At Sibley Ave | 43.6903499 | -79.29247 | 1837
+7164 | Danforth Ave At Dawes Rd | 43.68942 | -79.2966099 | 1832
+7627 | 2666 Danforth Ave | 43.6888 | -79.2993199 | 13464
+14257_ar | Main St Station | 43.6891599 | -79.30148

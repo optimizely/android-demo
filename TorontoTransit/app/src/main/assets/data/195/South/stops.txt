@@ -1,0 +1,15 @@
+914 | York Blvd (North) At York University Commons | 43.7740399 | -79.50134 | 11924
+8682 | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185 | 1173
+8895 | Jane St At Shoreham Dr | 43.7689299 | -79.52052 | 3923
+662 | Jane St At Finch Ave West South Side | 43.7563999 | -79.51763 | 3891
+2567 | Jane St At Sheppard Ave West | 43.7395299 | -79.51339 | 3921
+8970 | Jane St At Wilson Ave South Side | 43.7204299 | -79.50864 | 3941
+3647 | Jane St At Gordon Mackay Rd South Side | 43.71515 | -79.50724 | 3898
+807 | Jane St At Church St | 43.7095099 | -79.5056799 | 3872
+9547 | Jane St At Lawrence Ave West | 43.7031399 | -79.50394 | 3907
+661 | Jane St At Trethewey Dr | 43.69783 | -79.50256 | 3878
+1383 | Jane St At Weston Rd | 43.6916899 | -79.5011099 | 3935
+9130 | Jane St At Eglinton Ave West South Side | 43.6840599 | -79.49886 | 3887
+6797 | Jane St At Foxwell St | 43.6717599 | -79.4938599 | 3895
+5556 | Jane St At Dundas St West South Side | 43.6651799 | -79.4910399 | 3881
+14222_ar | Jane Station | 43.6500699 | -79.4836

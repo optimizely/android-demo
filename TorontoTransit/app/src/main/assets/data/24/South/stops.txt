@@ -1,0 +1,89 @@
+8054 | Markland St At Major Mackenzie Dr East | 43.8844199 | -79.37298 | 13400
+5016 | Major Mackenzie Dr East At Woodbine Ave | 43.88515 | -79.3704399 | 14152
+4686 | Woodbine Ave At Oakford Dr | 43.8812799 | -79.3662199 | 13402
+7051 | Woodbine Ave At Hillmount Rd | 43.8769999 | -79.3651499 | 13403
+1337 | Woodbine Ave At Markland St | 43.8717499 | -79.3638399 | 13404
+2187 | Woodbine Ave At 16th Ave | 43.8680399 | -79.3629499 | 13405
+8340 | Woodbine Ave At Millbrook Gate | 43.8644099 | -79.3619899 | 13406
+3673 | Woodbine Ave At Hooper Rd | 43.8596499 | -79.3607899 | 13407
+1538 | Woodbine Ave At Valleywood Dr | 43.8570299 | -79.36012 | 11497
+4749 | Woodbine Ave At Centurian Dr | 43.85418 | -79.3593499 | 9767
+5961 | Woodbine Ave At Highway 7 | 43.8500799 | -79.3582399 | 9768
+5529 | Woodbine Ave At Lanark Dr | 43.84613 | -79.3572899 | 9769
+1885 | Woodbine Ave At Burncrest Rd | 43.83798 | -79.35518 | 9770
+5552 | Woodbine Ave At Shields Crt | 43.8358999 | -79.3546299 | 12074
+4354 | Woodbine Ave At 14th Ave | 43.8318899 | -79.3535899 | 9771
+2021 | Woodbine Ave At Riviera Dr South Side | 43.83046 | -79.3532 | 10572
+4135 | Woodbine Ave At John St South Side | 43.8254599 | -79.3518499 | 9772
+2728 | Denison St At Woodbine Ave East Side | 43.82221 | -79.34977 | 9773
+4991 | Denison St At Victoria Park Ave | 43.82289 | -79.3461699 | 12373
+9488 | Victoria Park Ave At Steelcase Rd East | 43.82134 | -79.34496 | 9775
+6445 | Victoria Park Ave At Ibm | 43.8185599 | -79.34274 | 13965
+3956 | Victoria Park Ave At Steeles Ave East | 43.8159199 | -79.3415699 | 8509
+6055 | Victoria Park Ave At Steeles Ave East South Side | 43.81504 | -79.34123 | 8510
+3149 | 3900 Victoria Park Ave | 43.81289 | -79.34022 | 9523
+7009 | Victoria Park Ave At Gordon Baker Rd | 43.8107499 | -79.3393599 | 8465
+7592 | Victoria Park Ave At Sparks Ave | 43.80864 | -79.33849 | 8503
+2326 | Victoria Park Ave At Tempo Ave | 43.80652 | -79.33754 | 8516
+2609 | Victoria Park Ave At McNicoll Ave | 43.8042099 | -79.3365099 | 8479
+3931 | Victoria Park Ave At Navaho Dr | 43.8005399 | -79.33487 | 8487
+9293 | Victoria Park Ave At Pawnee Ave | 43.79817 | -79.33381 | 8492
+1194 | Victoria Park Ave At Hare Gate | 43.7960899 | -79.3328899 | 8468
+4878 | Victoria Park Ave At Finch Ave East | 43.79336 | -79.33169 | 8461
+5515 | Victoria Park Ave At Ernest Ave | 43.7918699 | -79.33094 | 8458
+9737 | Victoria Park Ave At Van Horne Ave | 43.7893499 | -79.3297699 | 8521
+2670 | Victoria Park Ave At Pleasant View Dr | 43.78582 | -79.3281 | 7421
+3660 | Victoria Park Ave At Clydesdale Dr | 43.7839599 | -79.3272299 | 8438
+1487 | Opposite 2791 Victoria Park Ave | 43.7821899 | -79.3263899 | 8489
+6220 | Victoria Park Ave At Old Sheppard Ave | 43.78046 | -79.32557 | 8488
+4225 | Victoria Park Ave At Patrick Blvd | 43.7778299 | -79.3243499 | 7420
+7615 | Victoria Park Ave At Sheppard Ave East | 43.7755199 | -79.3232899 | 7426
+9920 | Victoria Park Ave At Lansing Sq | 43.7735699 | -79.32239 | 7413
+3012 | Victoria Park Ave At Consumers Rd | 43.7721099 | -79.3217399 | 7411
+9946 | Victoria Park Ave At York Mills Rd South Side | 43.7627199 | -79.31752 | 8523
+4218 | Victoria Park Ave At Paget Rd South Side | 43.75974 | -79.31618 | 7418
+10088 | Victoria Park Ave At Parkwoods Village Dr | 43.75805 | -79.31546 | 8490
+7892 | Victoria Park Ave At Combermere Dr South Side | 43.7557899 | -79.31464 | 8439
+8530 | Victoria Park Ave At Cassandra Blvd | 43.75445 | -79.31414 | 10730
+8006 | Victoria Park Ave At Ivordale Cres (South) South Side | 43.7528599 | -79.3136299 | 8472
+1986 | Victoria Park Ave At Rowena Dr | 43.7516 | -79.31315 | 14272
+8310 | Victoria Park Ave At Curlew Dr South Side | 43.7474599 | -79.3117699 | 8445
+1453 | Victoria Park Ave At Deanvar Ave South Side | 43.7451599 | -79.3109599 | 8448
+1401 | Victoria Park Ave At Lawrence Ave East | 43.74231 | -79.31001 | 8478
+749 | Victoria Park Ave At Sloane Ave | 43.7388499 | -79.30861 | 8500
+6829 | Victoria Park Ave At Sweeney Dr South Side | 43.73655 | -79.30766 | 8513
+2717 | Victoria Park Ave At Ruscica Dr | 43.7347499 | -79.3069199 | 8496
+1803 | Victoria Park Ave At Draycott Dr South Side | 43.73208 | -79.30583 | 8450
+1781 | Victoria Park Ave At Elvaston Dr South Side | 43.7294999 | -79.3047699 | 8457
+3970 | Victoria Park Ave At Jonesville Cres South Side | 43.72617 | -79.30339 | 8441
+9280 | Victoria Park Ave At Eglinton Ave East | 43.7248799 | -79.3029099 | 8453
+2096 | Victoria Park Ave At Oconnor Dr South Side | 43.7228299 | -79.30202 | 8427
+7775 | Victoria Park Ave At Southmead Rd South Side | 43.7203999 | -79.3009599 | 8501
+6820 | Victoria Park Ave At Valdane Dr | 43.7187199 | -79.3002499 | 8520
+2517 | Victoria Park Ave At Parma Crt South Side | 43.7164099 | -79.2992799 | 8491
+8750 | Victoria Park Ave At Amsterdam Ave South Side | 43.7148699 | -79.2986199 | 8429
+4046 | Victoria Park Ave At Yardley Ave | 43.71388 | -79.2982 | 8522
+7449 | Victoria Park Ave At Furnival Rd | 43.71256 | -79.29764 | 8463
+9831 | Victoria Park Ave At Peard Rd | 43.7107799 | -79.2968899 | 8493
+6315 | Victoria Park Ave At St Clair Ave East | 43.70897 | -79.29622 | 8504
+9165 | Victoria Park Ave At Dawes Rd South Side | 43.7062099 | -79.29494 | 8447
+5235 | Victoria Park Ave At Ripon Rd | 43.70388 | -79.2939 | 8495
+7331 | Victoria Park Ave At Brenton St | 43.7022999 | -79.2932499 | 8436
+5208 | Victoria Park Ave At Medhurst Rd | 43.70073 | -79.29257 | 8482
+14797 | Victoria Park Ave At Crescent Town Rd South Side | 43.6964299 | -79.2904499 | 15026
+14734_ar | Victoria Park Station | 43.6943399 | -79.28938
+14148 | Don Mills Station | 43.7759299 | -79.34561 | 14626
+5480 | Sheppard Ave East At Parkway Forest Dr East Side | 43.77588 | -79.3429299 | 13705
+4699 | 2025 Sheppard Ave East | 43.7754899 | -79.3354399 | 7190
+6700 | Consumers Rd At Sheppard Ave East South Side | 43.7744799 | -79.33151 | 13683
+10234 | Yorkland Blvd (North) At Consumers Rd West Side | 43.7737499 | -79.3325299 | 7476
+2941 | 279 Yorkland Blvd (North) | 43.77334 | -79.3344099 | 7475
+3439 | Yorkland Blvd (North) At Yorkland Rd | 43.77298 | -79.3359499 | 7477
+7789 | 185 Yorkland Blvd | 43.7712799 | -79.3353599 | 13684
+3984 | Yorkland Blvd (South) At Consumers Rd | 43.7710899 | -79.33203 | 13685
+6666 | 251 Consumers Rd | 43.77039 | -79.33023 | 13686
+8828 | 501 Consumers Rd | 43.7706599 | -79.32753 | 12352
+5137 | Consumers Rd At Hallcrown Pl | 43.7715399 | -79.32344 | 13687
+14733_ar | Victoria Park Station | 43.6943199 | -79.28841
+8504 | Victoria Park Ave At Danforth Ave | 43.6913699 | -79.28851 | 4690
+3243_ar | Bingham Loop East Side | 43.6814999 | -79.28485

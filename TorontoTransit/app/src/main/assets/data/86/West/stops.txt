@@ -1,0 +1,61 @@
+4666 | Beechgrove Dr At Coronation Dr | 43.7669699 | -79.15839 | 3318
+3735 | 640 Coronation Dr | 43.76651 | -79.1596099 | 3446
+9650 | Coronation Dr At Chemical Crt | 43.7656 | -79.1631099 | 3450
+7283 | Coronation Dr At Wallsend Dr | 43.7645599 | -79.16727 | 3456
+3002 | 470 Coronation Dr | 43.76454 | -79.16901 | 3445
+7704 | Coronation Dr At Manse Rd | 43.7645 | -79.1731299 | 3454
+4386 | Manse Rd At Deanscroft Sq North Side | 43.76551 | -79.17413 | 4459
+6553 | Manse Rd At Hainford St | 43.7683399 | -79.1753299 | 4462
+6231 | Lawrence Ave East At Manse Rd West Side | 43.7705599 | -79.17693 | 5285
+6940 | Lawrence Ave East At West Hill Dr | 43.76996 | -79.1796299 | 4427
+3406 | Lawrence Ave East At Collinsgrove Rd | 43.7692599 | -79.18269 | 5252
+4235 | Lawrence Ave East At Morningside Ave | 43.7685599 | -79.18579 | 4424
+3774 | Kingston Rd At Poplar Rd | 43.76621 | -79.1910599 | 6496
+2682 | 4314 Kingston Rd | 43.76429 | -79.1928099 | 4202
+4654 | Kingston Rd At Galloway Rd | 43.7624399 | -79.19451 | 4226
+769 | Kingston Rd At Overture Rd | 43.7591499 | -79.19754 | 4249
+8535 | Kingston Rd At Celeste Dr | 43.7572099 | -79.1993 | 4213
+6525 | Kingston Rd At Dale Ave | 43.75186 | -79.2041399 | 4248
+7581 | Kingston Rd At Cromwell Rd West Side | 43.74935 | -79.2063999 | 6486
+8916 | Kingston Rd At Saunders Rd | 43.7481499 | -79.2075 | 2791
+2034 | Kingston Rd At Scarborough Golf Club Rd | 43.7464 | -79.2091199 | 2793
+1281 | Eglinton Ave East At Kingston Rd West Side | 43.74404 | -79.2123 | 2282
+8596 | Eglinton Ave East At Cedar Dr | 43.7440799 | -79.21538 | 2257
+715 | Eglinton Ave East At Markham Rd | 43.7433599 | -79.21857 | 11282
+1933 | Eglinton Ave East At Beachell St | 43.74263 | -79.2218899 | 2242
+10176 | Eglinton Ave East At Mason Rd | 43.74194 | -79.2249499 | 2291
+2440 | Eglinton Ave East At Bellamy Rd North | 43.74042 | -79.2318699 | 2243
+7941 | Eglinton Ave East At Torrance Rd West Side | 43.73952 | -79.2357699 | 1040
+3042 | Eglinton Ave East At McCowan Rd | 43.7389799 | -79.23819 | 2293
+4553 | Eglinton Ave East At Barbados Blvd | 43.73833 | -79.2411099 | 2237
+2909 | Eglinton Ave East At Oswego Rd | 43.73779 | -79.2434499 | 2297
+8136 | Eglinton Ave East At Danforth Rd | 43.7372999 | -79.24571 | 2260
+2463 | Eglinton Ave East At Brimley Rd | 43.7368499 | -79.24785 | 10140
+317 | Eglinton Ave East At Brimley Rd West Side | 43.73665 | -79.2487599 | 2253
+4194 | Eglinton Ave East At Gilder Dr | 43.73577 | -79.2529699 | 1033
+8550 | Eglinton Ave East At Huntington Ave West Side | 43.7350899 | -79.25601 | 1034
+323 | Eglinton Ave East At Midland Ave West Side | 43.7344699 | -79.25888 | 1036
+5465 | 2466 Eglinton Ave East (Rainbow Village) | 43.7340999 | -79.26044 | 6365
+9949 | North Service Rd At Eglinton Ave East | 43.73305 | -79.2654799 | 1038
+14234_ar | Kennedy Station | 43.7326599 | -79.26348
+465 | Toronto Zoo Loop (Westbound) | 43.8198199 | -79.17997 | 6528
+1676 | Park Rd (Zoo) At Kirkhams Rd East Side | 43.81814 | -79.17511 | 9672
+574 | Meadowvale Rd At Sheppard Ave East | 43.8085999 | -79.1710099 | 6575
+5746 | Meadowvale Rd At Rotary Dr | 43.8068599 | -79.17013 | 6579
+4306 | Meadowvale Rd At Dean Park Rd | 43.80434 | -79.16894 | 6578
+5782 | Meadowvale Rd At Euclid Ave | 43.79614 | -79.1651699 | 6568
+6652 | Meadowvale Rd At Muirbank Blvd | 43.7937199 | -79.1640799 | 10257
+8708 | Meadowvale Rd At Ellesmere Rd | 43.79266 | -79.1637399 | 6566
+3993 | Meadowvale Rd At White Ave | 43.7912599 | -79.1632799 | 6577
+3596 | Meadowvale Rd At Kingston Rd | 43.7888699 | -79.1622399 | 6570
+5712 | Kingston Rd At Choiceland Blvd | 43.78723 | -79.1646299 | 10914
+5628 | Kingston Rd At Franklin Ave West Side | 43.7860699 | -79.16646 | 6622
+6039 | Kingston Rd At Deep Dene Dr | 43.78508 | -79.1680399 | 6621
+7330 | 6070 Kingston Rd | 43.7833499 | -79.16939 | 6620
+8534 | Kingston Rd At Military Trail | 43.78139 | -79.1699699 | 6493
+2011 | Kingston Rd At Beechgrove Dr | 43.77671 | -79.1734599 | 6484
+7157 | Kingston Rd At Manse Rd | 43.7749999 | -79.17774 | 6491
+8047 | Kingston Rd At Old Kingston Rd | 43.77418 | -79.1829099 | 13694
+15034 | Kingston Rd At Amiens Rd | 43.77275 | -79.1850199 | 15222
+7335 | Kingston Rd At Morningside Ave | 43.77097 | -79.1866899 | 6495
+6152 | Kingston Rd At Lawrence Ave East | 43.7678199 | -79.18958 | 6487

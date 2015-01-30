@@ -1,0 +1,16 @@
+14214 | Greenwood Station | 43.6825799 | -79.33042 | 14694
+7322 | Greenwood Ave At Danforth Ave South Side | 43.6811799 | -79.3323299 | 3670
+6923 | Greenwood Ave At Oakvale Ave South Side | 43.6794099 | -79.3316099 | 3683
+3569 | Greenwood Ave At Felstead Ave | 43.67812 | -79.33107 | 3676
+8772 | Greenwood Ave At Torbrick Rd South Side | 43.6758699 | -79.3301399 | 3687
+9573 | Greenwood Ave At Ivy Ave | 43.6735399 | -79.3291799 | 3680
+8962 | Greenwood Ave At Gerrard St East | 43.6710199 | -79.3281299 | 3678
+2866 | Greenwood Ave At Athletic Ave | 43.6696299 | -79.32755 | 3669
+796 | Greenwood Ave At Dundas St East | 43.6678099 | -79.3268099 | 3674
+3228 | Greenwood Ave At Dorothy St | 43.6661799 | -79.3261199 | 3672
+5985 | Greenwood Ave At Queen St East | 43.6645399 | -79.32546 | 3685
+3385 | Queen St East At Alton Ave | 43.6638699 | -79.32775 | 3029
+459 | Leslie St At Queen St East South Side | 43.6627899 | -79.3300799 | 11377
+4148 | Eastern Ave At Leslie St East Side | 43.6616999 | -79.32857 | 13926
+10030 | Eastern Ave At Knox Ave | 43.6624299 | -79.32536 | 13483
+2266_ar | Eastern Ave At Minto St (Post Office) East Side | 43.6629199 | -79.32322

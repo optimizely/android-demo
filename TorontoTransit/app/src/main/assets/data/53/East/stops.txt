@@ -1,0 +1,71 @@
+14204 | Finch Station | 43.7807299 | -79.41475 | 14684
+1805 | Yonge St At Bishop Ave North Side (Finch Station) | 43.78219 | -79.41601 | 3212
+12888 | 5799 Yonge St | 43.7849499 | -79.4166799 | 14447
+1100 | Yonge St At Cummer Ave | 43.7869199 | -79.41716 | 8975
+9807 | Yonge St At Patricia Ave | 43.7900699 | -79.4179099 | 9034
+5220 | Yonge St At Centre Ave | 43.79147 | -79.41829 | 8968
+3152 | Yonge St At Madawaska Ave | 43.7936499 | -79.41883 | 9024
+5025 | Yonge St At Athabaska Ave | 43.7953 | -79.41923 | 8955
+3133 | Yonge St At Steeles Ave East | 43.79784 | -79.41974 | 9058
+3170 | Steeles Ave East At Dumont St | 43.7985799 | -79.41718 | 8217
+7194 | Steeles Ave East At Willowdale Ave | 43.79916 | -79.4145899 | 8246
+7906 | Steeles Ave East At Lillian St East Side | 43.7998399 | -79.41154 | 8230
+5229 | Steeles Ave East At Walkway To Whitman St | 43.8003 | -79.4094399 | 8245
+15101 | Steeles Ave E At Maxome Ave | 43.8009499 | -79.40638 | 15238
+15102 | Steeles Ave E At Conacher Dr | 43.8021399 | -79.40096 | 15239
+9717 | Steeles Ave East At Bayview Ave | 43.80296 | -79.3973399 | 8211
+8190 | Steeles Ave East At Tarbert Rd | 43.8040699 | -79.39212 | 8236
+5348 | Steeles Ave East At Valloncliffe Rd | 43.8048999 | -79.38837 | 8239
+8507 | Steeles Ave East At Laureleaf Rd | 43.8054399 | -79.38587 | 8226
+953 | Steeles Ave East At Bestview Dr East Side | 43.8060499 | -79.38306 | 8212
+6674 | Steeles Ave East At Bluffwood Dr | 43.80757 | -79.3762399 | 8214
+5660 | 1925 Steeles Ave East | 43.8079499 | -79.37439 | 10228
+1979 | Steeles Ave East At Leslie St | 43.8082699 | -79.37294 | 8228
+6812 | Steeles Ave East At Paul Markway East Side | 43.8089699 | -79.36984 | 6140
+4696 | Steeles Ave East At Waggoners Wells Lane | 43.8097499 | -79.36677 | 6142
+6794 | Steeles Ave East At Edgar Woods Rd | 43.81063 | -79.3629999 | 6138
+5356 | Steeles Ave East At Don Mills Rd | 43.8110299 | -79.36101 | 6137
+4582 | Steeles Ave East At Townsend Rd | 43.8117799 | -79.35772 | 8237
+3064 | Steeles Ave East At Woodbine Ave | 43.81376 | -79.3489099 | 13339
+9177 | 3381 Steeles Ave East | 43.8148299 | -79.34425 | 8209
+8613 | Steeles Ave East At Victoria Park Ave | 43.8154299 | -79.3418 | 8243
+8857 | Steeles Ave East At Pharmacy Ave | 43.8166699 | -79.33684 | 8234
+9669 | Steeles Ave East At Firebrace Rd | 43.8177199 | -79.3323 | 8221
+3601 | Steeles Ave East At Ferrier St | 43.81828 | -79.3298999 | 10093
+6833 | Steeles Ave East At Acadia Ave | 43.8187999 | -79.32771 | 8244
+834 | Steeles Ave East At Warden Ave | 43.81947 | -79.3247699 | 9344
+8313 | Steeles Ave East At Mount Castle Gate | 43.8204199 | -79.32063 | 9345
+829 | Steeles Ave East At Birchmount Rd | 43.8212 | -79.3172599 | 9346
+3318 | Steeles Ave East At Kelvin Grove Ave | 43.8223499 | -79.31241 | 9347
+9349 | Steeles Ave East At Kennedy Rd | 43.8234999 | -79.30735 | 9780
+9530 | Steeles Ave East At Redlea Ave | 43.8239899 | -79.30535 | 14256
+7042 | Steeles Ave East At Milliken Go Station | 43.8246799 | -79.30255 | 10478
+8602 | Steeles Ave East At Silver Star Blvd | 43.82512 | -79.3004799 | 9781
+1707 | Steeles Ave East At Midland Ave | 43.8257599 | -79.29763 | 9782
+8676 | Steeles Ave East At Ashcott St | 43.8270999 | -79.29211 | 9783
+1464 | Steeles Ave East At Walkway To Scoville Sq | 43.82786 | -79.2887399 | 9784
+2982 | Steeles Ave East At Brimley Rd | 43.82813 | -79.2875599 | 9828
+9617 | Steeles Ave East At Opposite Walkway To Dairis Cres | 43.8290399 | -79.28353 | 9881
+2301 | Steeles Ave East At Strawberry Hills Dr | 43.82969 | -79.2805799 | 9829
+6724 | Steeles Ave East At Walkway To Enchanted Hills Cres | 43.8303199 | -79.27781 | 9830
+8286 | Steeles Ave At McCowan Rd | 43.8308799 | -79.27554 | 10919
+7375 | Steeles Ave East At Opposite Walkway To Norm Cres | 43.8322099 | -79.26991 | 12076
+832 | Steeles Ave East At Middlefield Rd | 43.8325299 | -79.26813 | 11606
+10464 | 5671 Steeles Ave East | 43.8333299 | -79.26488 | 14374
+1636 | Steeles Ave East At Shadlock St | 43.83411 | -79.2614199 | 11608
+10465 | Steeles Ave East At Opposite Walkway To Irenemount Cres | 43.8349599 | -79.25788 | 14375
+10454 | Steeles Ave East At Marydale Ave | 43.8356999 | -79.25461 | 14376
+10476 | Steeles Ave East At Markham Rd | 43.83639 | -79.2515699 | 14377
+14713 | Steeles Ave East At Tapscott Rd | 43.8370799 | -79.24858 | 14981
+10480 | Steeles Ave East At Eastvale Rd East Side | 43.8380099 | -79.24478 | 14378
+10456 | Steeles Ave East At Staines Rd | 43.84075 | -79.2327999 | 14380
+10458 | Staines Rd At Quietbrook Cres (North) | 43.8387299 | -79.23225 | 14382
+14716 | Staines Rd At Solstice Dr | 43.83665 | -79.2317 | 14984
+14717 | Staines Rd At Hepatica St | 43.83484 | -79.2301 | 14985
+14720 | Staines Rd At Boulderbrook Dr | 43.8330099 | -79.2249499 | 14988
+2219 | Staines Rd At Seasons Dr South Side | 43.83016 | -79.2235799 | 14266
+2344 | Staines Rd At Warbler Cir | 43.8267499 | -79.2216699 | 14107
+14714 | Staines Rd At Point Rouge Trail | 43.8255099 | -79.2205799 | 14982
+8378 | 150 Staines Rd West Side | 43.82296 | -79.2189799 | 14264
+10041 | Staines Rd At Mantis Rd | 43.8215399 | -79.22029 | 14086
+14722_ar | Morningside Ave At Staines Rd North Side | 43.8197099 | -79.22169

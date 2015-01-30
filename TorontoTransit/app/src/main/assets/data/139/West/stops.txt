@@ -1,0 +1,35 @@
+8422 | Neilson Rd At Crow Trail | 43.8123599 | -79.22593 | 1375
+5879 | Crow Trail At McGinty Pl | 43.8135499 | -79.2284199 | 0868
+935 | Crow Trail At Baldoon Rd | 43.8135299 | -79.231 | 0867
+6723 | Baldoon Rd At Finch Ave East | 43.8151299 | -79.23217 | 0075
+2617 | Finch Ave East At Tapscott Rd | 43.8144099 | -79.23692 | 2557
+8611 | 5600 Finch Ave East | 43.81367 | -79.2401099 | 2562
+2325 | Finch Ave East At Markham Rd | 43.8131899 | -79.24274 | 2526
+5604 | 5310 Finch Ave East | 43.81153 | -79.2504699 | 11345
+8784 | Finch Ave East At Tiffield Rd | 43.81103 | -79.2526199 | 2560
+5441 | Finch Ave East At Middlefield Rd | 43.81009 | -79.2574199 | 2533
+7057 | Finch Ave East At Sandhurst Cir (East) | 43.8089899 | -79.26255 | 2545
+3863 | Finch Ave East At McCowan Rd | 43.8082299 | -79.26622 | 2529
+2603 | Finch Ave East At Sandhurst Cir (West) | 43.8073599 | -79.27021 | 2548
+2556 | 4640 Finch Ave East | 43.8064799 | -79.27397 | 11332
+6326 | Finch Ave East At Brimley Rd | 43.80585 | -79.2771299 | 2498
+6179 | Finch Ave East At Alexmuir Blvd | 43.80482 | -79.2819899 | 2483
+5709 | Finch Ave East At Midland Ave | 43.8039099 | -79.28605 | 2535
+8531 | Finch Ave East At Baylawn Dr | 43.8032599 | -79.28866 | 2486
+6098 | Finch Ave East At C.n.r. (West Of Baylawn) | 43.80254 | -79.2915199 | 2499
+6644 | Finch Ave East At Milliken Blvd | 43.8019299 | -79.2941 | 10659
+8503 | Finch Ave East At Kennedy Rd | 43.8014599 | -79.29613 | 2515
+5345 | Finch Ave East At Wayside Ave | 43.80061 | -79.2994399 | 2571
+9113 | Finch Ave East At Opposite Walkway East Of Birchmount Rd | 43.7997499 | -79.30299 | 2568
+1548 | Finch Ave East At Birchmount Rd | 43.79916 | -79.3057299 | 2491
+3127 | Opposite 3501 Finch Ave East (St Aidan) | 43.7981599 | -79.30975 | 2553
+7784 | Finch Ave East At Bridletowne Circle (East) | 43.7976799 | -79.31211 | 2495
+2822 | Finch Ave East At Warden Ave | 43.7969499 | -79.31544 | 2570
+5537 | Finch Ave East At Bridletowne Circle (West) | 43.7960199 | -79.31907 | 2496
+8963 | Finch Ave East At Midblock East Of Pharmacy Ave | 43.795 | -79.3232499 | 2531
+3071 | Finch Ave East At Pharmacy Ave | 43.7945 | -79.3257599 | 2539
+1092 | Finch Ave East At Walkway To Chester Le Blvd | 43.79392 | -79.3279899 | 10603
+9968 | Finch Ave East At Victoria Park Ave | 43.79331 | -79.3310999 | 2566
+1792 | Finch Ave East At Cherokee Blvd | 43.7935499 | -79.33671 | 2503
+2791 | Finch Ave East At Au Large Blvd (Seneca College) | 43.7940999 | -79.34902 | 2549
+14155_ar | Don Mills Station | 43.7759799 | -79.34691

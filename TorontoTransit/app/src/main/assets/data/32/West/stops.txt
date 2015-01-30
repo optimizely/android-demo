@@ -1,0 +1,72 @@
+14194 | Eglinton Station | 43.7054299 | -79.39874 | 14673
+4420 | Eglinton Ave West At Henning Ave | 43.7061999 | -79.40131 | 2360
+10274 | Eglinton Ave West At Lascelles Blvd | 43.70571 | -79.4035199 | 2375
+4903 | Eglinton Ave West At Oriole Pkwy | 43.7052399 | -79.40593 | 2395
+10335 | Eglinton Ave West At Avenue Rd West Side | 43.7045399 | -79.40913 | 2324
+4856 | Eglinton Ave West At Castle Knock Rd | 43.70405 | -79.4113599 | 2336
+9560 | Eglinton Ave West At Heddington Ave | 43.7035699 | -79.41371 | 2359
+4959 | Eglinton Ave West At Gilgorm Rd | 43.70289 | -79.4169299 | 2353
+5260 | Eglinton Ave West At Spadina Rd | 43.7024799 | -79.41884 | 2410
+3129 | Eglinton Ave West At Vesta Dr | 43.7020999 | -79.42071 | 2415
+1700 | Eglinton Ave West At Old Forest Hill Rd | 43.70164 | -79.4229099 | 2391
+1747 | Eglinton Ave West At Bathurst St | 43.70125 | -79.4245999 | 2327
+2087 | Eglinton Ave West At Hilltop Rd | 43.7006499 | -79.42743 | 2361
+10185 | Eglinton Ave West At Old Park Rd | 43.69996 | -79.4306599 | 2392
+14199 | Eglinton West Station | 43.6997 | -79.43608 | 14679
+338 | Eglinton Ave West At Marlee Ave | 43.6981299 | -79.4392 | 2380
+6621 | Eglinton Ave West At Oakwood Ave | 43.6974199 | -79.44256 | 2389
+5268 | Eglinton Ave West At Glenholme Ave | 43.6968499 | -79.44508 | 2358
+8476 | Eglinton Ave West At Locksley Ave | 43.69641 | -79.4471299 | 2378
+5807 | Eglinton Ave West At Dufferin St | 43.6957899 | -79.45007 | 2341
+4801 | Eglinton Ave West At Ennerdale Rd | 43.69506 | -79.4533199 | 2350
+1626 | Eglinton Ave West At Ronald Ave | 43.69425 | -79.4569699 | 2337
+7642 | Eglinton Ave West At Montcalm Ave | 43.6937 | -79.4595499 | 2385
+5453 | Eglinton Ave West At Caledonia Rd | 43.6931799 | -79.46177 | 2335
+6323 | Eglinton Ave West At Blackthorn Ave | 43.6920399 | -79.46517 | 2333
+9805 | Eglinton Ave West At Gabian Way | 43.6918699 | -79.46735 | 2398
+9917 | Eglinton Ave West At Glenhaven St West Side | 43.6913699 | -79.4699 | 2356
+3579 | Eglinton Ave West At Richardson Ave | 43.6910599 | -79.47132 | 2409
+5665 | Eglinton Ave West At Trethewey Dr | 43.6903699 | -79.47437 | 2414
+9128 | Eglinton Ave West At Municipal Dr (York Civic Centre) | 43.68975 | -79.4770299 | 2330
+9140 | Eglinton Ave West At Black Creek Dr West Side | 43.6883399 | -79.4833 | 2401
+3953 | Eglinton Ave West At Photography Dr West Side | 43.6876099 | -79.48694 | 2373
+343 | Eglinton Ave West At Weston Rd | 43.6871299 | -79.48931 | 2419
+9482 | 3588 Eglinton Ave West | 43.6860999 | -79.49332 | 2393
+8955 | Eglinton Ave West At Jane St | 43.6846399 | -79.49849 | 2365
+5031 | Eglinton Ave West At Emmett Ave West Side | 43.6844999 | -79.50452 | 2347
+8353 | Eglinton Ave West At Walkway To Emmett Ave | 43.6845499 | -79.5081 | 11716
+934 | Eglinton Ave West At Scarlett Rd | 43.68408 | -79.5112199 | 2407
+7191 | Opposite 4119 Eglinton Ave West | 43.6834899 | -79.51685 | 2384
+8132 | Eglinton Ave West At Royal York Rd | 43.6824599 | -79.52632 | 2403
+6214 | Eglinton Ave West At Russell Rd | 43.6812199 | -79.53261 | 2405
+3126 | Eglinton Ave West At Islington Ave | 43.6799699 | -79.53872 | 2363
+3037 | Eglinton Ave West At Wincott Dr | 43.6786599 | -79.54472 | 2422
+10261 | Eglinton Ave West At Kipling Ave | 43.6773399 | -79.55058 | 2371
+9443 | Eglinton Ave West At Widdicombe Hill Blvd West Side | 43.67565 | -79.5580099 | 2421
+692 | Eglinton Ave West At Martin Grove Rd | 43.6746299 | -79.56281 | 2381
+8725 | Eglinton Ave West At The East Mall | 43.6720099 | -79.5710799 | 2344
+5391 | Eglinton Ave West At Opposite Walkway To Rangoon Rd | 43.6706499 | -79.57773 | 2417
+3804 | Eglinton Ave West At Renforth Dr | 43.66628 | -79.5877299 | 12133
+341 | Eglinton Ave West At Renforth Dr Loop | 43.6647699 | -79.58876 | 11283
+7312 | Eglinton Ave West At Commerce Blvd | 43.66278 | -79.5910399 | 11354
+8675 | Explorer Dr At Eglinton Ave West North Side | 43.6602799 | -79.5947299 | 11389
+8694_ar | Explorer Dr At Skymark Ave | 43.6608899 | -79.59556
+14195 | Eglinton Station | 43.7055099 | -79.39913 | 14674
+333 | Eglinton Ave West At Eastbourne Ave | 43.70551 | -79.4045199 | 10224
+14201 | Eglinton West Station | 43.6994499 | -79.4359 | 14681
+7842 | Trethewey Dr At Irving Rd | 43.69233 | -79.47702 | 3143
+7932 | Trethewey Dr At King Georges Dr | 43.6936999 | -79.4791 | 3146
+3436 | Trethewey Dr At Paulson Rd | 43.6938599 | -79.48204 | 3147
+6686 | Trethewey Dr At Todd Baylis Blvd | 43.6952399 | -79.48734 | 3142
+8656 | Trethewey Dr At Martha Eaton Way | 43.69604 | -79.48933 | 3140
+2649 | 572 Trethewey Dr | 43.69683 | -79.4914 | 3132
+7464 | Trethewey Dr At Brookhaven Dr | 43.697 | -79.49348 | 3134
+7575 | Trethewey Dr At Chiswick Ave | 43.69723 | -79.49642 | 3136
+1308 | Trethewey Dr At Tedder St | 43.6974099 | -79.4987899 | 3149
+4097 | Trethewey Dr At Jane St | 43.6976799 | -79.5020599 | 3145
+4102 | Jane St At Harding Ave | 43.6994599 | -79.5027099 | 2736
+8739 | Wright Ave At Jane St West Side | 43.7007599 | -79.5038 | 3206
+3957 | Wright Ave At Gibson Ave West Side | 43.70014 | -79.5064899 | 3205
+2780_ar | Pine St At Lawrence Ave West | 43.7013499 | -79.50792
+9963 | Emmett Ave At Eglinton Ave West North Side | 43.6847199 | -79.50397 | 2425
+4170_ar | 120 Emmett Ave At Roadway To West Park Healthcare Centre | 43.6864499 | -79.50867

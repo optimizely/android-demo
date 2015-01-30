@@ -1,0 +1,31 @@
+6029 | Steeles Ave West At Alness St East Side | 43.7848199 | -79.48012 | 13435
+6609 | 2215 Steeles Ave West | 43.7853499 | -79.47783 | 8258
+2775 | Steeles Ave West At Gerry Fitzgerald Dr | 43.7860499 | -79.47492 | 8275
+5867 | Steeles Ave West At Dufferin St | 43.7870999 | -79.47043 | 8268
+3850 | Dufferin St At Steeles Ave West South Side | 43.78674 | -79.4702199 | 7658
+6349 | Dufferin St At Gerry Fitzgerald Dr | 43.78403 | -79.4702499 | 7662
+9031 | Dufferin St At Dolomite Dr | 43.7810899 | -79.4699399 | 7649
+5714 | Dufferin St At Supertest Rd | 43.7781199 | -79.4692299 | 7661
+3803 | Dufferin St At Martin Ross Ave | 43.77531 | -79.46856 | 7655
+9099 | 4610 Dufferin St | 43.7722399 | -79.46781 | 0978
+5165 | Dufferin St At Finch Ave West | 43.7692399 | -79.46715 | 0981
+9124 | Dufferin St At Finch Ave West South Side | 43.76825 | -79.46695 | 12176
+5726 | 4400 Dufferin St | 43.7655699 | -79.4662999 | 11342
+7130 | Dufferin St At Steeprock Dr | 43.7618899 | -79.4654899 | 9417
+14361 | William R Allen Rd At Rimrock Rd | 43.75778 | -79.4651799 | 14835
+7719 | William R Allen Rd At Sheppard Ave West South Side | 43.7496699 | -79.46339 | 1647
+14182 | Downsview Station | 43.7493599 | -79.46249 | 14661
+858 | Transit Rd At Wilson Ave | 43.7343899 | -79.45266 | 11879
+3502 | Alness St At Steeles Ave West South Side | 43.7842199 | -79.48087 | 0007
+6722 | Alness St At Magnetic Dr | 43.7825699 | -79.4795199 | 0006
+9252 | Alness St At Flint Rd | 43.782 | -79.47837 | 0512
+5018 | Alness St At Dolomite Dr | 43.7796199 | -79.4756799 | 0002
+5227 | Supertest Rd At Alness St West Side | 43.7767099 | -79.47498 | 1606
+7358 | 590 Supertest Rd | 43.7763299 | -79.47684 | 1605
+9258 | 800 Supertest Rd | 43.77581 | -79.4792399 | 1608
+2835 | Supertest Rd At Flint Rd | 43.7754699 | -79.48083 | 1609
+5687 | Martin Ross Ave At Flint Rd East Side | 43.77276 | -79.4799499 | 1283
+3407 | Martin Ross Ave At Brisbane Rd (West) | 43.77344 | -79.4768799 | 1279
+9426 | Martin Ross Ave At Alness St | 43.7741499 | -79.47371 | 1275
+14364 | Alness St At Brisbane Rd | 43.77235 | -79.4726 | 14838
+14182_ar | Downsview Station | 43.7493599 | -79.46249

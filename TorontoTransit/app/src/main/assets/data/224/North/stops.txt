@@ -1,0 +1,91 @@
+14150 | Don Mills Station | 43.7757899 | -79.34546 | 14628
+5480 | Sheppard Ave East At Parkway Forest Dr East Side | 43.7758799 | -79.34293 | 13705
+4699 | 2025 Sheppard Ave East | 43.7754899 | -79.3354399 | 7190
+3573 | Sheppard Ave East At Consumers Rd East Side | 43.77495 | -79.33054 | 7175
+9598 | Sheppard Ave East At Settlers Rd | 43.77458 | -79.3270699 | 7244
+871 | Victoria Park Ave At Sheppard Ave East North Side | 43.7757799 | -79.32307 | 7424
+4579 | Victoria Park Ave At Patrick Blvd North Side | 43.7780599 | -79.3241499 | 7419
+2560 | Victoria Park Ave At Huntingwood Dr | 43.78023 | -79.32522 | 8469
+8659 | 2793 Victoria Park Ave | 43.7824199 | -79.3262599 | 8426
+9041 | Victoria Park Ave At Altair Ave North Side | 43.7845 | -79.3272 | 8428
+6545 | Victoria Park Ave At Pleasant View Dr North Side | 43.7859699 | -79.3278899 | 8494
+1970 | Victoria Park Ave At Ferncrest Gate | 43.7891699 | -79.3294099 | 8459
+3056 | Victoria Park Ave At Finch Ave East | 43.7928199 | -79.33109 | 8460
+3332 | Victoria Park Ave At Hare Gate | 43.7960299 | -79.3325699 | 8467
+6627 | Victoria Park Ave At Morecambe Gate | 43.79792 | -79.3334 | 8485
+6641 | Victoria Park Ave At Navaho Dr | 43.80044 | -79.33453 | 8486
+8809 | Victoria Park Ave At McNicoll Ave | 43.8038999 | -79.33608 | 8480
+4319 | Victoria Park Ave At Tempo Ave | 43.80598 | -79.33701 | 3159
+7127 | Victoria Park Ave At Sparks Ave | 43.8084099 | -79.3380899 | 3156
+3664 | Victoria Park Ave At Gordon Baker Rd | 43.81028 | -79.33889 | 8464
+5359 | Opposite 4000 Victoria Park Ave | 43.8135 | -79.34021 | 9522
+5826 | Victoria Park Ave At Steeles Ave East | 43.8153099 | -79.34101 | 8511
+3462 | Victoria Park Ave Loop At Steeles Ave East North Side | 43.8169199 | -79.3417799 | 8508
+1071 | Victoria Park Ave At Ibm | 43.81838 | -79.34243 | 13964
+9647 | Victoria Park Ave At Steelcase Rd East | 43.82104 | -79.34451 | 8507
+7727 | Denison St At Victoria Park Ave West Side | 43.8227799 | -79.34707 | 9750
+6148 | Denison St At Woodbine Ave | 43.8223 | -79.3503299 | 10570
+8111 | Woodbine Ave At Esna Park Dr | 43.82511 | -79.35144 | 9751
+2548 | Woodbine Ave At Riviera Dr | 43.8301099 | -79.3527599 | 10567
+9479 | Woodbine Ave At 14th Ave | 43.83153 | -79.35316 | 9752
+6546 | Woodbine Ave At Shields Crt | 43.8353399 | -79.3541699 | 12073
+1446 | Woodbine Ave At Miller Ave | 43.8374599 | -79.3547299 | 9753
+1014 | Lanark Dr At Woodbine Ave West Side | 43.8457699 | -79.35794 | 9754
+1290 | 330 Cochrane Dr | 43.8435099 | -79.36023 | 9755
+10338 | 400 Cochrane Dr | 43.84322 | -79.3620999 | 9756
+3221 | 500 Cochrane Dr | 43.8434599 | -79.3648899 | 9757
+1940 | 600 Cochrane Dr | 43.8447899 | -79.3661499 | 9758
+7159 | Cochrane Dr At East Valhalla Dr | 43.84641 | -79.3636699 | 12177
+7070 | 110 Cochrane Dr | 43.84732 | -79.3609999 | 12178
+5376 | Frontenac Dr At Highway 7 | 43.8487699 | -79.36109 | 12179
+4890 | 75 Frontenac Dr | 43.85111 | -79.36198 | 12201
+3112 | Centurian Dr At Frontenac Dr West Side | 43.85249 | -79.3632099 | 12181
+3756 | Centurian Dr At Allstate Pkwy | 43.8517699 | -79.36665 | 12182
+10220 | Allstate Pkwy At Valleywood Dr | 43.85369 | -79.36775 | 9762
+8956 | 85 Valleywood Dr | 43.8544 | -79.3653599 | 9763
+1991 | 55 Valleywood Dr | 43.85482 | -79.3637199 | 9764
+3364 | Renfrew Dr At Valleywood Dr North Side | 43.85692 | -79.36168 | 10568
+7351 | Renfrew Dr At Hooper Rd | 43.85867 | -79.3625 | 11495
+5182 | Hooper Rd At Woodbine Ave | 43.8592499 | -79.36145 | 11496
+9287 | Woodbine Ave At Millbrook Gate | 43.8641999 | -79.36167 | 13393
+4323 | Woodbine Ave At 16th Ave | 43.86775 | -79.36258 | 13394
+8376 | Woodbine Ave At Calvert Rd | 43.8713199 | -79.3634199 | 13395
+8799 | Woodbine Ave At Walkway To Dalt Hicks Way | 43.87518 | -79.36427 | 14162
+2210 | Hillmount Rd At Woodbine Ave | 43.87673 | -79.3661499 | 13396
+9037 | Hillmount Rd At Hopecrest Rd | 43.8765399 | -79.368 | 13712
+4353 | Hillmount Rd (South) At Markland St | 43.8760899 | -79.37158 | 13397
+6188 | Opposite 175 Hillmount Rd | 43.8756999 | -79.37457 | 13713
+7897 | Opposite 281 Hillmount Rd | 43.87965 | -79.37602 | 13714
+4169 | Hillmount Rd (North) At Markland St | 43.8806999 | -79.37343 | 13715
+8054 | Markland St At Major Mackenzie Dr East | 43.8844199 | -79.37298 | 13400
+5016 | Major Mackenzie Dr East At Woodbine Ave | 43.88515 | -79.3704399 | 14152
+14578 | Major Mackenzie Dr East At Woodbine Ave | 43.8857999 | -79.36731 | 14898
+14579 | Hazelton Ave At Adastra Cres (South) | 43.8887299 | -79.36225 | 14900
+14580 | Hazelton Ave At Rockcliffe Gate North Side | 43.8904899 | -79.3637299 | 14901
+14581 | Hazelton Ave At Larkmead Cres (South) | 43.89271 | -79.36542 | 14902
+14582 | Hazelton Ave At Vine Cliff Blvd | 43.89391 | -79.36593 | 14903
+14583 | Hazelton Ave At Stony Hill Blvd | 43.8969599 | -79.36755 | 14904
+14584 | Stony Hill Blvd At Woodbine Ave | 43.8969699 | -79.36987 | 14905
+14585 | Woodbine Ave At Reflection Rd | 43.89944 | -79.37052 | 14906
+14586 | Woodbine Ave At Elgin Mills Rd | 43.90402 | -79.37166 | 14907
+14587 | Elgin Mills Rd At Duke Of York St | 43.9035799 | -79.37454 | 14908
+14588 | Elgin Mills Rd At Woodbine Ave Bypass | 43.9028999 | -79.37771 | 14909
+14589 | Woodbine Ave Bypass At Prince Of Wales Dr | 43.9055 | -79.37878 | 14910
+14590_ar | Honda Blvd Loop At Woodbine Ave Bypass | 43.9143599 | -79.38378
+8327 | Steelcase Rd East At Victoria Park Ave West Side | 43.8209299 | -79.34596 | 13966
+8406 | Steelcase Rd East At Woodbine Ave | 43.8196 | -79.3497299 | 10482
+1017 | 25 Riviera Dr | 43.8310699 | -79.34914 | 10494
+2215 | Rodick Rd At Riviera Dr North Side | 43.83226 | -79.34567 | 10495
+798 | 14th Ave At Rodick Rd East Side | 43.8336599 | -79.34513 | 13967
+8775 | 3465 14th Ave | 43.8348499 | -79.33944 | 12071
+9619 | 14th Ave At Riviera Dr | 43.83527 | -79.3376599 | 10498
+1556 | 3575 14th Ave | 43.8358 | -79.3352399 | 12072
+6412_ar | 14th Ave At Alden Rd | 43.8363699 | -79.33234
+5870 | Woodbine Ave At Yorktech Dr | 43.8457299 | -79.3568099 | 13388
+1508 | Woodbine Ave At Highway 7 | 43.8492799 | -79.3576699 | 13389
+6415 | Woodbine Ave At McIntosh Dr | 43.85379 | -79.35891 | 13390
+3600 | Woodbine Ave At Apple Creek Blvd | 43.8566499 | -79.3596899 | 13391
+7352 | Woodbine Ave At Hooper Rd | 43.8593599 | -79.3604 | 13392
+1726 | Woodbine Ave At Rodick Rd | 43.8765799 | -79.3647399 | 14163
+9245 | Woodbine Ave At Personna Blvd | 43.88099 | -79.36584 | 14164
+14596 | Woodbine Ave At Major Mackenzie Dr East | 43.8857599 | -79.3671499 | 14899

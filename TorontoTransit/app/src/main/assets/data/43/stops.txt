@@ -1,0 +1,110 @@
+710 | Midland Ave At Steeles Ave East South Side | 43.8254899 | -79.29713 | 11251
+6446 | 4150 Midland Ave | 43.8234 | -79.29618 | 10530
+5090 | Midland Ave At Passmore Ave | 43.8209399 | -79.2951099 | 5732
+9302 | Passmore Ave At Silverstar Blvd | 43.82006 | -79.2980199 | 11252
+7296 | Opposite 65 Passmore Ave | 43.81964 | -79.2996899 | 11253
+6197 | Passmore Ave At Kennedy Rd | 43.8187599 | -79.30367 | 11254
+1346 | Kennedy Rd At Purcell Sq South Side | 43.8171 | -79.30423 | 12197
+3231 | Kennedy Rd At McNicoll Ave | 43.81301 | -79.30242 | 11558
+5211 | Kennedy Rd At McNicoll Ave South Side | 43.8115899 | -79.3017599 | 4060
+8179 | Kennedy Rd At Perthshire St | 43.8091099 | -79.3006399 | 10601
+6221 | 3008 Kennedy Rd | 43.80764 | -79.29996 | 4065
+3298 | Kennedy Rd At Dancy Ave | 43.80544 | -79.29897 | 4078
+6996 | Kennedy Rd At Trojan Gate | 43.80409 | -79.29837 | 4131
+3134 | Kennedy Rd At Finch Ave East | 43.8014199 | -79.29695 | 4082
+1289 | Kennedy Rd At Lovering Rd | 43.7992199 | -79.2953399 | 4099
+4722 | Kennedy Rd At Norcap Ave | 43.7973 | -79.2945 | 4105
+9209 | Kennedy Rd At Huntingwood Dr | 43.79528 | -79.29368 | 4091
+6520 | Kennedy Rd At Linwood Ave South Side | 43.79323 | -79.29272 | 4097
+4556 | Kennedy Rd At Havendale Rd | 43.79122 | -79.29187 | 13342
+6392 | Kennedy Rd At Reidmount Ave South Side | 43.7884599 | -79.2907199 | 4120
+3497 | Kennedy Rd At Marilyn Ave South Side | 43.7869899 | -79.2900999 | 4101
+6662 | Kennedy Rd At Bonis Ave South Side | 43.7852599 | -79.2893699 | 4112
+4378 | Kennedy Rd At Sheppard Ave East | 43.7834299 | -79.28853 | 4122
+773 | Kennedy Rd At Jade St | 43.78163 | -79.28747 | 4092
+3391 | Kennedy Rd At Pently Cir South Side | 43.77959 | -79.28666 | 4110
+7524 | Kennedy Rd At Village Green Sq | 43.7773999 | -79.2857999 | 4128
+8342 | Kennedy Rd At Antrim Cres South Side | 43.77134 | -79.28326 | 4062
+3725 | Kennedy Rd At Glamorgan Ave South Side | 43.7687399 | -79.2821299 | 4087
+5802 | Kennedy Rd At Ellesmere Rd | 43.7659999 | -79.28126 | 4080
+1179 | 1420 Kennedy Rd | 43.7638999 | -79.2805799 | 4064
+5299 | 1400 Kennedy Rd | 43.76276 | -79.28013 | 4063
+1709 | Kennedy Rd At Brigstock Rd South Side | 43.7609999 | -79.2794899 | 4072
+5280 | Kennedy Rd At Munham Gate | 43.7595 | -79.27887 | 4103
+4478 | Kennedy Rd At Shropshire Dr South Side | 43.7570999 | -79.2779599 | 4124
+7633 | Kennedy Rd At Forbes Rd South Side | 43.7550999 | -79.2771799 | 4086
+3999 | Kennedy Rd At Wickware Gate | 43.7533599 | -79.2764699 | 4132
+1486 | Kennedy Rd At Cornwallis Dr South Side | 43.7515999 | -79.2758099 | 4076
+6883 | Kennedy Rd At Lawrence Ave East | 43.7497099 | -79.27517 | 4096
+2430 | Kennedy Rd At Flora Dr | 43.7484999 | -79.2747799 | 4084
+1723 | Kennedy Rd At Radnor Ave | 43.7460499 | -79.2738099 | 4116
+784 | Kennedy Rd At Ranstone Gardens | 43.7422199 | -79.2722199 | 4118
+1856 | 900 Kennedy Rd | 43.73998 | -79.27127 | 4069
+5907 | Kennedy Rd At Bertrand Ave | 43.7375799 | -79.2702899 | 13696
+7178 | Kennedy Rd At Landseer Rd South Side | 43.7346999 | -79.2691299 | 4093
+320 | Eglinton Ave East At Kennedy Station | 43.7322899 | -79.26712 | 3539
+14229_ar | Kennedy Station | 43.7324299 | -79.26352
+986 | South Service Rd At Transway | 43.7326699 | -79.26492 | 12198
+14279 | Scarborough Centre Station | 43.7741499 | -79.25864 | 14760
+7848 | Triton Rd At Brimley Rd | 43.77364 | -79.2615199 | 1612
+1024 | Progress Ave At Brimley Rd West Side | 43.77521 | -79.2639199 | 11370
+2904 | Progress Ave At Schick Crt | 43.7744 | -79.2669099 | 4541
+6731 | Progress Ave At Consentino Dr West Side | 43.7736499 | -79.27012 | 4545
+9785 | Progress Ave At Midland Ave | 43.7730999 | -79.27267 | 4555
+8253 | 80 Progress Ave | 43.7719999 | -79.27586 | 4536
+7868 | Progress Ave At William Kitchen Rd West Side | 43.7701299 | -79.27924 | 4531
+14229 | Kennedy Station | 43.7324299 | -79.26352 | 14709
+8469 | Eglinton Ave East At Kennedy Rd | 43.7324099 | -79.26775 | 2280
+3614 | Kennedy Rd At Treverton Dr North Side | 43.73445 | -79.26875 | 4129
+6900 | Kennedy Rd At Stratton Ave | 43.7378899 | -79.2701599 | 4126
+4529 | 879 Kennedy Rd | 43.7398799 | -79.2710099 | 4068
+4544 | Kennedy Rd At Ranstone Gardens | 43.74207 | -79.27188 | 4117
+10310 | Kennedy Rd At Radnor Ave | 43.7458599 | -79.2734399 | 4115
+2015 | Kennedy Rd At Flora Dr | 43.7481499 | -79.2743999 | 4083
+1465 | Kennedy Rd At Lawrence Ave East | 43.7492899 | -79.27471 | 4095
+6727 | Kennedy Rd At Cornwallis Dr North Side | 43.7522099 | -79.2757099 | 4075
+1770 | Kennedy Rd At Forbes Rd | 43.7553299 | -79.2769199 | 4085
+6216 | Kennedy Rd At Shropshire Dr North Side | 43.7576799 | -79.2778599 | 4123
+4016 | Kennedy Rd At Munham Gate | 43.7591699 | -79.2784699 | 4102
+7737 | Kennedy Rd At Brigstock Rd | 43.76139 | -79.27929 | 4073
+3014 | Kennedy Rd At Ellesmere Rd | 43.7655999 | -79.28088 | 4079
+434 | Kennedy Rd At Progress Ave | 43.7692399 | -79.2820499 | 4113
+4802 | Kennedy Rd At Antrim Cres | 43.7714999 | -79.2828999 | 4094
+9452 | Kennedy Rd At Village Green Sq North Side | 43.7775299 | -79.2855399 | 4127
+7752 | Kennedy Rd At Cowdray Crt | 43.7805 | -79.28667 | 4109
+5566 | Kennedy Rd At Collingwood St | 43.7816299 | -79.2872199 | 4074
+9817 | Kennedy Rd At Sheppard Ave East | 43.7831099 | -79.28801 | 4121
+2886 | Kennedy Rd At Cardwell Ave | 43.7856299 | -79.2892599 | 4111
+8343 | Kennedy Rd At Marilyn Ave North Side | 43.7875 | -79.29006 | 4100
+9639 | Kennedy Rd At Reidmount Ave North Side | 43.7888799 | -79.2906399 | 4119
+6158 | Kennedy Rd At Havendale Rd | 43.79103 | -79.29156 | 4089
+8045 | Kennedy Rd At Linwood Ave | 43.79346 | -79.2926 | 4098
+7393 | Kennedy Rd At Huntingwood Dr | 43.79502 | -79.29323 | 4090
+8324 | Kennedy Rd At Norcap Ave | 43.79702 | -79.29413 | 4104
+8526 | Kennedy Rd At Bellbrook Rd | 43.79896 | -79.29499 | 4070
+4723 | Kennedy Rd At Finch Ave East | 43.8010799 | -79.29623 | 4081
+4585 | Kennedy Rd At Trojan Gate | 43.80374 | -79.29803 | 4130
+804 | Kennedy Rd At Dancy Ave North Side | 43.80588 | -79.299 | 4077
+9982 | 3015 Kennedy Rd | 43.80757 | -79.29976 | 4066
+10051 | Kennedy Rd At Perthshire St | 43.80876 | -79.3003 | 10600
+6058 | Kennedy Rd At McNicoll Ave | 43.81195 | -79.30173 | 11562
+10426 | 3223 Kennedy Rd | 43.81507 | -79.30314 | 14421
+4219 | 3241 Kennedy Rd | 43.8166999 | -79.3038799 | 4067
+5206 | Kennedy Rd At Passmore Ave North Side | 43.8188699 | -79.30479 | 10036
+9033 | 3447 Kennedy Rd | 43.82109 | -79.30579 | 10037
+2577 | Kennedy Rd At Steeles Ave East | 43.8235299 | -79.30683 | 10511
+9530 | Steeles Ave East At Redlea Ave | 43.82399 | -79.3053499 | 14256
+7042 | Steeles Ave East At Milliken Go Station | 43.82468 | -79.3025499 | 10478
+8602 | Steeles Ave East At Silver Star Blvd | 43.82512 | -79.3004799 | 9781
+1707 | Steeles Ave East At Midland Ave | 43.8257599 | -79.29763 | 9782
+710_ar | Midland Ave At Steeles Ave East South Side | 43.8254899 | -79.29713
+3603 | 2885 Kennedy Rd | 43.8024699 | -79.29743 | 12137
+5783 | Progress Ave At Kennedy Rd East Side | 43.7695399 | -79.28155 | 11998
+5764 | Progress Ave At William Kitchen Rd | 43.76997 | -79.2794199 | 4532
+9890 | 77 Progress Ave | 43.7715699 | -79.27618 | 4535
+2855 | Progress Ave At Midland Ave | 43.7728199 | -79.27332 | 4554
+1045 | Progress Ave At Consentino Dr | 43.77346 | -79.2703699 | 4546
+12892 | Progress Ave At Schick Crt | 43.77446 | -79.2662999 | 14448
+2770 | Progress Ave At Brimley Rd | 43.77513 | -79.2633799 | 4543
+7252 | Borough Dr At Progress Ave South Side | 43.77529 | -79.26134 | 3349
+14279_ar | Scarborough Centre Station | 43.7741499 | -79.25864

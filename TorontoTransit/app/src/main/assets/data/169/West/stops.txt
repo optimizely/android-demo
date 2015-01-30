@@ -1,0 +1,58 @@
+14739 | Scarborough Centre Station | 43.7741699 | -79.25881 | 15002
+9276 | Triton Rd At McCowan Rd | 43.77532 | -79.2529599 | 9614
+2541 | McCowan Rd At Progress Ave North Side | 43.7766499 | -79.2528899 | 1313
+2286 | McCowan Rd At Highway 401 | 43.78257 | -79.25523 | 12078
+9413 | McCowan Rd At Milner Ave North Side | 43.7859599 | -79.2565699 | 1308
+7294 | McCowan Rd At Invergordon Ave | 43.7873099 | -79.2570899 | 1300
+9391 | McCowan Rd At Sheppard Ave East | 43.78947 | -79.25859 | 1317
+3476 | McCowan Rd At Nugget Ave | 43.7918999 | -79.25963 | 1310
+3729 | Commander Blvd At McCowan Rd West Side | 43.7959999 | -79.26243 | 6310
+3009 | Commander Blvd At North Wind Pl West Side | 43.79501 | -79.2647699 | 6312
+1400 | 90 Commander Blvd | 43.7937299 | -79.26629 | 6306
+7165 | 140 Commander Blvd | 43.79491 | -79.26865 | 6307
+2680 | Commander Blvd At Huntingwood Dr | 43.79751 | -79.26971 | 6308
+2145 | Huntingwood Dr At Dibgate Blvd | 43.7983399 | -79.27021 | 6440
+1331 | Huntingwood Dr At Brimley Rd | 43.7985099 | -79.27309 | 6433
+8156 | Huntingwood Dr At Mollard Rd | 43.7982199 | -79.2754 | 6460
+9462 | 1200 Huntingwood Dr | 43.79819 | -79.2774599 | 6448
+9806 | Huntingwood Dr At Crockamhill Dr West Side | 43.7973799 | -79.28212 | 6436
+2077 | Huntingwood Dr At Midland Ave West Side | 43.7969799 | -79.28405 | 6457
+6841 | Huntingwood Dr At Kittery Blvd | 43.79667 | -79.2861699 | 6454
+4424 | Huntingwood Dr At Belgreen Ave West Side | 43.79549 | -79.2909599 | 6426
+6972 | Huntingwood Dr At Kennedy Rd | 43.7952299 | -79.2930099 | 6451
+2472 | Huntingwood Dr At Colinayre Cres | 43.7947699 | -79.29517 | 6434
+9859 | Huntingwood Dr At Harfleur Rd | 43.7912499 | -79.2992099 | 6447
+4620 | Huntingwood Dr At Birchmount Rd | 43.7905499 | -79.30203 | 6427
+6321 | Huntingwood Dr At Fluellen Dr | 43.7901999 | -79.30362 | 6443
+7419 | Huntingwood Dr At Garrybrook Dr | 43.78917 | -79.3071399 | 6445
+5989 | Huntingwood Dr At Davisbrook Blvd | 43.7866099 | -79.30822 | 6439
+2764 | Huntingwood Dr At Warden Ave | 43.7856299 | -79.31064 | 6466
+10230 | Huntingwood Dr At Kenmanor Blvd West Side | 43.78515 | -79.3126899 | 6449
+5844 | Huntingwood Rd At Ridgecrest Dr | 43.7846099 | -79.31506 | 13917
+3146 | Huntingwood Dr At Kilkenny Dr | 43.78368 | -79.3171799 | 6469
+10012 | Huntingwood Dr At Pharmacy Ave | 43.7818099 | -79.3198999 | 6462
+14951 | Huntingwood Dr At Fairglen Ave West Side | 43.7809199 | -79.32344 | 15147
+6888 | Huntingwood Dr At Victoria Park Ave | 43.78054 | -79.3248499 | 6464
+8659 | 2793 Victoria Park Ave | 43.7824199 | -79.32626 | 8426
+9041 | Victoria Park Ave At Altair Ave North Side | 43.7844999 | -79.3271999 | 8428
+14085 | Pleasant View Dr At Clipper Rd | 43.7855099 | -79.32905 | 14532
+6222 | 140 Pleasant View Dr | 43.78518 | -79.3304799 | 6764
+6986 | Pleasant View Dr At Brian Dr | 43.78461 | -79.3330999 | 6766
+2160 | Brian Ave At Margaret Ave | 43.78651 | -79.33428 | 6265
+4095 | Brian Ave At Van Horne Ave | 43.78772 | -79.33484 | 6266
+1836 | Van Horne Ave At Lucifer Dr | 43.7875499 | -79.33747 | 7394
+4434 | Van Horne Ave At Edmonton Dr | 43.787 | -79.3399199 | 7386
+10214 | Van Horne Ave At Kingslake Rd | 43.7865999 | -79.3451599 | 7392
+4639 | Van Horne Ave At Houston Cres (West) West Side | 43.7877999 | -79.3478 | 7389
+8588 | Van Horne Ave At Hobart Dr | 43.7880599 | -79.3494899 | 7388
+6612 | Van Horne Ave At Don Mills Rd | 43.78752 | -79.3524999 | 7383
+1329 | Don Mills Rd At Goodview Rd | 43.784 | -79.35301 | 1939
+6878 | 2980 Donmills Rd | 43.78232 | -79.35229 | 13422
+3480 | Don Mills Rd At Esterbrooke Ave | 43.7792399 | -79.3489499 | 1928
+14150_ar | Don Mills Station | 43.7757899 | -79.34546
+4225 | Victoria Park Ave At Patrick Blvd | 43.77783 | -79.32435 | 7420
+9120 | Sheppard Ave East At Victoria Park Ave West Side | 43.7753299 | -79.32361 | 9513
+8151 | Sheppard Ave East At Settlers Rd | 43.7747899 | -79.3264 | 7245
+2901 | Sheppard Ave East At Brian Dr West Side | 43.7753 | -79.33173 | 7161
+2857 | 1900 Sheppard Ave East | 43.7757299 | -79.3357299 | 7191
+5856 | Sheppard Ave East At Parkway Forest Dr West Side | 43.7756399 | -79.345 | 7226

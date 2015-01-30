@@ -1,0 +1,22 @@
+14311 | Warden Station | 43.7109699 | -79.27991 | 14794
+1870 | Opposite 689 Warden Ave | 43.7074199 | -79.2791899 | 10604
+6704 | 682 Warden Ave | 43.70585 | -79.27858 | 3162
+2925 | Warden Ave At Firvalley Crt | 43.7037399 | -79.2776999 | 3160
+2630 | Warden Ave At Cataraqui Cres | 43.7024799 | -79.2771699 | 3164
+10044 | Warden Ave At Burn Hill Rd | 43.7003199 | -79.2762399 | 3163
+873 | Warden Ave At Danforth Rd South Side | 43.6964799 | -79.27463 | 9905
+7377 | Warden Ave At Danforth Ave | 43.69456 | -79.27386 | 8554
+3051 | Clonmore Dr At Warden Ave West Side | 43.6928599 | -79.27369 | 9692
+7865 | Clonmore Dr At Cornell Ave | 43.69175 | -79.2751999 | 9693
+4454 | Clonmore Dr At Queensbury Ave West Side | 43.6903899 | -79.27704 | 9694
+6633 | Gerrard St East At Clonmore Dr West Side | 43.6885899 | -79.27909 | 9695
+2267 | Gerrard St East At Rathmore Ave West Side | 43.6879999 | -79.28183 | 9696
+2967 | Gerrard St East At Blantyre Ave West Side | 43.6873999 | -79.28457 | 9697
+10206 | Gerrard St East At Victoria Park Ave West Side | 43.6868699 | -79.28714 | 9698
+10321 | Gerrard St East At Dengate Rd | 43.6864099 | -79.2892 | 9699
+1604 | Gerrard St East At Pickering St | 43.68579 | -79.2920099 | 9700
+6928 | Gerrard St East At Malvern Ave | 43.6852299 | -79.29459 | 9701
+2190 | Gerrard St East At Osborne Ave | 43.6847099 | -79.29701 | 9702
+5565 | Gerrard St East At Main St | 43.6840899 | -79.29984 | 9703
+550 | Main St At Danforth Ave | 43.6877899 | -79.3015499 | 11826
+14256_ar | Main St Station | 43.6890999 | -79.30171

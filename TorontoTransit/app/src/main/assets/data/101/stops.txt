@@ -1,0 +1,16 @@
+14340 | 75 Carl Hall Rd (The Hangar) | 43.7473499 | -79.47395 | 14821
+12917 | Opposite 35 Carl Hall Rd | 43.7473499 | -79.47789 | 14368
+6065 | Sheppard Ave West At Tuscan Gate | 43.75252 | -79.48269 | 6089
+2042 | Sheppard Ave West At Chesswood Dr | 43.75542 | -79.4744599 | 7271
+3355 | Sheppard Ave West At Yukon Lane | 43.7519399 | -79.4674499 | 3109
+14179_ar | Downsview Station | 43.7488299 | -79.46229
+14179 | Downsview Station | 43.7488299 | -79.46229 | 14658
+2365 | Sheppard Ave West At Dufferin St (Downsview Station) | 43.7505399 | -79.4626 | 7275
+1632 | Sheppard Ave West At Kodiak Cres (South) | 43.7518599 | -79.4669499 | 4596
+3554 | Sheppard Ave West At Kodiak Cres (North) | 43.7539699 | -79.4693799 | 6076
+6042 | Sheppard Ave West At Chesswood Dr | 43.7555999 | -79.4737999 | 3108
+9504 | Sheppard Ave West At Bakersfield St West Side | 43.7543399 | -79.48058 | 3106
+6125 | Sheppard Ave West At Tuscan Gate | 43.75299 | -79.4827599 | 3113
+12926 | 35 Carl Hall Rd | 43.74725 | -79.4777899 | 14367
+12864 | Carl Hall Rd At Dehavilland Dr East Side (Aerospace Museum) | 43.7475499 | -79.47639 | 14369
+14340_ar | 75 Carl Hall Rd (The Hangar) | 43.7473499 | -79.47395

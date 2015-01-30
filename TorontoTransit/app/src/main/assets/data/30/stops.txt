@@ -1,0 +1,74 @@
+14239 | Kipling Station | 43.6377199 | -79.53551 | 14720
+4462 | Dundas St West At Dunbloor Rd East Side | 43.64387 | -79.5330599 | 5013
+9461 | Dundas St West At Royalavon Cres East Side | 43.64573 | -79.5313599 | 5025
+4704 | Mabelle Ave At Dundas St West South Side | 43.6463699 | -79.5300799 | 9531
+3639 | 49 Mabelle Ave | 43.64539 | -79.52865 | 9532
+3964 | 25 Mabelle Ave | 43.6459299 | -79.5269 | 9533
+8196 | Cordova Ave At Central Park Roadway | 43.6476699 | -79.5261699 | 0762
+416 | Cordova Ave At Dundas St West | 43.6487199 | -79.5284099 | 9534
+3136 | Dundas St West At Islington Ave East Side | 43.6514999 | -79.52603 | 5017
+4800 | Dundas St West At Donnybrook Lane East Side | 43.6533799 | -79.52441 | 5012
+7746 | Dundas St West At Nottingham Dr | 43.65528 | -79.5227299 | 5019
+9599 | Dundas St West At Old Oak Dr East Side | 43.6570099 | -79.5197 | 5021
+4717 | Dundas St West At Royal York Rd East Side | 43.6586299 | -79.51516 | 5024
+8757 | Dundas St West At Prince Edward Dr North | 43.66048 | -79.5105599 | 5023
+4433 | Dundas St West At Old Dundas St | 43.6617599 | -79.50729 | 5020
+10203 | Dundas St West At Howland St | 43.6636699 | -79.50368 | 5015
+6958 | Dundas St West At Humberhill Ave | 43.66472 | -79.50158 | 5016
+4431 | Dundas St West At Scarlett Rd | 43.66538 | -79.49936 | 5027
+10383 | Dundas St West At Brookside Ave | 43.6656399 | -79.49456 | 5009
+9381 | Dundas St West At Jane St | 43.66561 | -79.49139 | 5018
+8693 | Dundas St West At Willard Ave East Side | 43.66554 | -79.48806 | 5030
+8436 | Dundas St West At Windermere Ave | 43.6655599 | -79.48605 | 5031
+299 | Dundas St West At Runnymede Rd | 43.66553 | -79.48262 | 5026
+9786 | Dundas St West At Gilmour Ave | 43.6654999 | -79.47935 | 3495
+4444 | Dundas St West At St Johns Rd | 43.6654699 | -79.4751699 | 3524
+9734 | Dundas St West At Quebec Ave | 43.66544 | -79.4723 | 3516
+3419 | High Park Ave At Dundas St West South Side | 43.6651199 | -79.47026 | 5119
+4375 | High Park Ave At Annette St | 43.66303 | -79.46937 | 5118
+7629 | High Park Ave At Humberside Ave | 43.66058 | -79.46835 | 5121
+1722 | High Park Ave At Glenlake Ave | 43.6573 | -79.46693 | 5120
+14216 | High Park Station | 43.6540799 | -79.46606 | 14696
+9163 | Opposite 3226 Dundas St West (St Paul The Apostle Church) | 43.6654899 | -79.4778599 | 10233
+14122 | West Rd At Bloor St West South Side | 43.6529099 | -79.4653099 | 6168
+14124 | West Rd At Swimming Pool | 43.65074 | -79.4670499 | 6171
+14121 | West Rd At Baseball Field | 43.6483699 | -79.4678099 | 6167
+14123_ar | Colborne Lodge Dr At Centre Rd | 43.6454799 | -79.46482
+14215 | High Park Station | 43.6539999 | -79.46641 | 14695
+8030 | High Park Ave At Humberside Ave | 43.6603899 | -79.46807 | 3698
+2078 | High Park Ave At Annette St | 43.6627399 | -79.4690999 | 3695
+6636 | High Park Ave At Dundas St West | 43.6650699 | -79.4700899 | 3696
+2026 | Dundas St West At Quebec Ave | 43.6655399 | -79.47188 | 3517
+4744 | Dundas St West At St Johns Pl | 43.66559 | -79.47545 | 3525
+5078 | Dundas St West At Gilmour Ave | 43.66562 | -79.47875 | 3496
+2449 | Dundas St West At Runnymede Rd | 43.6656299 | -79.48194 | 3521
+298 | Dundas St West At Runnymede Rd West Side | 43.6656299 | -79.4829 | 4455
+5582 | Dundas St West At Windermere Ave | 43.66566 | -79.48567 | 3528
+1322 | Dundas St West At Willard Ave West Side | 43.6656799 | -79.4887499 | 3527
+6963 | Dundas St West At Jane St | 43.6657599 | -79.49094 | 3505
+14927 | Opposite 3671 Dundas St West | 43.6658099 | -79.49645 | 15096
+8917 | Dundas St West At Scarlett Rd | 43.6656099 | -79.49906 | 3522
+8049 | Dundas St West At Humber Hill | 43.6650499 | -79.50115 | 14190
+2646 | Dundas St West At Howland St | 43.66397 | -79.5033899 | 3499
+8683 | Dundas St West At Old Dundas St West Side | 43.66187 | -79.5074799 | 3512
+6028 | Dundas St West At Prince Edward Dr North | 43.66078 | -79.5102699 | 3515
+8715 | 4242 Dundas St West (Kingsway Mills Plaza) | 43.65963 | -79.5132599 | 13345
+9922 | Dundas St West At Royal York Rd | 43.6589599 | -79.5150899 | 3520
+8907 | Dundas St West At The Kingsway | 43.6573399 | -79.51945 | 3510
+10413 | Dundas St West At Nottingham Dr | 43.6555799 | -79.52266 | 3511
+2364 | Dundas St West At Chesnut Hills Cres | 43.65334 | -79.5246499 | 3492
+1215 | Dundas St West At Islington Ave | 43.6518399 | -79.52604 | 3504
+9534 | Cordova Ave At Dundas St West South Side | 43.6485399 | -79.52837 | 0763
+5854 | Cordova Ave At Mabelle Ave | 43.6473999 | -79.5260399 | 9527
+10357 | 24 Mabelle Ave | 43.64623 | -79.5267699 | 9528
+1720 | Opposite 49 Mabelle Ave | 43.6454299 | -79.52851 | 9529
+6086 | Mabelle Ave At Dundas St West | 43.6463999 | -79.5299099 | 9530
+7916 | Dundas St West At Royalavon Cres | 43.64541 | -79.5318899 | 3519
+8451 | Dundas St West At Renown Rd West Side | 43.64267 | -79.5343899 | 3518
+14140 | Bloor St West At Kipling Ave | 43.6415899 | -79.53588 | 12256
+9502 | West Service Rd At St Albans Rd | 43.63929 | -79.53485 | 12130
+14239_ar | Kipling Station | 43.6377199 | -79.53551
+4403 | 3226 Dundas St West (St Paul The Apostle Church) | 43.6656199 | -79.47766 | 10232
+14123 | Colborne Lodge Dr At Centre Rd | 43.6454799 | -79.46482 | 6169
+14120 | Colborne Lodge Dr At Swimming Pool | 43.64844 | -79.46491 | 4891
+14118 | Colborne Lodge Dr At Bloor St West | 43.6528099 | -79.4648499 | 4889

@@ -1,0 +1,15 @@
+10028 | Wineva Ave At Queen St East | 43.6711499 | -79.29589 | 6213
+8148 | Hambly Ave At Queen St East North Side | 43.67096 | -79.29689 | 5115
+9055 | Hambly Ave At Williamson Rd | 43.6736899 | -79.2980799 | 5116
+2041 | Williamson Rd At Southwood Dr | 43.6741199 | -79.29643 | 6211
+10329 | Southwood Dr At Glen Ames | 43.67574 | -79.29673 | 6098
+3531 | Southwood Dr At Kingston Rd | 43.67868 | -79.29779 | 6099
+2227 | Main St At Lyall Ave North Side | 43.6806599 | -79.29854 | 5535
+1587 | Main St At Swanwick Ave | 43.6820799 | -79.2993299 | 5538
+9850 | Main St At Gerrard St East | 43.68378 | -79.30006 | 5533
+550 | Main St At Danforth Ave | 43.68779 | -79.30155 | 11826
+14258 | Main St Station | 43.6892199 | -79.30127 | 14739
+551 | Main St At Doncaster Ave | 43.6915599 | -79.3032699 | 2855
+3898 | Main St At Lumsden Ave | 43.69464 | -79.3046 | 2857
+4673 | Lumsden Ave At Barrington Ave East Side | 43.6951699 | -79.30301 | 5521
+5150_ar | Eastdale Ave At Goodwood Park Cres | 43.6945299 | -79.30073

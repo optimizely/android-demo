@@ -1,0 +1,28 @@
+14245 | Lawrence Station | 43.7251399 | -79.40237 | 14726
+7790 | Lawrence Ave West At Yonge St (Lawrence Station) | 43.72499 | -79.4024499 | 1236
+10291 | Lawrence Ave East At Yonge St East Side | 43.7250599 | -79.40183 | 1235
+8138 | Lawrence Ave East At Weybourne Cres East Side | 43.72571 | -79.3989999 | 1233
+1996 | Lawrence Ave East At Mt Pleasant Rd | 43.7260399 | -79.39744 | 2819
+6703 | Lawrence Ave East At Dinnick Cres East Side | 43.72641 | -79.3955599 | 1222
+2598 | Lawrence Ave East At Ronan Ave | 43.72676 | -79.3940099 | 1227
+7391 | Lawrence Ave East At Wanless Cres (West) | 43.72716 | -79.3921499 | 1231
+4680 | Lawrence Ave East At Wanless Cres (East) | 43.7276699 | -79.38973 | 1230
+2887 | Lawrence Ave East At Mildenhall Rd | 43.72831 | -79.38669 | 9157
+8674 | Lawrence Ave East At Bayview Ave | 43.72769 | -79.38323 | 1220
+6632 | Bayview Ave At Wood Ave | 43.7270899 | -79.38204 | 1725
+6107 | Bayview Ave At Dawlish Ave South Side | 43.7242999 | -79.3796999 | 1718
+852 | Wellness Way At Hospital Rd (Odette Cancer Centre) | 43.72138 | -79.37777 | 11996
+854_ar | Hospital Rd At Wellness Way East Side (Sunnybrook Main Ent) | 43.7218099 | -79.37689
+854 | Hospital Rd At Wellness Way East Side (Sunnybrook Main Ent) | 43.7218099 | -79.37689 | 1729
+850 | Raab Blvd At Hospital Rd West Side (K &amp; L Wings) | 43.7225999 | -79.3761599 | 11247
+12890 | Wellness Way At Armistice Dr (Wellspring Centre) | 43.7235499 | -79.3785899 | 14510
+394 | Bayview Ave At Vallyanna Dr | 43.7241999 | -79.37944 | 9122
+8328 | Bayview Ave At Lawrence Ave East (York U Glendon Campus) | 43.72727 | -79.38157 | 1726
+2047 | Lawrence Ave East At Mildenhall Rd | 43.7285099 | -79.38636 | 2817
+8692 | Lawrence Ave East At Wanless Cres (East) West Side | 43.7278199 | -79.38972 | 1229
+2165 | Lawrence Ave East At Wanless Cres (West) | 43.7273599 | -79.39189 | 1232
+6404 | Lawrence Ave East At Ronan Ave | 43.72695 | -79.3938099 | 1228
+4949 | Lawrence Ave East At Mt Pleasant Rd | 43.7264599 | -79.39616 | 1226
+8981 | Lawrence Ave East At Cardinal Place | 43.72593 | -79.3986799 | 1221
+5845 | Lawrence Ave At Yonge St (Lawrence Station) | 43.7252199 | -79.40199 | 1234
+14245_ar | Lawrence Station | 43.7251399 | -79.40237

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ff252525">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lineZero"
+        android:paddingTop="5sp"
+
+        android:src="@drawable/dashedline"
+        android:visibility="visible" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/route"
+        android:id="@+id/routeButton"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:layout_marginBottom="5sp"
+        android:layout_marginLeft="5sp"
+        android:layout_marginRight="5sp"
+        android:layout_marginTop="5sp"
+        android:paddingLeft="15sp"
+        android:paddingRight="15sp"
+        android:gravity="left|center_vertical"
+        android:drawableRight="@drawable/ic_selecteroute"
+        android:textColor="#ffffffff"
+        />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lineOne"
+        android:src="@drawable/dashedline" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/direction"
+        android:id="@+id/directionButton"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:layout_marginBottom="5sp"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:layout_marginRight="5sp"
+        android:paddingLeft="15sp"
+        android:paddingRight="15sp"
+        android:gravity="left|center_vertical"
+        android:drawableRight="@drawable/ic_direction"
+        android:textColor="#ffffffff"/>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lineTwo"
+        android:src="@drawable/dashedline" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/stop"
+        android:id="@+id/stopButton"
+        android:layout_weight="1"
+        android:background="@drawable/custom_button"
+        android:layout_marginBottom="5sp"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="5sp"
+        android:layout_marginRight="5sp"
+        android:paddingLeft="15sp"
+        android:paddingRight="20sp"
+        android:gravity="left|center_vertical"
+        android:drawableRight="@drawable/ic_selectstop"
+        android:textColor="#ffffffff"/>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lineThree"
+        android:paddingBottom="4sp"
+        android:src="@drawable/dashedline" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.7"
+        android:layout_marginBottom="5sp"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="1sp"
+        android:layout_marginRight="5sp"
+        android:background="#b0d6d6d6"
+        android:id="@+id/relativeLayout">
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/holder">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/routeNumber"
+                android:paddingLeft="5sp"
+                android:textSize="50sp"
+                android:textColor="#b0800000"
+                android:singleLine="true"
+                android:includeFontPadding="false"
+                android:layout_marginBottom="-12dp"
+                android:gravity="center_horizontal"
+                android:visibility="invisible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/directionText"
+                android:gravity="bottom"
+                android:layout_alignParentLeft="true"
+                android:textSize="30dp"
+                android:layout_marginLeft="5sp"
+                android:textColor="#b0363636"
+                android:layout_below="@+id/routeNumber"
+                android:includeFontPadding="false"
+                android:singleLine="true"
+                android:visibility="invisible" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/item_routeName"
+            android:gravity="top"
+            android:textColor="#b0ffffff"
+            android:paddingTop="8sp"
+            android:paddingLeft="15sp"
+            android:layout_gravity="top"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/holder"
+            android:layout_toEndOf="@+id/holder"
+            android:layout_toStartOf="@+id/refreshButton"
+            android:layout_toLeftOf="@+id/refreshButton"
+            android:layout_marginBottom="-5dp"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=":"
+            android:id="@+id/colon"
+            android:textColor="#b0ffffff"
+            android:gravity="top"
+            android:paddingTop="8sp"
+            android:paddingLeft="5sp"
+            android:layout_gravity="top"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/item_routeName"
+            android:layout_toEndOf="@+id/item_routeName"
+            android:layout_toStartOf="@+id/refreshButton"
+            android:layout_toLeftOf="@+id/refreshButton"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/resultButton"
+            android:layout_toEndOf="@+id/holder"
+            android:paddingLeft="15sp"
+            android:textColor="#b0ffffff"
+            android:layout_below="@+id/item_routeName"
+            android:layout_toRightOf="@+id/holder"
+            android:layout_toStartOf="@+id/refreshButton"
+            android:layout_toLeftOf="@+id/refreshButton"
+            android:scrollbars="vertical"
+            android:visibility="invisible"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/favouriteStop"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+
+            android:background="@drawable/notfavorited"
+            android:visibility="invisible"  />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/smsStop"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/sms"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:visibility="invisible" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/refreshButton"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/refreshicon"
+            android:visibility="invisible" />
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+</LinearLayout>

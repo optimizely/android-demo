@@ -1,0 +1,123 @@
+14208 | Finch Station | 43.7807899 | -79.41493 | 14688
+1805 | Yonge St At Bishop Ave North Side (Finch Station) | 43.7821899 | -79.4160099 | 3212
+12888 | 5799 Yonge St | 43.7849499 | -79.4166799 | 14447
+8745 | Cummer Ave At Yonge St East Side | 43.7871599 | -79.41666 | 1828
+3404 | Cummer Ave At Silverview Dr | 43.78778 | -79.4137999 | 1818
+9867 | Cummer Ave At Willowdale Ave | 43.78859 | -79.4100499 | 1826
+4077 | 205 Cummer Ave | 43.7889199 | -79.4086 | 1823
+7726 | 285 Cummer Ave (St John&apos;S Rehab Hospital) | 43.7896999 | -79.40513 | 1825
+9449 | Cummer Ave At Maxome Ave | 43.7903799 | -79.40186 | 1812
+9142 | Cummer Ave At Conacher Dr | 43.7913999 | -79.39719 | 1805
+7023 | Cummer Ave At Bayview Ave | 43.7921399 | -79.3938 | 1802
+10251 | Cummer Ave At Ruddington Dr | 43.79296 | -79.3908299 | 1817
+9883 | Cummer Ave At Snowcrest Ave (West) | 43.7936 | -79.3879099 | 1822
+3699 | Cummer Ave At Snowcrest Ave (East) | 43.7947199 | -79.3827 | 1821
+8399 | Cummer Ave At Craigmont Dr | 43.79717 | -79.3791399 | 1808
+9656 | Cummer Ave At Pineway Blvd East Side | 43.79882 | -79.3755299 | 1814
+8090 | Cummer Ave At Leslie St | 43.8011699 | -79.37105 | 1810
+1175 | McNicoll Ave At Myers Lane | 43.8028599 | -79.36816 | 2897
+4855 | McNicoll Ave At Michael Dr | 43.8031499 | -79.3651899 | 2893
+4540 | McNicoll Ave At Clansman Blvd | 43.8019699 | -79.3632399 | 2883
+8723 | McNicoll Ave At Brahms Ave | 43.7996299 | -79.3602099 | 2880
+8373 | McNicoll Ave At Bedle Ave | 43.7995199 | -79.35716 | 2877
+3757 | McNicoll Ave At Don Mills Rd | 43.7995699 | -79.35439 | 2885
+1807 | McNicoll Ave At Mogul Dr | 43.7997799 | -79.35198 | 2895
+8247 | McNicoll Ave At Hines Dr | 43.8014599 | -79.34844 | 2889
+7803 | McNicoll Ave At Placer Crt | 43.8032999 | -79.34216 | 2903
+573 | McNicoll Ave At Victoria Park Ave | 43.8038899 | -79.33686 | 9179
+8403 | McNicoll Ave At Victoria Park Ave East Side | 43.80422 | -79.3354 | 2905
+5010 | 1055 McNicoll Ave | 43.80403 | -79.33334 | 2899
+3968 | McNicoll Ave At Pharmacy Ave | 43.80399 | -79.3311299 | 2900
+10123 | McNicoll Ave At Eagle Point Rd | 43.8050099 | -79.32661 | 2882
+6921 | McNicoll Ave At Stonebridge Blvd | 43.8055799 | -79.3241 | 14116
+7479 | McNicoll Ave At Warden Ave | 43.8061899 | -79.32127 | 2909
+2663 | McNicoll Ave At La Peer Blvd | 43.8074599 | -79.31586 | 2891
+10366 | McNicoll Ave At Opposite Walkway To Hawkshead Cres | 43.8079799 | -79.3137 | 2907
+8257 | McNicoll Ave At Birchmount Rd | 43.8085099 | -79.31146 | 2879
+1259 | McNicoll Ave At Morbank Dr | 43.80908 | -79.3090199 | 11071
+571 | McNicoll Ave At Silver Springs Blvd | 43.80992 | -79.3064799 | 12017
+5161 | McNicoll Ave At Kennedy Rd | 43.8120199 | -79.30215 | 12018
+14759 | McNicoll Ave At Silver Star Blvd | 43.8138399 | -79.29472 | 15006
+7442 | McNicoll Ave At Midland Ave | 43.8144699 | -79.29245 | 12019
+4899 | 2311 &amp; 2319 McNicoll Ave | 43.81457 | -79.29005 | 12047
+6181 | McNicoll Ave At Cleadon Rd | 43.81444 | -79.28617 | 12020
+1830 | McNicoll Ave At Brimley Rd | 43.8155299 | -79.28214 | 12021
+1087 | McNicoll Ave At Hutchcroft Ave East Side | 43.8168399 | -79.27651 | 12022
+3113 | McNicoll Ave At McCowan Rd | 43.81783 | -79.2722099 | 12023
+6103 | McNicoll Ave At Boxdene Ave | 43.8183399 | -79.26988 | 12024
+5787 | McNicoll Ave At White Heather Blvd | 43.8188399 | -79.26761 | 12025
+4261 | McNicoll Ave At Shady Hollow Dr | 43.81939 | -79.2648099 | 12049
+5178 | McNicoll Ave At Middlefield Rd | 43.8199499 | -79.2624 | 12026
+2590 | McNicoll Ave At Tiffield Rd East Side | 43.82087 | -79.2599499 | 6562
+771 | Maybrook Dr At McNicoll Ave North Side | 43.8220099 | -79.2595899 | 10833
+6066 | 61 Maybrook Dr | 43.8234999 | -79.2604099 | 6559
+703 | Maybrook Dr At Newmill Gate | 43.8254499 | -79.2612399 | 10237
+2428_ar | Maybrook Dr At Passmore Ave | 43.8278399 | -79.26171
+8866_ar | McNicoll Loop At Kennedy Rd | 43.8135499 | -79.29789
+870 | Victoria Park Rd At McNicoll Ave North Side | 43.8046799 | -79.33643 | 14261
+4319 | Victoria Park Ave At Tempo Ave | 43.80598 | -79.33701 | 3159
+7127 | Victoria Park Ave At Sparks Ave | 43.80841 | -79.33809 | 3156
+6436_ar | Gordon Baker Rd At Victoria Park Ave West Side | 43.8104699 | -79.34003
+2428 | Maybrook Dr At Passmore Ave | 43.8278399 | -79.26171 | 10236
+2893 | Middlefield Rd At Ingleton Blvd South Side | 43.82695 | -79.26502 | 10242
+7233 | Middlefield Rd At Newmill Gate | 43.82517 | -79.26409 | 10243
+6563 | Middlefield Rd At Pebblewood Ave | 43.82334 | -79.26331 | 6596
+1326 | Middlefield Rd At McNicoll Ave | 43.8203099 | -79.26223 | 6588
+5725 | McNicoll Ave At Shady Hollow Dr West Side | 43.8194099 | -79.2653 | 12027
+4619 | McNicoll Ave At White Heather Blvd | 43.81902 | -79.2673899 | 12050
+1552 | McNicoll Ave At Boxdene Ave | 43.81858 | -79.2693599 | 12028
+5427 | McNicoll Ave At McCowan Rd | 43.8180899 | -79.27174 | 12029
+4409 | McNicoll Ave At Hutchcroft Ave | 43.81696 | -79.2765099 | 12030
+4315 | McNicoll Ave At Brimley Rd | 43.8158599 | -79.2815 | 12031
+3284 | McNicoll Ave At Bramblebrook Ave | 43.81454 | -79.2862999 | 12032
+9352 | Opposite 2311 - 2319 McNicoll Ave | 43.81463 | -79.28988 | 12048
+8301 | McNicoll Ave At Midland Ave | 43.8147 | -79.2919999 | 12033
+14760 | McNicoll Ave At Silver Star Blvd | 43.8139899 | -79.29486 | 15007
+2851 | McNicoll Ave At Kennedy Rd | 43.8122799 | -79.30169 | 12034
+572 | McNicoll Ave At Silver Springs Blvd | 43.81017 | -79.3062099 | 12035
+2417 | McNicoll Ave At Morbank Dr | 43.80932 | -79.3086099 | 11073
+2903 | McNicoll Ave At Birchmount Rd West Side | 43.8085499 | -79.31178 | 2878
+4750 | McNicoll Ave At Walkway To Hawkshead Cres | 43.8080499 | -79.31383 | 2908
+6898 | McNicoll Ave At Innislawn Rd | 43.80747 | -79.3163099 | 2890
+9952 | McNicoll Ave At Warden Ave | 43.8064899 | -79.32064 | 2910
+1862 | McNicoll Ave At Eagle Point Rd | 43.8052599 | -79.3261 | 2887
+3283 | McNicoll Ave At Pharmacy Ave | 43.8042599 | -79.33049 | 2901
+1345 | 1050 McNicoll Ave | 43.8040499 | -79.33145 | 2875
+570 | 1020 McNicoll Ave | 43.8041599 | -79.3333899 | 2874
+6432 | McNicoll Ave At Victoria Park Ave West Side | 43.8040199 | -79.337 | 2904
+5831 | McNicoll Ave At Harold Evans Cres | 43.80354 | -79.34149 | 2888
+8460 | Harold Evans Cres At McNicoll Ave | 43.8035899 | -79.342 | 2692
+8379 | McNicoll Ave At Picola Crt | 43.8017099 | -79.34837 | 2902
+2411 | McNicoll Ave At Mogul Dr | 43.80009 | -79.3510699 | 2896
+7693 | McNicoll Ave At Don Mills Rd | 43.7996499 | -79.35383 | 2886
+9732 | McNicoll Ave At Bedle Ave West Side | 43.7996099 | -79.35694 | 2876
+7527 | McNicoll Ave At Brahms Ave | 43.7995299 | -79.3599199 | 2881
+3782 | McNicoll Ave At Clansman Blvd | 43.8017999 | -79.3629099 | 2884
+7999 | McNicoll Ave At Michael Dr | 43.80306 | -79.36483 | 2894
+8278 | McNicoll Ave At Myers Lane | 43.8030299 | -79.36779 | 2898
+7199 | McNicoll Ave At Leslie St | 43.8014499 | -79.37046 | 2892
+4089 | Cummer Ave At Mallaby Rd | 43.8008699 | -79.37186 | 1811
+8551 | Cummer Ave At Pineway Blvd | 43.7988199 | -79.37576 | 1815
+3187 | Cummer Ave At Craigmont Dr | 43.7974199 | -79.37904 | 1807
+3790 | Cummer Ave At Beardmore Cres (East) | 43.79487 | -79.3824199 | 1804
+10183 | Cummer Ave At Fleming Dr | 43.7943299 | -79.38487 | 1809
+927 | Cummer Ave At Simeon Crt West Side | 43.79342 | -79.3891199 | 1820
+5028 | Cummer Ave At Ruddington Dr West Side | 43.7930499 | -79.39087 | 1816
+4640 | Cummer Ave At Bayview Ave | 43.7925499 | -79.39303 | 1803
+8129 | Cummer Ave At Conacher Dr | 43.7916499 | -79.39653 | 1806
+3727 | Cummer Ave At Maxome Ave | 43.7906299 | -79.40112 | 1813
+14691 | 278 Cummer Ave (Opposite St John&apos;S Rehab Hospital) | 43.78985 | -79.4047499 | 14966
+7207 | Opposite 205 Cummer Ave | 43.78904 | -79.4082299 | 1801
+6332 | Cummer Ave At Willowdale Ave | 43.7887299 | -79.40977 | 1827
+1209 | Cummer Ave At Silverview Dr | 43.78794 | -79.4133399 | 1819
+7689 | Cummer Ave At Yonge St | 43.7872899 | -79.41629 | 1829
+14208_ar | Finch Station | 43.7807899 | -79.41493
+8866 | McNicoll Loop At Kennedy Rd | 43.8135499 | -79.29789 | 14332
+5134 | Harold Evans Cres At Tempo Ave | 43.8048499 | -79.34297 | 2693
+6436 | Gordon Baker Rd At Victoria Park Ave West Side | 43.8104699 | -79.34003 | 2660
+4091 | 700-780 Gordon Baker Rd | 43.80993 | -79.3423199 | 2657
+7900 | 480 Gordon Baker Rd | 43.80929 | -79.3452099 | 2656
+4347 | Opposite 455 Gordon Baker Rd | 43.8081 | -79.34578 | 2658
+3848 | Gordon Baker Rd At Sparks Ave | 43.80692 | -79.34546 | 2659
+3452 | Harold Evans Cres At Gordon Baker Rd East Side | 43.80498 | -79.3442199 | 2691
+573_ar | McNicoll Ave At Victoria Park Ave | 43.8038899 | -79.33686

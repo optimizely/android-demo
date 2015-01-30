@@ -1,0 +1,30 @@
+857 | Transit Rd At Wilson Ave North Side | 43.7347199 | -79.45217 | 11878
+8170 | William Allen Rd At Sheppard Ave West | 43.75004 | -79.46317 | 3172
+14176_IB | Downsview Station | 43.7491999 | -79.46205 | 14655
+2365 | Sheppard Ave West At Dufferin St (Downsview Station) | 43.7505399 | -79.4626 | 7275
+538 | Sheppard Ave At William R Allen Rd West Side | 43.7502699 | -79.46388 | 4598
+1632 | Sheppard Ave West At Kodiak Cres (South) | 43.75186 | -79.46695 | 4596
+3554 | Sheppard Ave West At Kodiak Cres (North) | 43.75397 | -79.46938 | 6076
+6042 | Sheppard Ave West At Chesswood Dr | 43.7555999 | -79.4738 | 3108
+9504 | Sheppard Ave West At Bakersfield St West Side | 43.75434 | -79.4805799 | 3106
+6125 | Sheppard Ave West At Tuscan Gate | 43.7529899 | -79.48276 | 3113
+3856 | Sheppard Ave West At John Drury Dr | 43.7484499 | -79.4829199 | 6071
+6745 | Sheppard Ave West At Keele St | 43.7449699 | -79.48609 | 6072
+6056 | 1450 Sheppard Ave West | 43.74439 | -79.4888399 | 13438
+4357 | Sentinel Rd At Sheppard Ave West North Side | 43.7441899 | -79.4919299 | 9221
+4655 | Sentinel Rd At Fredrick Mowat Lane | 43.7459299 | -79.4924 | 9222
+9513 | Sentinel Rd At Dovehouse Ave | 43.7484799 | -79.4931099 | 9223
+6575 | Sentinel Rd At Stilecroft Dr (North) | 43.7503499 | -79.4940499 | 9224
+3213 | Sentinel Rd At Grandravine Dr | 43.7515899 | -79.4953399 | 9225
+4625 | Sentinel Rd At Lamberton Blvd | 43.75378 | -79.49938 | 8088
+7078 | Sentinel Rd At Hucknall Rd (North) | 43.75699 | -79.49904 | 8086
+10262 | Sentinel Rd At Finch Ave West | 43.7607799 | -79.49976 | 8081
+1579 | Sentinel Rd At Fountainhead Rd North Side | 43.7626199 | -79.50048 | 8084
+8478 | Sentinel Rd At Murray Ross Pkwy | 43.76456 | -79.50106 | 8090
+3566 | Sentinel Rd At Cook Rd | 43.7670699 | -79.5011499 | 14284
+4516 | The Pond Rd At Sentinel Rd West Side | 43.7699699 | -79.50301 | 7763
+10448 | The Pond Rd At Arboretum Lane | 43.7724199 | -79.5113 | 14422
+1816 | Ian Macdonald Blvd At Northwest Gate | 43.77486 | -79.5097799 | 7768
+10363 | Ian Macdonald Blvd At Founders Rd East Side | 43.77767 | -79.5028499 | 7764
+1898 | Ian Macdonald Blvd At The Chimneystack Rd | 43.7764199 | -79.5007499 | 11940
+913_ar | York Blvd (North) At York University Commons | 43.7740899 | -79.50106

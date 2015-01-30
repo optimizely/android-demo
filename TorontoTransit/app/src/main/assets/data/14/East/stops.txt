@@ -1,0 +1,29 @@
+2139 | Glencairn Ave At Caledonia Rd East Side | 43.7046699 | -79.46433 | 3642
+9738 | Glencairn Ave At Lansdowne Ave | 43.70544 | -79.4609799 | 3660
+7285 | Glencairn Ave At Haven Rd East Side | 43.7060999 | -79.45806 | 3658
+2675 | Glencairn Ave At Ennerdale St East Side | 43.70667 | -79.4554399 | 3654
+3312 | Glencairn Ave At Dufferin St | 43.70695 | -79.4534999 | 3650
+6100 | Glencairn Ave At Capitol Ave | 43.7076799 | -79.44987 | 3644
+727 | Glencairn Ave At Danesbury Ave | 43.70826 | -79.4468699 | 3648
+3432 | Glencairn Ave At Marlee Ave | 43.7089 | -79.4439299 | 3661
+2351 | Glencairn Station | 43.7095099 | -79.44104 | 3665
+4940 | Glencairn Ave At Shermount Ave | 43.7100299 | -79.43874 | 3663
+7731 | Glencairn Ave At Englemount Ave | 43.7106499 | -79.43576 | 3652
+1315 | Gelncairn Ave At Dalemount Ave | 43.7112999 | -79.43281 | 3646
+1536 | Glencairn Ave At Glenmount Ave | 43.71184 | -79.4304099 | 3656
+1158 | Glencairn Ave At Bathurst St | 43.7122199 | -79.4284 | 3641
+10296 | Bathurst St At Viewmount Ave South Side | 43.7101999 | -79.42766 | 0215
+4289 | Bathurst St At Briar Hill Ave | 43.70807 | -79.4272 | 0099
+7628 | Bathurst St At Ridelle Ave South Side | 43.70674 | -79.42686 | 0191
+5624 | Roselawn Ave At Bathurst St East Side | 43.7052399 | -79.42583 | 4584
+1496 | Roselawn Ave At Chaplin Cres | 43.7055699 | -79.42418 | 4586
+4525 | Opposite 340 Chaplin Cres | 43.7044099 | -79.4223999 | 3416
+8532 | Chaplin Cres At Eglinton Ave West | 43.70281 | -79.41782 | 3411
+1216 | Chaplin Cres At Eglinton Ave West South Side | 43.7024899 | -79.41706 | 3412
+5223 | Chaplin Cres At Russell Hill Rd East Side | 43.70176 | -79.41487 | 3420
+9476 | Chaplin Cres At Duncannon Dr East Side | 43.7001299 | -79.4101999 | 3408
+8827 | Chaplin Cres At Avenue Rd East Side | 43.6985199 | -79.4055599 | 3406
+1545 | Chaplin Cres At Oriole Pkwy | 43.6979099 | -79.4035999 | 3417
+3834 | Chaplin Cres At Colin Ave | 43.69809 | -79.39958 | 0765
+3934 | Chaplin Cres At Duplex Ave | 43.6979 | -79.3982099 | 0766
+14168_ar | Davisville Station | 43.6977999 | -79.39701

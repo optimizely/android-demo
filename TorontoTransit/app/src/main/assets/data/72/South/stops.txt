@@ -1,0 +1,24 @@
+14958 | Pape Station | 43.6800799 | -79.34499 | 15150
+1987 | Pape Ave At Danforth Ave | 43.67907 | -79.34499 | 6628
+7895 | Pape Ave At Harcourt Ave | 43.6775999 | -79.3443999 | 6629
+3844 | Pape Ave At Wroxeter Ave | 43.6752299 | -79.3434299 | 6631
+1880 | Pape Ave At Bain Ave | 43.6730499 | -79.3425299 | 6627
+3872 | Riverdale Ave At Pape Ave West Side | 43.6711499 | -79.34228 | 6952
+7142 | Riverdale Ave At Carlaw Ave | 43.67087 | -79.3435499 | 6951
+6227 | Carlaw Ave At Victor Ave | 43.6691799 | -79.3434699 | 6293
+4083 | Carlaw Ave At Gerrard St East | 43.6677199 | -79.34287 | 6289
+7776 | Carlaw Ave At Badgerow Ave South Side | 43.66608 | -79.3422 | 6285
+5179 | Carlaw Ave At Dundas St East | 43.6651099 | -79.3417899 | 6287
+6372 | 250 Carlaw Ave | 43.6628899 | -79.3408999 | 6284
+5100 | Carlaw Ave At Queen St East | 43.6613299 | -79.34027 | 6292
+2934 | Carlaw Ave At Eastern Ave | 43.6584599 | -79.33908 | 6288
+3659 | Carlaw Ave At Lake Shore Blvd East | 43.65595 | -79.33805 | 6291
+9528 | Carlaw Ave At Lake Shore Blvd East South Side | 43.6543799 | -79.3370199 | 6290
+8947 | Carlaw Ave At Commissioners St | 43.65271 | -79.33571 | 6286
+7721 | Commissioners St At Logan Ave | 43.65184 | -79.3375099 | 6317
+5143 | Commissioners St At Bouchette St | 43.6508299 | -79.33993 | 6314
+10258 | Commissioners St At Saulter St | 43.64985 | -79.3422199 | 6319
+1256 | Commissioners St At Don Roadway West Side | 43.6483799 | -79.34558 | 13365
+8217 | 130 Commissioners St | 43.6475799 | -79.34744 | 6313
+1128 | Commissioners St At Munition St | 43.64643 | -79.3500599 | 6318
+5389_ar | Commissioners St At Cherry St | 43.6455199 | -79.35221

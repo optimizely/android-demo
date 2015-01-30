@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeightLarge"
+    android:id="@+id/list_container"
+    android:background="@android:color/white"
+    android:clickable="true"
+    android:animateLayoutChanges="true" >
+
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="fill_parent"
+        android:id="@+id/item_container"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:descendantFocusability="blocksDescendants"
+        android:layout_alignParentStart="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:background="#ff800000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:id="@+id/item_busNumber"
+        android:descendantFocusability="blocksDescendants"
+        android:gravity="center_horizontal"
+        android:textSize="40dp"
+        android:layout_alignTop="@+id/item_container"
+        android:layout_alignRight="@+id/item_container"
+        android:layout_alignParentLeft="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:id="@+id/item_busDirection"
+        android:paddingBottom="5dp"
+        android:layout_alignRight="@+id/item_container"
+        android:descendantFocusability="blocksDescendants"
+        android:layout_alignBottom="@+id/item_container"
+        android:gravity="center_horizontal"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:textSize="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:id="@+id/item_routeName"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/item_container"
+        android:layout_toEndOf="@+id/item_container"
+        android:layout_toLeftOf="@+id/item_timesText"
+        android:layout_marginLeft="5dp"
+        android:layout_toStartOf="@+id/item_timesText"
+        android:textSize="20dp"
+        android:descendantFocusability="blocksDescendants"
+        android:singleLine="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:textColor="#ff800000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:id="@+id/item_stopName"
+        android:layout_below="@+id/item_routeName"
+        android:layout_toRightOf="@+id/item_container"
+        android:layout_toEndOf="@+id/item_container"
+        android:layout_toLeftOf="@+id/item_timesText"
+        android:layout_marginLeft="5dp"
+        android:layout_toStartOf="@+id/item_timesText"
+        android:descendantFocusability="blocksDescendants"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:textSize="15dp"
+        android:singleLine="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="N/A"
+        android:id="@+id/item_busDestination"
+        android:layout_marginLeft="5dp"
+        android:layout_below="@+id/item_stopName"
+        android:layout_toRightOf="@+id/item_container"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_toEndOf="@+id/item_container"
+        android:layout_toLeftOf="@+id/item_timesText"
+        android:textSize="15dp"
+        android:layout_toStartOf="@+id/item_timesText"
+        android:descendantFocusability="blocksDescendants"
+        android:gravity="top"
+        android:layout_alignParentBottom="true"
+        android:singleLine="true"
+        android:textColor="#ff686868" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:text="   No\nBuses"
+        android:id="@+id/item_timesText"
+        android:textSize="18dp"
+        android:gravity="center_vertical"
+        android:descendantFocusability="blocksDescendants"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="5dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:maxLines="3" />
+
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/listPreferredItemHeightLarge"
+
+        android:id="@+id/hidden_options"
+        android:background="#ff252525"
+        android:gravity="center"
+        android:clickable="true"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+
+            android:visibility="visible">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/buttonsLayout"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:visibility="visible">
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/favouriteButton"
+                        android:layout_gravity="center_vertical"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/mapsButton"
+
+                        android:background="@drawable/favorited" />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/mapsButton"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="25dp"
+                        android:layout_toRightOf="@+id/smsButton"
+                        android:background="@drawable/maps_icon" />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/smsButton"
+                        android:layout_marginRight="25dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/alarmButton"
+                        android:background="@drawable/sms" />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/alarmButton"
+                        android:layout_marginRight="25dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_centerVertical="true"
+
+                        android:background="@drawable/alert" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/layoutForOptions"
+                    android:layout_marginRight="25dp"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:text="196"
+                        android:id="@+id/hidden_options_route"
+                        android:layout_centerVertical="true"
+                        android:lineSpacingMultiplier="0.7"
+                        android:layout_alignParentBottom="true"
+                        android:gravity="top"
+                        android:textColor="#ff800000"
+                        android:textSize="26sp"
+                        android:visibility="visible" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:text="South"
+                        android:layout_alignParentBottom="true"
+                        android:gravity="top"
+                        android:lineSpacingMultiplier="0.65"
+                        android:layout_marginLeft="5dp"
+                        android:layout_toRightOf="@+id/hidden_options_route"
+                        android:textColor="#ffffffff"
+                        android:textSize="26sp"
+
+                        android:id="@+id/hidden_options_direction" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

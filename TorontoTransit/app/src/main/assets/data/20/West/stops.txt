@@ -1,0 +1,39 @@
+14228 | Kennedy Station | 43.7324999 | -79.26331 | 14708
+311 | 2495 Eglinton Ave East At South Service Rd (East) | 43.7340399 | -79.2598 | 1031
+8890 | Eglinton Ave East At Midland Ave | 43.7343199 | -79.25847 | 1037
+4682 | Midland Ave At Town Haven Pl South Side | 43.7330499 | -79.2575999 | 2912
+6476 | Midland Ave At Safari St | 43.7311699 | -79.2567799 | 2915
+9414 | Midland Ave At Verdun Ave | 43.7289999 | -79.2558499 | 2918
+9273 | Midland Ave At Wolfe Ave | 43.7276799 | -79.2552799 | 2920
+933 | Midland Ave At Danforth Rd | 43.7249999 | -79.2541699 | 2913
+4866 | Midland Ave At St Clair Ave East | 43.7190299 | -79.2515799 | 2917
+7169 | Midland Ave At St Clair Ave East South Side | 43.7184199 | -79.2512999 | 2916
+7774 | Midland Ave At Wilkie Ave | 43.7155399 | -79.2501299 | 2919
+8511 | Midland Ave At Aylesworth Ave South Side | 43.7134899 | -79.2492699 | 2911
+1080 | Midland Ave At Park St | 43.7121599 | -79.2487199 | 2914
+7149 | Park St At Atlee Ave | 43.7114899 | -79.25069 | 3009
+10268 | Park St At Sharpe St | 43.7107699 | -79.2540899 | 3012
+2148 | Park St At Claremore Ave | 43.7102399 | -79.25633 | 3010
+5933 | Park St At Kennedy Rd | 43.7097599 | -79.25855 | 3011
+8919 | Kennedy Rd At Mewburn Ave | 43.7077899 | -79.2579799 | 2761
+8944 | Kennedy Rd At Craiglee Dr | 43.70582 | -79.25715 | 2749
+3389 | Kennedy Rd At Malta St | 43.7043499 | -79.2565399 | 2758
+3499 | Highview Ave At Kennedy Rd West Side | 43.7024499 | -79.25612 | 2696
+1800 | Highview Ave At Baudina Cres | 43.70154 | -79.2584099 | 2694
+4805 | Highview Ave At South Woodrow Blvd | 43.70099 | -79.2608099 | 2698
+1754 | Highview Ave At Lillington Ave | 43.7004599 | -79.26303 | 2697
+4548 | Highview Ave At Birchmount Rd | 43.70005 | -79.2648799 | 2695
+1665 | Birchmount Rd At Danforth Ave | 43.6972399 | -79.26419 | 1739
+6741 | Danforth Ave At Eastwood Ave | 43.6954199 | -79.26917 | 1847
+6556 | Danforth Ave At Medford Ave | 43.6949399 | -79.27125 | 11388
+4010 | Danforth Ave At Warden Ave | 43.6944999 | -79.27342 | 1864
+425 | 3450 Danforth Ave | 43.6941799 | -79.27503 | 1842
+1971 | Danforth Ave At Leyton Ave West Side | 43.6935199 | -79.27836 | 1833
+2416 | Danforth Ave At August Ave | 43.6929099 | -79.28109 | 1831
+2245 | Danforth Ave At Pharmacy Ave | 43.6924399 | -79.2832 | 1836
+7491 | Danforth Ave At St Dunstan Dr West Side | 43.6918599 | -79.2858399 | 1838
+3960 | Danforth Ave At Victoria Park Ave | 43.69139 | -79.2880099 | 1839
+1321 | Danforth Ave At Sibley Ave | 43.6903499 | -79.29247 | 1837
+7164 | Danforth Ave At Dawes Rd | 43.68942 | -79.2966099 | 1832
+7627 | 2666 Danforth Ave | 43.6888 | -79.2993199 | 13464
+14257_ar | Main St Station | 43.6891599 | -79.30148

@@ -1,0 +1,18 @@
+640 | Front St East At Berkeley St | 43.6514199 | -79.36363 | 9536
+2203 | Princess St At Front St East South Side | 43.65029 | -79.3665699 | 14274
+722 | Princess St At The Esplanade | 43.6493499 | -79.36618 | 9538
+9153 | The Esplanade At Berkeley St | 43.6497599 | -79.36392 | 9539
+6298 | Berkeley At Front St East | 43.65103 | -79.3638399 | 9540
+1221 | Parliament St At King St East | 43.65266 | -79.3631 | 6639
+7931 | Parliament St At Richmond St East | 43.65446 | -79.36387 | 6645
+2501 | Parliament St At Queen St East | 43.65544 | -79.36428 | 6643
+5446 | Parliament St At Shuter St | 43.6568399 | -79.36489 | 6646
+15033 | Parliament St At Dundas St E | 43.6590999 | -79.3657499 | 15218
+9500 | Parliament St At Oak St | 43.6606 | -79.3664 | 6642
+2483 | Parliament St At Gerrard St East | 43.66176 | -79.36686 | 6637
+4015 | Parliament St At Carlton St | 43.6639199 | -79.3677399 | 13463
+2942 | Parliament St At Winchester St | 43.6657599 | -79.36849 | 6653
+2107 | Parliament St At Wellesley St East North Side | 43.66852 | -79.36961 | 6651
+9623 | St James Ave | 43.66972 | -79.37008 | 6648
+7608 | Parliament St At Bloor St East | 43.6715599 | -79.37082 | 6633
+14163_ar | Castle Frank Station | 43.6734499 | -79.36914

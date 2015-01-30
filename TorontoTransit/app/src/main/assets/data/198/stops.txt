@@ -1,0 +1,28 @@
+14228 | Kennedy Station | 43.7324999 | -79.26331 | 14708
+8890 | Eglinton Ave East At Midland Ave | 43.7343199 | -79.25847 | 1037
+6997 | Eglinton Ave East At Brimley Rd | 43.7365199 | -79.24828 | 2254
+9553 | Eglinton Ave East At McCowan Rd | 43.7386599 | -79.23864 | 2292
+5029 | Eglinton Ave East At Bellamy Rd North | 43.74007 | -79.2321699 | 2244
+3490 | Eglinton Ave East At Markham Rd | 43.7429899 | -79.21919 | 2289
+8036 | Eglinton Ave East At Kingston Rd | 43.7438099 | -79.2121399 | 2283
+5246 | Kingston Rd At Celeste Dr | 43.7568399 | -79.19923 | 4212
+6110 | Kingston Rd At Galloway Rd | 43.7615599 | -79.19492 | 4225
+8177 | Kingston Rd At Lawrence Ave East | 43.7673599 | -79.1896 | 6488
+15107 | Morningside Ave At Kingston Rd | 43.7712499 | -79.1870899 | 15280
+8262 | Morningside Ave At Ellesmere Rd | 43.7851799 | -79.19312 | 2942
+8000 | Ellesmere Rd At Military Trail (East) | 43.78646 | -79.1884399 | 7698
+14923_ar | 1265 Military Trail (Uoft - Scarborough Campus) | 43.7848299 | -79.18558
+14923 | 1265 Military Trail (Uoft - Scarborough Campus) | 43.7848299 | -79.18558 | 15116
+15106 | Opp 1095 Military Trail | 43.7878299 | -79.1905299 | 15281
+5757 | Morningside Ave At Ellesmere Rd | 43.7857599 | -79.19373 | 2943
+4458 | Morningside Ave At Kingston Rd | 43.7707299 | -79.1870799 | 2951
+6152 | Kingston Rd At Lawrence Ave East | 43.7678199 | -79.18958 | 6487
+4654 | Kingston Rd At Galloway Rd | 43.76244 | -79.1945099 | 4226
+8535 | Kingston Rd At Celeste Dr | 43.75721 | -79.1992999 | 4213
+1281 | Eglinton Ave East At Kingston Rd West Side | 43.7440399 | -79.2123 | 2282
+715 | Eglinton Ave East At Markham Rd | 43.7433599 | -79.21857 | 11282
+2440 | Eglinton Ave East At Bellamy Rd North | 43.7404199 | -79.23187 | 2243
+3042 | Eglinton Ave East At McCowan Rd | 43.73898 | -79.2381899 | 2293
+2463 | Eglinton Ave East At Brimley Rd | 43.7368499 | -79.24785 | 10140
+323 | Eglinton Ave East At Midland Ave West Side | 43.73447 | -79.2588799 | 1036
+14228_ar | Kennedy Station | 43.7324999 | -79.26331

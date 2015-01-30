@@ -1,0 +1,43 @@
+14288 | Scarborough Centre Station | 43.7743199 | -79.25794 | 14769
+9276 | Triton Rd At McCowan Rd | 43.7753199 | -79.25296 | 9614
+569 | McCowan Rd At Town Centre Crt | 43.77482 | -79.25257 | 9616
+4611 | McCowan Rd At Ellesmere Rd South Side | 43.7715599 | -79.25147 | 5666
+5741 | McCowan Rd At Hurley Cres South Side | 43.7686699 | -79.2503199 | 5670
+1339 | McCowan Rd At Brimorton Dr | 43.76559 | -79.24911 | 5664
+994 | McCowan Rd At Meldazy Dr (North) | 43.76361 | -79.24833 | 5675
+1975 | McCowan Rd At Meldazy Dr (South ) | 43.76209 | -79.24774 | 5676
+7557 | McCowan Rd At St Andrews Rd | 43.76016 | -79.24699 | 5678
+7980 | McCowan Rd At Benleigh Dr | 43.7584799 | -79.2463499 | 5662
+7968 | McCowan Rd At Lawrence Ave E (Scarborough General Hospital) | 43.7557799 | -79.2456399 | 5673
+2293 | McCowan Rd At Hollyhedge Dr (North) South Side | 43.7533299 | -79.24471 | 5669
+6356 | Danforth Rd At Barrymore Rd | 43.75053 | -79.2445199 | 4937
+5335 | Danforth Rd At Seminole Ave | 43.74794 | -79.2446299 | 4963
+9040 | Danforth Rd At Tansley Ave South Side | 43.7461 | -79.2446999 | 4966
+6502 | Danforth Rd At Savarin St | 43.7433299 | -79.24512 | 4961
+1234 | 1290 Danforth Rd | 43.74078 | -79.2456099 | 4936
+2024 | Danforth Rd At Wetherby Dr | 43.7396 | -79.2456299 | 4969
+5398 | Danforth Rd At Eglinton Ave East | 43.7372899 | -79.2462499 | 4942
+4853 | Danforth Rd At Horton Blvd | 43.7360199 | -79.24701 | 4949
+4691 | Danforth Rd At Brimley Rd West Side | 43.7349999 | -79.24767 | 4938
+3040 | Danforth Rd At Neston Ave West Side | 43.7331799 | -79.24891 | 4959
+2339 | Danforth Rd At Glenshephard Dr (East) West Side | 43.7317399 | -79.25009 | 4945
+14800 | Danforth Rd At Winter Ave | 43.72952 | -79.2517499 | 15031
+3627 | Danforth Rd At Wolfe Ave | 43.72758 | -79.2526599 | 4951
+6779 | Danforth Rd At Midland Ave | 43.7254399 | -79.2537799 | 4957
+8462 | Danforth Rd At Magnolia Ave | 43.7229699 | -79.25557 | 4956
+5218 | Danforth Rd At Linden Ave | 43.72109 | -79.2570399 | 4954
+10348 | Danforth Rd At Hart Ave | 43.71894 | -79.2587299 | 4948
+2533 | Danforth Rd At St Clair Ave East | 43.71702 | -79.2599099 | 4965
+8477 | St Clair Ave East At Kennedy Rd | 43.7167 | -79.2610799 | 1563
+3740 | St Clair Ave East At Marsh Rd | 43.7159499 | -79.26439 | 1568
+5872 | St Clair Ave East At North Woodrow Blvd | 43.7154499 | -79.26644 | 1571
+4558 | St Clair Ave East At Birchmount Rd West Side | 43.7141499 | -79.27184 | 1554
+5626 | St Clair Ave East At Santamonica Blvd | 43.71322 | -79.2764199 | 6126
+9394 | Warden Ave At St Clair Ave East South Side | 43.7114799 | -79.2809099 | 12861
+1870 | Opposite 689 Warden Ave | 43.7074199 | -79.2791899 | 10604
+6704 | 682 Warden Ave | 43.70585 | -79.27858 | 3162
+2925 | Warden Ave At Firvalley Crt | 43.70374 | -79.2777 | 3160
+2630 | Warden Ave At Cataraqui Cres | 43.70248 | -79.27717 | 3164
+10044 | Warden Ave At Burn Hill Rd | 43.7003199 | -79.2762399 | 3163
+3150 | Danforth Rd At McDonald Ave West Side | 43.6957799 | -79.27583 | 1855
+5322 | 3555 Danforth Ave | 43.6940699 | -79.27491 | 0919

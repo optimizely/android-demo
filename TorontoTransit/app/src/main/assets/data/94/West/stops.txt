@@ -1,0 +1,26 @@
+14164 | Castle Frank Station | 43.6736299 | -79.36885 | 14642
+5633 | Parliament St At Howard St South Side | 43.6711199 | -79.3708399 | 6638
+7201 | St James Ave South Side | 43.6696599 | -79.3702399 | 6649
+3392 | Wellesley St East At Parliament St West Side | 43.66813 | -79.3700999 | 8632
+3875 | Wellesley St East At Ontario St | 43.66772 | -79.3720299 | 8631
+7030 | Wellesley St East At Sherbourne St | 43.66715 | -79.3744999 | 8637
+2712 | Wellesley St East At Jarvis St | 43.66638 | -79.3781799 | 8629
+4689 | Wellesley St East At Church St | 43.6658 | -79.3807699 | 8627
+14314 | Wellesley Station | 43.66536 | -79.38393 | 14797
+3920 | Wellesley St East At Yonge St | 43.6650099 | -79.38439 | 8640
+6482 | Wellesley St West At Bay St | 43.6645099 | -79.38692 | 8624
+5833 | Wellesley St West At Queen&apos;S Park Cres East | 43.6637 | -79.3904699 | 8634
+492 | Queen&apos;S Park Cres West At Hoskin Ave | 43.6656099 | -79.39374 | 8038
+3291 | Hoskin Ave At Tower Rd (Trinity College) | 43.6647699 | -79.39562 | 7850
+4622 | Hoskin Ave At St George St | 43.6642199 | -79.39819 | 7849
+1974 | Harbord St At Huron St | 43.6635899 | -79.39993 | 7813
+984 | Harbord St At Spadina Ave | 43.6631899 | -79.40185 | 7818
+1947 | Harbord St At Robert St | 43.6627899 | -79.40373 | 7816
+1067 | Harbord St At Brunswick Ave | 43.6623499 | -79.40588 | 7805
+5581 | Harbord St At Bathurst St | 43.6616099 | -79.40954 | 7802
+9135 | Harbord St At Euclid Ave | 43.6608599 | -79.41328 | 7809
+2695 | Harbord St At Grace St | 43.6600199 | -79.41741 | 7811
+5097 | Harbord St At Crawford St | 43.6593599 | -79.42058 | 7807
+1223 | Harbord St At Ossington Ave | 43.65868 | -79.4239899 | 7814
+4373 | Ossington Ave At Hepbourne St North Side | 43.6600599 | -79.4248099 | 5973
+14264_ar | Ossington Station | 43.6623399 | -79.42661

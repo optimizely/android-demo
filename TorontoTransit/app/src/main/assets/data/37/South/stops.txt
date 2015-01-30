@@ -1,0 +1,75 @@
+4534 | Humberwood Blvd Loop At View Green Cres | 43.7244699 | -79.62116 | 11289
+3906 | Humberwood Blvd At Arborwood Dr East Side | 43.7235 | -79.6183099 | 11290
+9019 | Humberwood Blvd At Kingsplate Cres | 43.72383 | -79.6160699 | 11295
+10341 | Humberwood Blvd At Hullrick Dr (South) | 43.722 | -79.61299 | 11291
+898 | Woodbine Race Track Loop (Main Entrance) | 43.71601 | -79.6035699 | 13921
+9169 | Queens Plate Dr (West) At Rexdale Blvd North Side | 43.7203599 | -79.6029 | 12132
+1429 | Queens Plate Dr West At Janda Crt | 43.7227699 | -79.60154 | 12039
+5723 | Queens Plate Dr At Highway 27 | 43.72264 | -79.5986099 | 12040
+9686 | Opposite 237 Queens Plate Dr (East) | 43.72178 | -79.5950799 | 13876
+5176 | Queens Plate Dr (East) At Harness Rd South Side | 43.7201699 | -79.5943799 | 12041
+6894 | Queens Plate Dr (East) At Rexdale Blvd | 43.71771 | -79.59297 | 12042
+3738 | Rexdale Blvd At Queens Plate Dr (East) East Side | 43.71624 | -79.59198 | 12079
+2134 | Rexdale Blvd At Precision Rd | 43.7158499 | -79.5902799 | 9671
+5252 | Rexdale Blvd At Tidemore Ave | 43.71472 | -79.58539 | 6950
+7407 | Rexdale Blvd At Martin Grove Rd | 43.71378 | -79.58128 | 6946
+3434 | 279 Rexdale Blvd | 43.71335 | -79.57936 | 9411
+4290 | Opposite 230 Rexdale Blvd | 43.7127699 | -79.5769699 | 6948
+7580 | 225 Rexdale Blvd | 43.7122199 | -79.5745999 | 6940
+5442 | Rexdale Blvd At Brydon Dr | 43.7115299 | -79.5716299 | 6937
+6157 | Rexdale Blvd At Kipling Ave | 43.7114699 | -79.56719 | 6944
+7650 | Rexdale Blvd At Frost St East Side | 43.71227 | -79.5637499 | 6941
+2234 | Bergamot Ave At Rexdale Blvd North Side | 43.7138699 | -79.5597 | 6254
+5353 | Bergamot Ave At Islington Ave | 43.7167799 | -79.55634 | 6253
+1428 | Islington Ave At Rexdale Blvd South Side | 43.7151099 | -79.55524 | 14121
+3833 | 2200 Islington Ave | 43.7126799 | -79.5543099 | 3838
+6969 | Islington Ave At Resources Rd South Side | 43.70778 | -79.55183 | 3830
+1633 | Islington Ave At Westhampton Dr South Side | 43.7041799 | -79.5500999 | 3852
+4063 | Islington Ave At St Andrews Blvd | 43.70144 | -79.54881 | 3839
+3381 | Islington Ave At Kingsview Blvd | 43.69984 | -79.54807 | 3807
+8964 | Islington Ave At Dixon Rd | 43.6972499 | -79.5469399 | 3778
+9102 | Islington Ave At Fenley Dr South Side | 43.6927999 | -79.5448599 | 3790
+1023 | Islington Ave At Fletcher Place | 43.69143 | -79.54424 | 3794
+7887 | Islington Ave At The Westway South Side | 43.6882499 | -79.54286 | 3853
+6759 | Islington Ave At Holgate St | 43.68474 | -79.54127 | 3802
+8381 | Islington Ave At Summitcrest Dr | 43.68324 | -79.54063 | 3846
+4052 | Islington Ave At La Rose Ave | 43.68176 | -79.53998 | 3810
+9921 | Islington Ave At Eglinton Ave West | 43.6799499 | -79.53919 | 3783
+3910 | 1738 Islington Ave (Richview Collegiate) | 43.67837 | -79.53845 | 3774
+1048 | Islington Ave At Princess Margaret Blvd South Side | 43.6754199 | -79.5371099 | 3827
+10071 | Islington Ave At Prince George Dr | 43.67232 | -79.5357 | 3826
+1250 | Islington Ave At The Kingsway | 43.6685 | -79.534 | 3809
+1311 | Islington Ave At Aylesbury Rd | 43.66652 | -79.5331 | 3761
+8172 | Islington Ave At Rathburn Rd South Side | 43.6621199 | -79.53111 | 3828
+5939 | Islington Ave At Great Oak Dr | 43.6608899 | -79.5305899 | 3800
+5810 | Islington Ave At Bywood Dr | 43.6592699 | -79.5298799 | 3771
+1978 | Islington Ave At Orrell Ave | 43.6569199 | -79.5288599 | 3823
+1169 | Islington Ave At Fairway Rd | 43.6549599 | -79.5280199 | 3789
+5241 | Islington Ave At Riverbank Dr | 43.6533999 | -79.5273599 | 3834
+4676 | Islington Ave At Dundas St West | 43.6514099 | -79.5265499 | 3781
+6566 | 1300 Islington Ave | 43.64988 | -79.5258 | 10300
+657 | Islington Ave At Central Park Roadway South Side | 43.6480799 | -79.5250199 | 3772
+403 | Bloor St West At Islington Ave West Side | 43.6445899 | -79.52415 | 0526
+14217_ar | Islington Station | 43.6451599 | -79.52484
+5171 | Kipling Ave At Steeles Ave West | 43.7599899 | -79.59013 | 9106
+5632 | Steeles Ave West At Markbrook Lane | 43.75996 | -79.58635 | 10866
+6796 | Steeles Ave West Loop At Islington | 43.7640799 | -79.57659 | 9170
+3549 | Steeles Ave West At Islington Ave | 43.76414 | -79.5749899 | 4643
+1976 | Islington Ave At Humber Summit Lane | 43.7618799 | -79.5731799 | 3803
+3973 | Islington Ave At Muir Ave | 43.76012 | -79.57197 | 3819
+2067 | Islington Ave At Vanhill Ave | 43.75736 | -79.57 | 3850
+1177 | Islington Ave At Rowntree Mill Rd South Side | 43.75436 | -79.56891 | 3835
+7682 | Islington Ave At Milady Rd | 43.75242 | -79.56847 | 3817
+1373 | Islington Ave At Aviemore Dr | 43.7485199 | -79.56842 | 3759
+5959 | Islington Ave At Finch Ave West | 43.7463899 | -79.56873 | 3792
+4404 | Islington Ave At Beaumonde Heights Dr South Side | 43.74222 | -79.56771 | 3765
+6968 | Islington Ave At Kingsmoor Gate South Side | 43.7403899 | -79.56688 | 2724
+8396 | Islington Ave At Albion Rd | 43.7376999 | -79.56567 | 2712
+5263 | Islington Ave At Sandhill Dr | 43.73446 | -79.56419 | 3837
+5196 | Islington Ave At Barker Ave | 43.7319799 | -79.5631299 | 3763
+8287 | Islington Ave At Fordwich Cres | 43.72711 | -79.56087 | 3796
+1599 | Islington Ave At Gosfield Gate South Side | 43.7252699 | -79.5600099 | 3799
+10004 | Islington Ave At Elmhurst Dr South Side | 43.7228399 | -79.5589 | 3784
+9627 | Islington Ave At Golfdown Dr | 43.7215899 | -79.5582399 | 3798
+2699 | Islington Ave At Leduc Dr South Side | 43.7181599 | -79.5566799 | 3814
+8847 | Islington Ave At Bergamot Ave | 43.71711 | -79.55616 | 3768

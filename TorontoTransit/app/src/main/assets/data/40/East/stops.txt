@@ -1,0 +1,13 @@
+5619 | Runnymede Loop At Dundas St West | 43.6659499 | -79.48259 | 4450
+9786 | Dundas St West At Gilmour Ave | 43.6654999 | -79.4793499 | 3495
+4444 | Dundas St West At St Johns Rd | 43.66547 | -79.47517 | 3524
+9734 | Dundas St West At Quebec Ave | 43.6654399 | -79.4722999 | 3516
+5548 | Dundas St West At Pacific Ave | 43.66539 | -79.46871 | 3513
+4543 | Dundas St West At Keele St | 43.66536 | -79.46476 | 3508
+3694 | Dundas St West At Indian Road Cres | 43.6651699 | -79.46129 | 3503
+3175 | Dundas St West At Annette St | 43.6645199 | -79.4590999 | 3486
+6791 | Dundas St West At Humberside Ave | 43.6633199 | -79.45695 | 3501
+4869 | Dundas St West At Jerome St | 43.66159 | -79.45514 | 3507
+9961 | Dundas St West At Glenlake Ave | 43.6600499 | -79.4537799 | 14050
+6941 | Dundas St West At Chelsea Ave | 43.65824 | -79.45303 | 3491
+14184_ar | Dundas West Station | 43.6569999 | -79.45307

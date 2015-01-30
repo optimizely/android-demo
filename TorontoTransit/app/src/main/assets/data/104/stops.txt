@@ -1,0 +1,61 @@
+14619 | Downsview Station | 43.7496899 | -79.46253 | 14653
+5024 | Sheppard Ave West At Banting Ave | 43.75084 | -79.4601299 | 11876
+4848 | Wilson Heights Blvd At Sheppard Ave West North Side | 43.7521699 | -79.4570299 | 11877
+765 | Wilson Heights Blvd At Codsell Ave | 43.7535499 | -79.4582999 | 8896
+8348 | Wilson Heights Blvd At Waterloo Ave | 43.7551899 | -79.4597299 | 8905
+5822 | Wilson Heights Blvd At Brighton Ave | 43.7566 | -79.46096 | 8894
+1349 | Wilson Heights Blvd At Clifton Ave | 43.7587299 | -79.4628199 | 8895
+4270 | Kennard Ave At William R Allen Rd | 43.7595099 | -79.4644299 | 9155
+9079 | William R Allen Rd At Overbrook Pl | 43.7608799 | -79.46498 | 1645
+7259 | Dufferin St At Stanstead Dr | 43.7630599 | -79.4654799 | 0983
+7080 | Opposite 4400 Dufferin St | 43.7653599 | -79.4659999 | 11341
+9661 | Dufferin St At Finch Ave West | 43.7686299 | -79.46671 | 0980
+7716 | 715 Finch Ave West | 43.76974 | -79.4623899 | 9506
+7208 | Wilmington Ave At Finch Ave West South Side | 43.7694 | -79.46039 | 3181
+3360 | Wilmington Ave At Purdon Dr | 43.76791 | -79.45977 | 3184
+8077 | Wilmington Ave At Evanston Dr | 43.7660899 | -79.4590499 | 3180
+2491 | Wilmington Ave At Cavotti Cres | 43.7646599 | -79.4577099 | 3175
+4961 | Wilmington Ave At Overbrook Pl | 43.76292 | -79.45696 | 3183
+3255 | Wilmington Ave At Combe Ave | 43.7597 | -79.45569 | 3179
+3340 | Wilmington Ave At Searle Ave | 43.75741 | -79.45468 | 3186
+1365 | Wilmington Ave At Codsell Ave | 43.75535 | -79.45383 | 3177
+5428 | Wilmington Ave At Sheppard Ave West | 43.75285 | -79.4522599 | 3187
+4885 | Faywood Blvd At Reiner Rd | 43.7497599 | -79.45036 | 2473
+7275 | Faywood Blvd At Bainbridge Ave | 43.7482399 | -79.4498099 | 2464
+5676 | Faywood Blvd At Joel Swirsky Blvd South Side | 43.74535 | -79.4491899 | 2461
+3337 | Faywood Blvd At Clanton Park Rd | 43.74392 | -79.44888 | 2466
+2558 | Faywood Blvd At Dresden Rd | 43.7414199 | -79.4480399 | 2467
+2899 | Faywood Blvd At Faith Ave | 43.7392299 | -79.4475499 | 2468
+8312 | Faywood Blvd At Goodwill Ave | 43.7370399 | -79.4470299 | 2470
+10075 | Faywood Blvd At Ansford Ave | 43.73594 | -79.4467699 | 2462
+14377_ar | Wilson Station | 43.7346799 | -79.45102
+14377 | Wilson Station | 43.7346799 | -79.45102 | 14817
+8758 | Ansford Ave At Faywood Blvd | 43.73575 | -79.4468499 | 1689
+972 | Faywood Blvd At Goodwill Ave | 43.7369499 | -79.44686 | 2469
+1033 | Faywood Blvd At Invermay Ave | 43.7388 | -79.44728 | 2471
+4681 | Faywood Blvd At Laurelcrest Ave | 43.74152 | -79.44793 | 2459
+1375 | Faywood Blvd At Clanton Park Rd | 43.7436199 | -79.4486399 | 2465
+1562 | Faywood Blvd At Almore Ave | 43.7456199 | -79.44905 | 2460
+5269 | Faywood Blvd At Bainbridge Ave | 43.7479999 | -79.4495899 | 2463
+8071 | Faywood Blvd At Reiner Rd | 43.7495799 | -79.4501499 | 2472
+9407 | Faywood Blvd At Sheppard Ave West | 43.75248 | -79.4517 | 2474
+2239 | Wilmington Ave At Sheppard Ave West North Side | 43.7532499 | -79.45254 | 3188
+7595 | Wilmington Ave At Codsell Ave | 43.75492 | -79.45356 | 3176
+3840 | Wilmington Ave At Searle Ave | 43.7571499 | -79.4544799 | 3185
+3701 | Wilmington Ave At Combe Ave | 43.7595299 | -79.4554599 | 3178
+5293 | Wilmington Ave At Overbrook Pl | 43.7624799 | -79.4566799 | 3182
+14367 | Wilmington Ave At Cavotti Cres | 43.7643899 | -79.4574199 | 14841
+14368 | Wilmington Ave At Blue Forest Dr | 43.7659 | -79.45879 | 14842
+14369 | Wilmington Ave At Cedar Springs Grove (South) | 43.76759 | -79.45966 | 14843
+14370 | Wilmington Ave At Cedar Springs Grove (South) North Side | 43.7696599 | -79.4604299 | 14844
+9124 | Dufferin St At Finch Ave West South Side | 43.7682499 | -79.46695 | 12176
+5726 | 4400 Dufferin St | 43.76557 | -79.4663 | 11342
+7130 | Dufferin St At Steeprock Dr | 43.76189 | -79.46549 | 9417
+7443 | Wilson Heights Blvd At Clifton Ave | 43.75897 | -79.46318 | 3191
+2624 | Wilson Heights Blvd At Brighton Ave | 43.75685 | -79.46132 | 3190
+3387 | Wilson Heights At Waterloo Ave South Side | 43.7551099 | -79.4598099 | 3193
+3648 | Wilson Heights At Cocksfield Ave | 43.75292 | -79.45791 | 3192
+4392 | Wilson Heights Blvd At Sheppard Ave West | 43.7518899 | -79.4570699 | 8904
+5501 | Sheppard Ave West At Banting Ave | 43.75116 | -79.4593799 | 7262
+14619_ar | Downsview Station | 43.7496899 | -79.46253
+897 | Wilson Heights Blvd At Goodwill Ave | 43.73642 | -79.4494399 | 11690

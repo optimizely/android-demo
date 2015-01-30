@@ -1,0 +1,116 @@
+475 | Lansdowne Loop At St Clair Ave West | 43.6760799 | -79.45102 | 7948
+818 | St Clair Ave West At Lansdowne Ave | 43.6761399 | -79.45076 | 11620
+7533 | 1216 Lansdowne Ave | 43.6732899 | -79.44942 | 5206
+444 | Lansdowne Ave At Davenport Rd South Side | 43.6711399 | -79.4482599 | 5213
+7100 | Lansdowne Ave At Brandon Ave | 43.66927 | -79.44754 | 4400
+1664 | Lansdowne Ave At Dupont St | 43.6667999 | -79.4465799 | 4402
+7687 | Lansdowne Ave At Lappin Ave | 43.6652399 | -79.44597 | 4405
+2569 | Lansdowne Ave At Wallace Ave | 43.66243 | -79.44462 | 4411
+1108 | Lansdowne Ave At Paton Rd | 43.66083 | -79.44374 | 5217
+5107 | Lansdowne Ave At Wade Ave (Lansdowne Station) | 43.6593399 | -79.4431499 | 5224
+6505 | 422 Lansdowne Ave | 43.6556299 | -79.44186 | 5208
+8707 | Lansdowne Ave At Whytock Ave | 43.65393 | -79.44121 | 5226
+8057 | Lansdowne Ave At College St | 43.65112 | -79.44013 | 5212
+3310 | Lansdowne Ave At Dundas St West | 43.65036 | -79.43985 | 5216
+10182 | Lansdowne Ave At Rideau Ave South Side | 43.6463799 | -79.43898 | 5219
+3680 | 106 Lansdowne Ave | 43.6440199 | -79.4380599 | 5205
+689 | Lansdowne Ave At Seaforth Ave | 43.64288 | -79.4376 | 5221
+5145_ar | Lansdowne Ave At Queen St West | 43.6408899 | -79.43685
+5639 | Lansdowne Ave At Bloor St West | 43.6584599 | -79.4428 | 13703
+9767 | Yorkdale Rd At Yorkdale Mall (South Entrance) | 43.7240899 | -79.4523 | 1676
+6163 | Bridgeland Ave At Dufferin St West Side | 43.7269999 | -79.45831 | 0613
+9070 | 100 Bridgeland Ave | 43.7261199 | -79.46115 | 0604
+6561 | 150 Bridgeland Ave | 43.72546 | -79.4640599 | 0606
+8475 | 168 Bridgeland Ave | 43.72517 | -79.4653699 | 0608
+3625 | 240 Bridgeland Ave | 43.72451 | -79.4682799 | 0610
+6982 | Caledonia Rd At Bridgeland Ave South Side | 43.7233599 | -79.46977 | 0705
+1474 | Caledonia Rd At Cartwright Ave | 43.7216999 | -79.4692599 | 0709
+9630 | Caledonia Rd At Bentworth Ave | 43.71972 | -79.46874 | 0702
+5123 | Caledonia Rd At Orfus Rd South Side | 43.7173399 | -79.46813 | 0736
+9133 | Caledonia Rd At Leswyn Rd | 43.71592 | -79.46779 | 0732
+4721 | Caledonia Rd At Lawrence Ave West | 43.71166 | -79.46672 | 0730
+4106 | Caledonia Rd At Playfair Ave | 43.7083499 | -79.46587 | 0738
+7013 | Caledonia Rd At Glengrove Ave | 43.70681 | -79.46546 | 0720
+2088 | Caledonia Rd At Glencairn Ave | 43.7048599 | -79.4648999 | 0718
+4296 | Caledonia Rd At Tycos Dr South Side | 43.7032099 | -79.4645399 | 0748
+3057 | Caledonia Rd At Raitherm Rd South Side | 43.7016199 | -79.4643099 | 0739
+9454 | 724 Caledonia Rd | 43.7005099 | -79.4640499 | 0712
+8097 | Caledonia Rd At Castlefield Ave | 43.6985699 | -79.4636299 | 0711
+3107 | Caledonia Rd At Schell Ave | 43.6967699 | -79.4631599 | 0744
+8769 | Caledonia Rd At Bowie Ave | 43.69504 | -79.46288 | 0704
+6109 | Caledonia Rd At Eglinton Ave West | 43.6931899 | -79.4622399 | 0716
+10105 | Caledonia Rd At Keith Ave | 43.6907899 | -79.46135 | 0726
+5865 | Caledonia Rd At Kitchener Ave | 43.68909 | -79.46064 | 0728
+2689 | Caledonia Rd At Summit Ave South Side | 43.68646 | -79.45953 | 0746
+7988 | Caledonia Rd At Corby Ave | 43.6848499 | -79.4588499 | 0714
+6756 | Caledonia Rd At Rogers Rd | 43.6833399 | -79.4582299 | 0742
+7323 | Caledonia Rd At Innes Ave | 43.68113 | -79.45725 | 0722
+9913 | 180 Caledonia Rd | 43.68004 | -79.45678 | 0700
+8781 | Caledonia Rd At Norman Ave | 43.67785 | -79.45584 | 0734
+815 | St Clair Ave West At Caledonia Rd East Side | 43.67543 | -79.4540099 | 11579
+5015 | Dufferin St At Bentworth Ave | 43.72195 | -79.45656 | 2019
+5361 | Orfus Rd At Dufferin St West Side | 43.7204099 | -79.45659 | 1429
+1669 | 38 Orfus Rd | 43.7197099 | -79.45948 | 1433
+3448 | Orfus Rd At Dufflaw Rd West Side | 43.71877 | -79.4637299 | 1431
+5701 | 112 Orfus Rd | 43.7182099 | -79.46622 | 1426
+5145 | Lansdowne Ave At Queen St West | 43.6408899 | -79.43685 | 5218
+2071 | Macdonell Ave At Queen St West North Side | 43.64073 | -79.43799 | 5527
+3503 | Macdonell Ave At Seaforth Ave | 43.64214 | -79.43852 | 5528
+15017 | Lansdowne Ave At Seaforth Ave North Side | 43.6430299 | -79.4374799 | 15191
+2981 | Opposite 104 Lansdowne Ave | 43.64402 | -79.43788 | 5204
+5811 | Lansdowne Ave At Rideau Ave | 43.6466399 | -79.4389199 | 5220
+6574 | Lansdowne Ave At Dundas St West | 43.65004 | -79.43962 | 5215
+4145 | Lansdowne Ave At College St | 43.6506599 | -79.43983 | 5211
+10115 | Lansdowne Ave At Whytock Ave | 43.6536099 | -79.4409699 | 5225
+8094 | 533 Lansdowne Ave | 43.65569 | -79.44178 | 5209
+1054 | Lansdowne Ave At Bloor St West | 43.6582199 | -79.44264 | 5210
+3989 | Lansdowne Ave At Wade Ave (Lansdowne Station) | 43.6590299 | -79.4428799 | 4408
+2186 | Lansdowne Ave At Paton Rd | 43.6605399 | -79.44347 | 4406
+3180 | Lansdowne Ave At Wallace Ave | 43.66221 | -79.44418 | 4410
+2848 | Lansdowne Ave At Lappin Ave | 43.66477 | -79.4456 | 4404
+9085 | Lansdowne Ave At Dupont St | 43.6666 | -79.44632 | 4401
+2192 | Lansdowne Ave At Brandon Ave North Side | 43.6693099 | -79.44739 | 4399
+7824 | Lansdowne Ave At Davenport Rd | 43.6714299 | -79.44819 | 5214
+4457 | 1325 Lansdowne Ave | 43.6732899 | -79.4492599 | 5207
+475_ar | Lansdowne Loop At St Clair Ave West | 43.6760799 | -79.45102
+446 | Lansdowne Ave At St Clair Ave West | 43.6761099 | -79.4504399 | 11578
+816 | St Clair Ave West At Caledonia Rd | 43.6755399 | -79.45436 | 11715
+6184 | Caledonia Rd At Norman Ave | 43.6775799 | -79.4556499 | 0733
+2870 | 175 Caledonia Rd | 43.68002 | -79.45668 | 0699
+1919 | Caledonia Rd At Innes Ave North Side | 43.6812399 | -79.4571899 | 0721
+4025 | Caledonia Rd At Rogers Rd | 43.6828799 | -79.4578399 | 0741
+7338 | Caledonia Rd At Corby Ave | 43.68457 | -79.45858 | 0713
+8891 | Caledonia Rd At Summit Ave | 43.6866599 | -79.4594499 | 0747
+6267 | Caledonia Rd At Kitchener Ave | 43.6889 | -79.46042 | 0727
+1994 | Caledonia Rd At Keith Ave | 43.69058 | -79.46113 | 0725
+10084 | Caledonia Rd At Eglinton Ave West | 43.6927799 | -79.4620299 | 0715
+9722 | Caledonia Rd At Bowie Ave North Side | 43.6951799 | -79.4628 | 0703
+9521 | Caledonia Rd At Schell Ave North Side | 43.6966499 | -79.46299 | 0743
+9403 | Caledonia Rd At Castlefield Ave | 43.6982999 | -79.4633299 | 0710
+980 | Opposite 724 Caledonia Rd | 43.6999099 | -79.4637499 | 0707
+3430 | Caledonia Rd At Raitherm Rd | 43.7017199 | -79.4641399 | 0740
+1967 | Caledonia Rd At Tycos Dr | 43.7031399 | -79.46438 | 0749
+2360 | Caledonia Rd At Glencairn Ave | 43.70449 | -79.46464 | 0717
+9081 | Caledonia Rd At Glengrove Ave | 43.7063 | -79.46516 | 0719
+2470 | Caledonia Rd At Playfair Ave | 43.7079999 | -79.4656399 | 0737
+709 | Caledonia Rd At Lawrence Ave West | 43.71124 | -79.46644 | 0729
+10000 | Caledonia Rd At Leswyn Rd | 43.7156499 | -79.46747 | 0731
+2441 | Caledonia Rd At Orfus Rd | 43.7175799 | -79.4679899 | 0735
+8946 | Caledonia Rd At Bentworth Ave | 43.7193799 | -79.46845 | 0701
+6808 | Caledonia Rd At Cartwright Ave | 43.72125 | -79.4689 | 0708
+2072 | Caledonia Rd At Bridgeland Ave | 43.7233699 | -79.4695099 | 0706
+6784 | Bridgeland Ave At Caledonia Rd East Side | 43.7241799 | -79.46926 | 0612
+9137 | 227 Bridgeland Ave | 43.72454 | -79.4676799 | 0609
+2324 | 161 Bridgeland Ave | 43.7251999 | -79.46476 | 0607
+5283 | 111 Bridgeland Ave | 43.7256899 | -79.46262 | 0605
+8663 | 55 Bridgeland Ave | 43.72634 | -79.4602699 | 0611
+3611 | Bridgeland Ave At Dufferin St | 43.72689 | -79.45796 | 0614
+7925 | Yorkdale Rd At Yorkdale Mall (North Entrance) | 43.72827 | -79.4534599 | 1675
+9767_ar | Yorkdale Rd At Yorkdale Mall (South Entrance) | 43.7240899 | -79.4523
+5520 | 103 Orfus Rd | 43.7181399 | -79.46607 | 1425
+9635 | Orfus Rd At Dufflaw Rd | 43.7185999 | -79.46403 | 1432
+9578 | 47 Orfus Rd | 43.7193799 | -79.46049 | 1427
+5130 | Orfus Rd At Dufferin St | 43.7201799 | -79.45696 | 1430
+4474 | Dufferin St At Ranee Ave North Side | 43.72233 | -79.45645 | 0982
+293 | Dufferin St At Jane Osler Blvd North Side | 43.72509 | -79.457 | 0985
+291 | Dufferin St At Yorkdale Rd | 43.72645 | -79.45735 | 0979

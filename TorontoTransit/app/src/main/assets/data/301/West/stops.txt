@@ -1,0 +1,102 @@
+4143 | Queen St West At Neville Park Blvd | 43.6739099 | -79.28172 | 6813
+3196 | Queen St East At Silver Birch Ave | 43.6732699 | -79.28484 | 6817
+3869 | Queen St East At Sprucehill Rd | 43.6724799 | -79.28865 | 6818
+6992 | Queen St East At Glen Manor Dr | 43.67169 | -79.2924299 | 6804
+10076 | Queen St East At Wineva Ave | 43.6711 | -79.2953099 | 6822
+3923 | Queen St East At Lee Ave | 43.67056 | -79.2978899 | 6809
+8813 | Queen St East At Waverley Rd | 43.66992 | -79.3007899 | 6820
+8746 | Queen St East At Elmer Ave | 43.66933 | -79.3034399 | 6803
+3307 | Queen St East At Woodbine Ave West Side | 43.66866 | -79.3064699 | 6823
+4371 | Queen St East At Lockwood Rd | 43.6681099 | -79.30893 | 6811
+9143 | Queen St East At Kingston Rd | 43.6673999 | -79.31214 | 6806
+4034 | Queen St East At Coxwell Ave | 43.6664299 | -79.31645 | 3045
+1997 | Queen St East At Kent Rd | 43.6656399 | -79.31989 | 3053
+6156 | Queen St East At Connaught Ave | 43.6651199 | -79.32221 | 3043
+1189 | Queen St East At Greenwood Ave | 43.6644599 | -79.32518 | 3049
+3385 | Queen St East At Alton Ave | 43.66387 | -79.3277499 | 3029
+8882 | Queen St East At Leslie St | 43.66333 | -79.3301299 | 3057
+746 | Queen St East At Jones Ave | 43.66279 | -79.3325599 | 3052
+1744 | Queen St East At Brooklyn Ave | 43.66207 | -79.3357999 | 3034
+2650 | Queen St East At Pape Ave | 43.66166 | -79.3376199 | 3063
+3577 | Queen St East At Carlaw Ave | 43.6611499 | -79.33995 | 3036
+6902 | Queen St East At Logan Ave | 43.6605999 | -79.34237 | 3059
+6682 | Queen St East At Empire Ave | 43.6602199 | -79.34408 | 3047
+3384 | Queen St East At Boulton Ave | 43.6596599 | -79.34655 | 3031
+7385 | Queen St East At Broadview Ave | 43.6589899 | -79.34956 | 3033
+1070 | Queen St East At Carroll St | 43.65844 | -79.3519899 | 3039
+10272 | Queen St East At River St | 43.6574499 | -79.35641 | 3067
+8731 | Queen St East At Sumach St | 43.6569099 | -79.35882 | 3074
+7217 | Queen St East At Sackville St | 43.6563499 | -79.36135 | 3069
+5599 | Queen St East At Parliament St | 43.65568 | -79.3642699 | 3065
+7950 | Queen St East At Ontario St | 43.65515 | -79.3667999 | 3061
+5706 | Queen St East At Sherbourne St | 43.6546 | -79.3693199 | 3071
+9301 | Queen St East At Jarvis St | 43.65382 | -79.3730699 | 3051
+9043 | Queen St East At Church St | 43.6532799 | -79.37556 | 3041
+1958 | Queen St East At Victoria St (St Michaels Hospital) | 43.65278 | -79.3778099 | 3077
+2332 | Queen St East At Yonge St (Queen Station) | 43.6525499 | -79.37909 | 3079
+2240 | Queen St West At Bay St | 43.65206 | -79.3812599 | 3083
+4413 | Queen St West At York St | 43.6513099 | -79.38478 | 11794
+2086 | Queen St West At University Ave (Osgoode Station) | 43.6510199 | -79.38623 | 6859
+6139 | Queen St West At Simcoe St West Side | 43.65062 | -79.3879199 | 3086
+7205 | Queen St West At McCaul St | 43.65031 | -79.3892699 | 3085
+6851 | Queen St West At John St | 43.64996 | -79.3909799 | 3084
+704 | Queen St West At Soho St | 43.6495499 | -79.39328 | 3087
+1653 | Queen St West At Spadina Ave | 43.64886 | -79.3961899 | 3088
+3624 | Queen St West At Augusta Ave | 43.6481299 | -79.39953 | 3080
+10102 | Queen St West At Bathurst St | 43.6473399 | -79.40369 | 3081
+7899 | Queen St West At Palmerston Ave | 43.64676 | -79.4064399 | 6848
+8418 | Queen St West At Claremont St | 43.6461499 | -79.40941 | 6830
+7639 | Queen St West At Strachan Ave | 43.6454 | -79.4130499 | 6855
+8686 | Queen St West At Shaw St | 43.64478 | -79.4161399 | 6851
+9071 | Queen St West At Ossington Ave | 43.6442799 | -79.41861 | 6847
+9335 | Queen St West At Dovercourt Rd | 43.6435699 | -79.42209 | 6832
+6616 | Queen St West At Beaconsfield Ave | 43.64306 | -79.4245799 | 6828
+6528 | Queen St West At Gladstone Ave | 43.6425999 | -79.42688 | 6838
+14701 | Queen St West At Dufferin St West Side | 43.6421899 | -79.42916 | 14977
+7718 | Queen St West At Brock Ave | 43.64153 | -79.4322299 | 6839
+1111 | Queen St West At Ohara Ave | 43.6411699 | -79.43404 | 6845
+5294 | Queen St West At Lansdowne Ave | 43.6406699 | -79.43644 | 6842
+3798 | Queen St West At Sorauren Ave | 43.63981 | -79.4407599 | 6852
+4692 | Queen St West At Triller Ave | 43.6393 | -79.4433999 | 6857
+9459 | Queen St West At Roncesvalles Ave | 43.6388899 | -79.44574 | 6849
+6877 | The Queensway At Glendale Ave (St Josephs Hospital) | 43.6393199 | -79.4510399 | 6889
+8938 | The Queensway At Parkside Dr | 43.6397599 | -79.4542299 | 6909
+10473 | The Queensway At Colborne Lodge Dr West Side | 43.6393999 | -79.4606 | 14393
+10444 | The Queensway At Ellis Ave West Side | 43.63769 | -79.4669699 | 14394
+10441 | The Queensway At Windermere Ave West Side | 43.6370999 | -79.47071 | 14395
+3374 | The Queensway At South Kingsway | 43.63542 | -79.4736599 | 6915
+472 | Humber Loop At The Queensway | 43.6309499 | -79.47879 | 6523
+471 | Humber Loop At The Queensway | 43.6311299 | -79.47886 | 6532
+2605 | Opposite 125 The Queensway | 43.6309799 | -79.4818599 | 13944
+497 | The Queensway At Stephen Dr | 43.6305 | -79.4839599 | 6920
+7392 | The Queensway At Aldgate Ave | 43.6299299 | -79.48654 | 6870
+6764 | Park Lawn Rd At The Queensway South Side | 43.62866 | -79.48998 | 10127
+7301 | 134 Park Lawn Rd | 43.6273799 | -79.4882899 | 10128
+3376 | Park Lawn Rd At Gardiner Expressway (WB On Ramp) | 43.6258499 | -79.4863099 | 13697
+2235 | 88 Park Lawn Rd | 43.62438 | -79.48434 | 10129
+1053 | Park Lawn Rd At Lake Shore Blvd West | 43.6230299 | -79.4815399 | 10130
+6830 | Lake Shore Blvd West At Park Lawn Rd West Side | 43.6226199 | -79.48154 | 5196
+5669 | Lake Shore Blvd West At Legion Rd | 43.62061 | -79.4831699 | 5186
+8858 | Lake Shore Blvd West At Louisa St | 43.6190299 | -79.48644 | 5190
+5667 | Lake Shore Blvd West At Burlington St | 43.6174399 | -79.48738 | 5174
+2156 | Lake Shore Blvd West At Superior Ave | 43.61511 | -79.4886899 | 5202
+9148 | Lake Shore Blvd West At Mimico Ave | 43.6138599 | -79.4893799 | 5193
+3706 | Lake Shore Blvd West At Hillside Ave | 43.6112699 | -79.49013 | 5179
+6466 | Lake Shore Blvd West At Symons St | 43.60863 | -79.4904299 | 5203
+4085 | Lake Shore Blvd West At Lake Cres | 43.6070899 | -79.4905899 | 5184
+5230 | Lake Shore Blvd West At Royal York Rd | 43.6038199 | -79.49303 | 5198
+10320 | Lake Shore Blvd West At First St | 43.6023799 | -79.49836 | 13947
+1353 | Lake Shore Blvd West At Third St | 43.60188 | -79.5006399 | 5168
+4223 | Lake Shore Blvd West At Fifth St | 43.6013699 | -79.50294 | 5171
+6827 | Lake Shore Blvd West At Islington Ave | 43.6008999 | -79.50509 | 5180
+1258 | Lake Shore Blvd West At Tenth St | 43.6001499 | -79.50846 | 5151
+9222 | Lake Shore Blvd West At Thirteenth St | 43.59944 | -79.5117099 | 5153
+1926 | Lake Shore Blvd West At Fifteenth St | 43.59897 | -79.5138599 | 5155
+9382 | Lake Shore Blvd West At Kipling Ave | 43.5983299 | -79.51675 | 5181
+1593 | Lake Shore Blvd West At Twenty Second St | 43.5973299 | -79.52125 | 5156
+9317 | Lake Shore Blvd West At Twenty Sixth St | 43.5966699 | -79.52427 | 5158
+6463 | Lake Shore Blvd West At Twenty Ninth St | 43.5958 | -79.5281799 | 5161
+1737 | Lake Shore Blvd West At Thirtieth St | 43.5954599 | -79.52966 | 5162
+5577 | Lake Shore Blvd West At Long Branch Ave | 43.59445 | -79.5337899 | 5188
+8445 | Lake Shore Blvd West At Thirty Seventh St | 43.5934899 | -79.53798 | 5165
+1750_ar | Long Branch Loop | 43.5918099 | -79.54412

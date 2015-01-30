@@ -1,0 +1,41 @@
+14319 | Wilson Station | 43.7345999 | -79.4508 | 14802
+895 | Opposite 675 Wilson Ave | 43.7329699 | -79.45503 | 13470
+8737 | Wilson Ave At Dufferin St West Side | 43.7321199 | -79.45934 | 1656
+3583_IB | Maniza Rd At Regent Rd | 43.7322299 | -79.4630899 | 1267
+6242_IB | Maniza Rd At Spalding Rd | 43.73403 | -79.46386 | 1268
+6945_IB | Maniza Rd At Plewes Rd | 43.7349 | -79.46423 | 1266
+9059_IB | Maniza Rd At Gilley Rd | 43.7357299 | -79.4645699 | 1265
+3907_IB | Maniza Rd At Home Rd | 43.73649 | -79.4649 | 11194
+5617_IB | Maniza Rd At Powell Rd | 43.73748 | -79.46534 | 11450
+8384_IB | Ancaster Rd At Powell Rd South Side | 43.7365899 | -79.46794 | 11451
+4108_IB | Ancaster Rd At Home Rd South Side | 43.7356899 | -79.4675599 | 11195
+3082_IB | Gilley Rd At Garratt Blvd | 43.7347499 | -79.4697999 | 1130
+4876_IB | Garratt Blvd At Plewes Rd South Side | 43.73337 | -79.46943 | 1075
+5224_IB | Garratt Blvd At Katherine Rd | 43.7322599 | -79.4689899 | 1074
+5436_IB | Garratt Blvd At Regent Rd South Side | 43.73099 | -79.46844 | 1076
+7617 | Wilson Ave At Murray Rd | 43.7296999 | -79.47134 | 8876
+5623 | Wilson Ave At Apex Lane | 43.72871 | -79.4756699 | 8843
+3913 | Wilson Ave At Dubray Ave | 43.7283 | -79.4775099 | 8851
+432 | Wilson Ave At Keele St North Side | 43.7272899 | -79.482 | 14141
+9654 | Keele St At Paxtonia Blvd | 43.7289799 | -79.4824199 | 4018
+7018 | Keele St At Wandle Ave | 43.7310699 | -79.4829499 | 4045
+7469 | Calvington Dr At Keele St West Side | 43.7334999 | -79.48427 | 9135
+4945 | Calvington Dr At Renshaw St | 43.7327599 | -79.48678 | 9136
+6919 | Calvington Dr At Dalraith Rd | 43.7320399 | -79.49049 | 3391
+10045 | Calvington Dr At Roding St | 43.7315199 | -79.49291 | 3400
+1608 | Calvington Dr At Exbury Rd | 43.7309999 | -79.4952 | 3394
+1999 | Calvington Dr At Lexfield Ave | 43.73017 | -79.4989099 | 3397
+10018 | Calvington Dr At Dalsby Rd | 43.7295799 | -79.50148 | 3392
+3629 | Calvington Dr At Forthbridge Cres | 43.72805 | -79.5036999 | 3395
+4220 | Chesham Dr At Heathrow Dr | 43.7269899 | -79.50489 | 9201
+4398 | Heathrow Dr At Datchet Rd | 43.7258799 | -79.50805 | 9202
+7680 | Heathrow Dr At Jane St | 43.7250299 | -79.5091999 | 9203
+5799 | 2265 Jane St | 43.72751 | -79.51013 | 3910
+8405 | Jane St At Exbury Rd North Side | 43.72965 | -79.5106 | 3888
+8033 | Jane St At Troutbrooke Dr North Side | 43.7323499 | -79.5112299 | 3934
+2777 | Jane St At Giltspur Dr North Side | 43.7349199 | -79.5118499 | 3896
+1116 | Jane St At Sheppard Ave West | 43.7392099 | -79.51297 | 3920
+1458 | Sheppard Ave West At Magellan Dr | 43.73956 | -79.5097999 | 6081
+1255 | Sheppard Ave West At Min Ave | 43.74017 | -79.5070199 | 6082
+4295 | Sheppard Ave West At Buckland Rd | 43.74094 | -79.5034899 | 6062
+8661_ar | Northover St At Sheppard Ave West South Side | 43.7408599 | -79.50126

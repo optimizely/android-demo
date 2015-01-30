@@ -1,0 +1,36 @@
+14171 | Donlands Station | 43.6808499 | -79.33779 | 14649
+2040 | Donlands Ave At Glebeholme Blvd | 43.6827899 | -79.3381799 | 0963
+3202 | Donlands Ave At Somers Ave | 43.68439 | -79.33884 | 0973
+4105 | Donlands Ave At Sammon Ave | 43.68574 | -79.33938 | 0970
+2774 | Donlands Ave At Mortimer Ave | 43.68749 | -79.34009 | 0965
+7552 | Donlands Ave At Memorial Park Ave | 43.68929 | -79.34079 | 0964
+5439 | Donlands Ave At Cosburn Ave | 43.69103 | -79.3415 | 0961
+5925 | Donlands Ave At Plains Rd | 43.6928899 | -79.3422899 | 0969
+8987 | Donlands Ave At O&apos;Connor Dr | 43.69455 | -79.34295 | 0968
+1472 | Donlands Ave At Wolverton Ave | 43.6962499 | -79.34561 | 9446
+1393 | Donlands Ave At Millwood Rd | 43.6971899 | -79.3489099 | 9447
+577 | Millwood Rd At Overlea Blvd North Side | 43.7021199 | -79.3532399 | 5753
+1335 | Millwood Rd At Village Station Rd | 43.7019399 | -79.3577699 | 7982
+8009 | Laird Dr At Canvarco Rd | 43.70367 | -79.3607 | 5136
+3216 | Laird Dr At Esander Dr North Side | 43.70523 | -79.36133 | 5140
+7144 | Laird Dr At Industrial St | 43.7071899 | -79.3621299 | 5141
+2790 | Laird Dr At Commercial Rd North Side | 43.7087899 | -79.3627499 | 5138
+7558 | Laird Dr At Wicksteed Ave | 43.7102299 | -79.3633499 | 5148
+5430 | Laird Dr At Vanderhoof Ave | 43.7116599 | -79.3639199 | 5146
+443 | Laird Dr At Eglinton Ave East | 43.7131199 | -79.3644599 | 5139
+5181 | Eglinton Ave East At Laird Dr West Side | 43.7135799 | -79.3652 | 2285
+1462 | Eglinton Ave East At Sutherland Dr | 43.7131999 | -79.36698 | 2313
+6735 | Eglinton Ave East At Rumsey Rd | 43.7126799 | -79.36946 | 2309
+5737 | Eglinton Ave East At Hanna Rd | 43.71218 | -79.3719099 | 2273
+2396 | Eglinton Ave East At Bessborough Dr West Side | 43.71171 | -79.3743699 | 2248
+7190 | Eglinton Ave East At Bayview Ave | 43.7112399 | -79.37682 | 2239
+1341 | Eglinton Ave East At Bruce Park Ave | 43.71053 | -79.3800699 | 2255
+8427 | Eglinton Ave East At Banff Rd | 43.7101 | -79.3820799 | 2235
+8911 | Eglinton Ave East At Petman Ave | 43.7095899 | -79.38462 | 2298
+2209 | Eglinton Ave East At Falcon St West Side | 43.70917 | -79.3866999 | 2269
+8203 | Eglinton Ave East At Mt Pleasant Rd | 43.70854 | -79.3899899 | 2295
+4697 | Eglinton Ave East At Redpath Ave | 43.7079599 | -79.39266 | 2305
+9633 | Eglinton Ave East At Dunfield Ave | 43.7074599 | -79.39525 | 2268
+14676 | 2190 Yonge St | 43.7056599 | -79.3982099 | 14950
+4646 | Yonge St At Berwick Ave | 43.7044199 | -79.3979699 | 8958
+14190_ar | Eglinton Station | 43.7045799 | -79.39846

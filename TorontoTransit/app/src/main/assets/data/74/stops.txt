@@ -1,0 +1,28 @@
+464 | Mt Pleasant Loop At Eglinton Ave East | 43.7090199 | -79.39024 | 5512
+7839 | Mt Pleasant Rd At Eglinton Ave East | 43.70856 | -79.3903199 | 5815
+2297 | Mt Pleasant Rd At Soudan Ave | 43.70616 | -79.38938 | 5843
+5226 | Mt Pleasant Rd At Manor Rd East | 43.70441 | -79.38872 | 5832
+9385 | Mt Pleasant Rd At Belsize Dr | 43.7025499 | -79.38793 | 5803
+9753 | Mt Pleasant Rd At Davisville Ave | 43.7004399 | -79.3871199 | 5811
+6440 | Mt Pleasant Rd At Merton St | 43.6983 | -79.3865999 | 5834
+2046 | Mt Pleasant Rd At Mt Pleasant Cemetery | 43.6949199 | -79.38527 | 5809
+10135 | Mt Pleasant Rd At Moore Ave | 43.6936499 | -79.3847399 | 5836
+1894 | Mt Pleasant Rd At Heath St East | 43.69232 | -79.38421 | 5823
+7695 | St Clair Ave East At Mt Pleasant Rd West Side | 43.6903099 | -79.3839 | 6119
+7564 | St Clair Ave East At Inglewood Dr | 43.68972 | -79.3866899 | 6112
+8402 | Avoca Ave At Pleasant Blvd South Side | 43.68855 | -79.38935 | 7503
+14625_ar | St Clair Station | 43.6878599 | -79.39192
+14625 | St Clair Station | 43.6878599 | -79.39192 | 14818
+1303 | Pleasant Blvd At Avoca Ave | 43.68832 | -79.38918 | 7504
+2194 | St Clair Ave East At Inglewood Dr East Side | 43.6895999 | -79.38664 | 6111
+3912 | Mt Pleasant Rd At St Clair Ave East North Side | 43.6908499 | -79.3833899 | 5844
+6725 | Mt Pleasant Rd At Heath St East | 43.69216 | -79.38394 | 5822
+2949 | Mt Pleasant Rd At Moore Ave | 43.6934699 | -79.3844799 | 5835
+3726 | Mt Pleasant Rd At Mt Pleasant Cemetery | 43.6957399 | -79.3853799 | 5808
+2824 | Mt Pleasant Rd At Merton St | 43.69805 | -79.3863 | 5833
+7367 | Mt Pleasant Rd At Davisville Ave | 43.7002099 | -79.38678 | 5810
+4002 | Mt Pleasant Rd At Belsize Dr | 43.70238 | -79.38761 | 5802
+4922 | Mt Pleasant Rd At Manor Rd East | 43.70423 | -79.38838 | 5831
+5894 | Mt Pleasant Rd At Soudan Ave | 43.7059599 | -79.3891 | 5842
+9670 | Mt Pleasant Rd At Eglinton Ave East | 43.7082999 | -79.3899999 | 5814
+464_ar | Mt Pleasant Loop At Eglinton Ave East | 43.7090199 | -79.39024

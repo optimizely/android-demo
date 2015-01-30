@@ -1,0 +1,46 @@
+14221 | Jane Station | 43.6499999 | -79.48386 | 14701
+5905 | Jane St At Bloor St West North Side | 43.6500199 | -79.48464 | 1169
+6884 | Jane St At Weatherell St | 43.6513999 | -79.4852399 | 1175
+9969 | Jane St At Colbeck St North Side | 43.6533499 | -79.4860399 | 1170
+7797 | Jane St At Ardagh St | 43.65565 | -79.48696 | 1168
+8417 | Annette St At Jane St East Side | 43.65831 | -79.4876999 | 0034
+374 | Opposite 740 Annette St (St James Church) | 43.65855 | -79.4864999 | 10212
+4114 | Annette St At Willard Ave | 43.6587799 | -79.48555 | 0042
+6317 | Annette St At Durie St | 43.6593599 | -79.48295 | 0024
+7022 | Annette St At Runnymede Rd | 43.65997 | -79.4801599 | 0040
+3799 | Annette St At Gilmour Ave | 43.6604999 | -79.47776 | 0028
+4806 | Annette St At Evelyn Ave East Side | 43.6611299 | -79.47482 | 0026
+7919 | Annette St At Clendenan Ave | 43.6620899 | -79.4725 | 0021
+9162 | Annette St At High Park Ave | 43.6628 | -79.4693899 | 0030
+3402 | Annette St At Medland St | 43.6634399 | -79.4665 | 0039
+3294 | Annette St At Keele St | 43.6636099 | -79.4639499 | 0037
+3085 | Annette St At Indian Road Cres | 43.66368 | -79.4612899 | 0032
+5891 | Annette St At Dundas St West | 43.66433 | -79.4588399 | 0023
+3828 | Dupont St At Edwin Ave East Side | 43.6648599 | -79.45511 | 1007
+304 | Dupont St At Franklin Ave | 43.6650499 | -79.45424 | 10211
+8470 | Dupont St At Perth Ave | 43.6653099 | -79.45294 | 1023
+8284 | Dupont St At Symington Ave | 43.6656399 | -79.45136 | 1029
+5306 | Dupont St At Lansdowne Ave | 43.6666 | -79.4467299 | 1015
+3168 | Dupont St At Emerson Ave | 43.6671199 | -79.44427 | 1008
+1265 | 1245 Dupont St (Galleria Plaza) | 43.6681899 | -79.44121 | 1018
+7618 | Dupont St At Dufferin St | 43.66836 | -79.43913 | 1004
+5325 | Dupont St At Bartlett Ave | 43.6688 | -79.4366999 | 0994
+306 | Dupont St At Westmoreland Ave | 43.6693999 | -79.43406 | 10219
+1775 | Dupont St At Dovercourt Rd | 43.6695899 | -79.43285 | 1002
+6014 | Dupont St At Ossington Ave | 43.6701 | -79.42934 | 1021
+9122 | Dupont St At Shaw St | 43.6704799 | -79.4267 | 1025
+6716 | Dupont St At Christie St | 43.67153 | -79.4216799 | 1000
+2159 | Dupont St At Manning Ave East Side | 43.6721099 | -79.41874 | 1017
+3382 | Dupont St At Palmerston Ave | 43.67253 | -79.4168399 | 1022
+9376 | Dupont St At Bathurst St | 43.67304 | -79.4144899 | 0996
+6151 | Dupont St At Howland Ave | 43.6735699 | -79.41191 | 1011
+5613 | Dupont St At Kendal Ave | 43.67408 | -79.40956 | 1014
+3941 | Dupont St At Spadina Rd (Dupont Station) East Side | 43.6747899 | -79.40677 | 1027
+4968 | Dupont St At Huron St | 43.6752499 | -79.40485 | 1012
+9689 | Dupont St At Davenport Rd | 43.6756999 | -79.40269 | 11881
+4165 | Dupont St At Bedford Rd | 43.6761999 | -79.40084 | 0998
+1642 | Bedford Rd At Davenport Rd | 43.6745199 | -79.3998899 | 0334
+6826 | Bedford Rd At Bernard Ave South Side | 43.67312 | -79.39937 | 0333
+4337 | Bedford Rd At Lowther Ave | 43.6704199 | -79.3983499 | 0336
+1749 | Prince Arthur Ave At Bedford Rd West Side | 43.6691599 | -79.39831 | 1455
+14301_ar | St George Station | 43.6686599 | -79.39805

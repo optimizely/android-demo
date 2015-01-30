@@ -1,0 +1,57 @@
+9655 | Steeles Ave East Loop At Bayview Ave | 43.8033799 | -79.39735 | 1254
+6292 | Bayview Ave At Steeles Ave East South Side | 43.80266 | -79.3960999 | 0322
+7745 | Bayview Ave At Opposite Garnier Park | 43.80093 | -79.39567 | 0310
+2685 | Bayview Ave At Newton Dr | 43.7992299 | -79.3952699 | 0309
+14954 | Bayview Ave At Brenham Cres | 43.7961299 | -79.3945599 | 12934
+1218 | Bayview Ave At Ruth Ave | 43.79422 | -79.3941 | 0316
+6743 | Bayview Ave At Cummer Ave | 43.79234 | -79.39369 | 0287
+8337 | 3292 Bayview Ave | 43.7899399 | -79.3932099 | 0308
+7223 | Bayview Ave At Ruddington Dr South Side | 43.7877699 | -79.3927699 | 0314
+9706 | Bayview Ave At Finch Ave East | 43.7851499 | -79.39231 | 0293
+5366 | Bayview Ave At Holmes Ave | 43.78303 | -79.39178 | 0305
+1507 | Bayview Ave At Byng Ave South Side | 43.7815599 | -79.3914599 | 0283
+3418 | Bayview Ave At Burleigh Heights Dr South Side | 43.7793399 | -79.3909699 | 0281
+2419 | Bayview Ave At McKee Ave | 43.77813 | -79.39071 | 0307
+4677 | Bayview Ave At Parkview Ave | 43.7762099 | -79.3902699 | 9476
+5434 | Bayview Ave At Empress Ave South Side | 43.77398 | -79.38978 | 0288
+7447 | Bayview Ave At Hillcrest Ave | 43.77266 | -79.38948 | 0303
+6300 | Bayview Ave At Hollywood Ave | 43.77084 | -79.38907 | 0304
+9563 | Bayview Ave At Spring Garden Ave South Side | 43.7687699 | -79.3886299 | 0319
+5543 | Bayview Ave At Sheppard Ave East (Bayview Station) | 43.7667899 | -79.3882 | 0318
+7256 | Bayview Ave At Fifeshire Rd (North) | 43.7607899 | -79.3867999 | 10996
+2896 | Bayview Ave At Forest Heights Blvd | 43.7581999 | -79.3863099 | 0295
+8266 | Bayview Ave At Fifeshire Rd South South Side | 43.7545599 | -79.3855899 | 0291
+5920 | Bayview Ave At Heathcote Ave | 43.7523099 | -79.3851199 | 9139
+2169 | Bayview Ave At York Mills Rd | 43.7482999 | -79.38436 | 0329
+3714 | Bayview Ave At York Mills Rd South Side | 43.7473799 | -79.3841299 | 0330
+6069 | Bayview Ave At York Rd South Side | 43.7457899 | -79.3838099 | 0327
+5512 | Bayview Ave At Valley Rd | 43.7440899 | -79.3834599 | 0325
+9543 | Bayview Ave At Bayview Ridge Cres | 43.74237 | -79.38313 | 1711
+9415 | Bayview Ave At Arjay Cres | 43.7401499 | -79.3826899 | 1710
+4483 | Bayview Ave At The Bridle Path | 43.7385599 | -79.3823799 | 0279
+5285 | Bayview Ave At Post Rd | 43.73654 | -79.38205 | 0312
+8600 | 2350 Bayview Ave (The Granite Club) | 43.73417 | -79.38159 | 0299
+2591 | Bayview Ave At Lawrence Ave East (York U Glendon Campus) | 43.7276899 | -79.3822399 | 11330
+6632 | Bayview Ave At Wood Ave | 43.7270899 | -79.38204 | 1725
+6107 | Bayview Ave At Dawlish Ave South Side | 43.7242999 | -79.3796999 | 1718
+853 | Wellness Way At Hospital Rd (Odette Cancer Centre) | 43.7215499 | -79.37779 | 11997
+855 | Hospital Rd At Wellness Way East Side (Sunnybrook Main Ent) | 43.7218299 | -79.37673 | 9394
+851 | Raab Blvd At Hospital Rd West Side (K &amp; L Wings) | 43.7226599 | -79.3759 | 11248
+8400 | Bayview Ave At Blythwood Rd South Side | 43.72045 | -79.37892 | 1712
+8408 | Bayview Ave At Sunnydene Cres South Side | 43.7194999 | -79.3787599 | 1734
+5579 | Bayview Ave At Kilgour Rd (Cnib) | 43.71709 | -79.37828 | 1716
+7054 | Bayview Ave At Broadway Ave | 43.71394 | -79.37768 | 1715
+7029 | Bayview Ave At Eglinton Ave East | 43.7111999 | -79.37724 | 1719
+8684 | Bayview Ave At Soudan Ave | 43.70895 | -79.37649 | 1731
+4657 | Bayview Ave At Manor Rd East | 43.70704 | -79.37575 | 1727
+3463 | Bayview Ave At Millwood Rd | 43.70436 | -79.37471 | 1708
+8013 | Davisville Ave At Bayview Ave West Side | 43.7029499 | -79.37455 | 1868
+5177 | Davisville Ave At Cleveland St | 43.7022399 | -79.37788 | 1872
+4995 | Davisville Ave At Forman Ave | 43.7017099 | -79.38047 | 1874
+3264 | Davisville Ave At Belle Ayre Blvd | 43.7011599 | -79.38313 | 1870
+767 | Davisville Ave At Mt Pleasant Rd | 43.7004499 | -79.38668 | 1876
+6569 | Davisville Ave At Mt Pleasant Rd West Side | 43.70028 | -79.3874799 | 11581
+8365 | Davisville Ave At Acacia Rd | 43.69986 | -79.3894699 | 1865
+7484 | 84 Davisville Ave (Salvation Army) | 43.69911 | -79.3930899 | 1879
+9693 | Davisville Ave At Yonge St | 43.69852 | -79.3959299 | 1883
+14170_ar | Davisville Station | 43.6976299 | -79.39687

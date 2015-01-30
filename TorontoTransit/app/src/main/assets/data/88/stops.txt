@@ -1,0 +1,83 @@
+14376 | St Clair Station | 43.6877999 | -79.3922 | 14819
+1303 | Pleasant Blvd At Avoca Ave | 43.68832 | -79.38918 | 7504
+2194 | St Clair Ave East At Inglewood Dr East Side | 43.6895999 | -79.38664 | 6111
+809 | St Clair Ave East At Clifton Rd | 43.6900599 | -79.3845 | 10686
+1284 | St Clair Ave East At Welland Ave | 43.6911 | -79.3797299 | 8145
+8245 | Welland Ave At Heath St East | 43.69292 | -79.38027 | 8620
+7472 | Moore Ave At Brendan Rd | 43.69527 | -79.37867 | 7985
+1275 | Moore Ave At Lumley Ave | 43.69575 | -79.3764399 | 7987
+4309 | Moore Ave At Orchard Green | 43.69613 | -79.3746499 | 7989
+5116 | Bayview Ave At Moore Ave North Side | 43.6972399 | -79.37178 | 7525
+5853 | Sutherland Dr At Bayview Ave East Side | 43.69877 | -79.3720699 | 8325
+1153 | Sutherland Dr At Bessborough Dr | 43.69918 | -79.3702499 | 8327
+7156 | Sutherland Dr At Rolph Rd | 43.70023 | -79.3672499 | 8333
+6985 | Sutherland Dr At Hanna Rd | 43.70144 | -79.3655899 | 8329
+10143 | Sutherland Dr At Millwood Rd | 43.7032399 | -79.36441 | 8332
+8810 | Millwood Rd At Randolph Rd | 43.7031399 | -79.36345 | 11621
+1036 | Millwood Rd At Southvale Dr | 43.70249 | -79.3618699 | 7981
+3983 | Millwood Rd At Redway Rd South Side | 43.7017599 | -79.35766 | 5752
+609 | Overlea Blvd At Millwood Rd East Side | 43.70247 | -79.35222 | 2979
+2900 | Overlea Blvd At Leaside Park Dr East Side | 43.70372 | -79.3509899 | 2980
+5132 | Overlea Blvd At Thorncliffe Park Dr (West) | 43.7047799 | -79.34985 | 4520
+9191 | 11 Thorncliffe Park Dr | 43.7043 | -79.34872 | 8349
+10174 | Thorncliffe Park Dr At Milepost Pl | 43.7033099 | -79.3469399 | 8350
+8020 | 35 Thorncliffe Park Dr | 43.7019299 | -79.3443799 | 8358
+5489 | 49 Thorncliffe Park Dr | 43.70245 | -79.3424799 | 8344
+6555 | 65 Thorncliffe Park Dr | 43.7036499 | -79.34122 | 8354
+9202 | 75 Thorncliffe Park Dr | 43.70493 | -79.34198 | 9498
+9404 | Thorncliffe Park Dr (East) At Overlea Blvd | 43.70648 | -79.34306 | 8352
+2512 | Thorncliffe Park Dr (East) At Overlea Blvd North Side | 43.7079599 | -79.3437099 | 8363
+9632 | Thorncliffe Park Dr (East) At Thorncliffe Park Dr (North) | 43.7092199 | -79.34432 | 8366
+7333 | Opposite 50 Beth Nealson Dr | 43.71173 | -79.34575 | 7545
+2037_ar | Beth Nealson Dr At Wicksteed Ave | 43.7130199 | -79.34627
+5602 | Millwood Rd At McRae Dr | 43.7047899 | -79.36786 | 7979
+4193 | McRae Dr At Rumsey Rd East Side | 43.70726 | -79.3672399 | 7961
+7097 | McRae Dr At Sutherland Dr | 43.7084499 | -79.36554 | 7964
+3620 | McRae Dr At Laird Dr | 43.7100099 | -79.3637 | 7959
+1725 | Wicksteed Ave At Brentcliffe Rd | 43.71109 | -79.3598299 | 6209
+409 | Brentcliffe Rd At Vanderhood Ave | 43.71257 | -79.35887 | 12258
+932 | Vanderhoof Ave At Thomas Elgie Dr | 43.7134 | -79.3562999 | 13706
+2654 | Leslie St At Wicksteed Ave | 43.7131599 | -79.3508299 | 13707
+4129_ar | Wicksteed Ave At Beth Nealson Dr | 43.7132399 | -79.34704
+2037 | Beth Nealson Dr At Wicksteed Ave | 43.7130199 | -79.34627 | 7546
+9292 | 220 Wicksteed Ave | 43.71312 | -79.3480199 | 8781
+8792 | Wicksteed Ave At Leslie St | 43.7129499 | -79.3504 | 9790
+4253 | Vanderhoof Ave At Thomas Elgie Dr | 43.71357 | -79.3559799 | 13708
+947 | Vanderhoof Ave At Brentcliffe Rd | 43.7131099 | -79.35815 | 12838
+3431 | Brentcliffe Rd At Wicksteed Ave | 43.7118599 | -79.3587499 | 4812
+7668 | 70 Wicksteed Ave | 43.7111799 | -79.36001 | 6208
+890 | Wicksteed Ave At Laird Dr | 43.7104799 | -79.36331 | 6210
+5769 | McRae Dr At Laird Dr West Side | 43.7100199 | -79.36388 | 7960
+3671 | McRae Dr At Sutherland Dr West Side | 43.7085 | -79.3657699 | 7963
+8174 | McRae Dr At Rumsey Rd | 43.7074099 | -79.36724 | 7962
+7387 | Millwood Rd At McRae Dr South Side | 43.70467 | -79.36768 | 7978
+3410 | Sutherland Dr At Millwood Rd West Side | 43.7033199 | -79.36452 | 8331
+9636 | Sutherland Dr At Hanna Rd | 43.70168 | -79.3655499 | 8330
+6834 | Sutherland Dr At Rolph Rd | 43.7004699 | -79.3670799 | 8334
+2673 | Sutherland Dr At Bessborough Dr | 43.6994499 | -79.36966 | 8328
+7853 | Sutherland Dr At Bayview Ave | 43.6988099 | -79.37225 | 8326
+2020 | Bayview Ave At Moore Ave | 43.6969899 | -79.3719199 | 7526
+7454 | Moore Ave At Orchard Green | 43.6963499 | -79.37424 | 7990
+3258 | Moore Ave At Lumley Ave | 43.6959299 | -79.37618 | 7988
+8949 | Moore Ave At Brendan Rd | 43.6954399 | -79.3785299 | 7986
+6106 | Welland Ave At Heath St East | 43.6931199 | -79.3804899 | 8621
+3262 | Welland Ave At St Clair Ave East | 43.69144 | -79.37975 | 8622
+7695 | St Clair Ave East At Mt Pleasant Rd West Side | 43.6903099 | -79.3839 | 6119
+7564 | St Clair Ave East At Inglewood Dr | 43.6897199 | -79.38669 | 6112
+8402 | Avoca Ave At Pleasant Blvd South Side | 43.68855 | -79.38935 | 7503
+14376_ar | St Clair Station | 43.6877999 | -79.3922
+4129 | Wicksteed Ave At Beth Nealson Dr | 43.7132399 | -79.34704 | 8782
+3422 | 50 Beth Nealson Dr | 43.7113 | -79.34573 | 7543
+1392 | Thorncliffe Park Dr (East) At Thorncliffe Park Dr South Side | 43.70886 | -79.3443 | 8365
+990 | Thorncliffe Park Dr (East) At Overlea Blvd | 43.70773 | -79.3438 | 8364
+5708 | Thorncliffe Park Dr (East) At Overlea Blvd South Side | 43.70701 | -79.3435 | 8361
+4179 | 56 Thorncliffe Park Dr | 43.70454 | -79.34176 | 8362
+6660 | 52 Thorncliffe Park Dr | 43.7033999 | -79.34174 | 8355
+8904 | 44 Thorncliffe Park Dr | 43.7024499 | -79.34271 | 8345
+6082 | 38 Thorncliffe Park Dr | 43.7021399 | -79.3444699 | 8357
+9697 | 26 Thorncliffe Park Dr At Grandstand Pl | 43.70313 | -79.34624 | 8347
+5646 | 12 Thorncliffe Park Dr | 43.70458 | -79.34892 | 8348
+4727 | Overlea Blvd At Leaside Park Dr | 43.7035499 | -79.35155 | 12127
+610 | Overlea Blvd At Millwood Rd | 43.70235 | -79.3527199 | 8009
+1335 | Millwood Rd At Village Station Rd | 43.7019399 | -79.35777 | 7982
+8293 | Millwood Rd At Randolph Rd | 43.7029099 | -79.36268 | 7980

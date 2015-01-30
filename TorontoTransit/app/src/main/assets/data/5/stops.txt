@@ -1,0 +1,62 @@
+14189 | Eglinton Station | 43.7056199 | -79.39966 | 14668
+4420 | Eglinton Ave West At Henning Ave | 43.7061999 | -79.40131 | 2360
+10274 | Eglinton Ave West At Lascelles Blvd | 43.70571 | -79.4035199 | 2375
+9489 | Oriole Pkwy At Eglinton Ave West South Side | 43.7046599 | -79.40603 | 10788
+8205 | Oriole Pkwy At College View Ave South Side | 43.70214 | -79.40504 | 10789
+4886 | Oriole Pkwy At Tranmer Ave | 43.7000899 | -79.4041499 | 10790
+10236 | Oriole Pkwy At Chaplin Cres South Side | 43.69732 | -79.40309 | 1434
+9399 | Oriole Pkwy At Kilbarry Rd | 43.69558 | -79.40251 | 1439
+2045 | Oriole Pkwy At Gormley Ave | 43.6938199 | -79.4019799 | 1438
+7438 | Oriole Pkwy At Walmsley Blvd | 43.69217 | -79.40137 | 1442
+7494 | Avenue Rd At Lonsdale Rd South Side | 43.6902999 | -79.40303 | 0067
+5983 | Avenue Rd At Heath St West | 43.6888 | -79.40247 | 0066
+8615 | Avenue Rd At St Clair Ave West | 43.6867499 | -79.4016699 | 0071
+6016 | Avenue Rd At Balmoral Ave | 43.6843699 | -79.40059 | 0046
+8931 | Avenue Rd At Edmund Ave | 43.6826099 | -79.3999299 | 0064
+8973 | Avenue Rd At Cottingham St South Side | 43.6796799 | -79.3987399 | 0055
+751 | Avenue Rd At Dupont St | 43.67729 | -79.39775 | 0062
+9653 | Avenue Rd At Davenport Rd | 43.67481 | -79.39673 | 0057
+1937 | Avenue Rd At Boswell Ave | 43.6726999 | -79.39585 | 0051
+6991 | Avenue Rd At Yorkville Ave | 43.67046 | -79.39498 | 0074
+5046 | Avenue Rd At Bloor St West | 43.6687999 | -79.3942799 | 0048
+8352 | Queen&apos;S Park At Charles St (Museum Station) | 43.6670999 | -79.3935799 | 1458
+494 | Queen&apos;S Park Cres West At Queen&apos;S Park Cres West | 43.6662399 | -79.3932299 | 1461
+9666 | Queen&apos;S Park Cres West At Hart House | 43.66372 | -79.39349 | 1457
+1920_ar | Queen&apos;S Park Cres East At College St North Side | 43.6609099 | -79.39017
+333 | Eglinton Ave West At Eastbourne Ave | 43.70551 | -79.4045199 | 10224
+495 | Queen&apos;S Park Cres West At University Library | 43.66215 | -79.39276 | 1463
+6734 | Queen&apos;S Park Cres At College St (Queen&apos;S Park Station) | 43.6605899 | -79.3912399 | 1615
+8920 | University Ave At Gerrard St West | 43.6576699 | -79.38978 | 1616
+6328_ar | Elm St At University Ave East Side | 43.6564899 | -79.3879
+1920 | Queen&apos;S Park Cres East At College St North Side | 43.6609099 | -79.39017 | 1460
+8279 | Queen&apos;S Park Cres East At Wellesley St West | 43.6634699 | -79.3904899 | 1464
+493 | Queen&apos;S Park Cres East At St Joseph St North Side | 43.66528 | -79.39124 | 1459
+3852 | Queen&apos;S Park At Charles St North Side (Museum Station) | 43.6676099 | -79.3935299 | 1456
+7858 | Avenue Rd At Bloor St West North Side | 43.6692299 | -79.3942599 | 0047
+8093 | Avenue Rd At Lowther Ave North Side | 43.67119 | -79.39505 | 0068
+1405 | Avenue Rd At Boswell Ave | 43.67262 | -79.39561 | 0050
+2492 | Avenue Rd At Davenport Rd | 43.6746099 | -79.3963999 | 0058
+1646 | Avenue Rd At Dupont St | 43.6771099 | -79.39742 | 0061
+10125 | Avenue Rd At Cottingham St | 43.67945 | -79.39841 | 0056
+3542 | Avenue Rd At Edmund Ave North Side | 43.68294 | -79.39982 | 0063
+7763 | Avenue Rd At Balmoral Ave North Side | 43.68472 | -79.40054 | 0045
+4854 | Avenue Rd At St Clair Ave West North Side | 43.6869199 | -79.40146 | 0070
+3248 | Avenue Rd At Heath St West | 43.6886 | -79.40217 | 0065
+461 | Lonsdale Rd At Avenue Rd East Side | 43.69084 | -79.4022899 | 1242
+9121 | Oriole Pkwy At Lonsdale Rd North Side | 43.6915499 | -79.40093 | 1441
+8224 | Oriole Pkwy At Duggan Ave | 43.6927199 | -79.4013899 | 1436
+4888 | Oriole Pkwy At Gormley Ave | 43.69365 | -79.40171 | 1437
+3157 | Oriole Pkwy At Kilbarry Rd | 43.6953899 | -79.40228 | 1440
+9430 | Oriole Pkwy At Chaplin Cres North Side | 43.69835 | -79.40332 | 10784
+5981 | Oriole Pkwy At Tranmer Ave | 43.69989 | -79.40393 | 10785
+2129 | Oriole Pkwy At Hillsdale Ave West | 43.70172 | -79.40465 | 10786
+6357 | Oriole Pkwy At Anderson Ave | 43.70313 | -79.40526 | 10787
+7677 | Eglinton Ave West At Oriole Pkwy East Side | 43.7051499 | -79.40554 | 2394
+8258 | Eglinton Ave West At Lascelles Blvd East Side | 43.7056399 | -79.4032 | 2374
+9386 | Eglinton Ave West At Duplex Ave | 43.70618 | -79.4006599 | 2342
+14189_ar | Eglinton Station | 43.7056199 | -79.39966
+332 | Eglinton Ave West At Eastbourne Ave East Side | 43.70537 | -79.4044599 | 10222
+6328 | Elm St At University Ave East Side | 43.6564899 | -79.3879 | 1053
+10326 | Gerrard St West At Elizabeth St West Side | 43.65815 | -79.3867799 | 1088
+7730 | Gerrard St East At University Ave | 43.65773 | -79.3889299 | 1111
+8126 | University Ave At College St (Queen&apos;S Park Station) | 43.6597199 | -79.3901899 | 1614

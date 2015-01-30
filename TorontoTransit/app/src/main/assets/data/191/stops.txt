@@ -1,0 +1,83 @@
+5183 | Woodbine Downs Blvd At Carrier Dr South Side | 43.7372199 | -79.607 | 8932
+4762 | Woodbine Downs Blvd At Finch Ave West | 43.7343599 | -79.60661 | 8933
+1367 | Humber College Blvd At Finch Ave West South Side | 43.73372 | -79.6101199 | 7857
+648 | Humber College Blvd At Humberline Dr South Side | 43.73179 | -79.6089 | 12196
+9622 | Humber College Blvd At Humber College | 43.7307399 | -79.60695 | 7858
+9916 | Humber College Blvd At Arboretum Blvd | 43.72987 | -79.60386 | 7852
+2207 | Humber College Blvd At Highway 27 | 43.73026 | -79.6018699 | 11273
+3749 | Highway 27 At Queens Plate Dr South Side (Woodbine Mall) | 43.7220999 | -79.59806 | 11505
+5407 | Dundas St West At The East Mall Cres | 43.6303899 | -79.54917 | 2148
+14241_ar | Kipling Station | 43.6379599 | -79.53521
+3651 | Steeles Ave West Loop At Martin Grove Rd | 43.7566699 | -79.60784 | 9824
+844 | Steeles Ave West At Martin Grove Rd | 43.75768 | -79.6035099 | 9825
+4925 | Martin Grove Rd At Brunello Gate | 43.7560799 | -79.6018099 | 9724
+3214 | Martin Grove Rd At Cabernet Cir | 43.75413 | -79.60025 | 9266
+7050 | Martin Grove Rd At Royalcrest Rd | 43.75242 | -79.59947 | 5643
+4221 | Martin Grove Rd At Silverstone Dr | 43.7510599 | -79.59881 | 5647
+7565 | Martin Grove Rd At Walkway To 308 Silverstone Dr | 43.7491899 | -79.5978799 | 5595
+8495 | Opposite 1915 Martin Grove Rd | 43.74605 | -79.59635 | 5603
+4450 | Martin Grove Rd At Lexington Ave | 43.74437 | -79.59552 | 5624
+1657 | Martin Grove Rd At Albion Rd | 43.7424299 | -79.5945899 | 5589
+3473 | Martin Grove Rd At Betteridge Lane South Side | 43.7387599 | -79.59276 | 5601
+627 | Finch Ave West At Martin Grove Rd West Side | 43.7366999 | -79.59245 | 11200
+3066 | Finch Ave West At Silverstone Dr | 43.7361699 | -79.59475 | 2631
+3793 | Finch Ave West At Damascus Dr | 43.7354199 | -79.59786 | 2592
+5835 | Finch Ave West At Westmore Dr | 43.73486 | -79.6006099 | 2641
+1399 | Finch Ave West At Highway 27 West Side | 43.73404 | -79.6040899 | 11293
+758 | Finch Ave West At Woodbine Downs Blvd | 43.7337999 | -79.6064199 | 2644
+395 | Belfield Rd At Brockport Dr West Side | 43.69894 | -79.5888299 | 3325
+7076 | Belfield Rd At Attwell Dr | 43.69824 | -79.5918099 | 7527
+377 | Attwell Dr At Marmac Dr South Side | 43.6952499 | -79.5895 | 3299
+378 | Attwell Dr At McLachlan Dr | 43.6936599 | -79.5887499 | 9304
+362 | Farnboro Rd At Attwell Dr East Side | 43.69158 | -79.5868899 | 11202
+6384 | Royalcrest Rd At Highway 27 | 43.7499999 | -79.60944 | 11521
+839 | Steeles Ave West At Highway 27 East Side | 43.7555199 | -79.61324 | 11522
+7747 | 6807 Steeles Ave West | 43.7560399 | -79.61102 | 10863
+6346 | 6793-6823 Steeles Ave West | 43.7565799 | -79.60854 | 10864
+4258 | Royalcrest Rd At Highway 27 East Side | 43.7499499 | -79.60916 | 11523
+1439 | Royalcrest Rd At Leading Rd East Side | 43.7504399 | -79.6071 | 11524
+7380 | Royalcrest Rd At Cabernet Cir East Side | 43.75119 | -79.6038399 | 11525
+8497 | Royalcrest Rd At Martin Grove Rd | 43.7521599 | -79.59964 | 11526
+14241 | Kipling Station | 43.6379599 | -79.53521 | 14722
+6721 | Dundas St West At The East Mall Cres | 43.6306899 | -79.54898 | 2149
+646 | Highway 27 At Queens Plate Dr (Woodbine Mall) | 43.7224599 | -79.5977999 | 11504
+5918 | Humber College Blvd At Highway 27 West Side | 43.7303499 | -79.60235 | 11272
+14698 | Humber College Blvd At Windwood Dr | 43.7301299 | -79.60478 | 14973
+8802 | Humber College Blvd At Humber College | 43.7307699 | -79.60645 | 7859
+7712 | Humber College Blvd At Humberline Dr | 43.73212 | -79.60889 | 7860
+6105 | Humber College At Finch Ave West North Side | 43.7344899 | -79.60969 | 14253
+647 | Humber College Blvd At Carrier Dr | 43.73714 | -79.61033 | 11084
+9731 | Carrier Dr At Humber College Blvd East Side | 43.7381 | -79.6093799 | 7596
+5183_ar | Woodbine Downs Blvd At Carrier Dr South Side | 43.7372199 | -79.607
+7911 | Finch Ave West At Humber College Blvd East Side | 43.73394 | -79.60935 | 14254
+7840 | Finch Ave West At Halesia Dr | 43.73366 | -79.6069 | 2600
+7766 | Finch Ave West At Highway 27 | 43.7338899 | -79.60388 | 11292
+2214 | Finch Ave West At Westmore Dr | 43.73451 | -79.6011899 | 2640
+1269 | Finch Ave West At Kiskadee Dr | 43.7351799 | -79.59826 | 2615
+3319 | Finch Ave West At John Garland Blvd | 43.7359099 | -79.59507 | 2610
+560 | Martin Grove Rd At Finch Ave West North Side | 43.7372199 | -79.59172 | 11331
+3487 | Martin Grove Rd At Betteridge Lane | 43.73875 | -79.59249 | 5594
+7894 | Martin Grove Rd At Albion Rd | 43.7414899 | -79.5937799 | 5590
+6386 | Martin Grove Rd At Garfella Dr | 43.7442299 | -79.59516 | 5617
+750 | 1915 Martin Grove Rd | 43.7462899 | -79.5961799 | 5602
+9964 | Martin Grove Rd At Smithfield Park | 43.74848 | -79.59726 | 5648
+1559 | Martin Grove Rd At Silverstone Dr | 43.7508099 | -79.5983599 | 5646
+5455 | Martin Grove Rd At Royalcrest Rd | 43.7522399 | -79.5990999 | 9258
+7007 | Martin Grove Rd At Gihon Spring Dr | 43.7539199 | -79.59986 | 9259
+2961 | Martin Grove Rd At Brunello Gate | 43.75598 | -79.6015 | 9726
+843 | Steeles Ave West At Martin Grove Rd West Side | 43.7577 | -79.6044099 | 9835
+3651_ar | Steeles Ave West Loop At Martin Grove Rd | 43.7566699 | -79.60784
+2588 | Dixon Rd At Attwell Dr | 43.68814 | -79.5865499 | 4972
+3709 | Attwell Dr At Carlson Crt | 43.6891899 | -79.58719 | 9302
+8834 | Attwell Dr At Farnboro Rd | 43.6913299 | -79.5874099 | 9303
+993 | Attwell Dr At McLachlan Dr North Side | 43.69355 | -79.58847 | 11196
+9314 | Attwell Dr At Marmac Dr | 43.6958299 | -79.5896 | 11197
+4040 | Belfield Rd At Attwell Dr East Side | 43.6979399 | -79.59237 | 3323
+396 | Belfield Rd At Brockport Dr | 43.69882 | -79.5885699 | 3326
+1078 | Royalcrest Rd At Martin Grove Rd West Side | 43.7522099 | -79.59993 | 11518
+10104 | Royalcrest Rd At Cabernet Cir | 43.75129 | -79.6039299 | 11519
+1913 | Royalcrest Rd At Leading Rd | 43.75054 | -79.6071299 | 11520
+6384_ar | Royalcrest Rd At Highway 27 | 43.7499999 | -79.60944
+5006 | Opposite 6793-6823 Steeles Ave West | 43.7567499 | -79.60861 | 10854
+9822 | Opposite 6807 Steeles Ave West | 43.7561699 | -79.61123 | 10855
+4258_ar | Royalcrest Rd At Highway 27 East Side | 43.7499499 | -79.60916

@@ -1,0 +1,14 @@
+14339 | Spadina Station | 43.6672199 | -79.40392 | 14816
+7162 | Spadina Ave At Sussex Ave South Side | 43.66426 | -79.40275 | 8132
+5136 | Spadina Ave At Harbord St South Side | 43.6627599 | -79.4021499 | 8124
+3323 | Spadina Ave At College St South Side | 43.6574799 | -79.40006 | 8120
+3159 | Spadina Ave At Nassau St South Side | 43.6554399 | -79.3992699 | 8128
+10093 | Spadina Ave At Dundas St West South Side | 43.6525099 | -79.398 | 8121
+2097 | Spadina Ave At Sullivan St | 43.6510299 | -79.3974199 | 8131
+9203 | Spadina Ave At Queen St West South Side | 43.6483199 | -79.39635 | 8129
+5275 | Spadina Ave At King St West North Side | 43.6460299 | -79.39516 | 7353
+14861 | Spadina Ave At King St West | 43.6454999 | -79.3953499 | 15078
+14869 | Spadina Ave At Front St West South Side | 43.6422799 | -79.3940199 | 10778
+14864 | Spadina Ave At Bremner Blvd | 43.6405999 | -79.3933099 | 11993
+2125 | Queens Quay West At Lower Spadina Ave East Side | 43.6377899 | -79.39122 | 13131
+478_ar | Queens Quay Loop At Lower Spadina Ave | 43.6385499 | -79.39167

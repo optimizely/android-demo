@@ -1,0 +1,18 @@
+14153 | Don Mills Station | 43.7755899 | -79.34628 | 14631
+535 | Sheppard Ave East At Victoria Park Ave East Side | 43.7753399 | -79.32228 | 13918
+4133 | Sheppard Ave East At Pharmacy Ave | 43.7763699 | -79.31788 | 7228
+2614 | Sheppard Ave East At Warden Ave | 43.7785899 | -79.30813 | 7254
+1364 | Sheppard Ave East At Birchmount Rd | 43.7808999 | -79.29832 | 7154
+7912 | Sheppard Ave At Allanford Rd East Side | 43.7821199 | -79.2929 | 7141
+8489 | Sheppard Ave East At Kennedy Rd | 43.78307 | -79.2887199 | 7196
+8032 | Sheppard Ave East At Midland Ave | 43.7851299 | -79.27906 | 7217
+14276_ar | Scarborough Centre Station | 43.7742899 | -79.25875
+14276 | Scarborough Centre Station | 43.7742899 | -79.25875 | 14757
+15071 | Sheppard Ave E At Midland Ave | 43.7850299 | -79.28035 | 15244
+8171 | Sheppard Ave East At Kennedy Rd | 43.78343 | -79.2880599 | 7197
+7463 | Sheppard Ave At Allanford Rd West Side | 43.7821499 | -79.29381 | 7142
+5946 | Sheppard Ave East At Birchmount Rd | 43.78123 | -79.2978799 | 7155
+8959 | Sheppard Ave East At Warden Ave | 43.7789299 | -79.3076 | 7255
+4870 | Sheppard Ave East At Pharmacy Ave | 43.7766699 | -79.31755 | 7229
+9120 | Sheppard Ave East At Victoria Park Ave West Side | 43.7753299 | -79.32361 | 9513
+14153_ar | Don Mills Station | 43.7755899 | -79.34628

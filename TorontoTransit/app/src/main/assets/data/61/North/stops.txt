@@ -1,0 +1,25 @@
+14196 | Eglinton Station | 43.7055799 | -79.39947 | 14675
+4420 | Eglinton Ave West At Henning Ave | 43.7061999 | -79.40131 | 2360
+10274 | Eglinton Ave West At Lascelles Blvd | 43.7057099 | -79.40352 | 2375
+333 | Eglinton Ave West At Eastbourne Ave | 43.7055099 | -79.40452 | 10224
+4903 | Eglinton Ave West At Oriole Pkwy | 43.7052399 | -79.40593 | 2395
+10232 | Avenue Rd At Eglinton Ave West North Side | 43.70501 | -79.40857 | 4772
+3929 | Avenue Rd At Elwood Blvd North Side | 43.7071899 | -79.4098699 | 4774
+8514 | Avenue Rd At Roselawn Ave | 43.70847 | -79.41026 | 4794
+8463 | Avenue Rd At St Clements Ave | 43.7102199 | -79.4109699 | 4795
+3754 | Avenue Rd At Hillhurst Blvd | 43.71203 | -79.41157 | 4783
+2812 | Avenue Rd At Lytton Blvd | 43.71385 | -79.41174 | 4787
+7227 | Avenue Rd At Glengrove Ave West | 43.7168599 | -79.4131999 | 4779
+6592 | Avenue Rd At Glenview Ave North Side | 43.7183699 | -79.4144899 | 4781
+4470 | 1451 Avene Rd (Havergal College) | 43.7201899 | -79.41488 | 4782
+1384 | Avenue Rd At Lawrence Ave West | 43.7220699 | -79.4153499 | 4786
+6532 | Avenue Rd At Douglas Ave North Side | 43.7239099 | -79.4161399 | 4770
+3587 | Avenue Rd At Woburn Ave | 43.7253099 | -79.4167099 | 4797
+4345 | Avenue Rd At Fairlawn Ave | 43.72778 | -79.41771 | 4776
+2845 | Avenue Rd At Melrose Ave | 43.72977 | -79.41852 | 4789
+10425 | Avenue Rd At Old Orchard Grove | 43.7315399 | -79.41917 | 14416
+6089 | Avenue Rd At Brooke Ave | 43.7331399 | -79.41939 | 0052
+7714 | Avenue Rd At Dunblaine Ave | 43.7358099 | -79.4199399 | 0059
+3068 | Avenue Rd At Ridley Blvd | 43.7378899 | -79.4206299 | 0069
+1759 | Avenue Rd At Wilson Ave | 43.73939 | -79.42126 | 0073
+3197_ar | Bombay Loop At Avenue Rd | 43.7435899 | -79.42419

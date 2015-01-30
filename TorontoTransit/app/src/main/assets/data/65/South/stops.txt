@@ -1,0 +1,16 @@
+14163 | Castle Frank Station | 43.6734499 | -79.36914 | 14641
+5633 | Parliament St At Howard St South Side | 43.6711199 | -79.3708399 | 6638
+7201 | St James Ave South Side | 43.6696599 | -79.3702399 | 6649
+1788 | Parliament St At Wellesley St East South Side | 43.66793 | -79.36954 | 6652
+5020 | Parliament St At Winchester St | 43.6659399 | -79.3687199 | 6654
+1198 | Parliament St At Carlton St | 43.6644199 | -79.3681199 | 6634
+9014 | Parliament St At Gerrard St East | 43.6624099 | -79.36729 | 6650
+4204 | Parliament St At Oak St | 43.66089 | -79.36669 | 6641
+5551 | Parliament St At Dundas St East | 43.6596099 | -79.3661499 | 6635
+8685 | Parliament St At Shuter St | 43.65703 | -79.3651 | 6647
+6807 | Parliament St At Queen St East | 43.65578 | -79.3646 | 6644
+3261 | Parliament St At Richmond St East | 43.6546299 | -79.3641 | 10229
+1263 | Parliament St At Adelaide St East | 43.65363 | -79.36367 | 6632
+6122 | Parliament St At King St East | 43.6528 | -79.36332 | 6640
+4362 | Parliament St At Front St East | 43.6518 | -79.3629 | 9535
+640_ar | Front St East At Berkeley St | 43.6514199 | -79.36363

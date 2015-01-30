@@ -1,0 +1,21 @@
+14327 | York Mills Station | 43.7453399 | -79.40642 | 14811
+2025 | York Mills Rd At Old York Mills Rd | 43.7442 | -79.4044499 | 11333
+920 | York Mills Rd At York Ridge Rd | 43.7442 | -79.4017499 | 3264
+1767 | York Mills Rd At Hedgewood Rd East Side | 43.7448899 | -79.39873 | 3260
+1681 | Upper Highland Cres At Munro Blvd | 43.7461999 | -79.39667 | 8398
+5742 | Upper Highland Cres At Owen Blvd | 43.7483499 | -79.3975099 | 8399
+8481 | Tournament Dr At Upper Highland Cres West Side | 43.75092 | -79.3990199 | 8373
+2779 | Tournament Dr At The Links Rd | 43.75069 | -79.40172 | 8372
+2740 | The Links Rd At Lord Seaton Rd | 43.75241 | -79.4014999 | 8342
+5219 | Lord Seaton Rd At Upper Canada Dr | 43.75333 | -79.4045499 | 7955
+2860 | Upper Canada Dr At Aldershot Cres | 43.7544799 | -79.40435 | 8389
+4930 | 89 Upper Canada Dr | 43.7552499 | -79.40346 | 8391
+3565 | Upper Canada Dr At Normandale Cres (West) | 43.7564 | -79.4014699 | 8396
+3794 | Upper Canada Dr At Fairmeadow Ave | 43.757891 | -79.3994084 | 8392
+4153 | Upper Canada Dr At Lord Seaton Rd East Side | 43.7597099 | -79.39614 | 8402
+9725 | Montressor Dr At Troon Crt | 43.7587399 | -79.3920999 | 7984
+9954 | Toba Dr At Montressor Dr East Side | 43.7573399 | -79.3913599 | 8370
+3963 | Toba Dr At Fifeshire Rd | 43.7562699 | -79.3899799 | 8368
+6025 | 73 Fifeshire Rd | 43.7585299 | -79.3890699 | 7754
+4531 | Fifeshire Rd At Caldy Crt North Side | 43.7602199 | -79.38852 | 7755
+2400_ar | Carluke Cres At Fifeshire Rd (East) West Side | 43.7607199 | -79.3886

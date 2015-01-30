@@ -1,0 +1,73 @@
+469 | Rouge Hill Go Station Loop At Lawrence Ave East | 43.7809199 | -79.1299 | 10939
+9903 | Lawrence Ave East At Brimforest Gate West Side | 43.7803299 | -79.13359 | 12016
+6640 | Port Union Rd At Lawrence Ave East North Side | 43.7799899 | -79.1366899 | 10141
+620 | Port Union Rd At Adenmore Rd North Side | 43.78176 | -79.13748 | 9885
+3888 | Port Union Rd At Winter Gardens Trail | 43.7852299 | -79.1389199 | 9886
+10110 | Port Union Rd At Ravine Park Cres North Side | 43.7883499 | -79.1402599 | 9887
+8584 | Lawson Rd At Wichey Rd | 43.78908 | -79.1437799 | 9889
+10154 | Lawson Rd At Brumwell St | 43.7883 | -79.1473399 | 9890
+6942 | Lawson Rd At Centennial Rd West Side | 43.78745 | -79.1511699 | 7926
+6320 | Lawson Rd At Cedarview Dr | 43.7869099 | -79.15371 | 7925
+1924 | Lawson Rd At Irvine Rd | 43.7866299 | -79.15496 | 7931
+4086 | Lawson Rd At Clyde Rd | 43.78584 | -79.1586199 | 7929
+8748 | Lawson Rd At Meadowvale Rd West Side | 43.7852899 | -79.16108 | 7932
+6360 | 58 Lawson Rd | 43.78412 | -79.1642299 | 7921
+645 | Highland Creek Overpass At Kingston Rd | 43.7842799 | -79.1682799 | 11560
+3777 | Old Kingston Rd At Morrish Rd West Side | 43.78313 | -79.1710799 | 8004
+8288 | Old Kingston Rd At Military Trail | 43.78212 | -79.1726699 | 8002
+2638 | Military Trail At Bobmar Rd | 43.78267 | -79.17698 | 7969
+10049 | Military Trail At Gladys Rd | 43.7830699 | -79.1791699 | 7972
+9477 | Military Trail At Conlins Rd North Side | 43.78378 | -79.18222 | 7971
+14921 | 1265 Military Trail (Uoft - Scarborough Campus) | 43.7846499 | -79.18583 | 15114
+6974 | Military Trail At University Of Toronto Scarborough | 43.78592 | -79.18677 | 7977
+4049 | Ellesmere Rd At Military Trail (East) West Side | 43.7864999 | -79.18902 | 7699
+9612 | Ellesmere Rd At Morningside Ave | 43.7855399 | -79.1931 | 7703
+1655 | Ellesmere Rd At Mornelle Crt | 43.785 | -79.1951899 | 7701
+5200 | Ellesmere Rd At Neilson Rd (Scarborough Centenary Hospital) | 43.7828 | -79.2047499 | 7705
+6004 | Ellesmere Rd At Military Trail (West) | 43.7799 | -79.2169899 | 7700
+726 | Ellesmere Rd At Helicon Gate West Side | 43.7785999 | -79.22253 | 7691
+7343 | Ellesmere Rd At Dormington Dr West Side | 43.7776199 | -79.22693 | 1045
+1104 | Ellesmere Rd At Markham Rd | 43.7766699 | -79.2313 | 1049
+7874 | Ellesmere Rd At Dolly Varden Blvd West Side | 43.7757999 | -79.23528 | 1043
+6990 | Ellesmere Rd At Bellamy Rd North | 43.77454 | -79.2414199 | 7677
+5002 | Ellesmere Rd At Parkington Cres | 43.7735299 | -79.24584 | 7712
+8644 | Ellesmere Rd At McCowan Rd | 43.7723699 | -79.25116 | 7695
+14285_ar | Scarborough Centre Station | 43.7744799 | -79.2573
+14285 | Scarborough Centre Station | 43.7744799 | -79.2573 | 14766
+9276 | Triton Rd At McCowan Rd | 43.77532 | -79.2529599 | 9614
+351 | Ellesmere Rd At McCowan Rd East Side | 43.77227 | -79.2504799 | 9604
+7368 | Ellesmere Rd At Parkington Cres | 43.7731999 | -79.24637 | 7711
+3597 | Ellesmere Rd At Bellamy Rd North | 43.77416 | -79.2420099 | 7676
+2705 | Ellesmere Rd At Dolly Varden Blvd | 43.7756399 | -79.23509 | 1044
+9201 | Ellesmere Rd At Markham Rd | 43.77627 | -79.2320099 | 1048
+3250 | Ellesmere Rd At Gander Dr East Side | 43.7775599 | -79.22622 | 1046
+4217 | Ellesmere Rd At Scarborough Golf Club Rd | 43.7783899 | -79.22239 | 1052
+4410 | Ellesmere Rd At Orton Park Rd | 43.7795999 | -79.21738 | 1051
+2876 | Ellesmere Rd At Neilson Rd (Scarborough Centenary Hospital) | 43.78247 | -79.2050999 | 7704
+4924 | Ellesmere Rd At Morningside Ave | 43.78518 | -79.1936299 | 7702
+8000 | Ellesmere Rd At Military Trail (East) | 43.7864599 | -79.18844 | 7698
+1093 | Military Trail At Uoft Scarborough South Side | 43.7853199 | -79.18582 | 7976
+1790 | Opposite 1314 Military Trail | 43.78436 | -79.1838 | 7968
+1083 | Military Trail At Lash Crt | 43.7834899 | -79.1817799 | 7974
+4815 | Military Trail At Gladys Rd | 43.78303 | -79.17959 | 7973
+8165 | Military Trail At Bobmar Rd | 43.7826599 | -79.1774999 | 7970
+5379 | Military Trail At Old Kingston Rd | 43.78206 | -79.17423 | 7975
+8794 | Old Kingston Rd At Morrish Rd | 43.7831099 | -79.17087 | 8003
+643 | Lawson Rd At Kingston Road (Highway 2a Overpass) | 43.78414 | -79.16832 | 7480
+3026 | Lawson Rd At Highway 2a Overpass East Side | 43.78293 | -79.1658899 | 7920
+5722 | 59 Lawson Rd | 43.78399 | -79.1641199 | 7922
+2007 | Lawson Rd At Meadowvale Rd | 43.78521 | -79.1608899 | 7933
+2242 | Lawson Rd At Clyde Rd | 43.7856099 | -79.15902 | 7928
+9912 | Lawson Rd At Irvine Rd East Side | 43.7865199 | -79.15492 | 7930
+2692 | Lawson Rd At Cedarview Dr East Side | 43.7868999 | -79.15319 | 7924
+2681 | Lawson Rd At Centennial Rd | 43.7873299 | -79.1512 | 7927
+7305 | Lawson Rd At Brumwell St East Side | 43.7881999 | -79.14726 | 7923
+4506 | Lawson Rd At Wichey Rd | 43.7888999 | -79.14402 | 7935
+5743 | Lawson Rd At Port Union Rd | 43.7895299 | -79.14121 | 7934
+4595 | Port Union Rd At Ravine Park Cres South Side | 43.78782 | -79.14021 | 8037
+2545 | Port Union Rd At Conference Blvd | 43.7862 | -79.13954 | 8036
+8185 | Port Union Rd At Clappison Blvd | 43.78162 | -79.13761 | 8035
+10225 | Port Union Rd At Lawrence Ave East | 43.78025 | -79.13702 | 9891
+2076 | Lawrence Ave At Marine Approach Dr | 43.78025 | -79.1333799 | 12015
+469_ar | Rouge Hill Go Station Loop At Lawrence Ave East | 43.7809199 | -79.1299
+14921_ar | 1265 Military Trail (Uoft - Scarborough Campus) | 43.7846499 | -79.18583

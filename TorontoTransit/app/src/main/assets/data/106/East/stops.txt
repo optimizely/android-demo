@@ -1,0 +1,25 @@
+913 | York Blvd (North) At York University Commons | 43.7740899 | -79.50106 | 11416
+8744 | The Pond Rd At Ian Macdonald Blvd West Side | 43.77064 | -79.4997899 | 12193
+8099 | Sentinel Rd At The Pond Rd South Side | 43.7693799 | -79.5024 | 7992
+14937 | Sentinel Rd At Cook Rd | 43.7671099 | -79.5013099 | 15130
+930 | Sentinel Rd At Murray Ross Pkwy South Side | 43.76435 | -79.50128 | 8091
+1091 | Sentinel Rd At Fountainhead Rd | 43.7625299 | -79.5007199 | 8083
+526 | Sentinel Rd At Finch Ave West | 43.7612099 | -79.50021 | 8082
+3838 | Sentinel Rd At Derrydown Rd | 43.7599299 | -79.4997399 | 8080
+9481 | Sentinel Rd At Hucknall Rd (North) | 43.75725 | -79.4991099 | 8087
+5649 | Sentinel Rd At Lamberton Blvd | 43.7539499 | -79.4996699 | 8089
+8835 | Sentinel Rd At Grandravine Dr | 43.7517499 | -79.4959699 | 8085
+1127 | Sentinel Rd At Stilecroft Dr (North) | 43.75058 | -79.49433 | 9226
+8027 | Sentinel Rd At Dovehouse Ave | 43.74878 | -79.49335 | 9227
+6283 | Sentinel Rd At Fredrick Mowat Lane South Side | 43.7456699 | -79.4924899 | 9228
+6516 | Sentinel Rd At Sheppard Ave West | 43.7438 | -79.49197 | 9229
+4365 | Sheppard Ave West At Walkway To Norman Wesley Way | 43.7441499 | -79.48921 | 13437
+4222 | Sheppard Ave West At Keele St | 43.7445199 | -79.48665 | 6074
+4662 | Sheppard Ave West At Keele St East Side | 43.74481 | -79.4857699 | 6075
+6822 | Sheppard Ave West At John Drury Dr | 43.74811 | -79.48255 | 6070
+6065 | Sheppard Ave West At Tuscan Gate | 43.7525199 | -79.48269 | 6089
+2042 | Sheppard Ave West At Chesswood Dr | 43.75542 | -79.4744599 | 7271
+3355 | Sheppard Ave West At Yukon Lane | 43.7519399 | -79.4674499 | 3109
+14176 | Downsview Station | 43.7491999 | -79.46205 | 14655
+7719 | William R Allen Rd At Sheppard Ave West South Side | 43.7496699 | -79.46339 | 1647
+858 | Transit Rd At Wilson Ave | 43.7343899 | -79.45266 | 11879

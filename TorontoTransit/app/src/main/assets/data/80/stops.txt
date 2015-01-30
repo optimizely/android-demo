@@ -1,0 +1,84 @@
+541 | Sherway Gardens Rd At Sherway Gate (Mall) West Side | 43.6099899 | -79.55842 | 9108
+4305 | The West Mall At Sherway Dr North Side | 43.6097499 | -79.5606 | 1632
+9397 | The West Mall At The Queensway | 43.6118 | -79.56201 | 1638
+4901 | The Queensway At Sherway Gardens Mall (North Entrance) | 43.61369 | -79.55974 | 12194
+3137 | The Queensway At North Queen St East Side | 43.6142 | -79.55556 | 6903
+1404 | The Queensway At The East Mall | 43.61626 | -79.5465299 | 6884
+7224 | 1611 The Queensway | 43.6168999 | -79.54388 | 6901
+7345 | The Queensway At Atomic Ave | 43.6176199 | -79.54094 | 6871
+9103 | The Queensway At Algie Ave | 43.61854 | -79.5370999 | 6868
+6217 | The Queensway At Vansco Rd | 43.6190099 | -79.53473 | 6922
+5717 | The Queensway At Kipling Ave | 43.6207499 | -79.52704 | 6896
+6084 | The Queensway At Culnan Ave | 43.6213299 | -79.52455 | 6882
+8089 | The Queensway At Zorra St | 43.6217899 | -79.52241 | 6926
+7597 | The Queensway At St Lawrence Ave | 43.6224699 | -79.51931 | 6917
+2950 | The Queensway At Islington Ave | 43.6233999 | -79.51505 | 6894
+3911 | The Queensway At Canmotor Ave | 43.6242 | -79.5118399 | 6876
+6539 | The Queensway At Loma Rd | 43.62485 | -79.5088999 | 6898
+10369 | The Queensway At Smith Cres East Side | 43.6256299 | -79.50541 | 6881
+2983 | The Queensway At Royal York Rd | 43.6262199 | -79.50276 | 6913
+14613 | The Queensway At Wesley St | 43.62691 | -79.4996699 | 14604
+10270 | The Queensway At Milton St | 43.62744 | -79.4972099 | 6902
+2584 | The Queensway At Grand Ave | 43.6279799 | -79.49466 | 6890
+8048 | The Queensway At Park Lawn Rd East Side | 43.6291599 | -79.48919 | 6905
+8818 | The Queensway At Aldgate Ave | 43.6296799 | -79.48686 | 6867
+9420 | The Queensway At Stephen Dr | 43.6302199 | -79.48438 | 6919
+7804 | 125 The Queensway | 43.63078 | -79.4820599 | 13943
+14949 | The Queensway At South Kingsway | 43.6358999 | -79.47289 | 15145
+5383 | The Queensway At Windermere Ave | 43.6371599 | -79.46996 | 14279
+3655 | The Queensway At Ellis Ave | 43.6376199 | -79.46663 | 11770
+8807 | Ellis At Lake Shore Blvd West | 43.63675 | -79.46573 | 12162
+9367 | Lake Shore Blvd West At Colborne Lodge Dr | 43.6375799 | -79.4593 | 12163
+2340 | Parkside Dr At The Queensway North Side | 43.6400199 | -79.45404 | 11773
+2830 | Parkside Dr At Algonquin Ave | 43.64307 | -79.45541 | 11774
+718 | Parkside Dr At High Park Blvd | 43.64474 | -79.45607 | 11775
+2719 | Parkside Dr At Geoffrey St | 43.64655 | -79.45682 | 11776
+6811 | Parkside Dr At Howard Park Ave | 43.6485899 | -79.4576499 | 11777
+8679 | Parkside Dr At Ridout St | 43.6522799 | -79.4588799 | 11778
+4785 | Parkside Dr At Bloor St West | 43.6545499 | -79.4598199 | 11779
+14224_ar | Keele Station | 43.6557599 | -79.45947
+471_ar | Humber Loop At The Queensway | 43.6311299 | -79.47886
+2477 | Kipling Ave At The Queensway | 43.62057 | -79.5264 | 4363
+14224 | Keele Station | 43.6557599 | -79.45947 | 14704
+8410 | Keele St At Bloor St West | 43.65487 | -79.46016 | 11780
+8881 | Parkside Dr At Indian Valley Cres South Side | 43.65089 | -79.45847 | 11781
+8361 | Parkside Dr At Howard Park Ave | 43.64874 | -79.45787 | 11782
+9123 | Parkside Dr At Geoffrey St | 43.64672 | -79.45707 | 11783
+1391 | Parkside Dr At High Park Blvd | 43.64499 | -79.45636 | 11784
+4838 | Parkside Dr At Garden Ave | 43.6413199 | -79.4548399 | 11785
+4591 | Parkside Dr At The Queensway | 43.6399999 | -79.4542999 | 11786
+4260 | Lake Shore Blvd West At Colborne Lodge Dr West Side | 43.6379499 | -79.45948 | 12164
+9305 | Ellis At Lake Shore Blvd West North Side | 43.63681 | -79.46556 | 12165
+8826 | The Queensway At Ellis Ave West Side | 43.6377999 | -79.46695 | 11789
+498 | The Queensway At Windermere Ave West Side | 43.6372899 | -79.47039 | 6923
+14950 | The Queensway At South Kingsway | 43.6363599 | -79.4724799 | 15146
+2605 | Opposite 125 The Queensway | 43.6309799 | -79.4818599 | 13944
+497 | The Queensway At Stephen Dr | 43.6305 | -79.4839599 | 6920
+7392 | The Queensway At Aldgate Ave | 43.62993 | -79.4865399 | 6870
+3708 | The Queensway At Park Lawn Rd | 43.62921 | -79.4900399 | 6907
+4259 | The Queensway At Burma Dr | 43.6281 | -79.4950099 | 6875
+3265 | The Queensway At Berl Ave | 43.6276199 | -79.49725 | 6873
+2710 | The Queensway At Holbrooke Ave | 43.62697 | -79.5001499 | 6893
+2478 | The Queensway At Royal York Rd | 43.6264599 | -79.50244 | 6914
+1347 | The Queensway At Smith Cres | 43.62569 | -79.5058599 | 6880
+1644 | The Queensway At Loma Rd | 43.62507 | -79.5086299 | 6899
+7119 | The Queensway At Lady Bank Rd | 43.6244199 | -79.51153 | 10655
+7202 | The Queensway At Islington Ave | 43.62378 | -79.5144799 | 6895
+10267 | The Queensway At St Lawrence Ave | 43.6228099 | -79.51884 | 6918
+9017 | The Queensway At Brawley Ave | 43.62222 | -79.5214899 | 6874
+3380 | The Queensway At Culnan Ave | 43.6216499 | -79.52409 | 6883
+9918 | The Queensway At Kipling Ave | 43.6211299 | -79.52652 | 6897
+3513 | The Queensway At Queensway Lions Crt West Side | 43.6205199 | -79.52907 | 6911
+6753 | The Queensway At Vansco Rd West Side | 43.6192599 | -79.53477 | 6921
+2395 | The Queensway At Algie Ave | 43.6188399 | -79.53694 | 6869
+10370 | The Queensway At Atomic Ave | 43.6179099 | -79.54069 | 6872
+3006 | 1610 The Queensway | 43.6171099 | -79.54411 | 6900
+10349 | The Queensway At The East Mall | 43.61664 | -79.5460199 | 6885
+6159 | The Queensway At North Queen St | 43.6144099 | -79.5558799 | 6904
+4554 | 1800 The Queensway | 43.6140899 | -79.5593299 | 9407
+881 | The West Mall At Queensway South Side | 43.61175 | -79.5623 | 11119
+7093 | The West Mall At Trillium Health Centre (North Stop) | 43.61038 | -79.56145 | 1631
+880 | The West Mall At Sherway Dr (Trillium Health Ctr South Stop) | 43.60947 | -79.56056 | 1633
+1711 | Sherway Gate At Evans Ave North Side | 43.6094399 | -79.5564999 | 1548
+541_ar | Sherway Gardens Rd At Sherway Gate (Mall) West Side | 43.6099899 | -79.55842
+471 | Humber Loop At The Queensway | 43.6311299 | -79.47886 | 6532

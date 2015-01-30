@@ -1,0 +1,143 @@
+15108 | Wilson Station | 43.7349399 | -79.45104 | 15317
+895 | Opposite 675 Wilson Ave | 43.7329699 | -79.45503 | 13470
+8737 | Wilson Ave At Dufferin St West Side | 43.7321199 | -79.45934 | 1656
+3913 | Wilson Ave At Dubray Ave | 43.7282999 | -79.47751 | 8851
+893 | Wilson Ave At Keele St | 43.7268999 | -79.48166 | 8869
+4647 | Wilson Ave At Jane St | 43.7210699 | -79.5083 | 8862
+6189 | Walsh Ave At Weston Rd | 43.7171499 | -79.5372099 | 8524
+4267 | Albion Rd At Weston Rd West Side | 43.71758 | -79.53847 | 6233
+5809 | Albion Rd At Armel Crt | 43.72122 | -79.54542 | 6217
+4278 | Elmhurst Dr At Islington Ave | 43.7232399 | -79.55866 | 7732
+3861 | Elmhurst Dr At Redwater Dr West Side | 43.7229099 | -79.5602 | 3548
+9741 | Elmhurst Dr At Cromarty Dr | 43.7234399 | -79.5624799 | 3546
+7551 | Elmhurst Dr At Genthorn Ave | 43.7250599 | -79.5646999 | 7727
+9433 | Elmhurst Dr At Hinton Rd | 43.72744 | -79.56607 | 7730
+356 | Elmhurst Dr At Harefield Dr | 43.7278699 | -79.5691599 | 12185
+7526 | Elmhurst Dr At Henley Cres West Side | 43.72873 | -79.57179 | 7729
+4074 | Brookmere Rd At Kipling Ave | 43.7282499 | -79.5744 | 7569
+9539 | Westhumber Blvd At Esther Lorrie Dr West Side | 43.7273199 | -79.5776 | 8654
+4060 | Westhumber Blvd At Moon Valley Dr | 43.7270899 | -79.58237 | 8658
+563 | Westhumber Blvd At Martin Grove Rd North Side | 43.7263399 | -79.58671 | 7957
+3135 | Martin Grove Rd At Milkwood Ave North Side | 43.73066 | -79.58861 | 5628
+9527 | John Garland Blvd At Martin Grove Rd West Side | 43.73201 | -79.5898299 | 7875
+7325 | John Garland Blvd At Mosque Cres (North) North Side | 43.7325799 | -79.5923399 | 7877
+5412 | Humber College Blvd At John Garland Blvd West Side | 43.7335899 | -79.59402 | 7862
+5768 | Humber College Blvd At Lynmont Rd | 43.73213 | -79.5958599 | 7865
+5685 | Humber College Blvd At Westmore Dr (William Osler) | 43.7311399 | -79.59887 | 7867
+5918 | Humber College Blvd At Highway 27 West Side | 43.7303499 | -79.60235 | 11272
+14698 | Humber College Blvd At Windwood Dr | 43.7301299 | -79.6047799 | 14973
+8802 | Humber College Blvd At Humber College | 43.7307699 | -79.6064499 | 7859
+7712 | Humber College Blvd At Humberline Dr | 43.7321199 | -79.6088899 | 7860
+6105 | Humber College At Finch Ave West North Side | 43.73449 | -79.60969 | 14253
+3547 | Humber College Blvd At Carrier Dr | 43.73767 | -79.6105499 | 7854
+9731_ar | Carrier Dr At Humber College Blvd East Side | 43.7380999 | -79.60938
+14325 | York Mills Station | 43.7451099 | -79.40634 | 14808
+4868 | Wilson Ave At Yonge St West Side | 43.7439399 | -79.40747 | 8891
+1167 | Wilson Ave At Yonge Blvd | 43.74142 | -79.4150799 | 8890
+6173 | Wilson Ave At Belgrave Ave West Side | 43.74064 | -79.4184499 | 8841
+5752 | Wilson Ave At Avenue Rd | 43.7400999 | -79.42099 | 8838
+10211 | Wilson Ave At Ridley Blvd | 43.73951 | -79.4235599 | 8883
+8063 | Wilson Ave At Clyde Ave West Side | 43.7387499 | -79.42692 | 8846
+5772 | Wilson Ave At Allard Ave | 43.7380099 | -79.42928 | 8835
+3309 | Wilson Ave At Bathurst St | 43.7374699 | -79.43373 | 8840
+3132 | Wilson Ave At Bathurst St West Side | 43.7373599 | -79.43456 | 1654
+4755 | Wilson Ave At Collinson Blvd | 43.7369499 | -79.4365 | 1655
+1901 | Wilson Ave At Laurentia Cres | 43.7362399 | -79.43981 | 1664
+8362 | Wilson Ave At Allingham Gardens | 43.7356799 | -79.44241 | 1661
+1171 | Wilson Ave At Faywood Blvd | 43.7348799 | -79.44622 | 1659
+14317 | Wilson Station | 43.7347899 | -79.45102 | 14800
+10047 | Wilson Ave At Lady York Ave | 43.7312899 | -79.46428 | 8870
+4926 | Wilson Ave At Garratt Blvd | 43.73046 | -79.4679299 | 8857
+7617 | Wilson Ave At Murray Rd | 43.7297 | -79.4713399 | 8876
+5623 | Wilson Ave At Apex Lane | 43.7287099 | -79.47567 | 8843
+5357 | Wilson Ave At Agate Rd West Side | 43.72579 | -79.4863299 | 8833
+8411 | Wilson Ave At Julian Rd West Side | 43.72466 | -79.4914099 | 8866
+3393 | Wilson Ave At Ridge Rd West Side | 43.72392 | -79.4945799 | 8881
+2474 | Wilson Ave At Lexfield Ave West Side | 43.7234 | -79.4969899 | 8872
+2978 | Wilson Ave At William Cragg Dr | 43.72266 | -79.5002899 | 8888
+9514 | Wilson Ave At Epic Lane Rd | 43.7213599 | -79.50607 | 8856
+8318 | 1700 Wilson Ave (Sheridan Mall) | 43.7205399 | -79.5109 | 8879
+6874 | Wilson Ave At Dallner Rd | 43.71992 | -79.5136499 | 8850
+8120 | Wilson Ave At Haymarket Rd | 43.7194599 | -79.51576 | 8859
+8971 | Wilson Ave At Jethro Rd West Side | 43.7187499 | -79.51886 | 8864
+2907 | Clayson Rd At Wilson Ave North Side | 43.71837 | -79.52323 | 7621
+2475 | Clayson Rd At Bartor Rd | 43.72067 | -79.52423 | 7614
+1674 | Opposite 100 Clayson Rd | 43.72304 | -79.52528 | 7620
+7428 | Clayson Rd At Huxley Rd North Side | 43.7242899 | -79.52583 | 7618
+7780 | 355 Clayson Rd | 43.72564 | -79.52808 | 7611
+4659 | 701 Clayson Rd | 43.7275 | -79.52857 | 7613
+9425 | Clayson Rd At Bartor Rd | 43.7286199 | -79.52582 | 7616
+4269_ar | Arrow Rd At Sheppard Ave West | 43.7364299 | -79.52959
+1930 | Wilson Ave At Clayson Rd West Side | 43.71771 | -79.5234699 | 8844
+6005 | Wilson Ave At Wendell Ave | 43.71694 | -79.5268999 | 8854
+3272 | Wilson Ave At Walsh Ave | 43.71599 | -79.5311299 | 8885
+4152 | Albion Rd At Shendale Dr | 43.7225299 | -79.5472899 | 14315
+8645 | Albion Rd At Golfdown Dr West Side | 43.72375 | -79.54875 | 6225
+3154 | Albion Rd At Arcot Blvd North Side | 43.7270199 | -79.5521099 | 6215
+8880 | Albion Rd At Bankfield Dr | 43.73065 | -79.55416 | 6219
+1936 | Albion Rd At Calstock Dr | 43.7340399 | -79.55798 | 6221
+4555 | Thistle Down Blvd At Albion Rd East Side | 43.73581 | -79.5608099 | 11566
+9588 | Thistle Down Blvd At Barkwin Dr East Side | 43.7372399 | -79.5588 | 11567
+1896 | Thistledown Blvd At Thistledown Blvd North Side | 43.73827 | -79.55622 | 11568
+8139 | Thistle Down Blvd At Dashwood Cres (South) | 43.74008 | -79.5563199 | 11569
+2313 | Thistle Down Blvd At Kenhill Dr | 43.7412899 | -79.5538 | 11570
+14687 | Thistledown Blvd At Atwood Pl | 43.7413999 | -79.55069 | 14959
+8218 | Thistle Down Blvd At Bridgenorth Cres | 43.7387999 | -79.55253 | 11572
+1041 | Thistle Down Blvd At Bentwick Cres (East) | 43.7378099 | -79.55674 | 11573
+3090 | Thistle Down Blvd At Barkwin Dr West Side | 43.7371 | -79.5594599 | 11574
+2038_ar | Thistle Down Blvd At Albion Rd | 43.7360599 | -79.56072
+14081 | Jethro Rd At Wilson Ave North Side | 43.7193199 | -79.5185499 | 14526
+13982 | 41 Torbarrie Rd | 43.72172 | -79.52192 | 14527
+14082 | Torbarrie Rd At Joseph Griffith Lane North Side | 43.72555 | -79.5232 | 14528
+14083 | Torbarrie Rd At Judy Sgro Ave | 43.7274 | -79.5236 | 14529
+14108 | Torbarrie Rd At Sergio Marchi St | 43.72992 | -79.52403 | 14530
+6739 | Oakdale Rd At Sheppard Ave West | 43.7374199 | -79.52464 | 5892
+6161_ar | Arrow Rd At Sheppard Ave West North Side | 43.7363199 | -79.52934
+14014 | Wilson Ave At Elrose Ave | 43.71731 | -79.5253399 | 14569
+370 | Albion Rd At Elmhurst Dr | 43.72505 | -79.5503 | 6222
+5035_IB | Arcot Blvd At Albion Rd East Side | 43.72699 | -79.5513399 | 11269
+4997_IB | Tandridge Cres At Arcot Blvd North Side | 43.7280699 | -79.54961 | 11270
+2199_IB | Opposite 840 Tandridge Cres | 43.72926 | -79.5484699 | 11271
+7889_IB | 75 Tandridge Cres | 43.72898 | -79.54599 | 11265
+3837_IB | Tandridge Cres At Byng Ave | 43.72741 | -79.5490299 | 11266
+3737_IB | Arcot Blvd At Albion Rd | 43.7270399 | -79.55165 | 11267
+6664 | Elmhurst Dr At Albion Rd West Side | 43.72502 | -79.5511799 | 7723
+996 | Elmhurst Dr At Muncey Ave | 43.72452 | -79.5532499 | 7735
+3990 | Hinton Rd At Harefield Dr | 43.7267299 | -79.56908 | 7823
+5331 | Harefield Dr At Elmhurst Dr | 43.72772 | -79.56927 | 7820
+650 | Humberline Dr At Humber College Blvd West Side | 43.7319599 | -79.6096899 | 12064
+3252 | Humberline Dr At Holyoake Cres (East) West Side | 43.7318899 | -79.6122299 | 11030
+4931 | Humberline Dr At Woodlot Cres (West) | 43.7321499 | -79.61473 | 11032
+7762 | Humberline Dr At Viewcrest Cir | 43.73228 | -79.61723 | 13473
+6488 | Humberline Dr At Finch Ave West | 43.7346099 | -79.61782 | 11050
+3713 | Humberline Dr At Claireville Dr (South) | 43.73724 | -79.61776 | 2703
+14600 | 36 Clairville Dr | 43.7373599 | -79.62188 | 14920
+14601 | 90 Claireville Dr | 43.7385899 | -79.6239299 | 14921
+14603 | Opposite 61 Claireville Dr (Baps Temple) | 43.7399299 | -79.6249099 | 14923
+14606 | Claireville Dr At Huddersfield Dr | 43.74176 | -79.62581 | 14925
+14608 | 18 Huddersfield Dr | 43.74274 | -79.6228999 | 14927
+14609 | Humberline Dr At Huddersfield Dr North Side | 43.74408 | -79.62083 | 14929
+3193 | Humberline Dr At Claireville Dr (North) | 43.7457 | -79.62171 | 2701
+4513_ar | Humberline Loop At Albion Rd | 43.7472799 | -79.62234
+8187 | Kipling Ave At Esther Lorrie Dr | 43.7315699 | -79.5761499 | 4306
+9674 | John Garland Blvd At Kipling Ave West Side | 43.7353599 | -79.57914 | 11540
+1074 | John Garland Blvd At Jamestown Cres (East) | 43.7341899 | -79.58248 | 11541
+5892 | John Garland Blvd At Collingdale Rd (East) West Side | 43.7323999 | -79.58407 | 11542
+5435 | 176 John Garland Blvd | 43.7325299 | -79.5870899 | 11543
+5099 | John Garland Blvd At Martin Grove Rd | 43.7322299 | -79.58891 | 11577
+647 | Humber College Blvd At Carrier Dr | 43.73714 | -79.61033 | 11084
+2920 | 100 Carrier Dr | 43.73935 | -79.61273 | 11085
+6583 | 160 Carrier Dr | 43.7416899 | -79.6137699 | 11086
+10177 | Carrier Dr At Dansk Crt | 43.74383 | -79.61459 | 11087
+2559 | Carrier Dr At Albion Rd | 43.7452499 | -79.61421 | 11088
+9275 | Opposite 209 Carrier Dr | 43.74708 | -79.61489 | 11089
+7817 | Opposite 225 Carrier Dr | 43.74918 | -79.61583 | 11090
+3409_ar | 263 Carrier Dr | 43.7508799 | -79.61424
+7911 | Finch Ave West At Humber College Blvd East Side | 43.73394 | -79.60935 | 14254
+7840 | Finch Ave West At Halesia Dr | 43.7336599 | -79.6068999 | 2600
+7766 | Finch Ave West At Highway 27 | 43.73389 | -79.6038799 | 11292
+14091 | Westmore Dr At Finch Ave West North Side | 43.7349299 | -79.60108 | 14564
+14092 | 91 Westmore Dr | 43.73768 | -79.60217 | 14565
+14093 | Carrier Dr At Highway 27 | 43.7392 | -79.6051899 | 14566
+14094 | Carrier Dr At Woodbine Downs Blvd | 43.73867 | -79.6074299 | 14567
+14095 | Carrier Dr At Humber College Blvd | 43.7378699 | -79.61074 | 14568

@@ -1,0 +1,35 @@
+14246 | Lawrence Station | 43.7248299 | -79.40229 | 14727
+7790 | Lawrence Ave West At Yonge St (Lawrence Station) | 43.7249899 | -79.40245 | 1236
+10291 | Lawrence Ave East At Yonge St East Side | 43.72506 | -79.4018299 | 1235
+8138 | Lawrence Ave East At Weybourne Cres East Side | 43.72571 | -79.3989999 | 1233
+1996 | Lawrence Ave East At Mt Pleasant Rd | 43.7260399 | -79.39744 | 2819
+6703 | Lawrence Ave East At Dinnick Cres East Side | 43.72641 | -79.3955599 | 1222
+2598 | Lawrence Ave East At Ronan Ave | 43.72676 | -79.3940099 | 1227
+7391 | Lawrence Ave East At Wanless Cres (West) | 43.72716 | -79.3921499 | 1231
+4680 | Lawrence Ave East At Wanless Cres (East) | 43.72767 | -79.3897299 | 1230
+2887 | Lawrence Ave East At Mildenhall Rd | 43.7283099 | -79.38669 | 9157
+8674 | Lawrence Ave East At Bayview Ave | 43.72769 | -79.38323 | 1220
+1040 | 2395 Bayview Ave (Bob Rumball Centre For The Deaf) | 43.7339699 | -79.38124 | 0298
+7411 | Post Rd At Bayview Ave East Side | 43.7364099 | -79.38138 | 3022
+9535 | Park Lane Cir At Post Rd South Side | 43.7367 | -79.37805 | 9185
+3935 | 16 Park Lane Circle | 43.7349499 | -79.3758999 | 3013
+2108 | Park Lane Cir At Lawrence Ave East | 43.7320299 | -79.3722999 | 3015
+7816 | 60 Park Lane Cir | 43.72936 | -79.36714 | 3019
+1360 | Gelnorchy Rd At Saintfield Ave South Side | 43.72813 | -79.3650199 | 2652
+9208 | Gelnorchy Rd At Royal Oak Dr South Side | 43.72707 | -79.36464 | 2649
+10119 | Gelnorchy Rd At Suncrest Dr | 43.7257799 | -79.3640199 | 2654
+9861 | The Bridle Path At Suncrest Dr North Side | 43.7267499 | -79.36021 | 1751
+8651 | The Bridle Path At Saintfield Ave | 43.72911 | -79.36036 | 1749
+7710 | The Bridle Path At Park Lane Cir | 43.73075 | -79.36125 | 1747
+8101 | The Bridle Path At Lawrence Ave East | 43.73315 | -79.36444 | 1746
+9663 | Lawrence Ave East At Blaine Dr East Side | 43.73463 | -79.35894 | 2812
+10179 | Lawrence Ave East At Leslie St | 43.73441 | -79.35617 | 2816
+8620 | Lawrence Ave East At Tremont Cres (West) | 43.7348899 | -79.35369 | 5323
+8070 | Lawrence Ave East At Tremont Cres (East) | 43.7356299 | -79.35025 | 2821
+1764 | The Donway West At Lawrence Ave East North Side | 43.7374499 | -79.3468 | 1989
+9577 | Opposite 230 The Donway West | 43.7386 | -79.3468499 | 11000
+8709 | The Donway West At Duncairn Rd North Side | 43.73996 | -79.3462299 | 1988
+2311 | The Donway West At Don Mills Rd | 43.7407099 | -79.34475 | 1987
+6864 | The Donway East At Dutch Myrtle Way | 43.74086 | -79.3439399 | 11001
+1280 | The Donway East At Wingreen Crt South Side | 43.7389999 | -79.3414299 | 1985
+6619_ar | The Donway East At Lawrence Ave East | 43.7380199 | -79.34116

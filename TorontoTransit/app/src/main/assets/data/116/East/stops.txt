@@ -1,0 +1,74 @@
+14227 | Kennedy Station | 43.7327399 | -79.26325 | 14707
+311 | 2495 Eglinton Ave East At South Service Rd (East) | 43.7340399 | -79.2598 | 1031
+8890 | Eglinton Ave East At Midland Ave | 43.7343199 | -79.25847 | 1037
+2447 | Eglinton Ave East At Huntington Ave | 43.73489 | -79.2558799 | 1035
+8986 | Eglinton Ave East At Falmouth Ave | 43.7354699 | -79.25331 | 1032
+6997 | Eglinton Ave East At Brimley Rd | 43.7365199 | -79.24828 | 2254
+9602 | Eglinton Ave East At Danforth Rd | 43.7368599 | -79.24671 | 2259
+3083 | Eglinton Ave East At Oswego Rd | 43.7374499 | -79.24401 | 2296
+6371 | Eglinton Ave East At Barbados Blvd | 43.73797 | -79.2417399 | 2236
+9553 | Eglinton Ave East At McCowan Rd | 43.7386599 | -79.23864 | 2292
+4960 | Eglinton Ave East At Torrance Rd | 43.73937 | -79.2354399 | 1039
+5029 | Eglinton Ave East At Bellamy Rd North | 43.7400699 | -79.23217 | 2244
+3679 | Eglinton Ave East At Bellamy Rd South | 43.74117 | -79.2274099 | 2245
+10142 | Eglinton Ave East At Mason Rd | 43.7416 | -79.2254899 | 2290
+7424 | Eglinton Ave East At Beachell St | 43.74234 | -79.2221599 | 2241
+3490 | Eglinton Ave East At Markham Rd | 43.74299 | -79.2191899 | 2289
+4583 | Eglinton Ave East At Cedar Dr | 43.7437899 | -79.2157 | 2256
+8036 | Eglinton Ave East At Kingston Rd | 43.7438099 | -79.2121399 | 2283
+2309 | Kingston Rd At Scarborough Golf Club Rd | 43.7455 | -79.2095999 | 2792
+4882 | Kingston Rd At Guildcrest Dr | 43.7475699 | -79.20766 | 2781
+5699 | Guildwood Pkwy At Kingston Rd South Side | 43.7492799 | -79.20545 | 2680
+2012 | Guildwood Pkwy At Prince Phillip Blvd East Side | 43.7461499 | -79.20265 | 2685
+4522 | Guildwood Pkwy At Rowatson Rd East Side | 43.7470599 | -79.20092 | 2687
+8688 | Guildwood Pkwy At Livingston Rd | 43.7473699 | -79.19941 | 2681
+9437 | Guildwood Pkwy At Chancery Lane | 43.74795 | -79.1970899 | 2674
+6582 | Guildwood Pkwy At Guild Inn East Side | 43.7487399 | -79.19346 | 2678
+14939 | Guildwood Pkwy At Galloway Rd | 43.74958 | -79.1893999 | 15135
+9239 | Guildwood Pkwy At Schubert Dr | 43.7502999 | -79.18633 | 2676
+1064 | Guildwood Pkwy At Scarcliff Gardens | 43.7510999 | -79.18318 | 2689
+5659 | Morningside Ave At Greyabbey Trail North Side | 43.7534699 | -79.17982 | 2946
+1692 | Morningside Ave At Fordover Dr | 43.7546399 | -79.1803199 | 2944
+4965 | Morningside Ave At Pixley Cres | 43.76 | -79.18266 | 2964
+7970 | Morningside Ave At Coronation Dr North Side | 43.7621499 | -79.1836099 | 2937
+5082 | Morningside Ave At Danzig St | 43.7647799 | -79.1847599 | 2940
+8259 | Morningside Ave At Ling Rd | 43.7665099 | -79.1855099 | 2954
+8058 | Morningside Ave At Lawrence Ave East South Side | 43.7682299 | -79.18605 | 2952
+6947 | Morningside Ave At Lawrence Ave East North Side | 43.7693699 | -79.18624 | 6607
+8206 | Morningside Ave At Kingston Rd | 43.77042 | -79.18665 | 2950
+2593 | Morningside Ave At Tefft Rd | 43.77237 | -79.18753 | 2968
+4892 | Morningside Ave At Beath St | 43.77462 | -79.1885 | 2934
+8291 | 345 Morningside Ave | 43.7754699 | -79.1888599 | 2932
+7155 | Morningside Ave At Opposite Morningside Park | 43.78088 | -79.19135 | 2962
+8262 | Morningside Ave At Ellesmere Rd | 43.7851799 | -79.19312 | 2942
+8000 | Ellesmere Rd At Military Trail (East) | 43.78646 | -79.1884399 | 7698
+348 | Ellesmere Rd At Mirrow Crt | 43.7872699 | -79.18517 | 10904
+5039 | Conlins Rd At Challenger Crt | 43.7916699 | -79.1846199 | 10905
+4939 | Canmore Rd At Conlins Rd East Side | 43.79309 | -79.18453 | 11379
+3551 | Canmore Rd At Calverley Trail (West) East Side | 43.79328 | -79.1818399 | 11380
+7585 | Canmore Rd At Halfmoon Sq | 43.79369 | -79.1795399 | 11381
+9675 | Canmore Rd At Charcoal Dr (West) East Side | 43.79385 | -79.17681 | 11382
+4702 | Morrish Rd At Grantown Ave | 43.7929399 | -79.1745599 | 11383
+7395_ar | Morrish Rd At Ellesmere Rd | 43.7904199 | -79.1735
+320 | Eglinton Ave East At Kennedy Station | 43.7322899 | -79.26712 | 3539
+2254 | Morningside Ave At Military Trail | 43.7888399 | -79.1939899 | 2958
+15076 | Morningside Ave At Tams Rd North Side | 43.7924299 | -79.1955799 | 15247
+8862 | Morningside Ave At Cinemart Dr | 43.79767 | -79.19748 | 14327
+792 | Morningside Ave At Milner Ave | 43.8000799 | -79.1988099 | 2959
+4863 | Morningside Avenue At Sheppard Ave East | 43.8018499 | -79.19957 | 2966
+7398 | 1275 Morningside Ave | 43.8034399 | -79.2000899 | 2928
+7067 | 1315 Morningside Ave | 43.8055999 | -79.2009399 | 2930
+1701 | Morningside Ave At Casebridge Crt | 43.80875 | -79.2025 | 2935
+9145 | 1415 Morningside Ave | 43.8107799 | -79.2034299 | 2970
+7739 | Morningside Ave At Morningview Trail | 43.8133299 | -79.20609 | 2948
+1763 | Morningside Ave At Sewells Rd North Side | 43.8166099 | -79.2114099 | 2965
+6226 | Morningside Ave At Halfway Ave | 43.81788 | -79.21356 | 9499
+14086 | Morningside Ave At Old Finch Ave | 43.81858 | -79.21471 | 14555
+14087 | Morningside Ave At Staines Rd | 43.8198199 | -79.22083 | 14556
+12876 | Staines Rd At Morningside Ave | 43.8208499 | -79.22075 | 14446
+4952 | Mantis Rd At Poppy Pl (North) | 43.824 | -79.22275 | 14081
+10161 | Nightstar Rd At Cranberry Dr | 43.82558 | -79.2244499 | 14082
+791 | Nightstar Rd At Pogonia St | 43.82472 | -79.2268099 | 14083
+14088 | Nightstar Rd At Wharnsby Dr | 43.82378 | -79.2293599 | 14557
+14695_ar | Morningside Ave At Nightstar Rd South Side | 43.8226599 | -79.2297
+8036_ar | Eglinton Ave East At Kingston Rd | 43.7438099 | -79.21214

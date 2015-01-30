@@ -1,0 +1,29 @@
+14259 | Main St Station | 43.6890299 | -79.30121 | 14740
+284 | Doncaster Ave At Main St West Side | 43.69166 | -79.3037799 | 5006
+6588 | Chisholm Ave At Orley Ave North Side | 43.6929299 | -79.3050699 | 4870
+10345 | Chisholm Ave At Lumsden Ave | 43.6944799 | -79.3057699 | 4869
+486 | Lumsden Ave At Westlake Ave | 43.6945499 | -79.30785 | 2852
+3588 | Lumsden Ave At Gledhill Ave | 43.6938399 | -79.31095 | 5524
+5338 | Lumsden Ave At Cedarvale Ave West Side | 43.6931699 | -79.31439 | 5523
+5977 | Mortimer Ave At Woodbine Ave West Side | 43.6925499 | -79.31618 | 5794
+4834 | Mortimer Ave At Woodmount Ave | 43.69203 | -79.3180499 | 5797
+2509 | Mortimer Ave At Glebemount Ave | 43.69154 | -79.3203899 | 5780
+2431 | Mortimer Ave At Dunkirk Rd | 43.6912999 | -79.32319 | 5778
+5104 | Mortimer Ave At Coxwell Ave (Toronto East General Hospital) | 43.6906799 | -79.32634 | 5772
+590 | Mortimer Ave At Coxwell Ave West Side (East Gen Hospital) | 43.6905599 | -79.32705 | 5773
+6147 | Mortimer Ave At Roosevelt Rd | 43.6900199 | -79.3293 | 5792
+7091 | Mortimer Ave At Linsmore Cres | 43.6894299 | -79.33207 | 5786
+10035 | Mortimer Ave At Greenwood Ave | 43.68872 | -79.3353499 | 5782
+3299 | Mortimer Ave At Inwood Ave West Side | 43.6881499 | -79.33809 | 5783
+8618 | Mortimer Ave At Donlands Ave | 43.6877399 | -79.33992 | 5777
+3901 | Mortimer Ave At Dewhurst Blvd | 43.6871499 | -79.34187 | 5775
+1565 | Mortimer Ave At Woodycrest Ave | 43.68669 | -79.3442399 | 5799
+7279 | Mortimer Ave At Pape Ave | 43.6858499 | -79.34726 | 5791
+4126 | Mortimer Ave At Carlaw Ave | 43.6853699 | -79.34969 | 5770
+8558 | Mortimer Ave At Logan Ave | 43.6849499 | -79.35181 | 5789
+5288 | Mortimer Ave At Burley Ave | 43.6844499 | -79.35441 | 5768
+7151 | Broadview Ave At Pottery Rd South Side | 43.6835599 | -79.35714 | 0659
+5650 | Broadview Ave At Chester Hill Rd | 43.6814 | -79.3577099 | 0651
+6540 | 876 Broadview Ave | 43.67976 | -79.3581399 | 0649
+5251 | Broadview Ave At Pretoria Ave | 43.6785299 | -79.35846 | 0660
+14156_ar | Broadview Station | 43.6771499 | -79.35785

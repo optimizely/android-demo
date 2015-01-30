@@ -1,0 +1,88 @@
+411 | Broadview Ave At Erindale Ave | 43.6773799 | -79.35862 | 11925
+6070 | 849 Broadview Ave | 43.6792199 | -79.35813 | 3369
+9364 | Broadview Ave At Browning Ave | 43.6808899 | -79.35767 | 0655
+2329 | Broadview Ave At Mortimer Ave North Side | 43.68435 | -79.3567399 | 0657
+5662 | Broadview Ave At Bater Ave | 43.68697 | -79.3557799 | 0650
+4157 | Cosburn Ave At Broadview Ave East Side | 43.68839 | -79.35469 | 0856
+6140 | Cosburn Ave At Logan Ave | 43.68845 | -79.3533999 | 0859
+14568 | 75 Cosburn Ave | 43.6889299 | -79.35095 | 0854
+9250 | Cosburn Ave At Pape Ave | 43.68932 | -79.3489699 | 0861
+6304 | Cosburn Ave At Todmorden Lane | 43.69 | -79.3454799 | 0863
+2906 | Cosburn Ave At Gowan Ave | 43.6905199 | -79.34286 | 0858
+5257 | Cosburn Ave At Donlands Ave East Side | 43.69125 | -79.3410999 | 9450
+9351 | Cosburn Ave At Greenwood Ave | 43.69192 | -79.3380199 | 9451
+7222 | Cosburn Ave At Linsmore Cres | 43.69257 | -79.3349399 | 9452
+1554 | Cosburn Ave At Roosevelt Rd East Side | 43.6935099 | -79.33057 | 9453
+6030 | Cosburn Ave At Coxwell Ave | 43.6939099 | -79.3284 | 9454
+6480 | Coxwell Ave At Memorial Park Ave South Side | 43.6917899 | -79.32714 | 4905
+418 | Coxwell Ave At Mortimer Ave (Toronto East General) | 43.6907599 | -79.32671 | 4908
+9056 | Coxwell Ave At Sammon Ave | 43.6888899 | -79.3259599 | 4913
+9057 | Coxwell Ave At Springdale Blvd | 43.68743 | -79.32538 | 4915
+4623 | Coxwell Ave At Glebeholme Blvd | 43.6858699 | -79.3247199 | 4904
+6052 | Coxwell Ave At Danforth Ave | 43.6835599 | -79.32376 | 1786
+6088 | Coxwell Ave At Earl Haig Ave | 43.68133 | -79.32284 | 1789
+4247 | Coxwell Ave At Hanson St South Side | 43.6795699 | -79.3221299 | 1792
+10468 | Coxwell Ave At Casci Ave | 43.6773499 | -79.3211999 | 14425
+10181 | Coxwell Ave At Fairford Ave | 43.67554 | -79.32043 | 1791
+14938 | Coxwell Ave At Lower Gerrard St East South Side | 43.6724999 | -79.3192199 | 15132
+4644 | Coxwell Ave At Robbins Ave | 43.6698799 | -79.3180999 | 1797
+5873 | Coxwell Ave At Dundas St East | 43.6690299 | -79.3177599 | 1788
+8742 | Coxwell Ave At Queen St East | 43.6666899 | -79.3167799 | 1795
+490 | Queen St East At Kingston Rd | 43.66714 | -79.3128899 | 13461
+4861 | Kingston Rd At Dixon Ave | 43.6697899 | -79.31117 | 2774
+8219 | Kingston Rd At Rainsford Rd | 43.6727699 | -79.30914 | 2790
+8597 | Kingston Rd At Woodbine Ave | 43.6737199 | -79.30805 | 2802
+4859 | Kingston Rd At Elmer Ave | 43.67554 | -79.3060099 | 2776
+9300 | Kingston Rd At Waverley Rd | 43.6768199 | -79.30418 | 2800
+7795 | Kingston Rd At Lee Ave | 43.6780299 | -79.30131 | 2782
+1810 | Kingston Rd At Southwood Dr | 43.67875 | -79.2983599 | 2796
+797 | Kingston Rd At Glen Manor Dr | 43.6796299 | -79.29464 | 2779
+7957 | Kingston Rd At Beech Ave | 43.6801799 | -79.2909 | 2766
+4019 | Kingston Rd At Scarborough Rd | 43.6804699 | -79.28719 | 2794
+3243 | Bingham Loop East Side | 43.6814999 | -79.28485 | 13519
+1114 | Broadview Ave At Hillside Dr North Side | 43.68617 | -79.3561099 | 13939
+1480 | Bingham Loop | 43.6815599 | -79.28492 | 2839
+2863 | Bingham Ave At Kingston Rd | 43.6808399 | -79.2852099 | 1738
+9054 | Kingston Rd At Scarborough Rd | 43.6806099 | -79.28706 | 2795
+3301 | Kingston Rd At Beech Ave | 43.6803099 | -79.29052 | 2767
+1246 | Kingston Rd At Malvern Ave | 43.6801799 | -79.29251 | 2786
+6285 | Kingston Rd At Walter St | 43.6794 | -79.2961899 | 2799
+9441 | Kingston Rd At Main St | 43.67904 | -79.2977399 | 2785
+4119 | Kingston Rd At Lee Ave | 43.67835 | -79.3008299 | 2783
+6290 | Kingston Rd At Brookside Dr | 43.67711 | -79.3038399 | 2770
+9032 | Kingston Rd At Elmer Ave | 43.67582 | -79.3058699 | 2777
+8652 | Kingston Rd At Woodbine Ave West Side | 43.6736399 | -79.30834 | 2801
+6027 | Kingston Rd At Columbine Ave | 43.67168 | -79.3103599 | 2772
+3281 | Kingston Rd At Dundas St East | 43.6700899 | -79.31123 | 2775
+4577 | Kingston Rd At Queen St East | 43.6679899 | -79.31227 | 14058
+308 | Eastern Ave At Queen St East South Side | 43.6667799 | -79.31272 | 11181
+2754 | Coxwell Ave At Queen St East | 43.6659399 | -79.31631 | 11183
+1129 | Coxwell Ave At Dundas St East | 43.6685499 | -79.3173999 | 1787
+5934 | Coxwell Ave At Robbins Ave | 43.66978 | -79.31791 | 1796
+5576 | Coxwell Ave At Eastwood Rd | 43.67271 | -79.31911 | 1790
+8980 | Coxwell Ave At Upper Gerrard St East | 43.6750999 | -79.3200999 | 1800
+7359 | Coxwell Ave At Casci Ave | 43.67734 | -79.321 | 1783
+8251 | Coxwell Ave At Hanson St | 43.6796799 | -79.3219999 | 1793
+3260 | Coxwell Ave At Earl Haig Ave North Side | 43.68147 | -79.32272 | 9541
+9658 | Coxwell Ave At Danforth Ave | 43.6832099 | -79.3234499 | 1785
+7638 | Coxwell Ave At Glebeholme Blvd | 43.6856999 | -79.32448 | 4903
+1550 | Coxwell Ave At Springdale Blvd | 43.68721 | -79.32511 | 4914
+1312 | Coxwell Ave At Sammon Ave | 43.68866 | -79.32571 | 4912
+7587 | Coxwell Ave At Mortimer Ave (Toronto East General) | 43.6904499 | -79.32641 | 4907
+9224 | Coxwell Ave At Barker Ave North Side | 43.6921299 | -79.3270799 | 4900
+4703 | Cosburn Ave At Coxwell Ave West Side | 43.6940799 | -79.32855 | 0852
+10226 | Cosburn Ave At Roosevelt Rd West Side | 43.6934099 | -79.33163 | 9465
+9095 | Cosburn Ave At Linsmore Cres | 43.6928399 | -79.33431 | 9466
+1592 | Cosburn Ave At Greenwood Ave | 43.6921299 | -79.3376 | 9467
+7543 | Cosburn Ave At Donlands Ave West Side | 43.6909799 | -79.34203 | 0857
+1497 | Cosburn Ave At Todmorden Lane | 43.69018 | -79.3452199 | 0864
+1874 | Cosburn Ave At Pape Ave | 43.68951 | -79.3486399 | 0862
+1282 | 80 Cosburn Ave | 43.6890599 | -79.35094 | 0855
+10401 | Cosburn Ave At Logan Ave | 43.6886599 | -79.35298 | 0860
+5583 | Broadview Ave At Cosburn Ave South Side | 43.6882 | -79.3554699 | 0653
+10380 | Broadview Ave At Hillside Dr | 43.68642 | -79.3561999 | 0656
+7151 | Broadview Ave At Pottery Rd South Side | 43.6835599 | -79.35714 | 0659
+5650 | Broadview Ave At Chester Hill Rd | 43.6813999 | -79.3577099 | 0651
+6540 | 876 Broadview Ave | 43.6797599 | -79.35814 | 0649
+5251 | Broadview Ave At Pretoria Ave | 43.67853 | -79.3584599 | 0660
+8687 | Erindale Ave At Broadview Ave East Side | 43.6773899 | -79.35823 | 11926

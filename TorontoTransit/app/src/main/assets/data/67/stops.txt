@@ -1,0 +1,86 @@
+6000 | Reddins Rd At Crosland Dr | 43.7644199 | -79.31045 | 10794
+5966 | Penworth Rd At Crosland Dr | 43.7652099 | -79.3105699 | 6339
+9774 | Penworth Rd At Pharmacy Ave | 43.7649299 | -79.31249 | 6657
+10162 | Pharmacy Ave At Pachino Blvd South Side | 43.76296 | -79.3119 | 6734
+1772 | Pharmacy Ave At Christina Cres (South) | 43.7608399 | -79.3109899 | 6678
+8358 | Pharmacy Ave At Ellesmere Rd | 43.7593 | -79.31036 | 6699
+1155 | Pharmacy Ave At Ellesmere Rd South Side | 43.7586399 | -79.31014 | 9827
+3488 | Pharmacy Ave At Kellyvale Rd | 43.7572699 | -79.3102499 | 6719
+1456 | Pharmacy Ave At Dewey Dr | 43.75511 | -79.30947 | 6692
+7473 | Pharmacy Ave At Princeway Dr | 43.75325 | -79.30873 | 6739
+8292 | 1278 Pharmacy Ave | 43.7516099 | -79.3080699 | 6667
+9771 | 1222 Pharmacy Ave | 43.7483899 | -79.3067699 | 6664
+4039 | Pharmacy Ave At Brian Ave | 43.7463 | -79.30593 | 6673
+1185 | Pharmacy Ave At Lawrence Ave East | 43.7434399 | -79.3048299 | 6723
+8344 | Pharmacy Ave At Janet Blvd | 43.7420299 | -79.30423 | 6718
+6120 | Pharmacy Ave At Sherwood Ave South Side | 43.7398599 | -79.3033499 | 6747
+5889 | Pharmacy Ave At Surrey Ave | 43.7374999 | -79.3023799 | 6759
+9315 | Pharmacy Ave At Innismore Cres | 43.73621 | -79.30184 | 6715
+9702 | Pharmacy Ave At Elm Bank Rd | 43.73444 | -79.30114 | 6701
+4941 | Pharmacy Ave At Biscayne Blvd South Side | 43.73105 | -79.29973 | 6670
+3563 | Pharmacy Ave At Rannock St | 43.7291 | -79.29894 | 6741
+4990 | Pharmacy Ave At Craigton Dr | 43.7273699 | -79.2982599 | 6686
+2756 | Pharmacy Ave At Eglinton Ave East | 43.72601 | -79.29771 | 6000
+991 | Pharmacy Ave At Eglinton Sq (East Entrance) | 43.7241499 | -79.29709 | 6728
+4957 | Pharmacy Ave At Alvinston Rd | 43.7233899 | -79.2967399 | 6660
+1774 | Pharmacy Ave At Sundridge Dr | 43.72157 | -79.29597 | 6757
+10149 | Pharmacy Ave At Holswade Rd South Side | 43.7194599 | -79.2950799 | 6710
+3144 | Pharmacy Ave At Leahurt Dr South Side | 43.7170299 | -79.29405 | 6724
+4743 | Pharmacy Ave At Knightsbridge Rd South Side | 43.71565 | -79.29347 | 6721
+1481 | Pharmacy Ave At Stellarton Rd | 43.7138 | -79.29269 | 6755
+1057 | Pharmacy Ave At Stamford Sq | 43.71206 | -79.29195 | 6752
+9900 | Pharmacy Ave At St Clair Ave East | 43.71012 | -79.29116 | 6750
+6837 | Pharmacy Ave At Dawes Rd | 43.7084599 | -79.29041 | 6688
+7114 | Pharmacy Ave At Bolster Ave | 43.7067299 | -79.2896399 | 6671
+9902 | Pharmacy Ave At St Bedes Rd | 43.7047099 | -79.2887699 | 6706
+3636 | Pharmacy Ave At Conroy Ave | 43.70285 | -79.28799 | 6682
+3182 | Pharmacy Ave At Donside Dr | 43.7015399 | -79.2874199 | 6696
+9035 | Pharmacy Ave At Dolphin Dr | 43.70023 | -79.28688 | 6694
+9384 | Pharmacy Ave At Teesdale Place | 43.6971499 | -79.2855599 | 6761
+4552 | Pharmacy Ave At Albion Ave | 43.6957199 | -79.2849199 | 6658
+8150 | Pharmacy Ave At Denton Ave | 43.69441 | -79.28436 | 6690
+7754 | Denton Ave At St Dunstan Dr | 43.69358 | -79.2859399 | 1906
+5931 | Denton Ave At Macey Ave | 43.69331 | -79.2871899 | 6345
+14304_ar | Victoria Park Station | 43.6937299 | -79.28824
+2872 | Rannock St At Pharmacy Ave | 43.7288499 | -79.29907 | 6934
+14304 | Victoria Park Station | 43.6937299 | -79.28824 | 14787
+7541 | Denton Ave At Madelaine Ave | 43.69355 | -79.2856699 | 1905
+3939 | Pharmacy Ave At Denton Ave North Side | 43.69448 | -79.2842 | 6689
+5411 | Pharmacy Ave At Teesdale Place | 43.69685 | -79.28524 | 6760
+997 | Pharmacy Ave At Dolphin Dr North Side | 43.7003299 | -79.2867399 | 6693
+2345 | Pharmacy Ave At Donside Dr North Side | 43.7017199 | -79.2873199 | 6695
+7365 | Pharmacy Ave At Penaire St | 43.70267 | -79.28773 | 6736
+4718 | Pharmacy Ave At Florens Ave | 43.70429 | -79.28842 | 6705
+9936 | Pharmacy Ave At Nancy Ave | 43.70626 | -79.28928 | 6729
+7624 | Pharmacy Ave At Dawes Rd North Side | 43.7083899 | -79.2901899 | 13927
+7183 | Pharmacy Ave At St Clair Ave East | 43.70966 | -79.29073 | 6751
+2274 | Pharmacy Ave At Rosita Cres North Side | 43.7121399 | -79.29184 | 6742
+5247 | Pharmacy Ave At Camilla Cres North Side | 43.71385 | -79.29257 | 6674
+4416 | Pharmacy Ave At Hollydene Rd North Side | 43.71572 | -79.29336 | 6709
+9889 | Pharmacy Ave At Leahurt Dr | 43.71716 | -79.29396 | 6725
+1530 | Pharmacy Ave At Comstock Rd | 43.7191999 | -79.2948199 | 6681
+946 | Pharmacy Ave At Sundridge Dr North Side | 43.7217299 | -79.29589 | 6756
+2862 | Pharmacy Ave At Alvinston Rd North Side | 43.7239199 | -79.2968199 | 6659
+5594 | Pharmacy Ave At Eglinton Ave East | 43.72524 | -79.29732 | 6697
+9511 | Pharmacy Ave At Craigton Dr | 43.7271099 | -79.29791 | 6685
+2955 | Pharmacy Ave At Rannock St | 43.72894 | -79.29869 | 6740
+3792 | Pharmacy Ave At Singleton Rd | 43.7313899 | -79.2997099 | 6749
+14645 | Pharmacy Ave At Innisdale Dr | 43.73481 | -79.30107 | 14876
+7095 | Pharmacy Ave At Innismore Cres | 43.7359099 | -79.3015399 | 6714
+9815 | Pharmacy Ave At Surrey Ave | 43.73727 | -79.30211 | 6758
+2083 | Pharmacy Ave At Sherwood Ave | 43.7399699 | -79.3032199 | 6748
+2379 | Pharmacy Ave At Lawrence Ave East | 43.74302 | -79.30441 | 6722
+3883 | Pharmacy Ave At Brian Ave | 43.7461299 | -79.30569 | 6672
+3876 | 1235 Pharmacy Ave | 43.7487 | -79.30673 | 6665
+9346 | 1277 Pharmacy Ave | 43.7521299 | -79.3081099 | 12160
+6650 | Pharmacy Ave At Princeway Dr | 43.7529899 | -79.3084499 | 6738
+5564 | Pharmacy Ave At Dewey Dr | 43.75476 | -79.30916 | 6691
+1850 | Pharmacy Ave At Kellyvale Rd | 43.7569199 | -79.3100099 | 6720
+619 | Pharmacy Ave At Ellesmere Rd | 43.7589 | -79.31004 | 6698
+6442 | Pharmacy Ave At Christina Cres (South) | 43.7606299 | -79.3108 | 6677
+9626 | Pharmacy Ave At Pachino Blvd | 43.7630999 | -79.3118399 | 6735
+6000_ar | Reddins Rd At Crosland Dr | 43.7644199 | -79.31045
+3459 | Craigton Dr At Pharmacy Ave West Side | 43.7271399 | -79.29859 | 6328
+2872_ar | Rannock St At Pharmacy Ave | 43.7288499 | -79.29907
+3960 | Danforth Ave At Victoria Park Ave | 43.6913899 | -79.28801 | 1839
+5105 | Victoria Park Ave At Denton Ave | 43.69264 | -79.2887899 | 11348

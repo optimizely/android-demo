@@ -1,0 +1,26 @@
+14294 | Spadina Station | 43.6672999 | -79.40391 | 14777
+3237 | Spadina Rd At Lowther Ave | 43.66886 | -79.40464 | 7354
+3123 | Spadina Rd At Kendal Ave | 43.67024 | -79.40517 | 7352
+7015 | Spadina Rd At Bernard Ave | 43.67211 | -79.40591 | 7342
+1224 | Spadina Rd At Dupont St (Dupont Station) | 43.6747299 | -79.4069199 | 7350
+1444 | Spadina Rd At Davenport Rd | 43.6771499 | -79.4079599 | 7348
+4980 | Davenport Rd At Walmer Rd | 43.67703 | -79.4097099 | 9376
+5156 | Davenport Rd At Bathurst St | 43.6767799 | -79.41537 | 9377
+1822 | Davenport Rd At Wychwood Park West Side | 43.6765799 | -79.41951 | 9420
+1765 | Davenport Rd At Christie St West Side | 43.67551 | -79.4235599 | 0934
+5043 | Davenport Rd At Marchmount Rd West Side | 43.6749499 | -79.42641 | 0947
+4621 | Davenport Rd At Bracondale Hill Rd | 43.6747999 | -79.4284899 | 0931
+10265 | Davenport Rd At Ossington Ave | 43.6747799 | -79.43063 | 0951
+3096 | Davenport Rd At Oakwood Ave | 43.6744899 | -79.43335 | 0949
+3718 | Davenport Rd At Salem Ave | 43.67407 | -79.4367999 | 0954
+9468 | Davenport Rd At Dufferin St | 43.6730899 | -79.44078 | 0938
+2408 | Davenport Rd At Lightbourn Ave | 43.6724799 | -79.44357 | 0945
+4118 | Davenport Rd At Greenlaw Ave | 43.67215 | -79.4450899 | 0941
+6708 | Davenport Rd At Lansdowne Ave | 43.67165 | -79.4480499 | 0943
+5839 | Davenport Rd At Caledonia Park Rd | 43.6712099 | -79.45078 | 0933
+9995 | Davenport Rd At Symington Ave West Side | 43.6706799 | -79.45382 | 3472
+2626 | Davenport Rd At Laughton Ave | 43.67038 | -79.4556699 | 3467
+7421 | Davenport Rd At Osler St | 43.6703799 | -79.4591799 | 3471
+9288 | Davenport Rd At Old Weston Rd | 43.67108 | -79.46215 | 3469
+601 | Old Weston Rd At St Clair Ave West | 43.6732499 | -79.4628699 | 11583
+9344_ar | Townsley Loop At Tonwsley St | 43.6740399 | -79.46358

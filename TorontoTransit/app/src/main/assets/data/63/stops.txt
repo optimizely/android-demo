@@ -1,0 +1,75 @@
+14197 | Eglinton West Station | 43.6994299 | -79.43649 | 14676
+338 | Eglinton Ave West At Marlee Ave | 43.6981299 | -79.4392 | 2380
+597 | Oakwood Ave At Eglinton Ave South Side | 43.6969399 | -79.4426999 | 5904
+5003 | Oakwood Ave At Clovelly Ave | 43.6951 | -79.44194 | 5897
+2095 | Oakwood Ave At Vaughan Rd | 43.6923399 | -79.44076 | 5905
+4196 | Oakwood Ave At Jesmond Ave | 43.6898699 | -79.4397099 | 5910
+9353 | Oakwood Ave At Rogers Rd | 43.6872399 | -79.43882 | 5912
+9182 | Oakwood Ave At Earlsdale Ave | 43.6850999 | -79.4379999 | 5900
+10063 | Oakwood Ave At Earnscliffe Rd | 43.6838199 | -79.4374499 | 5902
+3689 | Oakwood Ave At Glenhurst Ave | 43.6819499 | -79.4367099 | 5907
+9023 | Oakwood Ave At St Clair Ave West | 43.6798999 | -79.43587 | 5916
+8430 | Oakwood Ave At Rosemount Ave | 43.6781899 | -79.4353899 | 5913
+7474 | Oakwood Ave At Highview Cres | 43.67635 | -79.43465 | 5908
+3604 | Oakwood Ave At Davenport Rd | 43.6747999 | -79.4339699 | 5898
+2952 | Ossington Ave At Davenport Rd South Side | 43.6743399 | -79.4308799 | 5958
+9849 | Ossington Ave At Geary Ave | 43.67189 | -79.42988 | 5968
+2197 | Ossington Ave At Dupont St | 43.6704099 | -79.42924 | 13895
+7017 | Ossington Ave At Hallam St | 43.6680799 | -79.4282399 | 5970
+2502 | Ossington Ave At Pendrith St | 43.6659899 | -79.4273699 | 5977
+7691 | Ossington Ave At Leeds St South Side | 43.6638899 | -79.4265099 | 5975
+14265 | Ossington Station | 43.6624399 | -79.42618 | 14746
+1172 | Ossington Ave At Hepbourne St | 43.6598599 | -79.4248599 | 5974
+10175 | Ossington Ave At Harbord St South Side | 43.65828 | -79.42425 | 5971
+6506 | Ossington Ave At Dewson St South Side | 43.6566299 | -79.4236099 | 5960
+2867 | Ossington Ave At College St | 43.6545799 | -79.4228399 | 5957
+8564 | Ossington Ave At Churchill Ave | 43.6521199 | -79.4218699 | 5955
+7989 | Ossington Ave At Dundas St West | 43.6494499 | -79.42084 | 5962
+3353 | Ossington Ave At Argyle St | 43.647 | -79.41991 | 5952
+9390 | Ossington Ave At Queen St West | 43.6445 | -79.41903 | 5979
+491 | Queen St West At Shaw St | 43.64451 | -79.4168599 | 6051
+5704 | Shaw St At Adelaide St West | 43.6427199 | -79.4155499 | 11691
+435 | King St West At Shaw St East Side | 43.6414599 | -79.41454 | 13624
+8626 | Strachan Ave At Canniff St | 43.6415399 | -79.41184 | 13625
+14048 | Strachan Ave At East Liberty St | 43.63946 | -79.41103 | 14536
+14049 | East Liberty St At Pirandello St West Side | 43.63864 | -79.4143699 | 14537
+14050 | East Liberty St At Lynn Williams St | 43.63869 | -79.41694 | 14538
+14051_ar | Liberty St At Atlantic Ave | 43.6383699 | -79.42038
+604 | 848 Ossington Ave | 43.6647699 | -79.4268699 | 10226
+14051 | Liberty St At Atlantic Ave | 43.6383699 | -79.42038 | 14539
+14052 | Atlantic Ave At King St West | 43.6399899 | -79.4211299 | 14540
+8998 | King St West At Sudbury St | 43.6408999 | -79.4175 | 13344
+1380 | Shaw St At King St West North Side | 43.6417899 | -79.4151 | 11695
+8339 | Shaw St At Adelaide St West | 43.64261 | -79.41541 | 6050
+5210 | Shaw St At Queen St West | 43.64443 | -79.41612 | 6052
+3131 | Ossington Ave At Queen St West North Side | 43.64482 | -79.41902 | 5978
+2115 | Ossington Ave At Argyle St | 43.6466199 | -79.4196699 | 5951
+2155 | Ossington Ave At Dundas St West North Side | 43.6497099 | -79.42082 | 5963
+1635 | Ossington Ave At Churchill Ave | 43.6517199 | -79.4215999 | 5954
+5148 | Ossington Ave At College St | 43.65421 | -79.42256 | 5956
+6007 | Ossington Ave At Dewson St | 43.6567099 | -79.4235099 | 5961
+1796 | Ossington Ave At Harbord St | 43.6584199 | -79.4241699 | 5972
+4373 | Ossington Ave At Hepbourne St North Side | 43.66006 | -79.42481 | 5973
+14262 | Ossington Station | 43.6622699 | -79.42652 | 14743
+5821 | Ossington Ave At Leeds St | 43.66394 | -79.42638 | 5976
+6880 | Ossington Ave At Essex St | 43.66627 | -79.42736 | 5966
+7187 | Ossington Ave At Hallam St | 43.66778 | -79.42799 | 5969
+5072 | Ossington Ave At Dupont St | 43.6699299 | -79.42888 | 5965
+3766 | Ossington Ave At Geary Ave North Side | 43.67195 | -79.42971 | 5967
+1951 | Ossington Ave At Davenport Rd | 43.6745 | -79.43079 | 5959
+3096 | Davenport Rd At Oakwood Ave | 43.6744899 | -79.43335 | 0949
+6287 | Oakwood Ave At Burlington Cres North Side | 43.6771699 | -79.4348399 | 5895
+1833 | Oakwood Ave At St Clair Ave West | 43.6793199 | -79.43572 | 5915
+1785 | Oakwood Ave At St Clair Ave West North Side | 43.6801799 | -79.43581 | 5914
+5672 | Oakwood Ave At Glenhurst Ave | 43.68177 | -79.43645 | 5906
+3356 | Oakwood Ave At Earnscliffe Rd | 43.6836399 | -79.4372199 | 5901
+9909 | Oakwood Ave At Earlsdale Ave | 43.68544 | -79.43795 | 5899
+598 | Oakwood Ave At Rogers Rd | 43.6870499 | -79.43857 | 5911
+9460 | Oakwood Ave At Jesmond Ave | 43.6894599 | -79.4394199 | 5909
+3771 | Oakwood Ave At Vaughan Rd | 43.6923899 | -79.44061 | 5917
+5420 | Oakwood Ave At Clovelly Ave | 43.69474 | -79.44163 | 5896
+2152 | Oakwood Ave At Eglinton Ave West | 43.69691 | -79.44253 | 5903
+1440 | Eglinton Ave West At Marlee Ave | 43.6979299 | -79.43951 | 2379
+14197_ar | Eglinton West Station | 43.6994299 | -79.43649
+606 | Ossington Ave At Bloor St West | 43.6618099 | -79.4254499 | 8008
+605 | 851 Ossington Ave | 43.66479 | -79.42674 | 10225

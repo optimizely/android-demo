@@ -1,0 +1,40 @@
+14160 | Broadview Station | 43.6766899 | -79.35861 | 14638
+6070 | 849 Broadview Ave | 43.67922 | -79.3581299 | 3369
+9364 | Broadview Ave At Browning Ave | 43.6808899 | -79.35767 | 0655
+2329 | Broadview Ave At Mortimer Ave North Side | 43.68435 | -79.3567399 | 0657
+5662 | Broadview Ave At Bater Ave | 43.6869699 | -79.35578 | 0650
+5486 | Broadview Ave At Cosburn Ave North Side | 43.68877 | -79.3550499 | 0652
+2612 | Broadview Ave At Torrens Ave | 43.6901499 | -79.3550099 | 0664
+7240 | Broadview Ave At O&apos;Connor Dr | 43.69168 | -79.35564 | 0658
+8446 | Oconnor Dr At Hopedale Ave | 43.69277 | -79.3523099 | 1415
+599 | Oconnor Dr At Pape Ave | 43.6931299 | -79.35043 | 1419
+10324 | Oconnor Dr At Chilton Rd | 43.6937499 | -79.34732 | 1408
+3642 | Oconnor Dr At Wolverton Ave | 43.6941299 | -79.34528 | 1424
+4709 | Oconnor Dr At Donlands Ave | 43.69454 | -79.34327 | 1414
+4199 | Oconnor Dr At St Hubert Ave | 43.6953399 | -79.3403 | 1422
+5125 | Oconnor Dr At Northbrook Rd | 43.6957699 | -79.33835 | 1418
+1414 | Oconnor Dr At Derwyn Rd | 43.6964899 | -79.33502 | 1410
+6768 | Oconnor Dr At Milton Rd | 43.6970699 | -79.3323 | 1417
+6192 | Oconnor Dr At Coxwell Ave | 43.6976299 | -79.3297 | 1409
+10233_ar | Plains Rd At Coxwell Ave West Side | 43.6958899 | -79.32922
+1114 | Broadview Ave At Hillside Dr North Side | 43.68617 | -79.3561099 | 13939
+10233 | Plains Rd At Coxwell Ave West Side | 43.6958899 | -79.32922 | 1454
+9555 | Lankin Blvd At O&apos;Connor Dr | 43.6973699 | -79.3304099 | 1216
+5518 | Oconnor Dr At Milton Rd West Side | 43.69723 | -79.3322999 | 1416
+8455 | Oconnor Dr At Derwyn Rd | 43.6966899 | -79.33472 | 1411
+6809 | Oconnor Dr At Athlone Rd West Side | 43.69611 | -79.3373799 | 1406
+966 | Oconnor Dr At Don Mills Rd West Side | 43.6955299 | -79.34007 | 1412
+5167 | Oconnor Dr At Donlands Ave West Side | 43.6945999 | -79.34354 | 1413
+3715 | Oconnor Dr At Warland Ave | 43.69412 | -79.3460099 | 1423
+1778 | Oconnor Dr At Rivercourt Blvd | 43.6937 | -79.3481399 | 1421
+1650 | Oconnor Dr At Pape Ave | 43.6933299 | -79.35012 | 1420
+4058 | Oconnor Dr At Beechwood Dr | 43.6927399 | -79.35306 | 1407
+3105 | Broadview Ave At Fernwood Gardens South Side | 43.6917199 | -79.3558199 | 0654
+6112 | Broadview Ave At Torrens Ave South Side | 43.6900799 | -79.3551499 | 0663
+5583 | Broadview Ave At Cosburn Ave South Side | 43.6882 | -79.3554699 | 0653
+10380 | Broadview Ave At Hillside Dr | 43.6864199 | -79.3562 | 0656
+7151 | Broadview Ave At Pottery Rd South Side | 43.6835599 | -79.35714 | 0659
+5650 | Broadview Ave At Chester Hill Rd | 43.6814 | -79.3577099 | 0651
+6540 | 876 Broadview Ave | 43.6797599 | -79.35814 | 0649
+5251 | Broadview Ave At Pretoria Ave | 43.67853 | -79.3584599 | 0660
+14160_ar | Broadview Station | 43.6766899 | -79.35861

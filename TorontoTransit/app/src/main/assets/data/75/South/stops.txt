@@ -1,0 +1,24 @@
+1518 | Summerhill Ave At Maclennan Ave | 43.6857199 | -79.37768 | 7378
+1525 | Maclennan Ave At Douglas Dr | 43.6847199 | -79.3777699 | 6536
+4526 | Scholfield Ave At Maclennan Ave West Side | 43.6832799 | -79.3776599 | 7106
+4136 | Highland Ave At Roxborough Dr East Side | 43.68184 | -79.3764899 | 6420
+5588 | Highland Ave At Glen Rd | 43.68103 | -79.37403 | 6419
+642 | Glen Rd At South Dr | 43.67773 | -79.3751399 | 12491
+6114 | Glen Rd At Elm Ave | 43.67614 | -79.3751599 | 6401
+8188 | Elm Ave At Sherbourne St | 43.67515 | -79.3777099 | 6373
+8539 | Sherbourne St At Bloor St East South Side (Sherbourne Stn) | 43.6719399 | -79.37672 | 7308
+4955 | Sherbourne St At Isabella St | 43.6698199 | -79.3759099 | 7321
+6420 | Sherbourne St At Wellesley St East | 43.66731 | -79.37483 | 7333
+4344 | 418 Sherbourne St | 43.66512 | -79.37395 | 7306
+8398 | Sherbourne St At Carlton St | 43.66332 | -79.37316 | 7311
+8015 | Sherbourne St At Gerrard St East | 43.6613099 | -79.3723299 | 7319
+7061 | Sherbourne St At Dundas St East | 43.6584099 | -79.37114 | 7313
+2555 | Sherbourne St At Shuter St | 43.65649 | -79.37037 | 7331
+4836 | Sherbourne St At Queen St East | 43.65473 | -79.36964 | 7328
+3967 | Sherbourne St At Richmond St East South Side | 43.6526699 | -79.3689299 | 7329
+5942 | Sherbourne St At King St East | 43.6513599 | -79.3683699 | 7323
+6416 | Sherbourne St At Front St East | 43.6504799 | -79.368 | 7317
+7109 | Sherbourne St At The Esplanade | 43.64915 | -79.36742 | 7315
+14401 | Sherbourne St At Lake Shore Blvd East | 43.6474999 | -79.3666899 | 14371
+10479 | Sherbourne St At Lake Shore Blvd East South Side | 43.646 | -79.36601 | 7324
+4166_ar | Queens Quay East At Richardson St | 43.6447199 | -79.36701

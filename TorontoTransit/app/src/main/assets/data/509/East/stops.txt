@@ -1,0 +1,13 @@
+462 | Exhibition Loop At Manitoba Dr | 43.6365199 | -79.41474 | 13366
+7734 | Fleet St At Strachan Ave | 43.63619 | -79.4102399 | 1062
+1910 | Fleet St At Fort York Blvd | 43.63633 | -79.4070999 | 1058
+14924 | Lake Shore Blvd West At Stadium Rd | 43.6356999 | -79.40205 | 15097
+14926 | Lake Shore Blvd West At Bathurst St | 43.63627 | -79.3998599 | 10773
+14929 | Lake Shore Blvd West At Dan Leckie Way | 43.63719 | -79.3972599 | 15124
+14930 | Lake Shore Blvd West At Spadina Ave | 43.6383199 | -79.3924 | 15125
+14931 | Lake Shore Blvd West At Lower Simcoe St | 43.6402699 | -79.38343 | 15126
+14959 | Bay St At Lake Shore Blvd W | 43.64311 | -79.37778 | 15151
+6311 | Bay St At Air Canada Centre | 43.64415 | -79.37822 | 7523
+5077 | Bay St At Wellington St West | 43.64724 | -79.37953 | 0270
+4979 | Bay St At King St West | 43.64863 | -79.38015 | 0256
+8441_ar | Yonge St At King St West (King Station) | 43.6492699 | -79.37803

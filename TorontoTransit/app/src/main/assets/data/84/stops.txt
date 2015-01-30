@@ -1,0 +1,180 @@
+8041 | Bradstock Rd At Weston Rd East Side | 43.7389799 | -79.53913 | 4807
+9700 | Bradstock Rd At Rivalda Rd | 43.73978 | -79.5357899 | 4806
+7434 | 34 Rivalda Rd | 43.7371699 | -79.5349599 | 6012
+6454 | Rivalda Rd At Sheppard Ave West | 43.7349899 | -79.5341699 | 6013
+8569 | Sheppard Ave West At Arrow Rd | 43.7355099 | -79.52965 | 6060
+6174 | Sheppard Ave West At Laura Rd East Side | 43.7378599 | -79.51962 | 6078
+5794 | Opposite 2002-2012 Sheppard Ave West | 43.73853 | -79.5167299 | 7260
+8363 | Sheppard Ave West At Jane St | 43.73921 | -79.5135099 | 6067
+536 | Sheppard Ave West At Jane St East Side | 43.7393999 | -79.51263 | 6069
+1458 | Sheppard Ave West At Magellan Dr | 43.73956 | -79.5097999 | 6081
+1255 | Sheppard Ave West At Min Ave | 43.7401699 | -79.50702 | 6082
+4295 | Sheppard Ave West At Buckland Rd | 43.74094 | -79.5034899 | 6062
+6970 | Sheppard Ave West At Northover St | 43.7413599 | -79.50161 | 7291
+5157 | Sheppard Ave West At Downsview Dells Park | 43.7424899 | -79.49653 | 6090
+7655 | Sheppard Ave West At Sentinel Rd | 43.74345 | -79.4921899 | 6088
+4365 | Sheppard Ave West At Walkway To Norman Wesley Way | 43.7441499 | -79.48921 | 13437
+4222 | Sheppard Ave West At Keele St | 43.74452 | -79.4866499 | 6074
+4662 | Sheppard Ave West At Keele St East Side | 43.7448099 | -79.48577 | 6075
+6822 | Sheppard Ave West At John Drury Dr | 43.74811 | -79.48255 | 6070
+6065 | Sheppard Ave West At Tuscan Gate | 43.7525199 | -79.48269 | 6089
+2042 | Sheppard Ave West At Chesswood Dr | 43.75542 | -79.4744599 | 7271
+3355 | Sheppard Ave West At Yukon Lane | 43.7519399 | -79.4674499 | 3109
+14173 | Downsview Station | 43.7495699 | -79.46219 | 14651
+5024 | Sheppard Ave West At Banting Ave | 43.7508399 | -79.46013 | 11876
+1819 | Sheppard Ave West At Wilson Heights Blvd | 43.75146 | -79.4570399 | 7299
+8202 | Sheppard Ave West At Wilson Heights East Side | 43.75177 | -79.4556199 | 3114
+5996 | Sheppard Ave West At Faywood Blvd | 43.75252 | -79.4520999 | 3110
+6881 | Sheppard Ave West At Gorman Park Rd | 43.7532899 | -79.44848 | 7283
+4120 | Sheppard Ave West At Harlock Blvd | 43.7538499 | -79.44589 | 7284
+8193 | Sheppard Ave West At Yeomans Rd East Side | 43.7545199 | -79.44277 | 7304
+3525 | Sheppard Ave East At Bathurst St | 43.75533 | -79.43894 | 7263
+989 | Sheppard Ave East At Bathurst St East Side | 43.7554299 | -79.43784 | 7264
+9408 | 555 Sheppard Ave West | 43.7560399 | -79.43512 | 7261
+9606 | Sheppard Ave West At Don River Blvd | 43.75652 | -79.4329499 | 7272
+10248 | Sheppard Ave West At Easton Rd | 43.7580899 | -79.42619 | 7276
+9947 | Sheppard Ave West At Senlac Rd | 43.75878 | -79.4228899 | 7296
+9006 | Sheppard Ave West At Fennell St | 43.75917 | -79.4212299 | 7278
+9945 | Sheppard Ave West At Pewter Rd East Side | 43.75984 | -79.4183099 | 7293
+1980 | Sheppard Ave West At Beaman Rd East Side | 43.76036 | -79.4159699 | 7267
+14292_ar | Sheppard-Yonge Station | 43.7615599 | -79.41211
+9118 | Signet Dr At Fenmar Dr South Side | 43.7579699 | -79.53883 | 8097
+13999 | Signet Dr At High Meadow Pl | 43.7559499 | -79.5378499 | 14520
+2701 | Signet Dr At Finch Ave West South Side | 43.7527699 | -79.53603 | 7498
+5328 | Opposite 1111 Arrow Rd | 43.75106 | -79.53444 | 13458
+7336 | Arrow Rd At Deerhide Cres (North) | 43.74962 | -79.5330399 | 7494
+2852 | Arrow Rd At Deerhide Cres (South) | 43.74802 | -79.53099 | 7496
+1271 | 700 Arrow Rd | 43.7457299 | -79.5296 | 12926
+5958 | Arrow Rd At Lido Rd South Side | 43.7415899 | -79.5308499 | 7501
+5149 | Arrow Rd At Gail Grove South Side | 43.73779 | -79.52991 | 7499
+4269 | Arrow Rd At Sheppard Ave West | 43.7364299 | -79.5295899 | 11955
+1099 | Sheppard Ave West At Oakdale Rd | 43.7367599 | -79.52401 | 6084
+5825 | Rossdean Dr At Steeles Ave West South Side | 43.7710399 | -79.54049 | 8076
+8608 | Rossdean Dr At Garyray Dr | 43.76915 | -79.53973 | 8075
+4501 | 201 Garyray Dr | 43.76944 | -79.5374199 | 7770
+1784 | Garyray Dr At Norelco Dr | 43.76978 | -79.5358699 | 7771
+1576 | Norelco Dr At Ormont Dr | 43.76736 | -79.53446 | 7996
+6462 | 46 Norelco Dr | 43.7658399 | -79.5340899 | 9505
+5710 | 40 Norelco Dr | 43.7640699 | -79.5336799 | 7993
+6063 | 20 Norelco Dr | 43.7624 | -79.53328 | 9676
+3498 | Norelco Dr At Fenmar Dr | 43.7601899 | -79.5327599 | 7995
+1325 | Opposite 15 Fenmar Dr | 43.7592799 | -79.5355 | 7752
+8134 | 24 Fenmar Dr | 43.7588199 | -79.53764 | 7751
+8682 | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185 | 1173
+4463 | Hullmar Dr At Jane St West Side | 43.7731799 | -79.5219 | 1157
+6458 | Hullmar Dr At Wheelwright Cres (East) | 43.7733299 | -79.52407 | 1159
+1052 | Hullmar Dr At Peter Kaiser Gate | 43.7732499 | -79.52592 | 1158
+618 | Peter Kaiser Gate At Steeles Ave West | 43.77379 | -79.52656 | 13468
+1191 | Norfinch Dr At Steeles Ave West South Side | 43.7728199 | -79.53168 | 9184
+7073 | 370 Norfinch Dr | 43.7701 | -79.53186 | 5856
+1211 | 250 Norfinch Dr | 43.7683199 | -79.5314599 | 5855
+1226 | 166 Norfinch Dr | 43.7663999 | -79.5305599 | 5869
+2484 | 154 Norfinch Drive | 43.7646799 | -79.5300599 | 5863
+3591 | Opposite 125 Norfinch Dr | 43.76326 | -79.52973 | 5862
+3215 | 120 Norfinch Dr | 43.7614599 | -79.5292999 | 5851
+1235 | 100 Norfinch Dr | 43.7595599 | -79.5289799 | 5850
+10394 | 40 Norfinch Dr | 43.75709 | -79.52704 | 5865
+2755 | Norfinch Dr At Finch Ave West | 43.75618 | -79.5244899 | 9180
+9199 | Oakdale Rd At Finch Ave West South Side (Humber River Hosp) | 43.7551699 | -79.52403 | 9182
+4246 | Oakdale Rd At Humber River Regional Hospital | 43.75333 | -79.5259399 | 5885
+2056 | 550 Oakdale Rd | 43.7501399 | -79.52684 | 5877
+7152 | 400 Oakdale Rd | 43.7488299 | -79.5269699 | 5889
+9518 | Oakdale Rd At Eddystone Ave | 43.74682 | -79.52649 | 5880
+8545 | Oakdale Rd At Jody Ave South Side | 43.74479 | -79.5260299 | 5886
+9992 | 138 Oakdale Rd | 43.7429799 | -79.5261099 | 5882
+3877 | 112 Oakdale Rd | 43.7412599 | -79.5257099 | 5875
+1918 | 92 Oakdale Rd | 43.7399599 | -79.5258399 | 5878
+6739 | Oakdale Rd At Sheppard Ave West | 43.73742 | -79.52464 | 5892
+14292 | Sheppard-Yonge Station | 43.7615599 | -79.41211 | 14774
+4064 | Sheppard Ave West At Beecroft Rd West Side | 43.7609599 | -79.41379 | 12192
+1261 | Sheppard Ave West At Bangor Rd West Side | 43.76048 | -79.4158299 | 7268
+1324 | Sheppard Ave West At Welbeck Rd | 43.75966 | -79.4194899 | 7297
+4121 | Sheppard Ave West At Senlac Rd West Side | 43.75884 | -79.4231599 | 7295
+1960 | Sheppard Ave West At Brentwood Ave | 43.7583099 | -79.42548 | 7269
+6124 | Sheppard Ave West At Don River Blvd West Side | 43.7566 | -79.4332999 | 7273
+4825 | Opposite 555 Sheppard Ave West | 43.75608 | -79.4353599 | 7292
+1094 | Sheppard Ave East At Bathurst St | 43.7555699 | -79.4380499 | 7265
+3111 | Sheppard Ave East At Bathurst St West Side | 43.7554899 | -79.4393 | 7266
+7364 | Sheppard Ave West At Hove St | 43.7550699 | -79.44127 | 7285
+7185 | Sheppard Ave West At Bryant St West Side | 43.75454 | -79.4437699 | 7270
+7755 | Sheppard Ave West At Maxwell St | 43.75415 | -79.4456199 | 7290
+6076 | Sheppard Ave West At Goddard St | 43.7536499 | -79.44794 | 7282
+3696 | Sheppard Ave West At Wilmington Ave | 43.75282 | -79.4518799 | 7298
+4054 | Sheppard Ave West At Wilson Heights Blvd | 43.75183 | -79.4565499 | 7300
+5501 | Sheppard Ave West At Banting Ave | 43.7511599 | -79.45938 | 7262
+14180 | Downsview Station | 43.7490499 | -79.46237 | 14659
+2365 | Sheppard Ave West At Dufferin St (Downsview Station) | 43.7505399 | -79.4625999 | 7275
+538 | Sheppard Ave At William R Allen Rd West Side | 43.7502699 | -79.46388 | 4598
+1632 | Sheppard Ave West At Kodiak Cres (South) | 43.7518599 | -79.4669499 | 4596
+3554 | Sheppard Ave West At Kodiak Cres (North) | 43.75397 | -79.46938 | 6076
+6042 | Sheppard Ave West At Chesswood Dr | 43.7555999 | -79.4738 | 3108
+9504 | Sheppard Ave West At Bakersfield St West Side | 43.7543399 | -79.48058 | 3106
+6125 | Sheppard Ave West At Tuscan Gate | 43.75299 | -79.4827599 | 3113
+3856 | Sheppard Ave West At John Drury Dr | 43.7484499 | -79.4829199 | 6071
+6745 | Sheppard Ave West At Keele St | 43.7449699 | -79.48609 | 6072
+6056 | 1450 Sheppard Ave West | 43.7443899 | -79.48884 | 13438
+537 | Sheppard Ave West At Sentinel Rd | 43.7437899 | -79.49166 | 6087
+981 | Sheppard Ave West At Northwood Park | 43.74276 | -79.4963399 | 6064
+7262 | Sheppard Ave West At Arleta Ave | 43.7416499 | -79.50129 | 6058
+1132 | Sheppard Ave West At Buckland Rd | 43.7412199 | -79.50321 | 6063
+7458 | Sheppard Ave West At Yatescastle Dr | 43.74044 | -79.5067099 | 6092
+5590 | Sheppard Ave West At Magellan Dr | 43.7398099 | -79.50952 | 6080
+790 | Sheppard Ave West At Jane St | 43.7395599 | -79.5129499 | 6068
+7765 | 2002-2012 Sheppard Ave West | 43.7387099 | -79.5167 | 6057
+1351 | Sheppard Ave West At Laura Rd | 43.7379599 | -79.51997 | 6079
+2823 | Sheppard Ave West At Oakdale Rd | 43.73715 | -79.5235799 | 6085
+1170 | Sheppard Ave West At Arrow Rd West Side | 43.7356899 | -79.52977 | 6059
+1319 | Sheppard Ave West At Rivalda Rd | 43.73481 | -79.5337299 | 6086
+2295 | Sheppard Ave West At Weston Rd | 43.73386 | -79.5378799 | 6091
+2763 | Weston Rd At Coral Gable Dr | 43.7355199 | -79.5384899 | 6174
+8041_ar | Bradstock Rd At Weston Rd East Side | 43.7389799 | -79.53913
+6161 | Arrow Rd At Sheppard Ave West North Side | 43.7363199 | -79.52934 | 11858
+5326 | Arrow Rd At Bartor Rd North Side | 43.73782 | -79.52972 | 7513
+9294 | Arrow Rd At Lido Rd | 43.74146 | -79.53064 | 7500
+8832 | Arrow Rd At Deerhide Cres (South) | 43.7476399 | -79.53026 | 7495
+5601 | 1111 Arrow Rd | 43.75119 | -79.53414 | 13457
+7571 | Arrow Rd At Finch Ave West | 43.75301 | -79.53592 | 7497
+5232 | Signet Dr At Finch Ave West North Side | 43.7540599 | -79.53656 | 9668
+13985 | Signet Dr At High Meadow Pl | 43.75555 | -79.53727 | 14519
+9990 | Signet Dr At Fenmar Dr | 43.75833 | -79.53875 | 8098
+4201 | 99 Signet Dr | 43.7598499 | -79.53937 | 8095
+4338 | Signet Dr At Kenhar Dr | 43.7625199 | -79.5399999 | 8100
+4739 | 155 Signet Dr | 43.76384 | -79.54033 | 8094
+4503 | Signet Dr At Ormont Dr | 43.76543 | -79.54093 | 8101
+9469 | Signet Dr At Garyray Dr | 43.7682299 | -79.5420799 | 8099
+5998 | Signet Dr At Steeles Ave West | 43.7705999 | -79.5431399 | 8102
+5825_ar | Rossdean Dr At Steeles Ave West South Side | 43.7710399 | -79.54049
+717 | Oakdale Rd At Sheppard Ave West North Side | 43.7375499 | -79.5245499 | 5891
+6154 | Oakdale Rd At Walkway To Honeywood Rd | 43.7387199 | -79.52534 | 5893
+4159 | Opposite 92 Oakdale Rd | 43.7398799 | -79.5256899 | 5890
+4732 | 111 Oakdale Rd | 43.7412899 | -79.52559 | 5874
+7181 | 131 Oakdale Rd | 43.74274 | -79.52593 | 5881
+9944 | Oakdale Rd At Jody Ave | 43.7447299 | -79.52589 | 5887
+2551 | Oakdale Rd At Eddystone Ave | 43.7465999 | -79.5262999 | 5879
+5838 | 415 Oakdale Rd | 43.74919 | -79.52691 | 5888
+1831 | 549 Oakdale Rd | 43.7505499 | -79.52649 | 5876
+6750 | 755 Oakdale Rd | 43.7532199 | -79.52586 | 5894
+10276 | Oakdale Rd At Finch Ave West (Humber River Hospital) | 43.7556499 | -79.5239999 | 9183
+2258 | Norfinch Dr At Finch Ave West North Side | 43.7564699 | -79.5244 | 9181
+1631 | 45 Norfinch Dr | 43.7571899 | -79.5268199 | 5864
+7862 | 75 Norfinch Dr | 43.75985 | -79.52883 | 5858
+7112 | 115 Norfinch Dr | 43.7614499 | -79.5291099 | 5861
+4401 | 125 Norfinch Dr | 43.76327 | -79.52954 | 5852
+1120 | 151 Norfinch Dr | 43.7646899 | -79.5298699 | 5853
+1298 | Norfinch Dr At Walkway To Shoreham Dr | 43.76648 | -79.5304 | 5868
+7451 | 299 Norfinch Dr | 43.7683899 | -79.5312799 | 5854
+7697 | 375 Norfinch Dr | 43.7701699 | -79.5316999 | 5857
+9927 | Norfinch Dr At Steeles Ave West | 43.77286 | -79.53147 | 5867
+3815 | Steeles Ave West At Peter Kaiser Gate | 43.7741999 | -79.52706 | 6144
+8682_ar | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185
+5825_IB | Rossdean Dr At Steeles Ave West South Side | 43.7710399 | -79.54049 | 8076
+8608_IB | Rossdean Dr At Garyray Dr | 43.76915 | -79.53973 | 8075
+4501_IB | 201 Garyray Dr | 43.76944 | -79.5374199 | 7770
+1784_IB | Garyray Dr At Norelco Dr | 43.76978 | -79.5358699 | 7771
+1576_IB | Norelco Dr At Ormont Dr | 43.76736 | -79.53446 | 7996
+6462_IB | 46 Norelco Dr | 43.7658399 | -79.5340899 | 9505
+5710_IB | 40 Norelco Dr | 43.7640699 | -79.5336799 | 7993
+6063_IB | 20 Norelco Dr | 43.7624 | -79.53328 | 9676
+3498_IB | Norelco Dr At Fenmar Dr | 43.7601899 | -79.5327599 | 7995
+1325_IB | Opposite 15 Fenmar Dr | 43.7592799 | -79.5355 | 7752
+8134_ar | 24 Fenmar Dr | 43.7588199 | -79.53764

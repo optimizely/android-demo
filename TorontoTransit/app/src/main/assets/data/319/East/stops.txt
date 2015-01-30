@@ -1,0 +1,69 @@
+3651 | Steeles Ave West Loop At Martin Grove Rd | 43.7566699 | -79.60784 | 9824
+844 | Steeles Ave West At Martin Grove Rd | 43.75768 | -79.6035099 | 9825
+4925 | Martin Grove Rd At Brunello Gate | 43.7560799 | -79.6018099 | 9724
+3214 | Martin Grove Rd At Cabernet Cir | 43.75413 | -79.60025 | 9266
+7050 | Martin Grove Rd At Royalcrest Rd | 43.75242 | -79.59947 | 5643
+4221 | Martin Grove Rd At Silverstone Dr | 43.7510599 | -79.5988099 | 5647
+7565 | Martin Grove Rd At Walkway To 308 Silverstone Dr | 43.7491899 | -79.5978799 | 5595
+8495 | Opposite 1915 Martin Grove Rd | 43.7460499 | -79.5963499 | 5603
+4450 | Martin Grove Rd At Lexington Ave | 43.7443699 | -79.5955199 | 5624
+1657 | Martin Grove Rd At Albion Rd | 43.7424299 | -79.5945899 | 5589
+3473 | Martin Grove Rd At Betteridge Lane South Side | 43.7387599 | -79.59276 | 5601
+1968 | Martin Grove Rd At Finch Ave West South Side | 43.7359999 | -79.59139 | 5615
+1683 | Martin Grove Rd At Rampart Rd | 43.73411 | -79.59049 | 5636
+3472 | Martin Grove Rd At John Garland Blvd | 43.7322299 | -79.5896499 | 5621
+1698 | Martin Grove Rd At Milkwood Ave | 43.73026 | -79.58873 | 5629
+1240 | Westhumber Blvd At Martin Grove Rd East Side | 43.7260799 | -79.58618 | 8657
+4442 | Westhumber Blvd At Delsing Dr East Side | 43.72687 | -79.5828599 | 8653
+4255 | Westhumber Blvd At Ixworth Rd | 43.72721 | -79.5774299 | 8655
+2016 | Westhumber Blvd At Kipling Ave | 43.7279999 | -79.5748 | 8656
+5272 | Brookmere Rd At Elmhurst Dr | 43.7287499 | -79.57248 | 7568
+3130 | Elmhurst Dr At Harefield Dr | 43.7278599 | -79.5694399 | 7728
+5484 | Harefield Dr At Hinton Rd | 43.72687 | -79.5694899 | 7821
+6802 | Hinton Rd At Elmhurst Dr | 43.72741 | -79.5664299 | 7822
+5237 | Elmhurst Dr At Fordwich Cres | 43.72632 | -79.56548 | 7726
+5990 | Elmhurst Dr At Drumheller Rd South Side | 43.72367 | -79.56348 | 7725
+6521 | Elmhurst Dr At Islington Ave | 43.7229899 | -79.5591 | 7731
+7439 | Elmhurst Dr At Muncey Ave | 43.7242599 | -79.55371 | 7734
+1995 | Elmhurst Dr At Albion Rd | 43.72494 | -79.5508899 | 7724
+10410 | Albion Rd At Golfdown Dr East Side | 43.72347 | -79.54875 | 6224
+4277 | Albion Rd At Shendale Dr East Side | 43.7223099 | -79.5473699 | 6230
+5761 | Albion Rd At Armel Crt | 43.72132 | -79.54594 | 6216
+4758 | Albion Rd At Weston Rd | 43.7172299 | -79.5381999 | 7481
+1188 | Walsh Ave At Weston Rd East Side | 43.71674 | -79.53676 | 8525
+9357 | Walsh Ave At Wilson Ave | 43.71565 | -79.5325299 | 8526
+957 | Wilson Ave At Wendell Ave | 43.71666 | -79.5272199 | 8886
+1205 | Wilson Ave At Clayson Rd | 43.71748 | -79.5235299 | 8845
+9692 | Wilson Ave At Jethro Rd East Side | 43.7187099 | -79.51819 | 8863
+7563 | Wilson Ave At Haymarket Rd East Side | 43.71926 | -79.5158899 | 8858
+4871 | Wilson Ave At Dallner Rd East Side | 43.71987 | -79.5130799 | 8849
+9910 | Opposite 1700 Wilson Ave (Sheridan Mall) | 43.7203699 | -79.51085 | 8878
+5041 | Wilson Ave At Jane St | 43.72076 | -79.5087999 | 8861
+6631 | Wilson Ave At Epic Lane Rd East Side | 43.7212499 | -79.50576 | 8855
+9369 | Wilson Ave At William Cragg Dr | 43.7223999 | -79.50047 | 8887
+9515 | Wilson Ave At Highview Ave East Side | 43.7233299 | -79.49637 | 8860
+2771 | Wilson Ave At Ridge Rd East Side | 43.7239 | -79.4937899 | 8880
+941 | Wilson Ave At Julian Rd East Side | 43.7246 | -79.4906999 | 8865
+14955 | Wilson Ave At Agate Rd | 43.7257599 | -79.48554 | 15136
+3457 | Wilson Ave At Keele St | 43.72645 | -79.4823499 | 8868
+10109 | Wilson Ave At Dubray Ave | 43.72809 | -79.4776999 | 8848
+2458 | 949 Wilson Ave | 43.72879 | -79.4744599 | 8873
+8004 | Wilson Ave At Murray Rd | 43.72941 | -79.4717199 | 8875
+3373 | Wilson Ave At Northgate Dr | 43.73021 | -79.4681999 | 8877
+894 | Wilson Ave At Lady York Ave | 43.7310299 | -79.46453 | 1662
+5935 | Wilson Ave At Dufferin St | 43.73193 | -79.45913 | 1657
+891 | Wilson Ave At Billy Bishop Way | 43.73317 | -79.45292 | 9899
+14377 | Wilson Station | 43.7346799 | -79.45102 | 14817
+8547 | Wilson Ave At Faywood Blvd East Side | 43.73475 | -79.4458899 | 1658
+8660 | Wilson Ave At Allingham Gardens | 43.73539 | -79.4429499 | 1660
+9490 | Wilson Ave At Laurentia Cres | 43.73599 | -79.4401099 | 1663
+1903 | Wilson Ave At Stadacona Dr | 43.73671 | -79.4368199 | 1665
+6232 | Wilson Ave At Bathurst St East Side | 43.7373299 | -79.43322 | 8839
+4795 | Wilson Ave At Allard Ave | 43.73774 | -79.42953 | 8834
+2206 | Wilson Ave At Clyde Ave | 43.73861 | -79.4269599 | 8847
+1186 | Wilson Ave At Ridley Blvd | 43.73931 | -79.4238199 | 8882
+1028 | Wilson Ave At Avenue Rd | 43.7396999 | -79.42197 | 8837
+9886 | Wilson Ave At Belgrave Ave | 43.7404899 | -79.4183 | 8842
+1869 | Wilson Ave At Yonge Blvd East Side | 43.7412899 | -79.4148 | 8889
+970 | Wilson Ave At Yonge St | 43.74382 | -79.4072599 | 8892
+918 | York Mills Rd At Yonge St East Side | 43.7441799 | -79.40582 | 9907

@@ -1,0 +1,94 @@
+14290 | Sheppard-Yonge Station | 43.7619099 | -79.41225 | 14772
+4024 | Sheppard Ave East At Doris Ave | 43.7619499 | -79.40842 | 13563
+1946 | Sheppard Ave East At Leona Dr | 43.76278 | -79.4047499 | 1540
+2546 | Sheppard Ave East At Dudley Ave | 43.7631999 | -79.40298 | 1536
+2500 | Sheppard Ave East At Willowdale Ave | 43.76386 | -79.4000199 | 1544
+5129 | Sheppard Ave East At Longmore St East Side | 43.76467 | -79.3962099 | 7205
+6962 | Sheppard Ave East At Wilfred Ave | 43.7649999 | -79.3948 | 1543
+10133 | Sheppard Ave East At Calvin Ave | 43.76531 | -79.3932299 | 1533
+8146 | Sheppard Ave East At Clairtrell Rd | 43.76594 | -79.3902899 | 10918
+1425 | Sheppard Ave East At Bayview Ave East Side (Bayview Station) | 43.7667199 | -79.38745 | 7152
+8486 | Sheppard Ave East At Barberry Pl | 43.7672899 | -79.38514 | 13561
+4484 | Sheppard Ave East At Rean Dr | 43.7676899 | -79.38332 | 7233
+7485 | Sheppard Ave East At Greenbriar Rd | 43.7682899 | -79.38051 | 7184
+3327 | Sheppard Ave East At Bessarion Rd East Side (Bessarion Stn) | 43.76922 | -79.3760999 | 13677
+7292 | Sheppard Ave East At Blue Ridge Rd | 43.7695599 | -79.3744 | 7157
+5898 | Sheppard Ave East At Provost Dr East Side | 43.7703399 | -79.37063 | 7230
+1818 | Sheppard Ave East At Old Leslie St (Leslie Station) | 43.7712199 | -79.36671 | 7242
+8273 | Sheppard Ave East At Leslie St East Side (North York Gen) | 43.7716099 | -79.36346 | 7203
+8005 | Sheppard Ave East At Maris Shepway East Side | 43.7719499 | -79.36081 | 7214
+2854 | Sheppard Ave East At Buchan Crt | 43.77239 | -79.3587899 | 13454
+1176 | Sheppard Ave East At Shaughnessy Blvd | 43.7735499 | -79.3535 | 7246
+14979 | Sheppard Ave East At Don Mills | 43.7749799 | -79.34714 | 15163
+5480 | Sheppard Ave East At Parkway Forest Dr East Side | 43.77588 | -79.3429299 | 13705
+4699 | 2025 Sheppard Ave East | 43.77549 | -79.33544 | 7190
+3573 | Sheppard Ave East At Consumers Rd East Side | 43.77495 | -79.33054 | 7175
+9598 | Sheppard Ave East At Settlers Rd | 43.77458 | -79.3270699 | 7244
+2068 | Sheppard Ave East At Victoria Park Ave | 43.7750899 | -79.32332 | 7250
+532 | Sheppard Ave East At Commons Dr | 43.7757199 | -79.32056 | 7172
+4133 | Sheppard Ave East At Pharmacy Ave | 43.77637 | -79.3178799 | 7228
+6512 | Sheppard Ave East At Abbotsfield Gate | 43.77704 | -79.31487 | 7139
+8305 | Sheppard Ave East At Palmdale Dr | 43.77784 | -79.3112999 | 7224
+2614 | Sheppard Ave East At Warden Ave | 43.7785899 | -79.30813 | 7254
+2084 | Sheppard Ave East At Aragon Ave | 43.7794499 | -79.30448 | 7146
+3635 | Sheppard Ave East At Amethyst Rd | 43.78039 | -79.3004999 | 7144
+1364 | Sheppard Ave East At Birchmount Rd | 43.7808999 | -79.29832 | 7154
+7912 | Sheppard Ave At Allanford Rd East Side | 43.78212 | -79.2928999 | 7141
+8489 | Sheppard Ave East At Kennedy Rd | 43.7830699 | -79.28872 | 7196
+5750 | Sheppard Ave E At Reidmount Ave - Agincourt Go Station | 43.7838499 | -79.28527 | 10480
+14786 | Sheppard Ave E At Lamont Ave East Side | 43.78467 | -79.2813599 | 15017
+8032 | Sheppard Ave East At Midland Ave | 43.7851299 | -79.27906 | 7217
+6713 | Sheppard Ave East At Glen Watford Dr East Side | 43.78594 | -79.2755399 | 6053
+5679 | Sheppard Ave East At Harrisfarm Gate | 43.787 | -79.2708099 | 7186
+8264 | Sheppard Ave East At Brimley Rd East Side | 43.7876099 | -79.26775 | 7163
+8195 | 4515 Sheppard Ave East | 43.7882899 | -79.26474 | 7147
+2375 | Sheppard Ave East At Brownspring Rd | 43.7887499 | -79.2626 | 7165
+6165 | Sheppard Ave East At McCowan Rd | 43.7894899 | -79.25908 | 7210
+4381 | 4725-4727 Sheppard Ave East | 43.79068 | -79.2535099 | 7192
+2237 | Sheppard Ave East At Havenview Rd | 43.7915299 | -79.24948 | 7188
+5432 | Sheppard Ave East At Massie St | 43.79239 | -79.2454099 | 7209
+2708 | Sheppard Ave East At Scunthorpe Rd | 43.7931399 | -79.24189 | 7240
+2027 | Sheppard Ave East At Markham Rd | 43.7936299 | -79.23939 | 7206
+8819 | Sheppard Ave At Progress Ave | 43.7945099 | -79.2352 | 4591
+3610 | Sheppard Ave East At Gateforth Dr | 43.7955 | -79.2305799 | 7252
+3444 | Sheppard Ave East At Lapsley Rd East Side | 43.79621 | -79.2269799 | 7202
+1432 | Sheppard Ave East At Walkway To Burrows Hall Blvd | 43.7969899 | -79.22301 | 7133
+8518 | Sheppard Ave East At Opposite Walkway To Hutcherson Sq | 43.7975599 | -79.22008 | 7136
+9176 | Sheppard Ave East At Neilson Rd | 43.79792 | -79.2179599 | 7222
+7953 | Sheppard Ave East At Murison Blvd East Side | 43.79922 | -79.2123999 | 7221
+5426 | Sheppard Ave East At Opposite Walkway To Winstanly Cres | 43.7997599 | -79.21006 | 7253
+9373 | Sheppard Ave East At Breckon Gate | 43.80035 | -79.2072599 | 7159
+9139 | Sheppard Ave East At Walkway To Murison Blvd | 43.80114 | -79.2034499 | 13901
+8782 | Sheppard Ave East At Morningside Ave | 43.8018499 | -79.20007 | 7219
+9541 | Sheppard Ave East At Grand Marshall Dr | 43.80293 | -79.1951399 | 9778
+5273 | Opposite 8270 Sheppard Ave East | 43.8035999 | -79.19242 | 7238
+7492 | Sheppard Ave East At Conlins Rd East Side | 43.8043099 | -79.18932 | 7173
+9225 | Sheppard Ave East At Rouge River Dr | 43.8048499 | -79.18658 | 7237
+6212 | Sheppard Ave East At Ecopark Gate East Side | 43.8056099 | -79.18328 | 14122
+8662 | Sheppard Ave East At Dean Park Rd | 43.8061899 | -79.18055 | 7177
+8726 | Sheppard Ave East At Idagrove Gate | 43.80718 | -79.1757799 | 7194
+534 | Sheppard Ave East At Meadowvale Rd | 43.8082099 | -79.17112 | 11669
+5922 | Sheppard Ave East At Meadowvale Rd East Side | 43.8084599 | -79.16988 | 7212
+3516 | Sheppard Ave East At Twyn Rivers Dr South Side | 43.80869 | -79.16551 | 11113
+2627 | Sheppard Ave East At Rainbow Ridge Ave | 43.8073299 | -79.1631199 | 7232
+5827 | Sheppard Ave East At Grand River Blvd South Side | 43.8058999 | -79.1606599 | 13889
+6816 | Sheppard Ave East At Tallpines Crt | 43.8042499 | -79.1577899 | 7249
+1377 | Sheppard Ave East At Vandorf St | 43.8031299 | -79.1559599 | 9812
+1589 | Sheppard Ave East At Durnford Rd | 43.8009299 | -79.1508699 | 7181
+9830 | Sheppard Ave East At Kingston Rd | 43.79932 | -79.14696 | 7199
+10354 | Island Rd At Port Union Rd East Side | 43.7960699 | -79.14259 | 6471
+8751 | Island Rd At East Ave | 43.79796 | -79.1392599 | 6470
+6203 | East Ave At Kirkdene Dr | 43.7953199 | -79.1377799 | 5039
+4312 | East Ave At Fanfare Ave | 43.7924999 | -79.1365799 | 5036
+2747 | East Ave At Tudor Glen Cres | 43.78999 | -79.1356 | 5042
+1704 | East Ave At East Willow Gate | 43.78753 | -79.13452 | 5035
+9799 | East Ave At Golders Green Ave | 43.7846699 | -79.1333299 | 5037
+10384 | East Ave At Maberley Cres (South) | 43.78252 | -79.13242 | 5032
+468_ar | Rouge Hill Go Station Loop At Lawrence Ave East | 43.7806799 | -79.13038
+6049 | Meadowvale Rd At Sheppard Ave East North Side | 43.80897 | -79.17094 | 6573
+7038 | Meadowvale Rd At Zoo Rd | 43.8181099 | -79.17319 | 6564
+467 | Toronto Zoo Loop (Eastbound) | 43.8192899 | -79.17968 | 6526
+1676 | Park Rd (Zoo) At Kirkhams Rd East Side | 43.81814 | -79.1751099 | 9672
+9779 | Don Mills Rd At Sheppard Ave East North Side | 43.7757699 | -79.3471 | 6349
+14152 | Don Mills Station | 43.7756499 | -79.34606 | 14630
+4343_ar | Meadowvale Rd Loop At Sheppard Ave East | 43.8091799 | -79.17073

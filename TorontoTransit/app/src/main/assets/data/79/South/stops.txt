@@ -1,0 +1,47 @@
+2780 | Pine St At Lawrence Ave West | 43.7013499 | -79.50792 | 3021
+6244_ar | Lawrence Ave East At Jane St | 43.7027599 | -79.50422
+9512 | Lawrence Ave West At Ralph St West Side | 43.7010599 | -79.5126 | 5398
+453 | Lawrence Ave West At Weston Rd | 43.70026 | -79.5160399 | 5415
+2143 | Lawrence Ave West At Weston Rd West Side | 43.7000199 | -79.51703 | 5413
+10259 | Lawrence Ave West At Little Ave | 43.6993799 | -79.51972 | 5387
+3081 | Scarlett Rd At Lawrence Ave West South Side | 43.69775 | -79.5229 | 7095
+3044 | Scarlett Rd At Yorkleigh Ave South Side | 43.69674 | -79.52177 | 7105
+9337 | Scarlett Rd At Raymore Dr South Side | 43.6955399 | -79.5203899 | 7097
+2826 | Scarlett Rd At Crane Ave | 43.69422 | -79.51908 | 7080
+1112 | Scarlett Rd At Alma Dr | 43.6927499 | -79.5177499 | 7075
+5758 | Scarlett Rd At Saxony Cres | 43.6909 | -79.51609 | 7101
+4967 | Scarlett Rd At Chapman Rd | 43.68909 | -79.5144899 | 7077
+7032 | Scarlett Rd At La Rose Ave | 43.68698 | -79.51336 | 7094
+4001 | Scarlett Rd At Richview Rd | 43.68562 | -79.51267 | 7100
+7179 | Scarlett Rd At Eglinton Ave West | 43.6841399 | -79.51175 | 7089
+3317 | Scarlett Rd At Fontenay Crt South Side | 43.68282 | -79.51061 | 7092
+9491 | Scarlett Rd At Edenbridge Dr South Side | 43.6804099 | -79.5087499 | 7085
+2182 | Scarlett Rd At East Dr | 43.6769299 | -79.5061699 | 7083
+10405 | Scarlett Rd At Clairton Cres (South) | 43.6757199 | -79.5060299 | 7079
+7347 | Scarlett Rd At Edinborough Crt South Side | 43.67206 | -79.50398 | 7087
+9361 | Scarlett Rd At Delemere Ave | 43.6703 | -79.50254 | 7081
+7902 | Scarlett Rd At Foxwell St South Side | 43.6685599 | -79.50103 | 13314
+9603 | Scarlett Rd At Bernice Cres | 43.66718 | -79.49983 | 13315
+1651 | Opposite 2650 St Clair Ave West | 43.6664799 | -79.49661 | 13316
+5054 | St Clair Ave West At Florence Cres East Side | 43.66687 | -79.4942099 | 13317
+1847 | St Clair Ave West At Jane St | 43.66703 | -79.4921199 | 13318
+14649 | St Clair Ave West At Mariposa Ave East Side | 43.6676299 | -79.48936 | 14895
+3397 | St Clair Ave West At Mould Ave | 43.66812 | -79.4872199 | 13320
+8623 | Runnymede Rd At St Clair Ave West South Side | 43.66864 | -79.48346 | 7069
+1916 | Runnymede Rd At Dundas St West | 43.6658599 | -79.48231 | 7059
+2436 | Runnymede Rd At St Johns Rd | 43.6639199 | -79.4814899 | 7071
+7500 | Runnymede Rd At Maher Ave South Side | 43.662 | -79.48073 | 7063
+9331 | Runnymede Rd At Annette St | 43.66018 | -79.48013 | 7048
+5666 | Runnymede Rd At Macgregor Ave | 43.65852 | -79.47943 | 7065
+1513 | Runnymede Rd At Glenwood Ave | 43.65716 | -79.47884 | 7061
+1890 | Runnymede Rd At Colbeck St | 43.65507 | -79.47794 | 7054
+14275_ar | Runnymede Station | 43.6517999 | -79.47569
+3628 | Foxwell St At Scarlett Rd East Side | 43.6694499 | -79.50111 | 6397
+7529 | Foxwell St At Bruton Rd East Side | 43.67009 | -79.4984599 | 6391
+9108 | Foxwell St At Duern St | 43.67091 | -79.4958699 | 6393
+8198 | Foxwell St At Jane St | 43.6715599 | -79.49401 | 6396
+1476 | Pritchard Ave At Jane St East Side | 43.6695899 | -79.49244 | 6798
+2550 | Pritchard Ave At Batavia Ave | 43.67026 | -79.4894999 | 6796
+4495 | Pritchard Ave At Mould Ave | 43.6705499 | -79.48819 | 6799
+10282 | Castleton Ave At Henrietta St | 43.6705199 | -79.4865499 | 6296
+740 | Henrietta St At Runnymede Rd | 43.67062 | -79.4844599 | 6418

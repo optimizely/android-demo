@@ -1,0 +1,26 @@
+14170 | Davisville Station | 43.6976299 | -79.39687 | 14648
+1149 | Davisville Ave At Yonge St East Side | 43.6983399 | -79.39619 | 1882
+730 | Davisville Ave At Pailton Cres | 43.69921 | -79.3920099 | 1867
+7559 | Davisville Ave At Acacia Rd | 43.69963 | -79.3898299 | 1866
+2073 | Davisville Ave At Mt Pleasant Rd | 43.7002 | -79.3871499 | 1878
+737 | Davisville Ave At Belle Ayre Blvd | 43.7010099 | -79.38344 | 1875
+7466 | Davisville Ave At Forman Ave | 43.7015499 | -79.38076 | 1873
+265 | Davisville Ave At Cleveland St | 43.7020999 | -79.37815 | 1871
+10375 | Davisville Ave At Bayview Ave | 43.70284 | -79.3746999 | 1869
+12871 | Bayview Ave At Merton St | 43.7010099 | -79.37342 | 14491
+2020 | Bayview Ave At Moore Ave | 43.69699 | -79.37192 | 7526
+12875_ar | 550 Bayview Ave (Evergreen Brick Works) | 43.6839099 | -79.3648
+12875 | 550 Bayview Ave (Evergreen Brick Works) | 43.6839099 | -79.3648 | 14494
+12873 | Bayview Ave At Nesbitt Dr | 43.6941299 | -79.3659599 | 14493
+5116 | Bayview Ave At Moore Ave North Side | 43.69724 | -79.37178 | 7525
+12872 | Bayview Ave At McRae Dr | 43.7008699 | -79.3731699 | 14492
+8013 | Davisville Ave At Bayview Ave West Side | 43.7029499 | -79.37455 | 1868
+5177 | Davisville Ave At Cleveland St | 43.7022399 | -79.37788 | 1872
+4995 | Davisville Ave At Forman Ave | 43.7017099 | -79.38047 | 1874
+3264 | Davisville Ave At Belle Ayre Blvd | 43.7011599 | -79.38313 | 1870
+767 | Davisville Ave At Mt Pleasant Rd | 43.70045 | -79.3866799 | 1876
+6569 | Davisville Ave At Mt Pleasant Rd West Side | 43.7002799 | -79.38748 | 11581
+8365 | Davisville Ave At Acacia Rd | 43.6998599 | -79.38947 | 1865
+7484 | 84 Davisville Ave (Salvation Army) | 43.6991099 | -79.39309 | 1879
+9693 | Davisville Ave At Yonge St | 43.69852 | -79.3959299 | 1883
+14170_ar | Davisville Station | 43.6976299 | -79.39687

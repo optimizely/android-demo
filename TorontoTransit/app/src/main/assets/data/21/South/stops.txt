@@ -1,0 +1,45 @@
+2991 | Brimley Rd At Steeles Ave East | 43.8284799 | -79.28731 | 10865
+5653 | Brimley Rd At Steeles Ave East South Side | 43.82783 | -79.28731 | 9680
+3769 | Brimley Rd At Port Royal Trail (North) | 43.8250999 | -79.2861699 | 9674
+3079 | Brimley Rd At Walkway To Audrelane Crt | 43.82285 | -79.28511 | 4834
+9195 | Brimley Rd At Port Royal Trail (South) | 43.8215099 | -79.2845399 | 4831
+962 | Brimley Rd At Walkway To McCool Crt | 43.8185 | -79.28317 | 4836
+5924 | Brimley Rd At McNicoll Ave | 43.8158399 | -79.2820199 | 4828
+7791 | Brimley Rd At Danjohn Cres (North) South Side | 43.8129099 | -79.2806399 | 9667
+2990 | Brimley Rd At Alexmuir Blvd South Side | 43.8108199 | -79.2797099 | 4813
+10469 | Brimley Rd At Opposite Brimley Woods Park | 43.8089199 | -79.2788399 | 14440
+10184 | Brimley Rd At Finch Ave East | 43.80586 | -79.27758 | 4822
+1620 | Brimley Rd At Chartland Blvd | 43.8016699 | -79.27485 | 4818
+1883 | Brimley Rd At Huntingwood Dr | 43.7986699 | -79.2735799 | 4826
+2481 | 2278 Brimley Rd | 43.7970899 | -79.2728799 | 4814
+776 | Brimley Rd At Dennett Dr | 43.79326 | -79.27115 | 4820
+7910 | Brimley Rd At Heather Rd South Side | 43.79034 | -79.26995 | 4824
+5482 | Brimley Rd At Sheppard Ave East | 43.78783 | -79.26868 | 10147
+1034 | Brimley Rd At Pitfield Rd | 43.7835999 | -79.26653 | 10148
+7794 | Brimley Rd At Grittani Lane South Side | 43.78085 | -79.26549 | 10149
+1183 | Brimley Rd At Progress Ave | 43.77553 | -79.26339 | 10150
+3121 | Triton Rd At Borough Dr | 43.77352 | -79.2614199 | 1613
+14278 | Scarborough Centre Station | 43.7742099 | -79.25841 | 14759
+7848 | Triton Rd At Brimley Rd | 43.7736399 | -79.26152 | 1612
+2485 | Brimley Rd At Golden Gate Crt | 43.7721 | -79.26206 | 0631
+3751 | Brimley Rd At Ellesmere Rd South Side | 43.76968 | -79.2613899 | 0629
+7107 | Brimley Rd At Applefield Dr (North) | 43.7684599 | -79.2609199 | 0615
+3244 | Brimley Rd At Waterfield Dr | 43.7653299 | -79.2596999 | 0647
+3278 | Brimley Rd At Applefield Dr (South) | 43.7622799 | -79.2585199 | 0616
+1639 | Brimley Rd At Dorcot Ave South Side | 43.7587399 | -79.2571699 | 0623
+8797 | Brimley Rd At Britwell Ave | 43.75615 | -79.25618 | 0621
+8404 | Brimley Rd At Lawrence Ave East | 43.7537499 | -79.2555899 | 0639
+7787 | Brimley Rd At Arnprior Rd South Side | 43.7511699 | -79.25448 | 0617
+7598 | Brimley Rd At Shediac Rd | 43.74895 | -79.25356 | 0643
+9264 | Brimley Rd At Largo Lane South Side | 43.74712 | -79.25279 | 0634
+4432 | Brimley Rd At Deerfield Rd | 43.74559 | -79.25215 | 0641
+7808 | Brimley Rd At Gully Dr South Side | 43.74347 | -79.25127 | 0632
+7700 | Brimley Rd At Dallyn Cres | 43.74123 | -79.25037 | 0622
+7990 | Brimley Rd At Strode Dr South Side | 43.73944 | -79.24961 | 0645
+7856 | Brimley Rd At Eglinton Ave East | 43.73688 | -79.2483999 | 0626
+4194 | Eglinton Ave East At Gilder Dr | 43.7357699 | -79.25297 | 1033
+8550 | Eglinton Ave East At Huntington Ave West Side | 43.7350899 | -79.25601 | 1034
+323 | Eglinton Ave East At Midland Ave West Side | 43.7344699 | -79.25888 | 1036
+5465 | 2466 Eglinton Ave East (Rainbow Village) | 43.7341 | -79.2604399 | 6365
+9949 | North Service Rd At Eglinton Ave East | 43.73305 | -79.2654799 | 1038
+14231_ar | Kennedy Station | 43.7322699 | -79.26401

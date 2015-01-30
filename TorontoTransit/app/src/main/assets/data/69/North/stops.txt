@@ -1,0 +1,30 @@
+8107 | Birchmount Rd At Kingston Rd North Side | 43.6935999 | -79.26248 | 7563
+4872 | Birchmount Rd At Hollis Ave | 43.6949299 | -79.2630299 | 7551
+7686 | Birchmount Rd At Danforth Ave | 43.6967799 | -79.2637999 | 7547
+2130 | Birchmount Rd At Pine Grove Ave | 43.6980999 | -79.2643399 | 0440
+400 | Birchmount Rd At Highview Ave | 43.69957 | -79.26495 | 7550
+1519 | Birchmount Rd At Raleigh Ave | 43.7017799 | -79.2658499 | 7557
+2693 | Opposite 444 Birchmount Rd | 43.70458 | -79.26704 | 14283
+5448 | Birchmount Rd At Parnell Ave | 43.70533 | -79.26734 | 7556
+9265 | Birchmount Rd At Danforth Rd | 43.7068499 | -79.2679899 | 0399
+5055 | Birchmount Rd At Sadler Dr North Side | 43.7094199 | -79.26903 | 7558
+4879 | Birchmount Rd At Zenith Dr North Side | 43.71131 | -79.26981 | 7561
+4558 | St Clair Ave East At Birchmount Rd West Side | 43.7141499 | -79.27184 | 1554
+5626 | St Clair Ave East At Santamonica Blvd | 43.71322 | -79.2764199 | 6126
+14311_ar | Warden Station | 43.7109699 | -79.27991
+2275 | Birchmount Rd At Kingston Rd | 43.6931399 | -79.26245 | 7553
+1529 | Kingston Rd At Birchcliff Ave | 43.6915999 | -79.26466 | 4206
+7514 | Kingston Rd At Eastwood Ave | 43.6903 | -79.2670299 | 4218
+5532 | Kingston Rd At Manderley Dr | 43.6890799 | -79.2691 | 7904
+1107 | Warden Ave At Kingston Rd North Side | 43.6881899 | -79.27104 | 8579
+1168 | Warden Ave At Ionson Blvd | 43.6906699 | -79.2720599 | 8577
+7124 | Warden Ave At Hollis Ave North Side | 43.6931899 | -79.2730599 | 8572
+2283 | Warden Ave At Danforth Ave | 43.69424 | -79.2735 | 8553
+6489 | Warden Ave At Danforth Rd | 43.6970199 | -79.2746499 | 8555
+4928 | Warden Ave At Danforth Rd North Side | 43.6977799 | -79.27497 | 1623
+6848 | Warden Ave At Mack Ave North Side | 43.7005299 | -79.2760799 | 1625
+9242 | Warden Ave At Cataraqui Cres | 43.70226 | -79.27681 | 1622
+14782 | Warden Ave At Firvalley Crt | 43.70383 | -79.27746 | 15013
+6813 | 673 Warden Ave | 43.70562 | -79.2782 | 1626
+5586 | 689 Warden Ave | 43.7074199 | -79.2789799 | 1621
+14310_ar | Warden Station | 43.7110399 | -79.27979

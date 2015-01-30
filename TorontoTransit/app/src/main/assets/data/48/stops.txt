@@ -1,0 +1,64 @@
+6842 | Rathburn Rd At Mill Rd | 43.6453599 | -79.5901 | 1494
+3270 | Rathburn Rd At Elmcrest Rd | 43.6473599 | -79.58697 | 1476
+4173 | Rathburn Rd At Ivybridge Dr | 43.6483799 | -79.58523 | 1485
+6711 | Rathburn Rd At Melbert Rd | 43.6498499 | -79.5828 | 1493
+2355 | Opposite 580 Rathburn Rd (Seneca School) | 43.65061 | -79.5815899 | 1500
+10186 | Rathburn Rd At Renforth Dr | 43.6512299 | -79.5797 | 1499
+5731 | Rathburn Rd At Forestone Rd | 43.65177 | -79.5776299 | 1479
+6500 | Rathburn Rd At The West Mall | 43.6528499 | -79.57278 | 1504
+7947 | Rathburn Rd At The East Mall East Side | 43.6549599 | -79.5637 | 1472
+7362 | Rathburn Rd At Meadowbank Rd | 43.6557199 | -79.56073 | 1492
+1420 | 333 Rathburn Rd At Walkway To Alanmeade Cres | 43.65617 | -79.5587299 | 1478
+2178 | Rathburn Rd At Martin Grove Rd | 43.65693 | -79.5553899 | 1491
+9180 | Rathburn Rd At Edenwood Dr | 43.65837 | -79.5492199 | 1474
+2381 | Rathburn Rd At Haliburton Ave | 43.65901 | -79.5465199 | 1481
+8131 | Rathburn Rd At Kipling Ave | 43.6597299 | -79.54333 | 1486
+2370 | Rathburn Rd At Remington Dr | 43.6606299 | -79.53926 | 1497
+7928 | Rathburn Rd At Cedarland Dr | 43.66138 | -79.5357799 | 1470
+3245 | Rathburn Rd At Birchcroft Rd | 43.6618699 | -79.53356 | 1469
+9077 | Rathburn Rd At Islington Ave | 43.6621699 | -79.53199 | 1483
+7021 | Islington Ave At Anglesey Blvd | 43.6638599 | -79.5316999 | 1162
+5195 | Anglesey Blvd At Wimbleton Rd East Side | 43.66458 | -79.5289799 | 0018
+8095 | Anglesey Blvd At Pinehurst Cres East Side | 43.66312 | -79.5243599 | 0014
+4894 | Anglesey Blvd At The Kingsway | 43.6637999 | -79.52181 | 0012
+2399 | Anglesey Blvd At Royal York Rd | 43.6658099 | -79.5197599 | 0017
+5113 | Royal York Rd At Ashley Rd | 43.6634499 | -79.51859 | 6974
+9870 | Royal York Rd At Strath Humber Crt | 43.66137 | -79.51766 | 1519
+3117 | Royal York Rd At Dundas St West South Side | 43.65738 | -79.51598 | 1512
+2424 | Royal York Rd At Kingsgrove Blvd | 43.6538499 | -79.5142699 | 1516
+8553 | Royal York Rd At Lynngrove Ave | 43.65147 | -79.5132 | 1517
+7389 | Royal York Rd At King Georges Rd | 43.6502199 | -79.5126799 | 1514
+14271_ar | Royal York Station | 43.6482799 | -79.51104
+14271 | Royal York Station | 43.6482799 | -79.51104 | 14752
+10007 | Royal York Rd At King Georges Rd | 43.64996 | -79.51242 | 1513
+3732 | Royal York Rd At Tremayne Ave | 43.65153 | -79.51314 | 1520
+9668 | Royal York Rd At Kingsgrove Blvd | 43.6533899 | -79.5139099 | 1515
+6892 | Royal York Rd At Usher Ave | 43.65553 | -79.51483 | 1521
+8681 | Royal York Rd At Dundas St West | 43.6577 | -79.51588 | 1511
+2661 | Royal York Rd At Strath Humber Crt | 43.66119 | -79.51734 | 1518
+2565 | Royal York Rd At Ashley Park Rd (North) North Side | 43.6639099 | -79.5186299 | 1510
+1157 | Anglesey Blvd At Royal York Rd West Side | 43.6658599 | -79.52025 | 0016
+5837 | Anglesey Blvd At The Kingsway | 43.66419 | -79.5217499 | 0013
+977 | Anglesey Blvd At Pinehurst Cres North Side | 43.6635099 | -79.5249299 | 0015
+9597 | Anglesey Blvd At Wimbleton Rd | 43.6647899 | -79.5289999 | 0019
+8899 | Anglesey Blvd At Islington Ave | 43.6644899 | -79.53154 | 0011
+7744 | Rathburn Rd At Islington Ave West Side | 43.66233 | -79.5317099 | 1482
+4695 | Rathburn Rd At Birchcroft Rd West Side | 43.6619099 | -79.53363 | 1468
+7502 | Rathburn Rd At Pheasant Lane | 43.6615399 | -79.53537 | 1495
+6078 | Rathburn Rd At The Wynd | 43.6609099 | -79.53836 | 1502
+9586 | Rathburn Rd At Kipling Ave | 43.6599399 | -79.54297 | 1487
+1113 | Rathburn Rd At Kipling Ave West Side | 43.6598099 | -79.54366 | 6010
+6176 | Rathburn Rd At Lloyd Manor Rd West Side | 43.65893 | -79.5474199 | 1489
+2880 | Rathburn Rd At Ravenscrest Dr | 43.6584599 | -79.54936 | 1496
+9942 | Rathburn Rd At Martin Grove Rd | 43.65717 | -79.5549499 | 1490
+10240 | Rathburn Rd At West Deane Park Dr West Side | 43.6564899 | -79.55809 | 1503
+8191 | Rathburn Rd At Cottrelle Gate | 43.6557199 | -79.56133 | 1471
+6599 | Rathburn Rd At The East Mall West Side | 43.65498 | -79.5648599 | 1473
+3927 | Rathburn Rd At The West Mall | 43.6532099 | -79.57225 | 1505
+4301 | Rathburn Rd At Forestone Rd | 43.65196 | -79.5773799 | 1480
+9929 | Rathburn Rd At Renforth Dr West Side | 43.6513999 | -79.5799 | 1498
+2260 | 580 Rathburn Rd (Seneca School) | 43.6506499 | -79.58176 | 1501
+7016 | 590 Rathburn Rd | 43.6496199 | -79.58346 | 1477
+1379 | Rathburn Rd At Ivybridge Dr West Side | 43.6485 | -79.5852299 | 1484
+1906 | Rathburn Rd At Elmcrest Rd | 43.6476899 | -79.58663 | 1475
+6842_ar | Rathburn Rd At Mill Rd | 43.6453599 | -79.5901

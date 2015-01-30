@@ -1,0 +1,12 @@
+911 | York Blvd (North) At York University Commons | 43.7740599 | -79.5013 | 11279
+8744 | The Pond Rd At Ian Macdonald Blvd West Side | 43.7706399 | -79.49979 | 12193
+8099 | Sentinel Rd At The Pond Rd South Side | 43.76938 | -79.5024 | 7992
+14937 | Sentinel Rd At Cook Rd | 43.7671099 | -79.5013099 | 15130
+14371 | Murray Ross Pkwy At Sentinel Rd East Side | 43.7648899 | -79.50026 | 14845
+14639 | Murray Ross Pkwy At Haynes Ave East Side | 43.76547 | -79.4978699 | 14861
+14372 | Murray Ross Pkwy At Keele St | 43.76718 | -79.4925599 | 14846
+5165 | Dufferin St At Finch Ave West | 43.7692399 | -79.4671499 | 0981
+14175 | Downsview Station | 43.7493599 | -79.4621099 | 14654
+3525 | Sheppard Ave East At Bathurst St | 43.7553299 | -79.43894 | 7263
+989 | Sheppard Ave East At Bathurst St East Side | 43.75543 | -79.4378399 | 7264
+14293_ar | Sheppard-Yonge Station | 43.7615199 | -79.41233

@@ -1,0 +1,63 @@
+14161 | Broadview Station | 43.6770099 | -79.35815 | 14639
+4402 | Erindale Ave At Broadview Ave | 43.6775399 | -79.3584799 | 2428
+2800 | Broadview Ave At Danforth Ave | 43.6763599 | -79.3590299 | 3371
+3442 | Broadview Ave At Wolfrey Ave | 43.67435 | -79.35722 | 1769
+8499 | Broadview Ave At Millbrook Cres | 43.67213 | -79.35516 | 1762
+2707 | Broadview Ave At Bain Ave | 43.6705499 | -79.3540599 | 10285
+7801 | Broadview Ave At Withrow Ave | 43.66988 | -79.35343 | 1767
+4197 | Broadview Ave At Langley Ave-Bridgepoint Health Ctr | 43.66803 | -79.3533399 | 1760
+7809 | Broadview Ave At Simpson Ave | 43.6665 | -79.35313 | 1763
+10353 | Broadview Ave At Gerrard St East | 43.6656799 | -79.3527799 | 1758
+8223 | Broadview Ave At Mount Stephen St | 43.6641099 | -79.3521299 | 9318
+7690 | Broadview Ave At Dundas St East | 43.66261 | -79.35149 | 1756
+4041 | Broadview Ave At Queen St East | 43.6591099 | -79.34996 | 3374
+1070 | Queen St East At Carroll St | 43.6584399 | -79.35199 | 3039
+10272 | Queen St East At River St | 43.6574499 | -79.35641 | 3067
+8731 | Queen St East At Sumach St | 43.65691 | -79.3588199 | 3074
+7217 | Queen St East At Sackville St | 43.6563499 | -79.36135 | 3069
+6899 | Queen St East At Trefann St | 43.6559399 | -79.36318 | 10166
+5599 | Queen St East At Parliament St | 43.65568 | -79.3642699 | 3065
+3261 | Parliament St At Richmond St East | 43.6546299 | -79.3640999 | 10229
+1263 | Parliament St At Adelaide St East | 43.65363 | -79.36367 | 6632
+6122 | Parliament St At King St East | 43.6528 | -79.36332 | 6640
+1581 | King St East At Ontario St | 43.6519099 | -79.36572 | 4139
+1962 | King St East At Sherbourne St | 43.6513399 | -79.36816 | 4146
+5334 | King St East At Jarvis St | 43.65056 | -79.3717399 | 4136
+5595 | King St East At Church St | 43.6499999 | -79.37426 | 4134
+4283 | King St East At Victoria St | 43.6494899 | -79.3766499 | 4153
+7034 | King St East At Yonge St (King Station) | 43.6492899 | -79.37778 | 4154
+9981 | King St West At Bay St | 43.6487399 | -79.38009 | 4159
+8798 | King St West At York St | 43.64801 | -79.3834099 | 4198
+3357 | King St West At University Ave (St Andrew Station) | 43.64779 | -79.3845799 | 4191
+4969 | King St West At Simcoe St | 43.64749 | -79.3859599 | 4183
+2444 | King St West At John St | 43.6466599 | -79.38964 | 4177
+6593 | King St West At Peter St | 43.6461199 | -79.39215 | 4181
+436 | King St West At Spadina Ave | 43.6455799 | -79.39466 | 4185
+1549 | King St West At Brant St West Side | 43.64485 | -79.3983299 | 4160
+5279 | King St West At Portland St | 43.6445299 | -79.39994 | 10176
+7211 | King St West At Bathurst St | 43.6440699 | -79.4023 | 4156
+954 | King St West At Tecumseth St | 43.6434999 | -79.40505 | 4190
+2333 | King St West At Niagara St | 43.6429899 | -79.40753 | 4179
+2462 | King St West At Strachan Ave | 43.6422 | -79.4116499 | 4188
+8560 | King St West At Shaw St | 43.6415299 | -79.41477 | 4163
+2217 | King St West At Sudbury St | 43.64106 | -79.4171599 | 11021
+5091 | King St West At Jefferson Ave | 43.64008 | -79.4220099 | 4175
+10438 | King St West At Joe Shuster Way | 43.6398599 | -79.42326 | 14400
+4341 | King St West At Dufferin St | 43.6390799 | -79.427 | 4166
+5890 | King St West At Spencer Ave | 43.63831 | -79.4307599 | 13890
+7370 | King St West At Cowan Ave | 43.6381199 | -79.43173 | 10177
+5141 | King St West At Dunn Ave | 43.63784 | -79.4330599 | 4169
+2383 | King St West At Close Ave | 43.6375299 | -79.43458 | 10178
+7460 | King St West At Jameson Ave | 43.63726 | -79.4358399 | 4174
+10237 | King St West At Dowling Ave | 43.6367399 | -79.43848 | 4165
+9878 | King St West At Wilson Park Rd West Side | 43.63703 | -79.44211 | 4193
+8975 | Roncesvalles Ave At Queen St West | 43.63853 | -79.44578 | 11596
+14837 | Roncesvalles Ave At Queen St West North Side | 43.6391899 | -79.44616 | 15059
+14807 | Roncesvalles Ave At Marion St North Side | 43.64133 | -79.44701 | 15038
+9854 | Roncesvalles Ave At Garden Ave | 43.6435799 | -79.4479399 | 4574
+987 | Roncesvalles Ave At Fermanagh Ave | 43.6462199 | -79.4489399 | 4571
+8244 | Roncesvalles Ave At Grenadier Rd | 43.6486 | -79.44989 | 4576
+9383 | Roncesvalles Ave At Howard Park Ave | 43.6512999 | -79.45092 | 4578
+1222 | Roncesvalles Ave At Boustead Ave North Side | 43.6535199 | -79.4516999 | 4568
+7898 | Dundas St West At Bloor St West | 43.65613 | -79.45225 | 2150
+14186_ar | Dundas West Station | 43.6567799 | -79.45353

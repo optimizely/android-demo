@@ -1,0 +1,43 @@
+857 | Transit Rd At Wilson Ave North Side | 43.7347199 | -79.45217 | 11878
+14174 | Downsview Station | 43.7495299 | -79.46255 | 14652
+8170 | William Allen Rd At Sheppard Ave West | 43.75004 | -79.46317 | 3172
+14360 | William R Allen Rd At Rimrock Rd | 43.7575799 | -79.4647499 | 14834
+9079 | William R Allen Rd At Overbrook Pl | 43.76088 | -79.46498 | 1645
+7259 | Dufferin St At Stanstead Dr | 43.76306 | -79.46548 | 0983
+7080 | Opposite 4400 Dufferin St | 43.76536 | -79.466 | 11341
+14362 | Dufferin St At Finch Ave West North Side | 43.7696299 | -79.46689 | 14836
+8935 | Opposite 4630 Dufferin St | 43.77372 | -79.468 | 7657
+8555 | Dufferin St At Martin Ross Ave | 43.7750899 | -79.4683199 | 7654
+7706 | Dufferin St At Supertest Rd | 43.77784 | -79.46899 | 7660
+6825 | Dufferin St At Dolomite Dr | 43.7806999 | -79.4696799 | 7648
+2868 | Dufferin St At Gerry Fitzgerald Dr | 43.7837099 | -79.47007 | 14313
+1964 | Dufferin St At Steeles Ave West | 43.7870799 | -79.46994 | 7659
+8140 | Dufferin St At Steeles Ave West North Side | 43.7877099 | -79.47005 | 12128
+5684 | Dufferin St At Viceroy Rd | 43.7887 | -79.47036 | 14191
+9186 | Dufferin St At Glen Shields Ave (South) | 43.7922199 | -79.47117 | 11404
+14969 | Dufferin St At Glen Shields Ave (South) North Side | 43.7925199 | -79.4712799 | 15156
+7652 | Dufferin St At Opposite Walkway To Pauline Crt | 43.79446 | -79.47176 | 11799
+6211 | Dufferin St At Clark Ave West | 43.7970999 | -79.4723299 | 11405
+10254 | Dufferin St At Opp Walkway To Unity Cres/Twin Pines Cres | 43.7988899 | -79.47278 | 11406
+4532 | Dufferin St At Draper Blvd | 43.8014899 | -79.4733999 | 11407
+8246 | Dufferin St At Centre St | 43.8054699 | -79.47437 | 11408
+985 | Dufferin St At Beverly Glen Blvd | 43.80941 | -79.47522 | 11409
+3259 | Dufferin St At Racco Pkwy | 43.81308 | -79.47586 | 13673
+10482 | Dufferin St At Caraway Dr | 43.8149499 | -79.4762999 | 14387
+4084 | Dufferin St At Langstaff Rd | 43.8237499 | -79.4782999 | 13348
+6537 | Confederation Pkwy At Dufferin St West Side | 43.8294299 | -79.4809 | 13487
+9973 | Confederation Pkwy At Staffern Dr | 43.8287699 | -79.4860399 | 13488
+6804 | 200 Confederation Pkwy | 43.8304599 | -79.4897999 | 13489
+8118 | Confederation Pkwy At Camden Dr | 43.8344 | -79.49275 | 14192
+10260 | Confederation Pkwy At Ten Oaks Blvd North Side | 43.83576 | -79.4924699 | 13617
+3198 | Confederation Pkwy At Dufferin Hill Dr | 43.83727 | -79.49159 | 13491
+10160 | Confederation Pkwy At Rutherford Rd | 43.8405899 | -79.49227 | 13492
+12889 | Peter Rupert Ave At District Ave | 43.84457 | -79.49191 | 14455
+12927 | Peter Rupert Ave At Maurier Blvd | 43.84838 | -79.49308 | 14456
+12900 | Peter Rupert Ave At Golden Forest Rd North Side | 43.85026 | -79.49397 | 14457
+12915 | Peter Rupert Ave At Ivy Glen Dr | 43.8522799 | -79.4947499 | 14458
+12929 | Peter Rupert Ave At Sand Valley St | 43.8549 | -79.49674 | 14459
+12901 | Peter Rupert Ave At Freedom Trail | 43.8566999 | -79.4977799 | 14460
+12930 | Peter Rupert Ave At Major Mackenzie Dr West | 43.8584 | -79.49857 | 14461
+12910 | Major Mackenzie Dr West At Grand Trunk Ave | 43.8595199 | -79.49388 | 14462
+12921_ar | Major Mackenzie Dr West At Dufferin St | 43.8609799 | -79.48796

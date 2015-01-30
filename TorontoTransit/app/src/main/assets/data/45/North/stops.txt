@@ -1,0 +1,75 @@
+14243_IB | Kipling Station | 43.6382399 | -79.53492 | 14724
+3426 | Aukland Rd At Dundas St West North Side | 43.63877 | -79.53854 | 5128
+441 | Kipling Ave At Bloor St West North Side | 43.64241 | -79.53546 | 4291
+7767 | Kipling Ave At Tyre Ave | 43.64496 | -79.53658 | 4382
+7000 | Kipling Ave At Mattice Rd | 43.64687 | -79.5374 | 4338
+7547 | Kipling Ave At Goswell Rd | 43.64904 | -79.53834 | 4314
+10322 | Kipling Ave At Burnhamthorpe Rd | 43.65077 | -79.5391 | 4294
+2769 | Kipling Ave At Wingrove Hill | 43.65429 | -79.54065 | 4391
+3657 | Kipling Ave At Bywood Dr | 43.6564599 | -79.5415599 | 4298
+7992 | Kipling Ave At Rathburn Rd | 43.6597099 | -79.5429699 | 4364
+10034 | Kipling Ave At Beaverbrook Ave | 43.6621799 | -79.54406 | 4283
+8747 | Kipling Ave At North Heights Rd North Side | 43.66524 | -79.54544 | 4345
+6367 | Kipling Ave At Prince George Dr | 43.6675299 | -79.5464399 | 4357
+10241 | Kipling Ave At Princess Margaret Blvd | 43.6699299 | -79.5475299 | 4358
+3300 | Kipling Ave At The Kingsway | 43.6734999 | -79.5490999 | 4335
+803 | Kipling Ave At Byland Rd | 43.6748999 | -79.5496999 | 4296
+8096 | Kipling Ave At Eglinton Ave West | 43.6770399 | -79.5506499 | 4304
+10362 | Kipling Ave At Widdicombe Hill Blvd | 43.6788599 | -79.5514899 | 4389
+3776 | Kipling Ave At Hunting Ridge | 43.6812799 | -79.55256 | 4328
+10288 | Kipling Ave At Gracey Blvd | 43.68354 | -79.55359 | 4316
+2051 | Kipling Ave At Westway | 43.6854599 | -79.5544199 | 4387
+9520 | Kipling Ave At Holywell Dr | 43.6882299 | -79.55572 | 4324
+3634 | Kipling Ave At Nugent Rd | 43.69032 | -79.55666 | 4349
+6795 | Kipling Ave At Hawthorne Rd North Side | 43.69167 | -79.55731 | 4319
+10118 | 1735 Kipling Ave | 43.6930899 | -79.5579399 | 9315
+6688 | Kipling Ave At Dixon Rd North Side | 43.6947399 | -79.55863 | 4303
+6310 | Kipling Ave At Kingsview Blvd | 43.69684 | -79.55961 | 4333
+4477 | Kipling Ave At St Andrews Blvd | 43.6984299 | -79.5603399 | 4376
+3094 | Kipling Ave At Greensboro Dr | 43.70237 | -79.56206 | 4318
+440 | Kipling Ave At Belfield Rd | 43.7047299 | -79.5631599 | 4285
+3062 | Kipling Ave At Bethridge Rd | 43.7089999 | -79.56523 | 4287
+2193 | Kipling Ave At Rexdale Blvd | 43.71153 | -79.56641 | 4370
+7851 | Kipling Ave At Redwater Dr | 43.7154799 | -79.56834 | 4368
+4057 | Kipling Ave At Redcliff Blvd | 43.7186399 | -79.5698599 | 4367
+10141 | Kipling Ave At Snaresbrook Dr | 43.7216499 | -79.5712999 | 4373
+3682 | Kipling Ave At Genthorn Ave North Side | 43.72368 | -79.57229 | 4312
+8370 | Kipling Ave At Hinton Rd | 43.7256999 | -79.5732399 | 4322
+9649 | Kipling Ave At Brookmere Rd | 43.72803 | -79.57438 | 4293
+8187 | Kipling Ave At Esther Lorrie Dr | 43.7315699 | -79.57615 | 4306
+10402 | Kipling Ave At John Garland Blvd North Side | 43.73577 | -79.57823 | 4329
+3632 | Kipling Ave At Albion Rd | 43.7391799 | -79.5799499 | 4276
+1027 | Kipling Ave At Penlea Ave | 43.7402899 | -79.58043 | 4355
+7036 | Kipling Ave At Finch Ave West | 43.74305 | -79.58179 | 11043
+1342 | Kipling Ave At Farr Ave North Side | 43.7443399 | -79.58242 | 4309
+9739 | Kipling Ave At Panorama Crt | 43.74662 | -79.58348 | 4354
+8479 | 2677 Kipling Ave | 43.7488299 | -79.5846299 | 4279
+7269 | Kipling Ave At Rowntree Rd | 43.7508399 | -79.5855799 | 4278
+4475 | Kipling Ave At Beaconhill Rd | 43.75348 | -79.58686 | 4281
+7965 | Kipling Ave At Kidron Valley Dr | 43.75605 | -79.58805 | 4331
+5805 | Kipling Ave At Markbrook Lane | 43.7582899 | -79.5891199 | 10795
+10319 | Kipling Ave At Steeles Ave West | 43.7593599 | -79.5896199 | 9878
+5171_ar | Kipling Ave At Steeles Ave West | 43.7599899 | -79.59013
+5963 | Belfield Rd At Kipling Ave West Side | 43.7048199 | -79.56407 | 3335
+7849 | Belfield Rd At Shaft Rd West Side | 43.7040699 | -79.56663 | 3342
+7019 | 60 Belfield Rd | 43.7035299 | -79.56932 | 3322
+9116 | Belfield Rd At McCulloch Ave West Side | 43.70264 | -79.5731199 | 3340
+2820 | Belfield Rd At Martin Grove Rd | 43.7021299 | -79.57542 | 3338
+5197 | Belfield Rd At C.n East Spur | 43.7014799 | -79.57799 | 3328
+9542 | Belfield Rd At Iron St | 43.7007699 | -79.58092 | 3334
+6751 | Belfield Rd At C. N. West Spur | 43.7002699 | -79.5831 | 3329
+1035 | Belfield Rd At Cityview Dr | 43.6997 | -79.5856299 | 3331
+395 | Belfield Rd At Brockport Dr West Side | 43.69894 | -79.5888299 | 3325
+7076 | Belfield Rd At Attwell Dr | 43.69824 | -79.5918099 | 7527
+375 | Attwell Dr At Belfield Rd North Side | 43.69844 | -79.59327 | 3300
+376 | Attwell Dr At Disco Rd | 43.70101 | -79.59488 | 3297
+7773 | Opposite 111 Disco Rd (West Detention Centre) | 43.7003399 | -79.59929 | 3482
+269 | Disco Rd At Carlingview Dr | 43.6998899 | -79.60111 | 3480
+9687 | 150 Disco Rd | 43.701 | -79.60807 | 3477
+5720 | Attwell Dr At Disco Rd North Side | 43.7024399 | -79.60932 | 11963
+4113 | 452 Attwell Dr | 43.70415 | -79.60951 | 3296
+4372 | 414 Attwell Dr | 43.7037599 | -79.6067099 | 3293
+3339 | 396 Attwell Dr | 43.70294 | -79.6049999 | 3292
+4003 | Attwell Dr At Carlingview Dr | 43.7032399 | -79.60312 | 3295
+268 | Disco Rd At Carlingview Dr East Side | 43.6998199 | -79.60077 | 3479
+5109_ar | 111 Disco Rd (West Detention Centre) | 43.7002599 | -79.59901

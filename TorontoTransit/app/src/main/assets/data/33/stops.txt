@@ -1,0 +1,29 @@
+10040 | Roselawn Ave At Bathurst St | 43.7053299 | -79.42613 | 4585
+3485 | Bathurst St At Ridge Hill Dr | 43.7034599 | -79.4260099 | 0192
+9951 | Spadina Rd At Eglinton Ave West South Side | 43.7020199 | -79.41883 | 4604
+8199 | Spadina Rd At Old Forest Hill Rd | 43.6991299 | -79.4171299 | 4605
+6352 | Spadina Rd At Elderwood Dr | 43.6967799 | -79.4161199 | 14062
+950 | Spadina Rd At Ardmore Rd | 43.69533 | -79.4155 | 4607
+2894 | Spadina Rd At Burton Rd | 43.6929899 | -79.4145299 | 4608
+7890 | Spadina Rd At Strathearn Blvd South Side | 43.69072 | -79.41359 | 4616
+8909 | Spadina Rd At Lonsdale Rd | 43.6887199 | -79.4127799 | 4614
+6814 | Spadina Rd At Heath St West | 43.6868499 | -79.4121299 | 4611
+9552 | Spadina Rd At St Clair Ave West | 43.68483 | -79.41131 | 4615
+5735 | St Clair Ave West At Tweedsmuir Ave West Side | 43.68413 | -79.4136099 | 4632
+14300_ar | St Clair West Station | 43.6843099 | -79.41518
+14300 | St Clair West Station | 43.6843099 | -79.41518 | 14783
+8875 | St Clair Ave West At Tweedsmuir Ave | 43.68411 | -79.4134599 | 14343
+10432 | Spadina Rd At St Clair Ave West North Side | 43.68518 | -79.41133 | 14364
+1600 | Spadina Rd At Heath St West | 43.6867099 | -79.4118899 | 4610
+7328 | Spadina Rd At Lonsdale Rd | 43.6885799 | -79.41256 | 4613
+2929 | Spadina Rd At Strathearn Blvd | 43.69089 | -79.41352 | 4617
+8756 | Spadina Rd At Kilbarry Rd | 43.6926099 | -79.4142599 | 4612
+6019 | Spadina Rd At Hawarden Cres North Side | 43.69449 | -79.41503 | 4609
+2810 | Spadina Rd At Archer Rd | 43.6959999 | -79.4156899 | 4606
+3128 | Spadina Rd At Old Forest Hill Rd | 43.6988699 | -79.4168799 | 14321
+4394 | Spadina Rd At Eglinton Ave West | 43.7022499 | -79.4188299 | 12795
+3129 | Eglinton Ave West At Vesta Dr | 43.7020999 | -79.42071 | 2415
+1700 | Eglinton Ave West At Old Forest Hill Rd | 43.70164 | -79.4229099 | 2391
+1747 | Eglinton Ave West At Bathurst St | 43.70125 | -79.4245999 | 2327
+9198 | Bathurst St At Vesta Dr | 43.7031499 | -79.4257499 | 0214
+3099 | Bathurst St At Roselawn Ave | 43.7050099 | -79.4262 | 0195

@@ -1,0 +1,39 @@
+7496 | Brentcliffe Rd At Eglinton Ave South Side | 43.7140699 | -79.35966 | 4809
+8979 | Brentcliffe Rd At Vanderhoof Ave | 43.7129299 | -79.3591599 | 4811
+3431 | Brentcliffe Rd At Wicksteed Ave | 43.71186 | -79.35875 | 4812
+7668 | 70 Wicksteed Ave | 43.7111799 | -79.36001 | 6208
+2432 | 150 Laird Dr | 43.70933 | -79.36317 | 5135
+1202 | Laird Dr At Markham Ave | 43.7078599 | -79.3625799 | 5144
+5829 | Laird Dr At Lea Ave | 43.7062399 | -79.3619299 | 5143
+1134 | Laird Dr At Kenrae Rd | 43.7046199 | -79.3612799 | 5142
+6085 | Laird Dr At Canvarco Rd South Side | 43.7035399 | -79.3608599 | 5137
+3983 | Millwood Rd At Redway Rd South Side | 43.70176 | -79.35766 | 5752
+3938 | Millwood Rd At Overlea Blvd South Side | 43.70158 | -79.3524799 | 2927
+4637 | Donlands Ave At Pape Ave East Side | 43.69699 | -79.3488 | 9448
+1059 | Donlands Ave At Elmsdale Rd | 43.69585 | -79.34476 | 9449
+8961 | Donlands Ave At O&apos;Connor Dr South Side | 43.6942599 | -79.34302 | 0967
+7758 | Donlands Ave At Torrens Ave | 43.69286 | -79.34244 | 0976
+1931 | Donlands Ave At Cosburn Ave South Side | 43.6907 | -79.34159 | 0960
+1583 | Donlands Ave At Floyd Ave | 43.68916 | -79.34096 | 0962
+4393 | Donlands Ave At Mortimer Ave | 43.6877199 | -79.3403699 | 0966
+10053 | Donlands Ave At Sammon Ave | 43.68594 | -79.33965 | 0971
+1682 | Donlands Ave At Somers Ave South Side | 43.6842999 | -79.3389699 | 0972
+4862 | Donlands Ave At Baltic Ave | 43.6830099 | -79.3384199 | 0959
+14171_ar | Donlands Station | 43.6808499 | -79.33779
+14190 | Eglinton Station | 43.7045799 | -79.39846 | 14669
+303 | Duplex Ave At Eglinton Ave West | 43.7062299 | -79.4001099 | 13898
+327 | Eglinton Ave East At Holly St East Side | 43.70688 | -79.3973499 | 9111
+6665 | Eglinton Ave East At Redpath Ave | 43.70775 | -79.3929299 | 2304
+325 | Eglinton Ave East At Mt Pleasant Rd East Side | 43.7084499 | -79.38957 | 9114
+3400 | Eglinton Ave East At Forman Ave | 43.70911 | -79.3863299 | 2270
+10269 | Eglinton Ave East At Banff Rd | 43.70991 | -79.3823399 | 2234
+2751 | Eglinton Ave East At Hoyle Ave | 43.7104499 | -79.37972 | 2274
+9248 | Eglinton Ave East At Bayview Ave | 43.7108899 | -79.37743 | 2238
+314 | Eglinton Ave East At Bayview Ave East Side | 43.7112099 | -79.3759 | 11678
+7884 | Eglinton Ave East At Bessborough Dr East Side | 43.7116899 | -79.37359 | 2247
+10358 | Eglinton Ave East At Hanna Rd East Side | 43.7120999 | -79.37156 | 2272
+9648 | Eglinton Ave East At Rumsey Rd | 43.7124599 | -79.36975 | 2308
+9712 | Eglinton Ave East At Sutherland Dr | 43.7129699 | -79.36732 | 2312
+321 | Eglinton Ave East At Laird Dr | 43.71337 | -79.3653699 | 5071
+8822 | Laird Dr At Vanderhoof Ave | 43.7120199 | -79.36425 | 5147
+3832 | Laird Dr At McRae Dr | 43.7105499 | -79.3636599 | 5145

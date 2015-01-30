@@ -1,0 +1,86 @@
+6236 | Morningview Trail At Old Finch Ave | 43.8218599 | -79.20172 | 13324
+3623 | Old Finch Ave At Bingley Rd | 43.82169 | -79.2037799 | 10954
+6778 | Old Finch Ave At Valley Centre Dr (West) West Side | 43.82127 | -79.2056199 | 10955
+7244 | Littles Rd At Sewells Rd | 43.8190599 | -79.20537 | 10956
+9609 | Littles Rd At Birrell Ave | 43.8174099 | -79.2046199 | 11244
+4240 | Littles Rd At Grayson Cres (North) South Side | 43.8158999 | -79.2030999 | 11245
+2825 | Littles Rd At Morningview Trail | 43.81478 | -79.2026 | 11246
+580 | Morningside Ave At John Stoner Dr South Side | 43.8130399 | -79.20598 | 11249
+2100 | Morningside Ave At Walkway To McKnight Dr | 43.8105799 | -79.2036499 | 2971
+2131 | Morningside Ave At McLevin Ave | 43.8090799 | -79.20295 | 2956
+5472 | McLevin Ave At Fawcett Trail West Side | 43.8086299 | -79.20728 | 9587
+4808 | McLevin Ave At Empringham Dr | 43.8098 | -79.21051 | 0958
+9567 | Sewells Rd At McLevin Ave South Side | 43.81001 | -79.2140099 | 10872
+529 | Sewells Rd At Brenyon Way | 43.8079 | -79.2154899 | 10873
+7344 | Sewells Rd At Neilson Rd | 43.8068099 | -79.21824 | 10874
+5040 | Tapscott Rd At Blackwell Ave West Side | 43.8055199 | -79.22133 | 10875
+6268 | Tapscott Rd At Washburn Way | 43.8046099 | -79.2240599 | 10876
+5135 | McLevin Ave At Tapscott Rd West Side | 43.8049199 | -79.22716 | 9593
+2700 | McLevin Ave At Shepmore Terr West Side | 43.8035199 | -79.23067 | 9594
+7487 | McLevin Ave At Greenspire Rd | 43.8031499 | -79.23226 | 9595
+6586 | 120 McLevin Ave | 43.80192 | -79.2350899 | 9596
+5369 | McLevin Ave At Malvern St West Side | 43.79975 | -79.2379599 | 9597
+1537 | Nugget Ave At Markham Rd West Side | 43.7985199 | -79.24179 | 9598
+9020 | Nugget Ave At Transfer Pl | 43.7980999 | -79.24418 | 9599
+4336 | Nugget Ave At Dovedale Crt West Side | 43.7969299 | -79.2474 | 9600
+2788 | Nugget Ave At Shorting Rd | 43.7965099 | -79.25073 | 9601
+1097 | 170 Nugget Ave | 43.79499 | -79.2533399 | 9649
+6508 | 120 Nugget Ave | 43.7936399 | -79.25544 | 9602
+1547 | Nugget Ave At McCowan Rd | 43.7922999 | -79.25885 | 9603
+1082 | McCowan Rd At Sheppard Ave East | 43.78984 | -79.25904 | 1318
+5609 | McCowan Rd At Pitfield Rd | 43.7874999 | -79.25748 | 1312
+10097 | McCowan Rd At Milner Ave | 43.7855599 | -79.2566799 | 1309
+7239 | McCowan Rd At Triton Rd | 43.7755499 | -79.2528199 | 9623
+14287_ar | Scarborough Centre Station | 43.7743699 | -79.25773
+1146 | Morningview Trail At Old Finch Ave South Side | 43.8216999 | -79.20172 | 13325
+5085 | Morningview Trail At Sewells Rd | 43.8199699 | -79.2009699 | 13326
+5816 | Morningview Trail At Rangeley Dr | 43.8175499 | -79.1997699 | 13327
+5820 | 110 Morningview Trail | 43.8149599 | -79.19968 | 13328
+2757 | Morningview Trail At Littles Rd | 43.8146 | -79.2022599 | 13329
+14278 | Scarborough Centre Station | 43.7742099 | -79.25841 | 14759
+8404 | Brimley Rd At Lawrence Ave East | 43.7537499 | -79.2555899 | 0639
+14231_ar | Kennedy Station | 43.7322699 | -79.26401
+14287 | Scarborough Centre Station | 43.7743699 | -79.25773 | 14768
+9276 | Triton Rd At McCowan Rd | 43.77532 | -79.2529599 | 9614
+2541 | McCowan Rd At Progress Ave North Side | 43.7766499 | -79.2528899 | 1313
+2286 | McCowan Rd At Highway 401 | 43.78257 | -79.25523 | 12078
+9413 | McCowan Rd At Milner Ave North Side | 43.7859599 | -79.2565699 | 1308
+7294 | McCowan Rd At Invergordon Ave | 43.7873099 | -79.2570899 | 1300
+9391 | McCowan Rd At Sheppard Ave East | 43.78947 | -79.25859 | 1317
+14809 | Nugget Ave At McCowan Rd East Side | 43.7920799 | -79.25959 | 15040
+5421 | 105 Nugget Ave | 43.7933499 | -79.25583 | 9565
+9455 | 191 Nugget Ave | 43.7949499 | -79.25317 | 9648
+5589 | Nugget At Shorting Rd | 43.79626 | -79.2512299 | 9566
+1588 | Nugget At Dovedale Crt | 43.79676 | -79.2475499 | 9567
+6598 | Nugget Ave At Transfer Pl | 43.7979099 | -79.24453 | 9568
+8437 | Nugget Ave At Markham Rd | 43.79836 | -79.2417599 | 14085
+1051 | McLevin Ave At Markham Rd East Side | 43.7985899 | -79.2405 | 9569
+8011 | McLevin Ave At Malvern St | 43.7997399 | -79.2378 | 9570
+1982 | Opposite 120 McLevin Ave | 43.8015899 | -79.2353 | 9571
+1244 | McLevin Ave At Greenspire Rd | 43.8029699 | -79.23264 | 9572
+4946 | McLevin Ave At Shepmore Terr East Side | 43.8035199 | -79.23024 | 9573
+7548 | McLevin Ave At Tapscott Rd | 43.80495 | -79.2268799 | 9574
+2323 | Tapscott Rd At Washburn Way | 43.8044399 | -79.22446 | 4665
+9885 | Tapscott Rd At Blackwell Ave | 43.8054099 | -79.22112 | 9975
+4573 | Sewells Rd At Neilson Rd | 43.80632 | -79.2189599 | 11949
+528 | Sewells Rd At Brenyon Way East Side | 43.80797 | -79.21504 | 10870
+3944 | Sewells Rd At Alford Cres | 43.8091299 | -79.21395 | 9842
+530 | Sewells Rd At McLevin Ave | 43.8102899 | -79.21381 | 10871
+2163 | McLevin Ave At Empringham Dr East Side | 43.8097199 | -79.2106699 | 9579
+5302 | McLevin Ave At John Tabor Trail | 43.8083 | -79.20676 | 9580
+579 | Morningside Ave At Casebridge Crt North Side | 43.8092499 | -79.20274 | 10947
+9145 | 1415 Morningside Ave | 43.81078 | -79.20343 | 2970
+7739 | Morningside Ave At Morningview Trail | 43.8133299 | -79.20609 | 2948
+7969 | Morningview Trail At Gennela Sq | 43.8144999 | -79.20295 | 11241
+4712 | 141 Morningview Trail | 43.816 | -79.19928 | 13321
+8133 | 193 Morningview Trail | 43.81821 | -79.19985 | 13322
+3821 | Morningview Trail At Sewells Rd | 43.8197699 | -79.2007399 | 13323
+6236_ar | Morningview Trail At Old Finch Ave | 43.8218599 | -79.20172
+9943 | Littles Rd At Grayson Cres (North) | 43.8159199 | -79.2030099 | 11242
+2147 | Littles Rd At Birrell Ave | 43.81723 | -79.20433 | 11243
+3900 | Littles Rd At Sewells Rd North Side | 43.8191899 | -79.2053099 | 10950
+1721 | Littles Rd At Old Finch Ave | 43.8209199 | -79.2061099 | 10951
+6681 | Old Finch Ave At Kengate Dr | 43.8214899 | -79.2043 | 10952
+1146_ar | Morningview Trail At Old Finch Ave South Side | 43.8216999 | -79.20172
+14231 | Kennedy Station | 43.7322699 | -79.26401 | 14711
+5904 | Brimley Rd At Lawrence Ave East | 43.7531699 | -79.2550899 | 0637

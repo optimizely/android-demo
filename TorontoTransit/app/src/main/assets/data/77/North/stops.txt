@@ -1,0 +1,10 @@
+1685 | Windermere Place At Windermere Ave | 43.6381899 | -79.47111 | 7453
+9447 | 89 Windermere Ave | 43.6399499 | -79.4726699 | 7450
+1359 | Windermere Ave At Coe Hill Dr | 43.6413599 | -79.4744999 | 7451
+10374 | Windermere Ave At St Olaves Rd | 43.6424899 | -79.47593 | 7449
+14572 | Windermere Ave At Morningside Ave | 43.6447999 | -79.4781999 | 7452
+2944 | Morningside Ave At Lavinia Ave East Side | 43.64527 | -79.4766299 | 6605
+5142 | Runnymede Rd At Morningside Ave North Side | 43.64622 | -79.47424 | 7066
+7715 | Runnymede Rd At Deforest Rd | 43.6486599 | -79.4751899 | 7055
+4668 | Runnymede Rd At Bloor St West | 43.6509699 | -79.47616 | 7050
+14899_ar | Runnymede Station | 43.6518299 | -79.47554

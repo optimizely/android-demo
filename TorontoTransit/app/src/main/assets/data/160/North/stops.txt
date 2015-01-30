@@ -1,0 +1,54 @@
+14379 | Wilson Station | 43.7342799 | -79.45067 | 14855
+897 | Wilson Heights Blvd At Goodwill Ave | 43.7364199 | -79.4494399 | 11690
+8547 | Wilson Ave At Faywood Blvd East Side | 43.73475 | -79.4458899 | 1658
+8660 | Wilson Ave At Allingham Gardens | 43.73539 | -79.4429499 | 1660
+9490 | Wilson Ave At Laurentia Cres | 43.73599 | -79.4401099 | 1663
+1903 | Wilson Ave At Stadacona Dr | 43.73671 | -79.4368199 | 1665
+1164 | Bathurst St At Southbourne Ave | 43.7382699 | -79.43412 | 0220
+15024 | Bathurst St At Invermay Ave | 43.74141 | -79.43487 | 15196
+3326 | Bathurst St At Raeburn Ave | 43.7441699 | -79.4355799 | 0188
+2817 | Bathurst St At York Downs Dr | 43.7470599 | -79.4362999 | 0227
+7835 | Bathurst St At Danby Ave North Side | 43.74925 | -79.43683 | 0115
+6400 | Bathurst St At Bainbridge Ave | 43.7506099 | -79.4371599 | 0089
+1270 | Bathurst St At McAllister Rd North Side | 43.75352 | -79.43787 | 0174
+6054 | Bathurst St At Sheppard Ave West | 43.7551999 | -79.4382599 | 0199
+3605 | Bathurst St At Codsell Ave | 43.7583899 | -79.43904 | 0108
+9550 | Opposite 4600 Bathurst St | 43.7623199 | -79.4400099 | 0226
+1262 | Bathurst St At Ellerslie Ave North Side | 43.76589 | -79.44086 | 0133
+7388 | Bathurst St At Horsham Ave | 43.76843 | -79.44153 | 0155
+4932 | Bathurst St At Stafford Rd | 43.77028 | -79.44196 | 0205
+4216 | Bathurst St At Yorkview Dr | 43.7722299 | -79.4424499 | 0230
+2035 | Bathurst St At Finch Ave West | 43.77361 | -79.44276 | 0136
+8080 | 4979 Bathurst St | 43.7755999 | -79.4433 | 0085
+6331 | Bathurst St At Kenton Dr | 43.7779799 | -79.4439199 | 0160
+1793 | Bathurst St At Drewry Ave | 43.78078 | -79.44458 | 0125
+1891 | Bathurst St At Patricia Ave North Side | 43.7841999 | -79.44544 | 0184
+8137 | Bathurst St At Dewlane Dr | 43.7858299 | -79.4458499 | 0122
+10065 | 6101 Bathurst St | 43.7873999 | -79.4462999 | 0183
+4735 | Bathurst St At Greenwin Village Rd | 43.79068 | -79.44526 | 0147
+390 | Bathurst St At Steeles Ave West | 43.79204 | -79.4455 | 9719
+4408 | Bathurst St At Steeles Ave West North Side | 43.7930399 | -79.44571 | 0206
+5483 | Bathurst St At Townsgate Dr | 43.79422 | -79.44598 | 11872
+7586 | Bathurst St At Cn Rail Bridge (North Of Crestwood Rd) | 43.7967299 | -79.4466899 | 9525
+7182 | Bathurst St At Chabad Gate | 43.79928 | -79.44726 | 0106
+4446 | Bathurst St At Clark Ave | 43.80332 | -79.44821 | 9421
+3440 | Promenade Cir At East Promenade North Side (Mall East Ent) | 43.8075799 | -79.45017 | 11927
+4589 | Promenade Terminal At Promenade Cir (Mall North Entrance) | 43.8092499 | -79.4542 | 11928
+5138 | West Promenade At New Westminster Dr | 43.8061799 | -79.45544 | 11929
+3156 | New Westminster Dr At Centre St | 43.80921 | -79.45713 | 11930
+6514 | New Westminster Dr At Katerina Ave | 43.8114699 | -79.4574 | 11931
+6104 | New Westminster Dr At Beverley Glen Blvd | 43.8139399 | -79.45661 | 11932
+6202 | Opposite 1000 New Westminster Dr | 43.8160599 | -79.4551 | 13894
+5053 | New Westminster Dr At Bathurst St | 43.8170399 | -79.45205 | 11933
+6989 | Atkinson Ave At Rosedale Heights Dr (North) | 43.8174799 | -79.45015 | 10707
+3584 | Atkinson Ave At Dundurn Cres (North) East Side | 43.81813 | -79.4465399 | 10709
+1846 | Atkinson Ave At Dundurn Cres (South) | 43.81725 | -79.44471 | 10710
+3705 | 300 Atkinson Ave | 43.8154799 | -79.4436699 | 11873
+7606 | Atkinson Ave At Rosedale Heights Dr (South) | 43.81369 | -79.44363 | 10711
+7163 | Atkinson Ave At Centre St | 43.8124899 | -79.4434699 | 12161
+5917 | Atkinson Ave At Campbell Cres | 43.8110999 | -79.4431099 | 9425
+8487 | Atkinson Ave At Rodeo Dr | 43.8087399 | -79.4425099 | 0008
+2456 | Atkinson Rd At Spring Gate Blvd South Side | 43.8064299 | -79.4415799 | 0010
+5721 | Atkinson Ave At Clark Ave West | 43.80503 | -79.4409199 | 0118
+10032 | Clark Ave West At York Hill Blvd | 43.8041599 | -79.44469 | 0277
+8016_ar | Bathurst St At Clark Ave West South Side | 43.8028999 | -79.4484

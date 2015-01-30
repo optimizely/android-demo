@@ -1,0 +1,62 @@
+5109 | 111 Disco Rd (West Detention Centre) | 43.7002599 | -79.59901 | 3481
+267 | Disco Rd At Attwell Dr | 43.7010599 | -79.5958 | 3478
+4040 | Belfield Rd At Attwell Dr East Side | 43.69794 | -79.5923699 | 3323
+396 | Belfield Rd At Brockport Dr | 43.6988199 | -79.58857 | 3326
+8958 | Belfield Rd At City View Dr East Side | 43.6995399 | -79.58539 | 3332
+8194 | Belfield Rd At C. N. West Spur | 43.6999799 | -79.58362 | 3330
+5259 | Belfield Rd At Iron St | 43.7004899 | -79.58127 | 3333
+3162 | Belfield Rd At C.n East Spur | 43.70119 | -79.5784299 | 3327
+1450 | Belfield Rd At Martin Grove Rd | 43.70173 | -79.5760299 | 3337
+1407 | Belfield Rd At McCulloch Ave | 43.7024599 | -79.57313 | 3339
+6115 | Opposite 60 Belfield Rd East Side | 43.70339 | -79.5691799 | 3341
+7860 | Belfield Rd At Shaft Rd | 43.7039599 | -79.56614 | 3343
+699 | Belfield Rd At Kipling Ave | 43.7046199 | -79.56378 | 3336
+8051 | Kipling Ave At Ronson Dr | 43.7026399 | -79.56257 | 4372
+2508 | Kipling Ave At St Andrews Blvd South Side | 43.69834 | -79.5606199 | 4375
+1992 | Kipling Ave At Kingsview Blvd | 43.69701 | -79.56001 | 4334
+2198 | Kipling Ave At Dixon Rd | 43.69447 | -79.55886 | 4302
+7452 | Kipling Ave At Hayhurst Rd | 43.6921899 | -79.55777 | 4320
+6431 | Kipling Ave At Learmont Dr | 43.6902099 | -79.5569299 | 4336
+2599 | Kipling Ave At Holywell Dr | 43.6883799 | -79.5560699 | 4325
+4147 | Kipling Ave At Westway | 43.6857699 | -79.5549299 | 4388
+10169 | Kipling Ave At Gracey Blvd | 43.6836999 | -79.55397 | 4317
+4492 | Kipling Ave At Clement Rd | 43.6815899 | -79.5530099 | 4300
+961 | Kipling Ave At Widdicombe Hill Blvd | 43.67902 | -79.55186 | 4390
+3617 | Kipling Ave At Eglinton Ave West | 43.6773699 | -79.55113 | 4305
+8211 | Kipling Ave At Byland Rd | 43.67508 | -79.55008 | 4297
+5351 | Kipling Ave At Longfield Rd | 43.67368 | -79.54946 | 4337
+3047 | Kipling Ave At Princess Margaret Blvd | 43.6701599 | -79.5478999 | 4359
+7102 | Kipling Ave At Prince George Dr South Side | 43.6669699 | -79.5464899 | 4356
+1567 | Kipling Ave At North Heights Rd | 43.6648399 | -79.5455499 | 4346
+6131 | Kipling Ave At Beaverbrook Ave | 43.66247 | -79.54449 | 4284
+2836 | Kipling Ave At Rathburn Rd | 43.65994 | -79.54336 | 4365
+9772 | Kipling Ave At Bywood Dr | 43.6570899 | -79.54212 | 4299
+2919 | Kipling Ave At Wingrove Hill South Side | 43.6540199 | -79.5407499 | 5134
+9744 | Kipling Ave At Burnhamthorpe Rd | 43.6511299 | -79.5395299 | 4295
+6395 | Kipling Ave At Goswell Rd | 43.6491299 | -79.5386699 | 4315
+8732 | Kipling Ave At Mattice Rd | 43.6470199 | -79.5377199 | 13447
+9398 | Kipling Ave At Tyre Ave | 43.64511 | -79.53692 | 4383
+9502 | West Service Rd At St Albans Rd | 43.63929 | -79.53485 | 12130
+14243 | Kipling Station | 43.63824 | -79.5349199 | 14724
+14822_ar | Kipling Station | 43.6383599 | -79.53471
+5171 | Kipling Ave At Steeles Ave West | 43.7599899 | -79.59013 | 9106
+7471 | Kipling Ave At Markbrook Lane South Side | 43.7581199 | -79.5892899 | 10796
+3267 | Kipling Ave At Kidron Valley Dr | 43.7563299 | -79.5885099 | 4332
+9387 | Kipling Ave At Beaconhill Rd | 43.75371 | -79.58723 | 4282
+3534 | Kipling Ave At Annabelle Dr | 43.75105 | -79.58595 | 4277
+9978 | Kipling Ave At Mount Olive Dr | 43.74689 | -79.58396 | 4340
+6391 | Kipling Ave At Stevenson Rd | 43.7446 | -79.58282 | 4377
+2382 | Kipling Ave At Finch Ave West | 43.74344 | -79.58233 | 11044
+3334 | Kipling Ave At Penlea Ave South Side | 43.7406999 | -79.58098 | 4272
+6215 | Kipling Ave At Albion Rd South Side | 43.7390399 | -79.58017 | 4275
+2585 | Kipling Ave At John Garland Blvd | 43.73559 | -79.57847 | 4330
+9282 | Kipling Ave At Henley Cres | 43.73058 | -79.57596 | 4321
+8372 | Kipling Ave At Westhumber Blvd | 43.7282 | -79.57481 | 4386
+6918 | Kipling Ave At Hinton Rd | 43.7258299 | -79.5736 | 4323
+7812 | Kipling Ave At Genthorn Ave | 43.7235499 | -79.5725199 | 4313
+4996 | Kipling Ave At Snaresbrook Dr | 43.72185 | -79.5717 | 4374
+8601 | Kipling Ave At Redcliff Blvd South Side | 43.71858 | -79.57012 | 4366
+14646 | Kipling Ave At Redwater Dr South Side | 43.71543 | -79.56863 | 14891
+3072 | Kipling Ave At Rexdale Blvd | 43.7118799 | -79.5669199 | 4371
+3021 | Kipling Ave At Bethridge Rd | 43.7092599 | -79.56565 | 4288
+2388 | Kipling Ave At Belfield Rd | 43.70501 | -79.56376 | 4286

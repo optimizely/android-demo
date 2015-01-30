@@ -1,0 +1,32 @@
+14168 | Davisville Station | 43.6977999 | -79.39701 | 14646
+2004 | Chaplin Cres At Duplex Ave | 43.6980799 | -79.39788 | 9879
+8424 | Chaplin Cres At Lascelles Blvd | 43.6981399 | -79.40059 | 0767
+3553 | Chaplin Cres At Oriole Pkwy | 43.69793 | -79.40307 | 3418
+725 | Chaplin Cres At Avenue Rd | 43.69876 | -79.40589 | 3407
+6854 | Chaplin Cres At Duncannon Dr | 43.7003299 | -79.4104899 | 3409
+7845 | Chaplin Cres At Russell Hill Rd West Side | 43.702 | -79.41539 | 3421
+3486 | Chaplin Cres At Eglinton Ave West | 43.70236 | -79.41637 | 3414
+3822 | Chaplin Cres At Eglinton Ave West North Side | 43.7030299 | -79.4179 | 3413
+4048 | 340 Chaplin Cres | 43.7041899 | -79.42124 | 3415
+4764 | Chaplin Cres At Opposite Walkway To Shallmar Apts | 43.70468 | -79.42293 | 11060
+7640 | Chaplin Cres At Roselawn Ave | 43.7053799 | -79.4237199 | 3419
+10040 | Roselawn Ave At Bathurst St | 43.70533 | -79.4261299 | 4585
+5979 | Bathurst St At Briar Hill Ave | 43.7077299 | -79.42692 | 0098
+4324 | Bathurst St At Lytton Blvd | 43.7103799 | -79.4275299 | 0171
+5117 | Glencairn Ave At Bathurst St West Side | 43.7122799 | -79.42871 | 3640
+7538 | Glencairn Ave At Glenmount Ave | 43.7119599 | -79.43014 | 3657
+6429 | Gelncairn Ave At Dalemount Ave | 43.7114599 | -79.43259 | 3647
+8521 | Glencairn Ave At Englemount Ave | 43.71083 | -79.4355299 | 3653
+3212 | Glencairn Ave At Shermount Ave | 43.71019 | -79.4384999 | 3664
+2778 | Glencairn Station | 43.7095899 | -79.44129 | 3666
+9701 | Glencairn Ave At Marlee Ave | 43.7090799 | -79.44364 | 3662
+7483 | Glencairn Ave At Danesbury Ave | 43.7084399 | -79.44663 | 3649
+9704 | Glencairn Ave At Capitol Ave | 43.70782 | -79.4496199 | 3645
+6448 | Glencairn Ave At Dufferin St | 43.70717 | -79.4526599 | 3651
+8382 | Glencairn Ave At Ennerdale St | 43.70681 | -79.4554399 | 3655
+1025 | Glencairn Ave At Haven Rd | 43.7062 | -79.4580699 | 3659
+3795 | Lansdowne Ave At Glencairn Ave South Side | 43.7052199 | -79.4607599 | 4403
+10058 | Lansdowne Ave At Tycos Dr | 43.7041699 | -79.4603399 | 4409
+5413 | 160 Tycos Dr | 43.70366 | -79.4625699 | 9521
+9546 | Tycos Dr At Caledonia Rd | 43.7033099 | -79.46428 | 4680
+2139_ar | Glencairn Ave At Caledonia Rd East Side | 43.7046699 | -79.46433

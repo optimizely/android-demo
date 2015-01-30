@@ -1,0 +1,56 @@
+14150 | Don Mills Station | 43.7757899 | -79.34546 | 14628
+5480 | Sheppard Ave East At Parkway Forest Dr East Side | 43.77588 | -79.3429299 | 13705
+4699 | 2025 Sheppard Ave East | 43.7754899 | -79.3354399 | 7190
+3573 | Sheppard Ave East At Consumers Rd East Side | 43.7749499 | -79.3305399 | 7175
+9598 | Sheppard Ave East At Settlers Rd | 43.77458 | -79.32707 | 7244
+871 | Victoria Park Ave At Sheppard Ave East North Side | 43.7757799 | -79.32307 | 7424
+4579 | Victoria Park Ave At Patrick Blvd North Side | 43.7780599 | -79.3241499 | 7419
+8231 | Huntingwood Dr At Victoria Park Ave East Side | 43.7804499 | -79.32485 | 6465
+6237 | Huntingwood Dr At Fairglen Ave | 43.7808699 | -79.32317 | 6441
+7376 | Huntingwood Dr At Pharmacy Ave | 43.78156 | -79.3204399 | 6461
+2539 | Huntingwood Dr At Batterswood Dr | 43.7822499 | -79.31869 | 6424
+6430 | Huntingwood Dr At Kilkenny Dr East Side | 43.78354 | -79.3171499 | 6452
+7437 | Huntingwood Rd At Ridgecrest Dr | 43.78442 | -79.3153099 | 13916
+4954 | Huntingwood Dr At Bridlewood Blvd | 43.7849199 | -79.31311 | 6431
+9519 | Huntingwood Dr At Warden Ave East Side | 43.7856199 | -79.31013 | 6467
+964 | Huntingwood Dr At Davisbrook Blvd | 43.7861399 | -79.30853 | 6438
+6368 | Huntingwood Dr At Dunmurray Blvd | 43.7890999 | -79.30702 | 6468
+4072 | Huntingwood Dr At Birchmount Rd | 43.7902599 | -79.30292 | 6428
+5536 | Huntingwood Dr At Harfleur Rd | 43.7910399 | -79.29946 | 6446
+1702 | Huntingwood Dr At St Crispins Dr | 43.79205 | -79.2975499 | 6463
+4645 | Huntingwood Dr At Kennedy Rd | 43.79503 | -79.2937399 | 6450
+8738 | Huntingwood Dr At Belgreen Ave East Side | 43.7955399 | -79.29021 | 6425
+5060 | Huntingwood Dr At Kittery Blvd | 43.7964599 | -79.28671 | 6453
+8180 | Huntingwood Dr At Midland Ave | 43.79694 | -79.28372 | 6458
+8647 | Huntingwood Dr At Crockamhill Dr | 43.7973599 | -79.28174 | 6437
+6380 | 1185 Huntingwood Dr | 43.79806 | -79.27837 | 6444
+6560 | Huntingwood Dr At Mollard Rd East Side | 43.7981399 | -79.27549 | 6459
+4274 | Huntingwood Dr At Brimley Rd | 43.7982999 | -79.27358 | 6432
+6162 | Huntingwood Dr At Commander Blvd | 43.7981699 | -79.26989 | 6435
+4090 | 135 Commander Blvd | 43.7947599 | -79.26868 | 11156
+8824 | 95 Commander Blvd | 43.7935399 | -79.26666 | 11157
+2995 | Commander Blvd At North Wind Pl | 43.7949 | -79.2647399 | 11158
+10077 | Commander Blvd At McCowan Rd | 43.7959999 | -79.26203 | 11159
+2442 | 2050 McCowan Rd | 43.7950999 | -79.26114 | 1311
+2289 | McCowan Rd At Nugget Ave | 43.79225 | -79.26005 | 9858
+1082 | McCowan Rd At Sheppard Ave East | 43.7898399 | -79.2590399 | 1318
+5609 | McCowan Rd At Pitfield Rd | 43.7874999 | -79.25748 | 1312
+10097 | McCowan Rd At Milner Ave | 43.7855599 | -79.2566799 | 1309
+7239 | McCowan Rd At Triton Rd | 43.7755499 | -79.2528199 | 9623
+14739_ar | Scarborough Centre Station | 43.7741699 | -79.25881
+3807 | Don Mills Rd At Leith Hill Rd North Side | 43.7775199 | -79.3478099 | 1949
+6904 | Don Mills Rd At Fairview Mall Dr North Side | 43.77952 | -79.34871 | 1929
+1163 | Don Mills Rd At Godstone Rd | 43.7826699 | -79.3489199 | 1938
+7723 | Don Mills Rd At Deerford Rd | 43.78527 | -79.35056 | 1919
+2498 | Van Horne Ave At Don Mills Rd East Side | 43.78742 | -79.3523499 | 7384
+805 | Van Horne Ave At Hobart Dr | 43.7880002 | -79.3499009 | 7387
+1047 | Van Horne Ave At Houston Cres (West) | 43.78767 | -79.34765 | 7390
+8848 | Van Horne Ave At Kingslake Rd | 43.7866899 | -79.3455499 | 7391
+4206 | Van Horne Ave At Edmonton Rd East Side | 43.7869999 | -79.33949 | 7385
+3981 | Van Horne Ave At Lucifer Dr | 43.7873399 | -79.33794 | 7393
+9392 | Van Horne Ave At Bickerton Cres | 43.78815 | -79.3342999 | 7381
+7147 | Van Horne Ave At Clipper Rd | 43.78872 | -79.3317799 | 7382
+2671 | Van Horne Ave At Victoria Park Ave | 43.7890699 | -79.33014 | 7395
+2670 | Victoria Park Ave At Pleasant View Dr | 43.78582 | -79.3281 | 7421
+3660 | Victoria Park Ave At Clydesdale Dr | 43.78396 | -79.32723 | 8438
+1487 | Opposite 2791 Victoria Park Ave | 43.78219 | -79.32639 | 8489

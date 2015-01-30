@@ -1,0 +1,54 @@
+14829 | 941 Progress Ave (Centennial College - Progress Campus) | 43.7847099 | -79.22891 | 15053
+8753 | Progress Ave At Opposite Roadway To Centennial College | 43.78346 | -79.2319299 | 6008
+8289 | Progress Ave At Markham Rd West Side | 43.78166 | -79.2347999 | 6005
+7444 | Progress Ave At Estate Dr (West) | 43.7809999 | -79.23774 | 6006
+4441 | 830 Progress Ave | 43.7806699 | -79.24133 | 4538
+9595 | Corporate Dr At Progress Ave North Side | 43.7805399 | -79.2439 | 11365
+6585 | Corporate Dr At Lee Centre Dr (West) West Side | 43.78052 | -79.2473999 | 12099
+4768 | 88 Corporate Dr | 43.78012 | -79.2495999 | 11366
+5248 | 100 Consilium Pl | 43.7773499 | -79.2507699 | 11367
+8720 | Grangeway Ave At Progress Ave South Side | 43.77598 | -79.25051 | 9608
+9289 | Bushby Dr At McCowan Rd (Lawrence East Station) | 43.7747299 | -79.25188 | 9609
+14284_ar | Scarborough Centre Station | 43.7746399 | -79.25734
+6723 | Baldoon Rd At Finch Ave East | 43.8151299 | -79.23217 | 0075
+9442 | Finchdene Sq (East) At Finchdene Sq (South) | 43.8172399 | -79.2321299 | 11548
+780 | Finchdene Sq At Torham Pl | 43.8196199 | -79.2330699 | 11549
+2674 | 257 Finchdene Sq | 43.8210799 | -79.23486 | 11550
+9013 | Finchdene Sq At Pullman Crt | 43.82051 | -79.2377399 | 11551
+6876 | Newgale Gate At Finchdene Sq West Side | 43.81889 | -79.2380799 | 11552
+5034 | Opposite 800 Tapscott Rd | 43.81994 | -79.24042 | 11420
+6625 | Opposite 850 Tapscott Rd | 43.82221 | -79.24143 | 10842
+6523 | 1051 Tapscott Rd | 43.82455 | -79.24247 | 10843
+9416 | Tapscott Rd At McNicoll Ave West Side | 43.8256599 | -79.24425 | 10844
+1173 | Ironside Cres At McNicoll Ave North Side | 43.8247399 | -79.24618 | 10845
+1915 | 45 Ironside Cres | 43.8269799 | -79.2471499 | 10846
+7456 | 105 Ironside Cres | 43.82867 | -79.2469399 | 10847
+6286 | Ironside Cres At Tapscott Rd | 43.82913 | -79.2449499 | 10849
+5377 | 1120 Tapscott Rd | 43.8278499 | -79.2440399 | 10850
+10130 | Tapscott Rd At McNicoll Ave | 43.8260599 | -79.2432799 | 10851
+9703 | 900 Tapscott Rd | 43.82424 | -79.24247 | 10852
+4429 | 850 Tapscott Rd | 43.8220799 | -79.2415399 | 10853
+8888 | 800 Tapscott Rd | 43.81973 | -79.24051 | 11421
+4641 | 780 Tapscott Rd | 43.81728 | -79.23945 | 11553
+10352 | Tapscott Rd At Finch Ave East | 43.8144199 | -79.2373699 | 11554
+2914 | Tapscott Rd At Melford Dr (North) South Side | 43.81063 | -79.23564 | 11555
+8786 | 430 Tapscott Rd | 43.80909 | -79.23496 | 11556
+2659 | Tapscott Rd At Crow Trail | 43.8076099 | -79.2328499 | 11557
+7829 | Tapscott Rd At McLevin Ave | 43.8052999 | -79.22707 | 4661
+2323 | Tapscott Rd At Washburn Way | 43.8044399 | -79.22446 | 4665
+9039 | Washburn Way At Nahanni Terr South Side | 43.80237 | -79.2246799 | 13376
+1733 | Washburn Way At Mammoth Hall Trail | 43.8010599 | -79.22611 | 4707
+3641 | Washburn Way At Griffen Dr South Side | 43.79807 | -79.2281999 | 4706
+8664 | Washburn Way At Sheppard Ave East | 43.7963599 | -79.2276499 | 4709
+5637 | Sheppard Ave East At Gateforth Dr | 43.7956999 | -79.23011 | 9965
+7823 | Progress Ave At Sheppard Ave East South Side | 43.7942199 | -79.23489 | 12055
+6758 | Progress Ave At Rosebank Dr | 43.79246 | -79.2341899 | 12056
+7883 | Progress Ave At Milner Ave | 43.7904999 | -79.2343599 | 12057
+6728 | Progress Ave At Milner Business Crt South Side | 43.7882099 | -79.2334399 | 12058
+3427 | Finchdene Sq At Finch Ave East | 43.8157299 | -79.23166 | 10724
+2532 | Baldoon Rd At Finch Ave East South Side | 43.8148899 | -79.2322499 | 9327
+1348 | Baldoon Rd At Crow Trail | 43.8134899 | -79.2316699 | 9328
+9299 | Crow Trail At Crittenden Sq | 43.8122099 | -79.2332599 | 3459
+9814 | Crow Trail At Tunmead Sq | 43.81066 | -79.23263 | 3461
+5514 | Crow Trail At Carrying Pl | 43.80882 | -79.2324599 | 3458
+7064 | Crow Trail At Tapscott Rd | 43.80784 | -79.2326299 | 3460

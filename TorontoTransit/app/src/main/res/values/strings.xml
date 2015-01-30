@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toronto Transit</string>
+    <string name="empty"></string>
+    <string name="action_settings">Settings</string>
+    <string name="route">Select route</string>
+    <string name="direction">Select direction</string>
+    <string name="stop">Select stop</string>
+    <string name="title_activity_route_picker"></string>
+    <string name="type_hint">Type to search</string>
+    <string name="title_activity_direction_picker"></string>
+    <string name="title_activity_stop_picker"></string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_the_team">TheTeam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_subway_map">SubwayMap</string>
+    <string name="title_activity_ttcalerts">TTCAlerts</string>
+    <string name="title_activity_instructions">Instructions</string>
+
+</resources>

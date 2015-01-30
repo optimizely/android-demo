@@ -1,0 +1,72 @@
+481 | Sunnyside Loop At Sunnyside Ave | 43.6390299 | -79.4483 | 11155
+4528 | Roncesvalles Ave At Queen St West North Side | 43.63926 | -79.4462 | 4583
+14807 | Roncesvalles Ave At Marion St North Side | 43.6413299 | -79.4470099 | 15038
+9854 | Roncesvalles Ave At Garden Ave | 43.64358 | -79.44794 | 4574
+987 | Roncesvalles Ave At Fermanagh Ave | 43.64622 | -79.44894 | 4571
+8244 | Roncesvalles Ave At Grenadier Rd | 43.6485999 | -79.4498899 | 4576
+9383 | Roncesvalles Ave At Howard Park Ave | 43.6512999 | -79.4509199 | 4578
+1222 | Roncesvalles Ave At Boustead Ave North Side | 43.6535199 | -79.4516999 | 4568
+7898 | Dundas St West At Bloor St West | 43.65613 | -79.45225 | 2150
+6840 | Dundas St West At Chelsea Ave North Side | 43.6582299 | -79.45287 | 3490
+6213 | Dundas St West At Glenlake Ave North Side | 43.66008 | -79.45365 | 3497
+7231 | Dundas St West At Jerome St | 43.6614 | -79.45478 | 3506
+5535 | Dundas St West At Humberside Ave | 43.6629499 | -79.4562899 | 3500
+3835 | Dundas St West At Dupont St | 43.6643599 | -79.4584999 | 3493
+2112 | Dundas St West At Indian Grove | 43.6654299 | -79.4621599 | 3502
+4904 | Dundas St West At Keele St | 43.66547 | -79.46432 | 3509
+9338 | Dundas St West At Pacific Ave | 43.6655099 | -79.4684499 | 3514
+2026 | Dundas St West At Quebec Ave | 43.6655399 | -79.4718799 | 3517
+4744 | Dundas St West At St Johns Pl | 43.66559 | -79.47545 | 3525
+5078 | Dundas St West At Gilmour Ave | 43.66562 | -79.47875 | 3496
+2449 | Dundas St West At Runnymede Rd | 43.6656299 | -79.48194 | 3521
+5582 | Dundas St West At Windermere Ave | 43.66566 | -79.48567 | 3528
+1322 | Dundas St West At Willard Ave West Side | 43.6656799 | -79.4887499 | 3527
+6963 | Dundas St West At Jane St | 43.6657599 | -79.4909399 | 3505
+6003 | Jane St At St Clair Ave West North Side | 43.66761 | -79.49186 | 3926
+9204 | Jane St At Pritchard Ave | 43.66945 | -79.49272 | 3915
+9038 | Jane St At Woolner Ave | 43.67157 | -79.49363 | 3942
+10043 | Jane St At Haney Ave | 43.67385 | -79.49459 | 3901
+6280 | Jane St At Dalrymple Dr | 43.67707 | -79.49597 | 3877
+7326 | Jane St At Outlook Ave | 43.6788899 | -79.4967099 | 9145
+3530 | Jane St At Lambton Ave North Side | 43.68133 | -79.49767 | 3905
+1687 | Jane St At Eglinton Ave West North Side | 43.6848599 | -79.49877 | 3886
+4423 | Jane St At Cornell Ave | 43.6891699 | -79.5001699 | 3874
+2525 | Jane St At Weston Rd | 43.6909899 | -79.5006799 | 3936
+1724 | Jane St At Trethewey Dr | 43.69731 | -79.50218 | 3932
+4102 | Jane St At Harding Ave | 43.69946 | -79.50271 | 2736
+14814 | Jane St At Wright Ave | 43.7006899 | -79.5030899 | 15045
+3208 | Jane St At Lawrence Ave West | 43.7026 | -79.50356 | 3906
+8533 | Jane St At Patika Ave | 43.7052 | -79.50426 | 3914
+14963 | Jane St At John St | 43.7065699 | -79.5046799 | 15152
+9271 | Jane St At Maple Leaf Dr | 43.70912 | -79.50533 | 3908
+5572 | Jane St At Raven Rd North Side | 43.7137699 | -79.50656 | 9481
+1126 | Jane St At Falstaff Ave | 43.71513 | -79.50696 | 3889
+6327 | Jane St At Downsview Ave North Side | 43.7186499 | -79.5078799 | 3879
+5507 | Jane St At Wilson Ave North Side | 43.7213399 | -79.50853 | 3940
+7046 | Jane St At William Cragg Dr North Side | 43.72274 | -79.50892 | 3938
+663 | Jane St At Heathrow Dr | 43.7248 | -79.50945 | 3903
+5799 | 2265 Jane St | 43.72751 | -79.51013 | 3910
+8405 | Jane St At Exbury Rd North Side | 43.7296499 | -79.5105999 | 3888
+8033 | Jane St At Troutbrooke Dr North Side | 43.73235 | -79.51123 | 3934
+2777 | Jane St At Giltspur Dr North Side | 43.73492 | -79.51185 | 3896
+1116 | Jane St At Sheppard Ave West | 43.7392099 | -79.5129699 | 3920
+4203 | Jane St At Spenvalley Dr | 43.7411499 | -79.5134899 | 3924
+3277 | Jane St At Rita Dr North Side | 43.74342 | -79.51407 | 3919
+10213 | Jane St At Courage Ave | 43.7447799 | -79.5143999 | 3875
+5079 | Jane St At Grandravine Dr | 43.74699 | -79.51494 | 3899
+9570 | Jane St At Eddystone Ave | 43.7490299 | -79.5154599 | 3884
+6658 | Jane St At Yorkwoods Gate | 43.7506699 | -79.5158599 | 3946
+1884 | 2901 Jane St | 43.7528999 | -79.5164199 | 10446
+1542 | Jane St At Yewtree Blvd North Side | 43.7551499 | -79.5169899 | 3944
+9888 | Jane St At Finch Ave West North Side | 43.7577199 | -79.51764 | 3890
+9347 | Jane St At San Romanoway North Side | 43.75935 | -79.51803 | 3864
+1021 | Jane St At Stong Crt | 43.7617999 | -79.5186199 | 3931
+9015 | 4359 Jane St | 43.7640499 | -79.5191299 | 2739
+6801 | Jane St At Driftwood Ave North Side | 43.7661499 | -79.5196099 | 3880
+9993 | Jane St At Shoreham Dr | 43.76869 | -79.5202 | 3922
+6828 | 4717 Jane St | 43.7712199 | -79.5207999 | 3860
+4463 | Hullmar Dr At Jane St West Side | 43.77318 | -79.5218999 | 1157
+6458 | Hullmar Dr At Wheelwright Cres (East) | 43.7733299 | -79.5240699 | 1159
+1052 | Hullmar Dr At Peter Kaiser Gate | 43.77325 | -79.5259199 | 1158
+617 | Peter Kaiser Gate At Steeles Ave West | 43.7740099 | -79.5266499 | 1453
+8682_ar | Jane St At Steeles Ave West South Side | 43.7748999 | -79.52185

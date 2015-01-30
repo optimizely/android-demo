@@ -1,0 +1,11 @@
+14322 | Woodbine Station | 43.6864599 | -79.31223 | 14805
+7995 | Woodbine Ave At Danforth Ave | 43.6857999 | -79.3129199 | 8914
+2816 | Woodbine Ave At Merrill Ave | 43.6834899 | -79.3119499 | 8925
+5327 | Woodbine Ave At Gerrard St East | 43.68097 | -79.31091 | 8919
+9424 | Woodbine Ave At Cassels Ave South Side | 43.67867 | -79.30994 | 8909
+1461 | Woodbine Ave At Eastwood Rd | 43.6765899 | -79.3090699 | 8917
+8517 | Woodbine Ave At Kingston Rd | 43.6740399 | -79.3080499 | 8923
+7200 | Woodbine Ave At Columbine Ave | 43.6718599 | -79.30715 | 8911
+8456 | Woodbine Ave At Queen St East | 43.66884 | -79.30589 | 14144
+5960 | 1816 Lake Shore Blvd East | 43.6644999 | -79.30617 | 14145
+9757_ar | Woodbine Beach Loop At Lake Shore Blvd East | 43.6633899 | -79.30905

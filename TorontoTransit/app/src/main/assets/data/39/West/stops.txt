@@ -1,0 +1,70 @@
+1146 | Morningview Trail At Old Finch Ave South Side | 43.8216999 | -79.20172 | 13325
+5085 | Morningview Trail At Sewells Rd | 43.8199699 | -79.2009699 | 13326
+3900 | Littles Rd At Sewells Rd North Side | 43.8191899 | -79.2053099 | 10950
+1721 | Littles Rd At Old Finch Ave | 43.8209199 | -79.2061099 | 10951
+12897 | Old Finch Ave At Harvest Moon Dr | 43.8204199 | -79.20935 | 14486
+12896 | Old Finch Ave At Baffin Crt West Side | 43.8198 | -79.2121099 | 14487
+12925 | Old Finch Ave At Morningside Ave | 43.8192099 | -79.21463 | 14488
+12874 | Finch Ave East At Morningside Ave West Side | 43.8192599 | -79.2211599 | 14445
+10484 | 5910 Finch Ave East | 43.81711 | -79.2241099 | 14443
+14063 | Finch Ave East At Neilson Rd | 43.8164999 | -79.2273 | 14550
+363 | Finch Ave East At Finchdene Sq West Side | 43.8155 | -79.2318999 | 9910
+2617 | Finch Ave East At Tapscott Rd | 43.8144099 | -79.23692 | 2557
+8611 | 5600 Finch Ave East | 43.81367 | -79.2401099 | 2562
+2325 | Finch Ave East At Markham Rd | 43.8131899 | -79.24274 | 2526
+5604 | 5310 Finch Ave East | 43.81153 | -79.2504699 | 11345
+8784 | Finch Ave East At Tiffield Rd | 43.81103 | -79.2526199 | 2560
+5441 | Finch Ave East At Middlefield Rd | 43.81009 | -79.2574199 | 2533
+7057 | Finch Ave East At Sandhurst Cir (East) | 43.8089899 | -79.26255 | 2545
+3863 | Finch Ave East At McCowan Rd | 43.8082299 | -79.26622 | 2529
+2603 | Finch Ave East At Sandhurst Cir (West) | 43.80736 | -79.2702099 | 2548
+2556 | 4640 Finch Ave East | 43.80648 | -79.2739699 | 11332
+6326 | Finch Ave East At Brimley Rd | 43.8058499 | -79.27713 | 2498
+6179 | Finch Ave East At Alexmuir Blvd | 43.80482 | -79.2819899 | 2483
+5709 | Finch Ave East At Midland Ave | 43.8039099 | -79.28605 | 2535
+8531 | Finch Ave East At Baylawn Dr | 43.8032599 | -79.28866 | 2486
+6098 | Finch Ave East At C.n.r. (West Of Baylawn) | 43.8025399 | -79.29152 | 2499
+6644 | Finch Ave East At Milliken Blvd | 43.80193 | -79.2940999 | 10659
+8503 | Finch Ave East At Kennedy Rd | 43.8014599 | -79.29613 | 2515
+5345 | Finch Ave East At Wayside Ave | 43.80061 | -79.2994399 | 2571
+9113 | Finch Ave East At Opposite Walkway East Of Birchmount Rd | 43.79975 | -79.3029899 | 2568
+1548 | Finch Ave East At Birchmount Rd | 43.7991599 | -79.30573 | 2491
+3127 | Opposite 3501 Finch Ave East (St Aidan) | 43.79816 | -79.3097499 | 2553
+7784 | Finch Ave East At Bridletowne Circle (East) | 43.79768 | -79.3121099 | 2495
+2822 | Finch Ave East At Warden Ave | 43.7969499 | -79.31544 | 2570
+5537 | Finch Ave East At Bridletowne Circle (West) | 43.79602 | -79.3190699 | 2496
+8963 | Finch Ave East At Midblock East Of Pharmacy Ave | 43.795 | -79.3232499 | 2531
+3071 | Finch Ave East At Pharmacy Ave | 43.7944999 | -79.32576 | 2539
+1092 | Finch Ave East At Walkway To Chester Le Blvd | 43.7939199 | -79.32799 | 10603
+9968 | Finch Ave East At Victoria Park Ave | 43.7933099 | -79.3311 | 2566
+1792 | Finch Ave East At Cherokee Blvd | 43.79355 | -79.33671 | 2503
+2791 | Finch Ave East At Au Large Blvd (Seneca College) | 43.7940999 | -79.34902 | 2549
+2575 | Finch Ave East At Skymark Dr | 43.79335 | -79.3520699 | 2552
+1889 | Finch Ave East At Don Mills Rd | 43.7928899 | -79.35415 | 9128
+5724 | Finch Ave East At Brahms Ave | 43.79211 | -79.3579299 | 2492
+3447 | Finch Ave East At Liszt Gate | 43.79099 | -79.3629499 | 2521
+9219 | Finch Ave East At Ravel Rd | 43.79046 | -79.3651799 | 2544
+6792 | Finch Ave East At Leslie St West Side | 43.7901499 | -79.3691599 | 2519
+9152 | Finch Ave East At Pineway Blvd | 43.78932 | -79.3730999 | 2540
+1273 | 636 Finch Ave East (Plaza) | 43.78763 | -79.3807999 | 2542
+5205 | Finch Ave East At Page Ave West Side | 43.7867899 | -79.38472 | 2536
+8031 | Finch Ave East At Tollerton Ave | 43.78641 | -79.3865699 | 2563
+5901 | Finch Ave East At Gaspe Rd | 43.7858799 | -79.3889 | 2511
+3980 | Finch Ave East At Bayview Ave | 43.7851799 | -79.39176 | 9127
+4729 | Finch Ave East At Bayview Ave West Side | 43.7848999 | -79.39279 | 2489
+6906 | Finch Ave East At Winlock Park | 43.78416 | -79.3958499 | 2576
+8355 | Finch Ave East At Maxome Ave | 43.7834299 | -79.39915 | 2528
+9614 | Finch Ave East At Wilfred Ave | 43.78286 | -79.4017399 | 2573
+3222 | Finch Ave East At Longmore St | 43.78232 | -79.4043499 | 2523
+2677 | Finch Ave East At Willowdale Ave | 43.78173 | -79.4069499 | 2575
+6365 | Finch Ave East At Dudley Ave | 43.7811399 | -79.40959 | 2508
+7742 | Finch Ave East At Kenneth Ave | 43.78056 | -79.4121999 | 2517
+8388 | Finch Ave East At Yonge St (Finch Station) | 43.7801799 | -79.41411 | 9131
+14210_ar | Finch Station | 43.7811099 | -79.41506
+8422 | Neilson Rd At Crow Trail | 43.8123599 | -79.22593 | 1375
+5879 | Crow Trail At McGinty Pl | 43.8135499 | -79.2284199 | 0868
+935 | Crow Trail At Baldoon Rd | 43.8135299 | -79.231 | 0867
+6723 | Baldoon Rd At Finch Ave East | 43.8151299 | -79.23217 | 0075
+9660 | Seneca College Loop At Finch Ave East | 43.7940999 | -79.34917 | 11115
+4303 | Finch Ave East At Don Mills Rd West Side | 43.7926999 | -79.35528 | 9617
+14209_ar | Finch Station | 43.7809399 | -79.41499

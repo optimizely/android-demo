@@ -1,0 +1,24 @@
+2567 | Jane St At Sheppard Ave West | 43.7395299 | -79.51339 | 3921
+7765 | 2002-2012 Sheppard Ave West | 43.73871 | -79.5166999 | 6057
+1351 | Sheppard Ave West At Laura Rd | 43.73796 | -79.5199699 | 6079
+2823 | Sheppard Ave West At Oakdale Rd | 43.7371499 | -79.52358 | 6085
+6161 | Arrow Rd At Sheppard Ave West North Side | 43.7363199 | -79.52934 | 11858
+5326 | Arrow Rd At Bartor Rd North Side | 43.73782 | -79.52972 | 7513
+9294 | Arrow Rd At Lido Rd | 43.74146 | -79.53064 | 7500
+7607 | Opposite 700 Arrow Rd | 43.7454199 | -79.52937 | 10470
+8832 | Arrow Rd At Deerhide Cres (South) | 43.7476399 | -79.53026 | 7495
+7872 | Arrow Rd At Pemican Crt North Side | 43.7494399 | -79.5325699 | 7502
+5601 | 1111 Arrow Rd | 43.75119 | -79.53414 | 13457
+7571 | Arrow Rd At Finch Ave West | 43.7530099 | -79.5359199 | 7497
+8505 | Finch Ave West At Oakdale Rd (Humber River Hospital) | 43.7557599 | -79.52447 | 2622
+8447 | Finch Ave West At Elana Dr | 43.7566099 | -79.52083 | 2597
+624 | Finch Ave West At Jane St | 43.75708 | -79.5181599 | 13709
+8394 | Jane St At Firgrove Cres (North) South Side | 43.7545599 | -79.51712 | 3892
+10059 | 2900 Jane St | 43.75265 | -79.51664 | 10447
+4521 | Jane St At Firgrove Cres (South) South Side | 43.75044 | -79.51609 | 3893
+8780 | Jane St At Eddystone Ave | 43.7492399 | -79.5157799 | 3885
+2121 | Jane St At Frith Rd | 43.7465499 | -79.5151099 | 3894
+1840 | Jane St At Courage Ave South Side | 43.7447499 | -79.5146599 | 3876
+7974 | Jane St At Stanley Rd | 43.74318 | -79.51429 | 3930
+3227 | Jane St At Clair Rd | 43.74136 | -79.51382 | 3873
+2567_ar | Jane St At Sheppard Ave West | 43.7395299 | -79.51339

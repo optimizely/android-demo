@@ -1,0 +1,35 @@
+8016 | Bathurst St At Clark Ave West South Side | 43.8028999 | -79.4484 | 0259
+4700 | Bathurst St At Milner Gate | 43.7996599 | -79.4476299 | 0176
+7958 | Bathurst St At Cn Rail Bridge (North Of Crestwood Rd) | 43.79671 | -79.44684 | 9526
+10356 | Bathurst St At Cordoba Dr | 43.79454 | -79.44639 | 11874
+1098 | Bathurst St At Steeles Ave West | 43.7925799 | -79.4459199 | 0208
+6595 | Bathurst St At Steeles Ave West South Side | 43.7914899 | -79.44555 | 0207
+3767 | Bathurst St At Fisherville Rd | 43.7902599 | -79.4456699 | 0138
+9214 | 6030 Bathurst St | 43.78766 | -79.44659 | 0086
+4813 | Bathurst St At Rockford Rd | 43.7859699 | -79.4461799 | 0194
+9758 | Bathurst St At Cedarcroft Blvd South Side | 43.7835299 | -79.4455699 | 0105
+8893 | Bathurst St At Antibes Dr | 43.78128 | -79.44501 | 0123
+2628 | Bathurst St At Kenton Dr South Side | 43.7779799 | -79.44415 | 0159
+5549 | Opposite 4981 Bathurst St | 43.7758699 | -79.4436299 | 0182
+1945 | Bathurst St At Finch Ave West South Side | 43.7734299 | -79.44302 | 0137
+4610 | Bathurst St At Yorkview Dr South Side | 43.77231 | -79.44273 | 0229
+5739 | Bathurst St At Mascot Pl | 43.7704999 | -79.4422799 | 0173
+1609 | Bathurst St At Blue Flag Gate | 43.76866 | -79.44185 | 0156
+2997 | Bathurst St At Carscadden Dr | 43.76556 | -79.44109 | 0104
+6683 | 4600 Bathurst St | 43.7626499 | -79.4403699 | 0225
+6626 | Bathurst St At Codsell Ave | 43.7587599 | -79.4393899 | 0109
+1019 | Bathurst St At Sheppard Ave West | 43.75566 | -79.43864 | 0200
+8677 | Bathurst St At Reiner Rd | 43.7526799 | -79.43786 | 0190
+7732 | Bathurst St At Bainbridge Ave | 43.75092 | -79.43745 | 0090
+7675 | Bathurst St At Danby Ave | 43.7491999 | -79.4370399 | 0116
+5198 | Bathurst St At York Downs Dr | 43.74738 | -79.43658 | 0228
+2341 | Bathurst St At Laurelcrest Ave | 43.74452 | -79.43588 | 0163
+1239 | Bathurst St At Lyonsgate Dr | 43.74291 | -79.43547 | 0170
+7167 | Bathurst St At Invermay Ave | 43.74163 | -79.43516 | 0157
+1143 | Bathurst St At Allingham Gardens South Side | 43.7399099 | -79.4347399 | 0081
+3132 | Wilson Ave At Bathurst St West Side | 43.7373599 | -79.43456 | 1654
+4755 | Wilson Ave At Collinson Blvd | 43.7369499 | -79.4365 | 1655
+1901 | Wilson Ave At Laurentia Cres | 43.73624 | -79.4398099 | 1664
+8362 | Wilson Ave At Allingham Gardens | 43.7356799 | -79.44241 | 1661
+1171 | Wilson Ave At Faywood Blvd | 43.7348799 | -79.44622 | 1659
+14379_ar | Wilson Station | 43.7342799 | -79.45067

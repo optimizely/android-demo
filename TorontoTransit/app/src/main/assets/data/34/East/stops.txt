@@ -1,0 +1,40 @@
+14192 | Eglinton Station | 43.7050899 | -79.39857 | 14671
+303 | Duplex Ave At Eglinton Ave West | 43.7062299 | -79.4001099 | 13898
+328 | Eglinton Ave East At Holly St East Side | 43.7068999 | -79.39727 | 9112
+6665 | Eglinton Ave East At Redpath Ave | 43.70775 | -79.3929299 | 2304
+325 | Eglinton Ave East At Mt Pleasant Rd East Side | 43.7084499 | -79.38957 | 9114
+3400 | Eglinton Ave East At Forman Ave | 43.70911 | -79.3863299 | 2270
+10269 | Eglinton Ave East At Banff Rd | 43.70991 | -79.3823399 | 2234
+2751 | Eglinton Ave East At Hoyle Ave | 43.7104499 | -79.37972 | 2274
+9248 | Eglinton Ave East At Bayview Ave | 43.7108899 | -79.37743 | 2238
+312 | Eglinton Ave East At Bayview Ave East Side | 43.7111099 | -79.37637 | 2240
+7884 | Eglinton Ave East At Bessborough Dr East Side | 43.71169 | -79.3735899 | 2247
+10358 | Eglinton Ave East At Hanna Rd East Side | 43.7120999 | -79.37156 | 2272
+9648 | Eglinton Ave East At Rumsey Rd | 43.7124599 | -79.36975 | 2308
+9712 | Eglinton Ave East At Sutherland Dr | 43.7129699 | -79.36732 | 2312
+7417 | Eglinton Ave East At Laird Dr East Side | 43.7136799 | -79.36376 | 2284
+10157 | Eglinton Ave East At Brentcliffe Rd | 43.71446 | -79.3598999 | 2252
+4912 | Eglinton Ave East At Leslie St East Side | 43.7169199 | -79.34976 | 2286
+2888 | Eglinton Ave East At Don Mills Rd | 43.7202 | -79.3392599 | 2262
+3527 | Eglinton Ave East At Jesus Christ-Latter-Day Saints Church | 43.7209499 | -79.33681 | 12090
+3698 | Eglinton Ave East At Don Valley Pkwy West Side | 43.7223599 | -79.33237 | 2266
+8392 | Eglinton Ave East At Don Valley Pkwy East Side | 43.72333 | -79.3289199 | 2264
+5911 | Eglinton Ave East At Wynford Dr | 43.72418 | -79.3255299 | 2321
+5862 | Eglinton Ave East At Credit Union Dr | 43.72594 | -79.3183999 | 2258
+10344 | Eglinton Ave East At Bermondsey Rd | 43.72591 | -79.3138 | 2246
+806 | Eglinton Ave East At Jonesville Cres East Side | 43.7249199 | -79.3069599 | 2277
+10145 | Eglinton Ave East At Victoria Park Ave East Side | 43.7245699 | -79.30209 | 2316
+9810 | Eglinton Ave East At Pharmacy Ave East Side | 43.72562 | -79.2969299 | 2299
+2506 | 1901 Eglinton Ave East | 43.72672 | -79.2919399 | 2271
+733 | Eglinton Ave East At Lebovic Ave | 43.7269399 | -79.29095 | 2233
+3997 | Eglinton Ave East At Warden Ave | 43.7276299 | -79.28786 | 2319
+4978 | Eglinton Ave East At Prudham Gate | 43.7282499 | -79.28509 | 2303
+8482 | 1995 Eglinton Ave East | 43.7287599 | -79.28281 | 2301
+8149 | Eglinton Ave East At Sinnott Rd | 43.7291899 | -79.28081 | 2310
+7683 | Eglinton Ave East At Birchmount Rd | 43.72976 | -79.2781399 | 2249
+4490 | Eglinton Ave East At Rosemount Dr | 43.7306699 | -79.27394 | 2306
+1445 | Eglinton Ave East At Ionview Rd | 43.7312699 | -79.27128 | 2275
+8670 | Eglinton Ave East At Kennedy Rd | 43.7320099 | -79.2682 | 2279
+320 | Eglinton Ave East At Kennedy Station | 43.7322899 | -79.26712 | 3539
+986 | South Service Rd At Transway | 43.73267 | -79.26492 | 12198
+14227 | Kennedy Station | 43.7327399 | -79.26325 | 14707

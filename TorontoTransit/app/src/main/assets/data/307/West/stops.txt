@@ -1,0 +1,61 @@
+344 | Eglinton Ave West At Yonge St West Side | 43.7066999 | -79.39896 | 9898
+4420 | Eglinton Ave West At Henning Ave | 43.7062 | -79.4013099 | 2360
+10274 | Eglinton Ave West At Lascelles Blvd | 43.70571 | -79.4035199 | 2375
+4903 | Eglinton Ave West At Oriole Pkwy | 43.70524 | -79.4059299 | 2395
+10335 | Eglinton Ave West At Avenue Rd West Side | 43.70454 | -79.4091299 | 2324
+4856 | Eglinton Ave West At Castle Knock Rd | 43.7040499 | -79.41136 | 2336
+9560 | Eglinton Ave West At Heddington Ave | 43.70357 | -79.4137099 | 2359
+4959 | Eglinton Ave West At Gilgorm Rd | 43.7028899 | -79.41693 | 2353
+5260 | Eglinton Ave West At Spadina Rd | 43.70248 | -79.4188399 | 2410
+3129 | Eglinton Ave West At Vesta Dr | 43.7021 | -79.4207099 | 2415
+1700 | Eglinton Ave West At Old Forest Hill Rd | 43.7016399 | -79.42291 | 2391
+1747 | Eglinton Ave West At Bathurst St | 43.7012499 | -79.4246 | 2327
+2087 | Eglinton Ave West At Hilltop Rd | 43.70065 | -79.4274299 | 2361
+10185 | Eglinton Ave West At Old Park Rd | 43.69996 | -79.4306599 | 2392
+336 | Eglinton Ave West At Glenarden Rd | 43.6995499 | -79.43252 | 2354
+335 | Eglinton Ave West At Everden Rd (Eglinton West Station) | 43.6988499 | -79.43595 | 9895
+338 | Eglinton Ave West At Marlee Ave | 43.69813 | -79.4391999 | 2380
+6621 | Eglinton Ave West At Oakwood Ave | 43.6974199 | -79.44256 | 2389
+5268 | Eglinton Ave West At Glenholme Ave | 43.6968499 | -79.44508 | 2358
+8476 | Eglinton Ave West At Locksley Ave | 43.69641 | -79.4471299 | 2378
+5807 | Eglinton Ave West At Dufferin St | 43.6957899 | -79.45007 | 2341
+4801 | Eglinton Ave West At Ennerdale Rd | 43.69506 | -79.4533199 | 2350
+1626 | Eglinton Ave West At Ronald Ave | 43.69425 | -79.4569699 | 2337
+7642 | Eglinton Ave West At Montcalm Ave | 43.6937 | -79.4595499 | 2385
+5453 | Eglinton Ave West At Caledonia Rd | 43.69318 | -79.4617699 | 2335
+6323 | Eglinton Ave West At Blackthorn Ave | 43.6920399 | -79.46517 | 2333
+9805 | Eglinton Ave West At Gabian Way | 43.69187 | -79.4673499 | 2398
+9917 | Eglinton Ave West At Glenhaven St West Side | 43.6913699 | -79.4699 | 2356
+3579 | Eglinton Ave West At Richardson Ave | 43.6910599 | -79.47132 | 2409
+5665 | Eglinton Ave West At Trethewey Dr | 43.6903699 | -79.47437 | 2414
+9128 | Eglinton Ave West At Municipal Dr (York Civic Centre) | 43.6897499 | -79.47703 | 2330
+9140 | Eglinton Ave West At Black Creek Dr West Side | 43.68834 | -79.4832999 | 2401
+3953 | Eglinton Ave West At Photography Dr West Side | 43.68761 | -79.4869399 | 2373
+343 | Eglinton Ave West At Weston Rd | 43.68713 | -79.4893099 | 2419
+9482 | 3588 Eglinton Ave West | 43.6860999 | -79.49332 | 2393
+8955 | Eglinton Ave West At Jane St | 43.6846399 | -79.49849 | 2365
+5031 | Eglinton Ave West At Emmett Ave West Side | 43.6844999 | -79.5045199 | 2347
+8353 | Eglinton Ave West At Walkway To Emmett Ave | 43.68455 | -79.5080999 | 11716
+934 | Eglinton Ave West At Scarlett Rd | 43.68408 | -79.5112199 | 2407
+7191 | Opposite 4119 Eglinton Ave West | 43.6834899 | -79.51685 | 2384
+8132 | Eglinton Ave West At Royal York Rd | 43.6824599 | -79.52632 | 2403
+6214 | Eglinton Ave West At Russell Rd | 43.6812199 | -79.53261 | 2405
+3126 | Eglinton Ave West At Islington Ave | 43.6799699 | -79.53872 | 2363
+3037 | Eglinton Ave West At Wincott Dr | 43.6786599 | -79.54472 | 2422
+10261 | Eglinton Ave West At Kipling Ave | 43.67734 | -79.5505799 | 2371
+9443 | Eglinton Ave West At Widdicombe Hill Blvd West Side | 43.6756499 | -79.55801 | 2421
+692 | Eglinton Ave West At Martin Grove Rd | 43.67463 | -79.5628099 | 2381
+8725 | Eglinton Ave West At The East Mall | 43.6720099 | -79.57108 | 2344
+5391 | Eglinton Ave West At Opposite Walkway To Rangoon Rd | 43.6706499 | -79.57773 | 2417
+509 | Renforth Dr At Eglinton Ave West North Side | 43.6663899 | -79.58833 | 12147
+1084 | Renforth Dr At Convair Dr | 43.67204 | -79.59309 | 8066
+15043 | Carlingview Dr At International Blvd North Side | 43.67736 | -79.59111 | 7581
+15044 | Carlingview Dr At Meteor Dr | 43.6806099 | -79.5925899 | 7584
+15045 | 215 Carlingview Dr | 43.6839299 | -79.5941099 | 7571
+15046 | Dixon Rd At Carlingview Dr West Side | 43.6868099 | -79.59636 | 15227
+694 | Dixon Rd At 950 Dixon Rd | 43.6867399 | -79.59889 | 4973
+2607 | Airport Rd At Highway 427 Overpass West Side | 43.6864299 | -79.60232 | 4986
+14957 | Jetliner Rd At Airport Rd South Side | 43.68461 | -79.6075899 | 15144
+653 | Airport Roadway At Jetliner Rd | 43.6855299 | -79.6064399 | 14267
+7221 | Pearson Airport Terminal 1 (Column R4) | 43.6815999 | -79.61183 | 14092
+3169_ar | Pearson Airport Terminal 3 (Columns C8-C12) | 43.6859399 | -79.62016

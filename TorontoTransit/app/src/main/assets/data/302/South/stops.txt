@@ -1,0 +1,71 @@
+702 | McCowan Rd Loop At Steeles Ave East | 43.8323499 | -79.27538 | 9808
+9074 | McCowan Rd At Steeles Ave East | 43.83118 | -79.2753899 | 9811
+568 | McCowan Ave At Steeles Ave East South Side | 43.8303299 | -79.2751399 | 10577
+5732 | McCowan Rd At Walkway To Enchanted Hills Cres | 43.82881 | -79.2753499 | 9819
+7756 | McCowan Rd At Alton Towers Cir (North) | 43.8270399 | -79.2760399 | 9810
+7366 | McCowan Rd At Milliken Wells Plaza | 43.82562 | -79.27543 | 9836
+5473 | McCowan Rd At Alton Towers Cir (South) | 43.8226199 | -79.2741399 | 9364
+1855 | McCowan Rd At Walkway To Alanbull Sq | 43.8199899 | -79.2729499 | 9800
+7523 | McCowan Rd At McNicoll Ave | 43.8181699 | -79.2721699 | 9365
+3417 | McCowan Rd At Bridley Dr | 43.81455 | -79.27055 | 9366
+7282 | McCowan Rd At Sandhurst Cir (North) | 43.8118299 | -79.2693499 | 9367
+2362 | McCowan Rd At Finch Ave East | 43.8082299 | -79.2667099 | 9368
+6121 | McCowan Rd At Sandhurst Cir (South) | 43.8052999 | -79.26549 | 1316
+4857 | McCowan Rd At Kenhatch Blvd | 43.8016 | -79.26398 | 1302
+2639 | McCowan Rd At Huntingwood Dr | 43.79885 | -79.26274 | 1299
+6068 | McCowan Rd At Commander Blvd | 43.7962999 | -79.2616699 | 1290
+2442 | 2050 McCowan Rd | 43.7951 | -79.26114 | 1311
+2289 | McCowan Rd At Nugget Ave | 43.79225 | -79.26005 | 9858
+1082 | McCowan Rd At Sheppard Ave East | 43.7898399 | -79.2590399 | 1318
+5609 | McCowan Rd At Pitfield Rd | 43.7874999 | -79.2574799 | 1312
+10097 | McCowan Rd At Milner Ave | 43.7855599 | -79.2566799 | 1309
+7239 | McCowan Rd At Triton Rd | 43.77555 | -79.25282 | 9623
+569 | McCowan Rd At Town Centre Crt | 43.7748199 | -79.2525699 | 9616
+4611 | McCowan Rd At Ellesmere Rd South Side | 43.7715599 | -79.25147 | 5666
+5741 | McCowan Rd At Hurley Cres South Side | 43.7686699 | -79.2503199 | 5670
+1339 | McCowan Rd At Brimorton Dr | 43.76559 | -79.24911 | 5664
+994 | McCowan Rd At Meldazy Dr (North) | 43.76361 | -79.24833 | 5675
+1975 | McCowan Rd At Meldazy Dr (South ) | 43.76209 | -79.24774 | 5676
+7557 | McCowan Rd At St Andrews Rd | 43.76016 | -79.24699 | 5678
+7980 | McCowan Rd At Benleigh Dr | 43.7584799 | -79.2463499 | 5662
+7968 | McCowan Rd At Lawrence Ave E (Scarborough General Hospital) | 43.7557799 | -79.2456399 | 5673
+2293 | McCowan Rd At Hollyhedge Dr (North) South Side | 43.75333 | -79.24471 | 5669
+6356 | Danforth Rd At Barrymore Rd | 43.75053 | -79.2445199 | 4937
+5335 | Danforth Rd At Seminole Ave | 43.74794 | -79.2446299 | 4963
+9040 | Danforth Rd At Tansley Ave South Side | 43.7460999 | -79.2447 | 4966
+6502 | Danforth Rd At Savarin St | 43.7433299 | -79.24512 | 4961
+1234 | 1290 Danforth Rd | 43.74078 | -79.2456099 | 4936
+2024 | Danforth Rd At Wetherby Dr | 43.7396 | -79.2456299 | 4969
+5398 | Danforth Rd At Eglinton Ave East | 43.7372899 | -79.2462499 | 4942
+4853 | Danforth Rd At Horton Blvd | 43.7360199 | -79.24701 | 4949
+4691 | Danforth Rd At Brimley Rd West Side | 43.7349999 | -79.24767 | 4938
+3040 | Danforth Rd At Neston Ave West Side | 43.7331799 | -79.24891 | 4959
+2339 | Danforth Rd At Glenshephard Dr (East) West Side | 43.7317399 | -79.25009 | 4945
+14800 | Danforth Rd At Winter Ave | 43.72952 | -79.2517499 | 15031
+3627 | Danforth Rd At Wolfe Ave | 43.72758 | -79.2526599 | 4951
+6779 | Danforth Rd At Midland Ave | 43.7254399 | -79.2537799 | 4957
+8462 | Danforth Rd At Magnolia Ave | 43.7229699 | -79.25557 | 4956
+5218 | Danforth Rd At Linden Ave | 43.72109 | -79.2570399 | 4954
+10348 | Danforth Rd At Hart Ave | 43.71894 | -79.2587299 | 4948
+2533 | Danforth Rd At St Clair Ave East | 43.71702 | -79.2599099 | 4965
+6150 | Danforth Rd At Hubert Ave | 43.7139299 | -79.26155 | 1848
+2933 | Danforth Rd At Marsh Rd | 43.71182 | -79.2628399 | 1854
+14842 | Danforth Rd At North Woodrow Blvd | 43.71037 | -79.2645799 | 15062
+6752 | Danforth Rd At Birchmount Rd West Side | 43.70666 | -79.2684699 | 1844
+6853 | 400 Danforth Rd (Birchmount Garage) | 43.7053399 | -79.26928 | 1840
+4841 | Opposite 347 Danforth Rd | 43.7034399 | -79.27049 | 1862
+2272 | 300 Danforth Rd | 43.7017799 | -79.27169 | 1850
+7532 | Danforth Rd At Mack Ave | 43.70027 | -79.2728199 | 1853
+7242 | Danforth Rd At Medford Ave | 43.6991399 | -79.27358 | 1856
+873 | Warden Ave At Danforth Rd South Side | 43.69648 | -79.27463 | 9905
+7377 | Warden Ave At Danforth Ave | 43.69456 | -79.27386 | 8554
+424 | 3450 Danforth Ave | 43.6941099 | -79.27531 | 11720
+1971 | Danforth Ave At Leyton Ave West Side | 43.69352 | -79.2783599 | 1833
+2416 | Danforth Ave At August Ave | 43.6929099 | -79.28109 | 1831
+2245 | Danforth Ave At Pharmacy Ave | 43.6924399 | -79.2832 | 1836
+7491 | Danforth Ave At St Dunstan Dr West Side | 43.6918599 | -79.2858399 | 1838
+3960 | Danforth Ave At Victoria Park Ave | 43.69139 | -79.2880099 | 1839
+1321 | Danforth Ave At Sibley Ave | 43.6903499 | -79.29247 | 1837
+7164 | Danforth Ave At Dawes Rd | 43.68942 | -79.2966099 | 1832
+7627 | 2666 Danforth Ave | 43.6888 | -79.2993199 | 13464
+9975 | Main St Station | 43.6889499 | -79.30158 | 1258

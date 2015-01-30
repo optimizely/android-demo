@@ -1,0 +1,39 @@
+7805 | Rexleigh Dr At St Clair Ave East | 43.7064799 | -79.307 | 3094
+7512 | St Clair Ave East At Glen Eden Cres | 43.7068699 | -79.30596 | 3118
+9711 | St Clair Ave East At Plaxton Dr | 43.70755 | -79.3027799 | 3120
+5884 | St Clair Ave East At Squires Ave | 43.70799 | -79.3008799 | 3121
+6867 | St Clair Ave East At Glenburn Ave | 43.7085399 | -79.29845 | 3119
+813 | St Clair Ave East At Victoria Park Ave | 43.70875 | -79.2964299 | 3122
+2945 | Dawes Rd At Ferris Rd South Side | 43.7058899 | -79.29566 | 1892
+5986 | Dawes Rd At Beth St | 43.7044399 | -79.2965 | 1885
+9192 | Dawes Rd At Gower St | 43.7023899 | -79.2970299 | 1897
+7251 | Dawes Rd At Donora Dr South Side | 43.7002099 | -79.29706 | 1891
+6648 | Dawes Rd At Park Vista South Side | 43.698 | -79.2971699 | 13346
+7128 | Dawes Rd At Cres Town Rd | 43.6967199 | -79.29733 | 11256
+2292 | Dawes Rd At Goodwood Park Crt | 43.69526 | -79.2974899 | 1895
+2622 | Dawes Rd At Secord Ave | 43.69366 | -79.29731 | 1901
+1406 | Dawes Rd At Dentonia Park Ave | 43.69225 | -79.29714 | 1889
+4476 | Dawes Rd At Danforth Ave | 43.68968 | -79.29688 | 1887
+7627 | 2666 Danforth Ave | 43.6887999 | -79.29932 | 13464
+14255_ar | Main St Station | 43.6890399 | -79.30193
+14255 | Main St Station | 43.6890399 | -79.30193 | 14736
+9308 | Danforth Ave At Main St East Side | 43.68823 | -79.3011099 | 0901
+4377 | 2681 Danforth Ave | 43.68873 | -79.2989699 | 0875
+3851 | Dawes Rd At Danforth Ave North Side | 43.6897199 | -79.29675 | 1886
+1769 | Dawes Rd At Dentonia Park Ave | 43.6919 | -79.29698 | 1888
+3481 | Dawes Rd At Secord Ave | 43.6934699 | -79.2971399 | 1900
+4117 | Dawes Rd At Goodwood Park Crt | 43.6948099 | -79.29725 | 1894
+9566 | Dawes Rd At Cres Town Rd North Side | 43.6968899 | -79.29713 | 11255
+1145 | Dawes Rd At Park Vista | 43.69788 | -79.29696 | 1898
+9458 | Dawes Rd At Brenton St | 43.70124 | -79.29686 | 13621
+2069 | Dawes Rd At Gower St North Side | 43.7026099 | -79.29686 | 1896
+3010 | Dawes Rd At Beth St | 43.7042499 | -79.29644 | 1884
+3080 | Dawes Rd At Ferris Rd | 43.70596 | -79.29544 | 1893
+8386 | Ferris Rd At Dawes Rd West Side | 43.7063199 | -79.29602 | 2476
+1666 | Ferris Rd At Squires Ave | 43.70494 | -79.2986899 | 2478
+4971 | Ferris Rd At Plaxton Dr | 43.7040499 | -79.30065 | 2477
+5337 | Ferris Rd At Curran Dr | 43.7035999 | -79.30161 | 2475
+9431 | Ferris Rd At Ferris Cres | 43.7029899 | -79.30343 | 11455
+7261 | Rexleigh Dr At Ferris Rd North Side | 43.70304 | -79.30481 | 3093
+8570 | 195 Rexleigh Dr | 43.70461 | -79.30555 | 3092
+7805_ar | Rexleigh Dr At St Clair Ave East | 43.7064799 | -79.307

@@ -1,0 +1,48 @@
+14307 | Warden Station | 43.7109799 | -79.27952 | 14790
+7405 | St Clair Ave East At Santamonica Blvd | 43.71294 | -79.2766999 | 4629
+811 | St Clair Ave East At Elfreda Blvd | 43.7136799 | -79.27313 | 1559
+5932 | St Clair Ave East At Birchmount Rd East Side | 43.7141999 | -79.27053 | 6103
+8840 | St Clair Ave East At North Woodrow Blvd | 43.7151299 | -79.26684 | 4628
+3899 | St Clair Ave East At Cotton Ave | 43.71587 | -79.2637999 | 1556
+812 | St Clair Ave East At Kennedy Rd | 43.71636 | -79.2616999 | 1562
+810 | St Clair Ave East At Danforth Rd | 43.7166699 | -79.26028 | 4623
+5544 | St Clair Ave East At Linden Ave | 43.71756 | -79.2561299 | 1566
+5309 | St Clair Ave East At Midland Ave | 43.7185599 | -79.25161 | 1569
+2597 | St Clair Ave East At Gidley Rd | 43.7194399 | -79.24767 | 1561
+7811 | St Clair Ave East At Andrew Ave | 43.7200999 | -79.24473 | 1552
+5869 | St Clair Ave East At Brimley Rd | 43.7207699 | -79.24162 | 4622
+6712 | St Clair Ave East At Fermoy Rd | 43.7212599 | -79.2393 | 4624
+5975 | St Clair Ave East At Kingston Rd | 43.7217699 | -79.23684 | 4626
+6498 | Kingston Rd At Neilson Ave | 43.7233999 | -79.23423 | 4247
+4688 | McCowan Rd At Kingston Rd North Side | 43.7256999 | -79.23258 | 1303
+9470 | McCowan Rd At Horfield Ave | 43.72837 | -79.23367 | 1297
+6026 | McCowan Rd At Cree Ave | 43.7306399 | -79.2346199 | 1291
+7265 | McCowan Rd At Martindale Rd | 43.73275 | -79.23551 | 1305
+6565 | McCowan Rd At Bridlegrove Dr North Side | 43.7346599 | -79.2363399 | 12093
+9823 | McCowan Rd At Eglinton Ave East | 43.7385799 | -79.2380299 | 1294
+4960 | Eglinton Ave East At Torrance Rd | 43.7393699 | -79.23544 | 1039
+1245 | Bellamy Rd North At Eglinton Ave East North Side | 43.7408099 | -79.23211 | 0352
+2031 | Opposite 130 Bellamy Rd North | 43.7419999 | -79.2306 | 0368
+3555 | Bellamy Rd North At Grace St North Side | 43.7435999 | -79.2297199 | 0357
+9161 | Bellamy Rd North At Nelson St | 43.74646 | -79.23089 | 0365
+2936 | Bellamy Rd North At Farmbrook Rd | 43.7495699 | -79.2322099 | 0356
+7486 | Bellamy Rd North At Banmoor Blvd North Side | 43.75196 | -79.23325 | 0341
+7356 | Bellamy Rd North At Burnview Cres | 43.75387 | -79.23405 | 0347
+2482 | Bellamy Rd North At Eastpark Blvd | 43.7553999 | -79.2346999 | 0351
+1121 | Bellamy Rd North At Lawrence Ave East | 43.7575499 | -79.23509 | 0361
+1596 | Bellamy Rd North At Painted Post Dr | 43.7605899 | -79.23628 | 0369
+2437 | Bellamy Rd North At Pandora Cir | 43.7631099 | -79.2372799 | 0370
+8167 | Bellamy Rd North At Brimorton Dr | 43.76724 | -79.23895 | 0345
+4956 | Bellamy Rd North At Northleigh Dr North Side | 43.76977 | -79.23997 | 0366
+1867 | Bellamy Rd North At Amberjack Blvd | 43.77249 | -79.24105 | 0340
+9330 | Bellamy Rd North At Ellesmere Rd | 43.77404 | -79.24154 | 0355
+4578 | 1095 Bellamy Rd North | 43.7760299 | -79.24213 | 9605
+4970 | 1149 Bellamy Rd North | 43.7779999 | -79.2429099 | 9606
+3969 | Bellamy Rd North At Progress Ave | 43.7799699 | -79.2436399 | 11618
+9595 | Corporate Dr At Progress Ave North Side | 43.7805399 | -79.2439 | 11365
+6585 | Corporate Dr At Lee Centre Dr (West) West Side | 43.78052 | -79.2473999 | 12099
+4768 | 88 Corporate Dr | 43.78012 | -79.2495999 | 11366
+5248 | 100 Consilium Pl | 43.7773499 | -79.2507699 | 11367
+8720 | Grangeway Ave At Progress Ave South Side | 43.77598 | -79.25051 | 9608
+9289 | Bushby Dr At McCowan Rd (Lawrence East Station) | 43.7747299 | -79.25188 | 9609
+14277_ar | Scarborough Centre Station | 43.7742599 | -79.25818

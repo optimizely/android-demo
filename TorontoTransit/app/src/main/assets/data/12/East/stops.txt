@@ -1,0 +1,57 @@
+14305 | Victoria Park Station | 43.6938799 | -79.2883 | 14788
+14731 | Victoria Park Ave At Denton Ave | 43.6931 | -79.28931 | 14962
+8504 | Victoria Park Ave At Danforth Ave | 43.6913699 | -79.2885099 | 4690
+2623 | Victoria Park Ave At Wakehood St South Side | 43.6900499 | -79.2879699 | 4697
+2608 | Victoria Park Ave At Gerrard St East | 43.68756 | -79.28693 | 4692
+7921 | Victoria Park Ave At Swanwick Ave | 43.68526 | -79.28594 | 4696
+8160 | Victoria Park Ave At Woodale Ave | 43.68342 | -79.28519 | 9414
+7857 | Victoria Park Ave At Meadow Ave | 43.68182 | -79.28453 | 9415
+2966 | Kingston Rd At Victoria Park Ave East Side | 43.6807899 | -79.28362 | 3344
+8892 | Kingston Rd At Blantyre Ave | 43.6813499 | -79.28146 | 11840
+2600 | Kingston Rd At Fallingbrook Rd | 43.68215 | -79.2793399 | 4221
+2801 | Kingston Rd At Wood Glen Rd | 43.6840799 | -79.27615 | 4270
+15031 | Kingston Rd At Queensbury Ave | 43.6853399 | -79.27431 | 15211
+4720 | Kingston Rd At Warden Ave | 43.68761 | -79.2710299 | 4267
+8516 | Kingston Rd At Manderley Dr | 43.6886799 | -79.26942 | 4235
+9456 | Kingston Rd At Kildonan Dr | 43.6899699 | -79.26735 | 4232
+1190 | Kingston Rd At Birchcliff Ave | 43.69136 | -79.2648199 | 4205
+6012 | Kingston Rd At Birchmount Rd East Side | 43.6932399 | -79.26188 | 4207
+6067 | 1859 Kingston Rd (Opposite Birchmount Park) | 43.69512 | -79.2594099 | 4243
+6581 | Kingston Rd At Lakehurst Dr | 43.6961799 | -79.25802 | 4233
+1949 | Kingston Rd At Glen Everest Rd East Side | 43.69802 | -79.2562199 | 4227
+6172 | 2121 Kingston Rd | 43.70086 | -79.2544899 | 4230
+2802 | Kingston Rd At Cliffside Dr | 43.70381 | -79.2526599 | 4217
+9445 | Kingston Rd At Ridgemoor Ave | 43.7061599 | -79.2512 | 4259
+7720 | Kingston Rd At Sandown Ave | 43.70858 | -79.2496899 | 4260
+3922 | Kingston Rd At Midland Ave | 43.7107999 | -79.24824 | 4246
+7014 | Kingston Rd At Chine Dr | 43.7139399 | -79.24506 | 4214
+4158 | 2665 Kingston Rd East Side | 43.7159199 | -79.24279 | 4199
+1330 | Brimley Rd South At Kingston Rd South Side | 43.7177199 | -79.24021 | 3362
+9472 | Brimley Rd At Barkdene Hills | 43.71546 | -79.23929 | 3359
+5336 | Barkdene Hill At Larwood Blvd | 43.71546 | -79.2379299 | 3307
+7133 | Barkdene Hill At Gradwell Dr | 43.71586 | -79.2361099 | 3305
+1430_ar | Barkdene Hill At Brooklawn Ave | 43.7166099 | -79.23379
+4586 | Brimley Rd At Kingston Rd North Side | 43.7190999 | -79.24064 | 3361
+10330 | Brimley Rd At St Clair Ave East | 43.72074 | -79.24132 | 3366
+6712 | St Clair Ave East At Fermoy Rd | 43.72126 | -79.2392999 | 4624
+5975 | St Clair Ave East At Kingston Rd | 43.7217699 | -79.23684 | 4626
+1757 | Brooklawn Ave At Kingston Rd South Side | 43.7216299 | -79.2359 | 3378
+2794 | Brooklawn Ave At Sloley Rd | 43.71961 | -79.23493 | 3381
+2043_ar | Brooklawn Ave At Barkdene Hills | 43.7169199 | -79.23381
+10066 | Brimley Rd At Mandarin Rd | 43.72245 | -79.24203 | 9635
+4819 | Brimley Rd At Anson Ave | 43.72433 | -79.2428 | 9636
+5249 | Brimley Rd At Oakridge Dr | 43.7258099 | -79.2433999 | 9637
+4616 | Brimley Rd At Skagway Ave | 43.7282699 | -79.2444099 | 9638
+6917 | Brimley Rd At Lombardy Cres North Side | 43.7321799 | -79.2460499 | 9639
+9536 | Brimley Rd At Danforth Rd | 43.7350799 | -79.2472299 | 9640
+317 | Eglinton Ave East At Brimley Rd West Side | 43.7366499 | -79.24876 | 2253
+4194 | Eglinton Ave East At Gilder Dr | 43.73577 | -79.2529699 | 1033
+8550 | Eglinton Ave East At Huntington Ave West Side | 43.7350899 | -79.25601 | 1034
+323 | Eglinton Ave East At Midland Ave West Side | 43.7344699 | -79.25888 | 1036
+5465 | 2466 Eglinton Ave East (Rainbow Village) | 43.7340999 | -79.26044 | 6365
+9949 | North Service Rd At Eglinton Ave East | 43.73305 | -79.2654799 | 1038
+14232_ar | Kennedy Station | 43.7325199 | -79.26389
+8107 | Birchmount Rd At Kingston Rd North Side | 43.6935999 | -79.26248 | 7563
+4872 | Birchmount Rd At Hollis Ave | 43.6949299 | -79.2630299 | 7551
+7686 | Birchmount Rd At Danforth Ave | 43.6967799 | -79.2638 | 7547
+14779 | 3701 Danforth Ave (Variety Village) | 43.6987399 | -79.25899 | 15011

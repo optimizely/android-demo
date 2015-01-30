@@ -1,0 +1,80 @@
+10088 | Victoria Park Ave At Parkwoods Village Dr | 43.7580499 | -79.31546 | 8490
+2841 | Parkwoods Village Dr At Combermere Dr North Side | 43.75832 | -79.31949 | 8026
+4895 | Parkwoods Village Dr At Gisburn Rd | 43.7600899 | -79.3218099 | 8029
+6691 | Parkwoods Village Dr At Brookbanks Dr | 43.7609899 | -79.32348 | 8024
+6061 | York Mills Rd At Fenside Dr | 43.76078 | -79.3275199 | 9073
+515 | Richmond St East At Sherbourne St West Side | 43.6533699 | -79.36957 | 11319
+514 | Richmond St East At Jarvis St West Side | 43.6527999 | -79.37401 | 11346
+9339 | Richmond St East At Church St West Side | 43.6524299 | -79.37588 | 10891
+3802 | Richmond St East At Victoria St | 43.6520499 | -79.37763 | 11810
+3842 | Richmond St West At Yonge St West Side | 43.65169 | -79.3793699 | 10892
+3492 | Richmond St West At Bay St West Side | 43.65109 | -79.3820699 | 10893
+14677 | Richmond St West At York St West Side | 43.6505199 | -79.38506 | 10894
+10114 | Richmond St West At Simcoe St | 43.6499899 | -79.38699 | 11825
+2445 | Richmond St West At John St | 43.6491999 | -79.39067 | 11886
+691 | Adelaide St West At Peter St East Side | 43.6473599 | -79.39233 | 11887
+1148 | Adelaide St West At John St East Side | 43.64794 | -79.3896099 | 11888
+1756_ar | Adelaide St West At Simcoe St | 43.6485699 | -79.38673
+6913 | Valley Woods Rd At York Mills Rd | 43.7589699 | -79.33304 | 11527
+5056 | 44 Valley Woods Rd | 43.7551799 | -79.3334199 | 11528
+2938 | Opposite 29 Valley Woods Rd | 43.75383 | -79.3332199 | 11529
+3235 | Valley Woods Rd At Brookbanks Dr | 43.7524099 | -79.3318899 | 11530
+1888 | Underhill Dr At Brookbanks Dr South Side | 43.75324 | -79.3275 | 8378
+8319 | Underhill Dr At Cassandra Blvd (North) South Side | 43.7524499 | -79.3263599 | 8380
+5954 | Underhill Dr At Kellythorne Dr | 43.75043 | -79.3262999 | 8385
+5088 | Underhill Dr At Beveridge Dr | 43.74819 | -79.32637 | 8376
+2394 | Underhill Dr At Doonaree Dr South Side | 43.7453499 | -79.32594 | 8383
+10350 | Underhill Dr At Cornerbrook Dr | 43.74384 | -79.32608 | 8382
+7661 | Underhill Dr At Roanoke Rd | 43.7420499 | -79.3253 | 8387
+10011 | Concorde Pl At Concorde Pl Cul De Sac | 43.7300499 | -79.32829 | 11229
+7662 | Concorde Pl At Concorde Gate South Side | 43.7291 | -79.3285099 | 11230
+5540 | Concorde Pl At McDonalds Pl | 43.7279599 | -79.3282799 | 11260
+5478 | 35 Wynford Heights Cres | 43.7269 | -79.3260299 | 11190
+1544 | 75 Wynford Heights Cres | 43.7275799 | -79.32681 | 11191
+2734 | Wynford Dr At Wynford Heights Cres South Side | 43.7263 | -79.3275199 | 4731
+8022 | Wynford Dr At Eglinton Ave East | 43.7247599 | -79.32573 | 4722
+6857 | 195-205-215 Wynford Dr | 43.7238 | -79.32491 | 11338
+824 | St Dennis Dr At Linkwood Lane | 43.7196299 | -79.3279699 | 4728
+9988 | St Dennis Dr At Deauville Lane | 43.71868 | -79.3303999 | 4633
+9788 | Opposite 25 St Dennis Dr | 43.71795 | -79.3333699 | 11192
+8308 | St Dennis Dr At Don Mills Rd | 43.71677 | -79.3366599 | 11193
+9804 | Don Mills Rd At Gateway Blvd | 43.7145499 | -79.3365799 | 1935
+275 | Don Mills Rd At Overlea Blvd South Side | 43.7095099 | -79.3343399 | 14260
+1756 | Adelaide St West At Simcoe St | 43.6485699 | -79.38673 | 11889
+7924 | Adelaide St West At University Ave East Side | 43.6489099 | -79.38508 | 10897
+9156 | Adelaide St West At York St | 43.6491 | -79.3841899 | 11007
+10427 | Adelaide St West At Bay St | 43.64977 | -79.3809299 | 14426
+3748 | Adelaide St East At Yonge St East Side | 43.6504899 | -79.37778 | 10899
+1424 | Adelaide St West At Church St | 43.6510799 | -79.37507 | 11186
+2053 | Adelaide St East At Jarvis St East Side | 43.6514299 | -79.372 | 11457
+4390 | Adelaide St East At Princess St | 43.6522999 | -79.3675 | 13675
+1049 | Don Mills Rd At Gateway Blvd (South) North Side | 43.7108199 | -79.3346199 | 1936
+4777 | Don Mills Rd At Gateway Blvd (North) | 43.71422 | -79.33609 | 1934
+6819 | St Dennis Dr At Don Mills Rd East Side | 43.7166899 | -79.33645 | 11187
+5073 | 25 St Dennis Dr | 43.71788 | -79.3331399 | 11188
+2927 | St Dennis Dr At Deauville Lane | 43.7182099 | -79.33179 | 11189
+6785 | St Dennis Dr At Linkwood Lane | 43.71922 | -79.32777 | 4727
+6901 | St Dennis Dr At Opposite 195-205-215 Wynford Dr | 43.72359 | -79.32447 | 11347
+7206 | Wynford Dr At Eglinton Ave East | 43.7250599 | -79.32572 | 4721
+9671 | Wynford Dr At Wynford Heights Cres | 43.7265299 | -79.32739 | 4730
+6260 | 1 And 3 Concorde Pl North Side | 43.72814 | -79.32819 | 11259
+2269 | Concorde Gate At Concorde Pl West Side | 43.7295399 | -79.3291 | 13471
+2847 | Underhill Dr At Roanoke Rd North Side | 43.7421599 | -79.32524 | 13436
+7404 | Underhill Dr At Broadlands Blvd | 43.74399 | -79.32602 | 8377
+7092 | Underhill Dr At Doonaree Dr | 43.7453099 | -79.32583 | 8384
+4228 | Underhill Dr At Beveridge Dr North Side | 43.7480899 | -79.3262399 | 8375
+3013 | Underhill Dr At Shawfield Cres (South) | 43.75019 | -79.3262799 | 8388
+6178 | Underhill Dr At Cassandra Blvd (North) | 43.75245 | -79.32625 | 8381
+2171 | Underhill Dr At Brookbanks Dr | 43.75339 | -79.32764 | 8379
+2406 | Brookbanks Dr At Valley Woods Rd | 43.7523099 | -79.33163 | 7567
+2549 | 29 Valley Woods Rd | 43.7539899 | -79.33294 | 11531
+10406 | Opposite 44 Valley Woods Rd | 43.75521 | -79.33332 | 11532
+10256 | 113 Valley Woods Rd | 43.7589699 | -79.33281 | 11533
+8081 | York Mills Rd At Valley Woods Rd East Side | 43.7595999 | -79.33204 | 9088
+4880 | York Mills Rd At Fenside Dr | 43.7605799 | -79.32782 | 9072
+2022 | York Mills Rd At Ness Dr | 43.7616399 | -79.32332 | 9080
+1695 | York Mills Rd At Rayoak Dr | 43.7620599 | -79.3215 | 9081
+6597 | York Mills Rd At Victoria Park Ave | 43.7628699 | -79.3179 | 9089
+4218 | Victoria Park Ave At Paget Rd South Side | 43.7597399 | -79.3161799 | 7418
+10088_ar | Victoria Park Ave At Parkwoods Village Dr | 43.7580499 | -79.31546
+10011_ar | Concorde Pl At Concorde Pl Cul De Sac | 43.7300499 | -79.32829

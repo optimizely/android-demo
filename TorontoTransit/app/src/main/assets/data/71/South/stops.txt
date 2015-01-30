@@ -1,0 +1,33 @@
+2959 | Gunns Loop At St Clair Ave West | 43.6719199 | -79.47169 | 6534
+1826 | St Clair Ave West At Mondovi Gate West Side | 43.6708299 | -79.47553 | 13711
+5578 | St Clair Ave West At Symes Rd | 43.67045 | -79.4772799 | 7364
+3479 | St Clair Ave West At Britannia Ave | 43.66968 | -79.4806799 | 7360
+8623 | Runnymede Rd At St Clair Ave West South Side | 43.6686399 | -79.4834599 | 7069
+1916 | Runnymede Rd At Dundas St West | 43.6658599 | -79.48231 | 7059
+2436 | Runnymede Rd At St Johns Rd | 43.6639199 | -79.4814899 | 7071
+7500 | Runnymede Rd At Maher Ave South Side | 43.662 | -79.48073 | 7063
+9331 | Runnymede Rd At Annette St | 43.66018 | -79.48013 | 7048
+5666 | Runnymede Rd At Macgregor Ave | 43.65852 | -79.47943 | 7065
+1513 | Runnymede Rd At Glenwood Ave | 43.65716 | -79.47884 | 7061
+1890 | Runnymede Rd At Colbeck St | 43.65507 | -79.47794 | 7054
+14274_ar | Runnymede Station | 43.6517499 | -79.47595
+14046 | Industry St At Ray Ave | 43.6925599 | -79.49148 | 14534
+2256 | Industry St At Bertal Rd South Side | 43.69168 | -79.48927 | 9325
+3535 | Industry St At Todd Baylis Blvd | 43.6930299 | -79.4864 | 9326
+10398 | Trethewey Dr At Todd Baylis Blvd South Side | 43.69498 | -79.48729 | 3141
+9140 | Eglinton Ave West At Black Creek Dr West Side | 43.6883399 | -79.4833 | 2401
+3953 | Eglinton Ave West At Photography Dr West Side | 43.68761 | -79.4869399 | 2373
+884 | Weston Rd At Eglinton Ave West South Side | 43.6866799 | -79.48913 | 9677
+9048 | Weston Rd At York Ave | 43.68589 | -79.48754 | 7447
+6318 | Weston Rd At Dennis Ave | 43.68515 | -79.48595 | 13196
+6856 | Lambton Ave At Weston Rd West Side | 43.6840399 | -79.48488 | 13443
+2126 | Lambton Ave At Cashman Cres (East) | 43.6835499 | -79.48703 | 13450
+2384 | Lambton Ave At Guestville Ave | 43.6831499 | -79.48877 | 13445
+7991 | Rockcliffe Blvd At Lambton Ave South Side | 43.68203 | -79.49158 | 6960
+1956 | Rockcliffe Blvd At Outlook Ave | 43.6803999 | -79.4908699 | 6962
+8364 | Rockcliffe Blvd At Caesar Ave South Side | 43.67888 | -79.49024 | 4564
+2884 | Rockcliffe Blvd At Alliance Ave | 43.6770599 | -79.4894599 | 6954
+7173 | 400 Rockcliffe Blvd (Rockcliffe Middle School) | 43.6744799 | -79.48839 | 6955
+10158 | Rockcliffe Blvd At Corbett Ave | 43.6718199 | -79.4872299 | 6958
+10282 | Castleton Ave At Henrietta St | 43.6705199 | -79.4865499 | 6296
+740 | Henrietta St At Runnymede Rd | 43.6706199 | -79.48446 | 6418

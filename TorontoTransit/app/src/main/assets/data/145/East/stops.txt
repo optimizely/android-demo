@@ -1,0 +1,44 @@
+14345 | Lake Shore Blvd West At Kipling Ave East Side | 43.5982699 | -79.5164 | 14826
+5188 | Lake Shore Blvd West At Fifteenth St | 43.5986799 | -79.5144 | 5154
+5479 | Lake Shore Blvd West At Thirteenth St | 43.5992099 | -79.51196 | 5152
+5050 | Lake Shore Blvd West At Tenth St | 43.5999 | -79.5088199 | 5150
+3370 | Lake Shore Blvd West At Seventh St | 43.60066 | -79.5053999 | 5172
+7245 | Lake Shore Blvd West At Fifth St | 43.60116 | -79.5031099 | 5170
+7612 | Lake Shore Blvd West At Third St | 43.60165 | -79.5008699 | 5167
+6435 | Lake Shore Blvd West At First St | 43.60213 | -79.4986899 | 13946
+7847 | Lake Shore Blvd West At Royal York Rd | 43.6035199 | -79.49324 | 5197
+8158 | Lake Shore Blvd West At Lake Cres | 43.6068399 | -79.49037 | 5183
+1299 | Lake Shore Blvd West At Miles Rd | 43.6082 | -79.49025 | 5191
+8173 | Lake Shore Blvd West At Norris Cres | 43.6108199 | -79.48995 | 5194
+4004 | Lake Shore Blvd West At Summerhill Rd | 43.61206 | -79.4897699 | 10751
+2173 | Lake Shore Blvd West At Mimico Ave | 43.61358 | -79.48929 | 5192
+5516 | Lake Shore Blvd West At Superior Ave | 43.61482 | -79.4886199 | 5201
+8764 | Lake Shore Blvd West At Burlington St | 43.61716 | -79.4872999 | 5173
+14349 | Lake Shore Blvd West At Louisa St | 43.6183899 | -79.48669 | 14830
+14347 | Lake Shore Blvd West At Legion Rd | 43.6202 | -79.4838 | 14828
+14346 | Lake Shore Blvd West At Park Lawn Rd | 43.6228299 | -79.48124 | 14827
+14055 | Opposite 2155 Lake Shore Blvd West | 43.62571 | -79.4796699 | 14542
+14056 | Lake Shore Blvd West At Brookers Lane | 43.62702 | -79.4790299 | 14543
+14631 | Lake Shore Blvd West At Marine Parade Dr East Side | 43.63047 | -79.4765299 | 14852
+14630 | Lake Shore Blvd West At Palace Pier Crt | 43.63104 | -79.4756599 | 14851
+14343 | Lake Shore Blvd West At Windermere Ave | 43.63474 | -79.4683099 | 14824
+14341 | Lake Shore Blvd West At Ellis Ave | 43.6359999 | -79.46533 | 14822
+9367 | Lake Shore Blvd West At Colborne Lodge Dr | 43.6375799 | -79.4593 | 12163
+14641 | Fleet St At Bathurst St | 43.63649 | -79.4000199 | 14864
+7197 | Bathurst St At King St West | 43.64379 | -79.40251 | 0161
+14975 | Adelaide St West At Spadina Ave | 43.6466299 | -79.39567 | 15161
+691 | Adelaide St West At Peter St East Side | 43.6473599 | -79.39233 | 11887
+1148 | Adelaide St West At John St East Side | 43.64794 | -79.3896099 | 11888
+1756 | Adelaide St West At Simcoe St | 43.64857 | -79.3867299 | 11889
+7924 | Adelaide St West At University Ave East Side | 43.64891 | -79.3850799 | 10897
+9156 | Adelaide St West At York St | 43.6490999 | -79.38419 | 11007
+10427 | Adelaide St West At Bay St | 43.64977 | -79.3809299 | 14426
+3748 | Adelaide St East At Yonge St East Side | 43.6504899 | -79.37778 | 10899
+1424 | Adelaide St West At Church St | 43.6510799 | -79.37507 | 11186
+514 | Richmond St East At Jarvis St West Side | 43.6527999 | -79.37401 | 11346
+9339 | Richmond St East At Church St West Side | 43.6524299 | -79.37588 | 10891
+3802 | Richmond St East At Victoria St | 43.65205 | -79.3776299 | 11810
+3842 | Richmond St West At Yonge St West Side | 43.6516899 | -79.37937 | 10892
+3492 | Richmond St West At Bay St West Side | 43.6510899 | -79.38207 | 10893
+14677 | Richmond St West At York St West Side | 43.65052 | -79.3850599 | 10894
+10114_ar | Richmond St West At Simcoe St | 43.6499899 | -79.38699

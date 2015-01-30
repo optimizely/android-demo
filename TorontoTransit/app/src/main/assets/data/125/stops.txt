@@ -1,0 +1,31 @@
+1842 | Antibes Dr (South) At Torresdale Ave East Side | 43.7793799 | -79.45176 | 9281
+4181 | Antibes Dr (South) At Candle Liteway (East) | 43.77965 | -79.4491299 | 9282
+1192 | Opposite 100 Antibes Dr | 43.7796111 | -79.4469939 | 9283
+9316 | Antibes Dr At Bathurst St | 43.78095 | -79.44512 | 9284
+7410 | Drewry Ave At Marthon Cres (East) | 43.7818199 | -79.44109 | 9285
+8590 | Drewry Ave At Lister Dr | 43.78256 | -79.4377199 | 9286
+8026 | Drewry Ave At Grantbrook St | 43.7834 | -79.4338999 | 9287
+289 | Drewry Ave At Gardenia Crt | 43.7838899 | -79.43172 | 9288
+4617 | Drewry Ave At Norwin St | 43.78464 | -79.4283599 | 9289
+1603 | Drewry Ave At Hilda Ave | 43.78555 | -79.4242299 | 9290
+1279 | Drewry Ave At Fairchild Ave | 43.7861 | -79.4218299 | 9291
+2079 | 43 Drewry Ave | 43.78661 | -79.4194899 | 9292
+992 | Drewry Ave At Yonge St | 43.7869 | -79.4180699 | 9293
+900 | 5800 Yonge St | 43.7842099 | -79.41677 | 9013
+14212_ar | Finch Station | 43.7814299 | -79.41519
+14212 | Finch Station | 43.7814299 | -79.41519 | 14692
+1805 | Yonge St At Bishop Ave North Side (Finch Station) | 43.78219 | -79.41601 | 3212
+12888 | 5799 Yonge St | 43.78495 | -79.41668 | 14447
+7676 | Drewry Ave At Yonge St West Side | 43.7870699 | -79.41778 | 9269
+2453 | 30 Drewry Ave | 43.7866799 | -79.41949 | 9270
+8322 | Drewry Ave At Fairchild Ave | 43.7862399 | -79.42154 | 9271
+8114 | Drewry Ave At Hilda Ave | 43.78574 | -79.4239499 | 9272
+10316 | Drewry Ave At Norwin St | 43.7848699 | -79.42772 | 9273
+4860 | Drewry Ave At Cactus Ave | 43.78408 | -79.4311999 | 9274
+290 | Drewry Ave At Grantbrook St | 43.78357 | -79.4335999 | 9275
+8515 | Drewry Ave At Lister Dr | 43.7827799 | -79.4373 | 9276
+8076 | Drewry Ave At Marathon Cres (East) | 43.7820599 | -79.4404 | 9277
+6249 | Drewry Ave At Bathurst St | 43.7811399 | -79.44453 | 9278
+2137 | Antibes Dr (North) At Plum Treeway (South) North Side | 43.7818499 | -79.44654 | 9279
+7025 | Antibes Dr (North) At Torresdale Ave | 43.782 | -79.4498799 | 9280
+1842_ar | Antibes Dr (South) At Torresdale Ave East Side | 43.7793799 | -79.45176

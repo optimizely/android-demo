@@ -1,0 +1,28 @@
+4166 | Queens Quay East At Richardson St | 43.6447199 | -79.36701 | 6865
+4706 | Lower Jarvis St At Queens Quay East North Side | 43.6443899 | -79.3691599 | 6477
+9716 | Lower Jarvis St At Lake Shore Blvd East | 43.6454299 | -79.3696799 | 6475
+1804 | Lower Jarvis St At The Esplanade | 43.64809 | -79.37077 | 6474
+8428 | The Esplanade At Frederick St | 43.6485899 | -79.36906 | 6374
+9228 | The Esplanade At Lower Sherbourne St | 43.6488999 | -79.36768 | 6376
+5433 | Sherbourne St At Front St East | 43.65026 | -79.36774 | 7316
+3330 | Sherbourne St At Adelaide St East North Side | 43.6525799 | -79.3686799 | 7305
+3073 | Sherbourne St At Queen St East | 43.6542299 | -79.3692499 | 7327
+9310 | Sherbourne St At Shuter St | 43.6560199 | -79.3699599 | 7330
+8249 | Sherbourne St At Dundas St East North Side | 43.65858 | -79.37108 | 7312
+6549 | Sherbourne St At Gerrard St East | 43.6611299 | -79.3721099 | 7318
+9306 | Sherbourne St At Carlton St | 43.6630899 | -79.37294 | 7310
+4519 | 433 Sherbourne St | 43.66519 | -79.37381 | 7307
+7966 | Sherbourne St At Wellesley St East | 43.6669599 | -79.3745499 | 7332
+3949 | Sherbourne St At Earl St North Side | 43.66896 | -79.37538 | 7314
+9229 | Sherbourne St At Bloor St East (Sherbourne Station) | 43.6722 | -79.37665 | 7309
+1272 | Sherbourne St At Maple Ave | 43.6747599 | -79.37765 | 7326
+9833 | Maple Ave At Glen Rd East Side | 43.67492 | -79.3752799 | 6537
+10386 | Glen Rd At Elm Ave | 43.6759 | -79.37511 | 6400
+3289 | South Dr At Elm Ave North Side | 43.6765699 | -79.37388 | 7334
+1761_IB | South Dr At Glen Rd | 43.6776099 | -79.37495 | 7335
+4515 | Glen Rd At Highland Ave | 43.68078 | -79.3738799 | 6402
+1928 | Glen Rd At Whitney Ave | 43.6830199 | -79.37302 | 6403
+1786 | Glen Rd At Douglas Dr | 43.68527 | -79.37259 | 6399
+6746 | Douglas Dr At Douglas Dr (Chorley Park) | 43.6869499 | -79.37096 | 6351
+4047 | Summerhill Ave At Jean St | 43.68656 | -79.3737699 | 7377
+1518_ar | Summerhill Ave At Maclennan Ave | 43.6857199 | -79.37768

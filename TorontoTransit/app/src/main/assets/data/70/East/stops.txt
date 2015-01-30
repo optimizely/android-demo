@@ -1,0 +1,41 @@
+14165 | Coxwell Station | 43.6840799 | -79.32292 | 14643
+7638 | Coxwell Ave At Glebeholme Blvd | 43.6856999 | -79.3244799 | 4903
+1550 | Coxwell Ave At Springdale Blvd | 43.6872099 | -79.3251099 | 4914
+1312 | Coxwell Ave At Sammon Ave | 43.68866 | -79.32571 | 4912
+7587 | Coxwell Ave At Mortimer Ave (Toronto East General) | 43.69045 | -79.32641 | 4907
+9224 | Coxwell Ave At Barker Ave North Side | 43.6921299 | -79.3270799 | 4900
+8010 | Coxwell Ave At Cosburn Ave | 43.69401 | -79.32785 | 4902
+9760 | Coxwell Ave At Plains Rd | 43.6956699 | -79.3285399 | 4910
+8734 | Coxwell Ave At Oconnor Dr | 43.6976499 | -79.32926 | 4899
+9730 | Oconnor Dr At Hutton Ave | 43.6980799 | -79.32756 | 5931
+4088 | Oconnor Dr At Binswood Ave East Side | 43.6985999 | -79.32518 | 5921
+2917 | Oconnor Dr At Glebemount Ave East Side | 43.6990399 | -79.32313 | 5928
+7908 | Oconnor Dr At Woodmount Ave | 43.69937 | -79.3215499 | 5944
+1663 | Oconnor Dr At Woodbine Ave | 43.6999599 | -79.31914 | 5942
+6836 | Oconnor Dr At Glenwood Cres | 43.7023499 | -79.316 | 5930
+8397 | St Clair Ave East At Oconnor Dr East Side | 43.7054799 | -79.31214 | 10715
+7959 | St Clair Ave East At St Columba Pl | 43.70581 | -79.3106199 | 6128
+1900 | St Clair Ave East At Rexleigh Dr | 43.70655 | -79.3072299 | 6125
+7512 | St Clair Ave East At Glen Eden Cres | 43.70687 | -79.3059599 | 3118
+9711 | St Clair Ave East At Plaxton Dr | 43.7075499 | -79.30278 | 3120
+5884 | St Clair Ave East At Squires Ave | 43.7079899 | -79.30088 | 3121
+6867 | St Clair Ave East At Glenburn Ave | 43.70854 | -79.2984499 | 3119
+5863 | St Clair Ave East At Victoria Park Ave East Side | 43.7087299 | -79.29557 | 6130
+3023 | St Clair Ave East At Westbourne Ave East Side | 43.7093599 | -79.29264 | 6132
+8369 | St Clair Ave East At Pharmacy Ave East Side | 43.70984 | -79.2904799 | 6123
+10263 | St Clair Ave East At Presley Ave | 43.71028 | -79.2886 | 6124
+9358 | St Clair Ave East At Herron Ave East Side | 43.7109699 | -79.28554 | 6108
+14313_ar | Warden Station | 43.7110199 | -79.28005
+9790 | Oconnor Dr At St Clair Ave East North Side | 43.7058899 | -79.31233 | 5934
+8239 | Oconnor Dr At Gardens Cres | 43.70814 | -79.3107299 | 7997
+1908 | Oconnor Dr At Dohme Ave | 43.71039 | -79.3089699 | 5925
+5610 | Oconnor Dr At Yardley Ave East Side | 43.71277 | -79.3070799 | 5946
+3240 | Oconnor Dr At Amsterdam Ave | 43.7141499 | -79.30599 | 5919
+6628 | Oconnor Dr At Wakunda Place | 43.71575 | -79.30494 | 5940
+6185 | Oconnor Dr At Sunrise Ave | 43.71878 | -79.3044099 | 5936
+6257 | 1801 Oconnor Dr | 43.7203299 | -79.30417 | 11828
+8181 | Victoria Park Ave At Eglinton Ave East | 43.7240899 | -79.30224 | 6153
+10271 | Victoria Park Ave At Eglinton Ave East North Side | 43.72537 | -79.30276 | 6152
+2924 | Craigton Dr At Victoria Park Ave East Side | 43.72687 | -79.3026 | 4920
+8414 | Craigton Dr At Rannock St East Side | 43.72772 | -79.30011 | 4919
+7929_ar | Craigton Dr At Pharmacy Ave | 43.7270999 | -79.29843

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="#ff252525">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:text="TTC Alerts"
+        android:id="@+id/ttcAlertsButton"
+        android:layout_alignBottom="@+id/subwayButton"
+        android:layout_toRightOf="@+id/subwayButton"
+        android:layout_toEndOf="@+id/subwayButton"
+        android:background="#ff800000"
+        android:textColor="#ffffffff"/>
+
+    <Button
+        android:layout_marginTop="75dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:text="Subway Map"
+        android:id="@+id/subwayButton"
+        android:background="#ff800000"
+        android:textColor="#ffffffff"/>
+
+</RelativeLayout>

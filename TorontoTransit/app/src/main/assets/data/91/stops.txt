@@ -1,0 +1,139 @@
+4479 | Parkview Hill Cres At Aspen Ave (South) | 43.7035899 | -79.3283 | 8019
+8267 | Parkview Hill Cres At Aspen Ave (North) East Side | 43.7044 | -79.32825 | 8018
+4188 | Parkview Hill Cres At Hackberry St | 43.70549 | -79.3255599 | 8021
+6914 | Hackberry St At Elswick Rd | 43.70601 | -79.3242599 | 7800
+4328 | Hackberry St At Woodbine Heights Blvd | 43.70651 | -79.3220499 | 7801
+5406 | Woodbine Heights Blvd At Parkview Hill Cres | 43.7045999 | -79.3208599 | 8022
+1658 | St Clair Ave East At Denvale Rd | 43.7044099 | -79.31841 | 8139
+2524 | St Clair Ave East At Doris Dr | 43.70508 | -79.3154799 | 8141
+5748 | Sandra Rd At Oconnor Dr | 43.7045499 | -79.3138999 | 8078
+2581 | Oconnor Dr At Glenwood Cres West Side | 43.70233 | -79.3162999 | 5929
+3114 | Woodbine Ave At Oconnor Dr South Side | 43.6998499 | -79.31901 | 8927
+8717 | Woodbine Ave At Plains Rd | 43.6984399 | -79.3183899 | 8929
+10378 | Woodbine Ave At Cosburn Ave | 43.6965299 | -79.31757 | 8913
+9185 | Woodbine Ave At Barker Ave South Side | 43.6939899 | -79.3164599 | 3197
+4185 | Woodbine Ave At Mortimer Ave | 43.6928699 | -79.3159799 | 3202
+7799 | Woodbine Ave At Sammon Ave | 43.6912799 | -79.3152899 | 3204
+2407 | Woodbine Ave At Milverton Blvd | 43.68931 | -79.31445 | 3201
+14321_ar | Woodbine Station | 43.6864299 | -79.31248
+869 | Victoria Park Ave At Lawrence Ave East South Side | 43.7415899 | -79.30974 | 8477
+749 | Victoria Park Ave At Sloane Ave | 43.7388499 | -79.3086099 | 8500
+9997 | Sweeney Dr At Victoria Park Ave West Side | 43.73672 | -79.3082899 | 8339
+7983 | Sloane Ave At Sweeney Dr South Side | 43.7354899 | -79.3123599 | 8110
+10360 | Sloane Ave At Anewen Dr | 43.73427 | -79.31162 | 8109
+10092 | Sloane Ave At Wigmore Dr | 43.73249 | -79.31045 | 8114
+10134 | Sloane Ave At Elvaston Dr | 43.73012 | -79.30978 | 8107
+789 | Sloane Ave At Trophy Dr | 43.7280199 | -79.3106599 | 8112
+4560 | Sloane Ave At Eglinton Ave East | 43.7266299 | -79.31328 | 8105
+3839 | Bermondsey Rd At Eglinton Ave East South Side | 43.7256099 | -79.31373 | 7535
+4828 | 190 Bermondsey Rd South Side | 43.7236599 | -79.31485 | 7542
+3592 | Bermondsey Rd At Bartley Dr | 43.71977 | -79.31468 | 7531
+6271 | 120 Bermondsey Rd | 43.718 | -79.31383 | 7528
+6742 | Bermondsey Rd At Sunrise Ave | 43.7171 | -79.31346 | 7541
+3496 | Hollinger Rd At Bermondsey Rd West Side | 43.7148099 | -79.31281 | 7824
+10347 | Hollinger Rd At Dohme Ave | 43.7132499 | -79.31406 | 7828
+3347 | Hollinger Rd At Waterman Ave | 43.7116199 | -79.31536 | 7830
+3704 | Hollinger Rd At Curity Ave | 43.71029 | -79.3164199 | 7826
+2690 | Curity Ave At Cranfield Rd South Side | 43.7091 | -79.31401 | 7631
+9360 | Curity Ave At Oconnor Dr | 43.70798 | -79.31135 | 7630
+4313 | 850 Oconnor Dr | 43.7070599 | -79.31177 | 11741
+2488 | Oconnor Dr At St Clair Ave East | 43.7055899 | -79.31281 | 5935
+7620 | Oconnor Dr At Sandra Rd | 43.7046599 | -79.3135599 | 5933
+10256 | 113 Valley Woods Rd | 43.7589699 | -79.33281 | 11533
+5191 | 1200-1202 York Mills Rd | 43.7591099 | -79.3338499 | 11397
+7238 | York Mills Rd At Lochinvar Cres | 43.7575899 | -79.33925 | 9079
+9007 | Silverdale Cres At York Mills Rd South Side | 43.7566199 | -79.34123 | 11534
+6519 | Laurentide Dr At Bushbury Dr | 43.75489 | -79.3408999 | 7912
+7750 | Laurentide Dr At Barnwood Crt East Side | 43.75314 | -79.33872 | 7911
+9304 | Laurentide Dr At Three Valleys Dr | 43.7517999 | -79.3367499 | 7917
+7195 | Three Valleys Dr At Groveland Cres | 43.75165 | -79.3350899 | 11106
+8836 | Brookbanks Dr At Valley Woods Rd | 43.75219 | -79.33197 | 7566
+1888 | Underhill Dr At Brookbanks Dr South Side | 43.75324 | -79.3275 | 8378
+8319 | Underhill Dr At Cassandra Blvd (North) South Side | 43.7524499 | -79.3263599 | 8380
+5954 | Underhill Dr At Kellythorne Dr | 43.75043 | -79.3262999 | 8385
+5088 | Underhill Dr At Beveridge Dr | 43.7481899 | -79.32637 | 8376
+2394 | Underhill Dr At Doonaree Dr South Side | 43.7453499 | -79.32594 | 8383
+10350 | Underhill Dr At Cornerbrook Dr | 43.74384 | -79.32608 | 8382
+7661 | Underhill Dr At Roanoke Rd | 43.74205 | -79.3253 | 8387
+4299 | Lawrence Ave East At Railside Rd (West) East Side | 43.74078 | -79.32385 | 5313
+10194 | Lawrence Ave East At Railside Rd (East) | 43.7410799 | -79.3197 | 5312
+10210 | Lawrence Ave East At Carnforth Rd East Side | 43.74143 | -79.3138199 | 5245
+6913 | Valley Woods Rd At York Mills Rd | 43.7589699 | -79.33304 | 11527
+5056 | 44 Valley Woods Rd | 43.7551799 | -79.3334199 | 11528
+2938 | Opposite 29 Valley Woods Rd | 43.75383 | -79.3332199 | 11529
+3235 | Valley Woods Rd At Brookbanks Dr | 43.7524099 | -79.3318899 | 11530
+7052 | Railside Rd (West) At Lawrence Ave East South Side | 43.7401999 | -79.32457 | 8059
+4073 | Opposite 150 Railside Rd | 43.7374399 | -79.32695 | 8054
+10155 | Railside Rd At Codeco Crt West Side | 43.7360699 | -79.32714 | 8051
+9565 | 97 Railside Rd | 43.7359199 | -79.32448 | 8050
+2376 | Opposite 68 Railside Rd | 43.7378799 | -79.32222 | 8053
+7955 | 31 Railside Rd | 43.73911 | -79.3207899 | 8058
+6038 | Railside Rd (East) At Lawrence Ave East | 43.74085 | -79.31915 | 8057
+14321 | Woodbine Station | 43.6864299 | -79.31248 | 14804
+5778 | Woodbine Ave At Milverton Blvd | 43.6884799 | -79.3138899 | 3200
+3779 | Woodbine Ave At Sammon Ave | 43.691 | -79.31498 | 3203
+3961 | Woodbine Ave At Lumsden Ave | 43.6926699 | -79.3157099 | 3199
+9178 | Woodbine Ave At Barker Ave | 43.69423 | -79.31637 | 3196
+9307 | Woodbine Ave At Cosburn Ave | 43.6962899 | -79.31727 | 3198
+7905 | Woodbine Ave At Bracebridge Ave North Side | 43.6979599 | -79.3179899 | 8908
+9773 | Woodbine Ave At Oconnor Dr | 43.6999199 | -79.31882 | 8907
+6836 | Oconnor Dr At Glenwood Cres | 43.7023499 | -79.316 | 5930
+3336 | Sandra Rd At St Clair Ave East | 43.7048699 | -79.3142299 | 8079
+8549 | St Clair Ave East At Marilyn Cres | 43.70503 | -79.3162799 | 8143
+742 | St Clair Ave East At Denvale Rd | 43.7045899 | -79.31829 | 8140
+4769 | Parkview Hill Cres At Woodbine Heights Blvd | 43.7044799 | -79.32016 | 8023
+5702 | Parkview Hill Cres At Elswick Rd | 43.7046699 | -79.3230899 | 8020
+9875 | Parkview Hill Cres At Alder Rd | 43.7037799 | -79.3252 | 8017
+4479_ar | Parkview Hill Cres At Aspen Ave (South) | 43.7035899 | -79.3283
+9790 | Oconnor Dr At St Clair Ave East North Side | 43.7058899 | -79.31233 | 5934
+5575 | Curity Ave At Oconnor Dr North Side | 43.7081699 | -79.31151 | 7634
+1274 | Curity Ave At Cranfield Rd | 43.70923 | -79.31404 | 7632
+6548 | Curity Ave At Hollinger Rd | 43.71015 | -79.31626 | 7633
+7350 | Hollinger Rd At Waterman Ave | 43.71134 | -79.3154299 | 7829
+1625 | Hollinger Rd At Dohme Ave East Side | 43.7132199 | -79.31391 | 7827
+6449 | Hollinger Rd At Bermondsey Rd | 43.7146399 | -79.31274 | 7825
+2709 | Bermondsey Rd At Sunrise Ave | 43.71683 | -79.31314 | 7540
+4674 | 125 Bermondsey Rd | 43.7181999 | -79.3137399 | 7529
+1914 | Bermondsey Rd At Bartley Dr | 43.7195999 | -79.31431 | 7530
+9188 | 195 Bermondsey Rd | 43.7238899 | -79.31439 | 7537
+4915 | Bermondsey Rd At Eglinton Ave East | 43.7255099 | -79.31354 | 7534
+5886 | Sloane Ave At Eglinton Ave East North Side | 43.7264699 | -79.31319 | 8104
+7353 | Sloane Ave At Tinder Cres | 43.72782 | -79.3107699 | 8111
+9411 | Sloane Ave At Elvaston Dr North Side | 43.7302399 | -79.3096599 | 8106
+10227 | Sloane Ave At Wigmore Dr | 43.7323099 | -79.3102599 | 8113
+8189 | Sloane Ave At Kenewen Crt | 43.7341799 | -79.3113499 | 8108
+9181 | Sweeney Dr At Sloane Ave West Side | 43.7357199 | -79.31272 | 8338
+4587 | Sweeney Dr At Gretna Ave West Side | 43.7354199 | -79.31567 | 8335
+7319 | Sweeney Dr At Wyndcliff Cres | 43.7354799 | -79.3172699 | 8336
+1411 | Teak Ave At Carnforth Rd | 43.7373899 | -79.3176099 | 8341
+6702 | Opposite 38 Carnforth Rd | 43.73918 | -79.3159499 | 7595
+2142 | Carnforth Dr At Lawrence Ave East | 43.7409299 | -79.31415 | 7594
+869_ar | Victoria Park Ave At Lawrence Ave East South Side | 43.7415899 | -79.30974
+4635 | Lawrence Ave East At Curlew Dr West Side | 43.7412399 | -79.31967 | 5256
+8294 | Lawrence Ave East At Underhill Dr | 43.74092 | -79.3244899 | 5324
+2847 | Underhill Dr At Roanoke Rd North Side | 43.74216 | -79.32524 | 13436
+7404 | Underhill Dr At Broadlands Blvd | 43.74399 | -79.32602 | 8377
+7092 | Underhill Dr At Doonaree Dr | 43.74531 | -79.32583 | 8384
+4228 | Underhill Dr At Beveridge Dr North Side | 43.7480899 | -79.32624 | 8375
+3013 | Underhill Dr At Shawfield Cres (South) | 43.75019 | -79.3262799 | 8388
+6178 | Underhill Dr At Cassandra Blvd (North) | 43.75245 | -79.32625 | 8381
+2171 | Underhill Dr At Brookbanks Dr | 43.75339 | -79.32764 | 8379
+2406 | Brookbanks Dr At Valley Woods Rd | 43.7523099 | -79.33163 | 7567
+2549 | 29 Valley Woods Rd | 43.7539899 | -79.33294 | 11531
+10406 | Opposite 44 Valley Woods Rd | 43.75521 | -79.33332 | 11532
+10256_ar | 113 Valley Woods Rd | 43.7589699 | -79.33281
+6219 | Three Valleys Dr At Laurentide Dr | 43.75146 | -79.33633 | 8367
+8678 | Laurentide Dr At Larabee Cres | 43.7524 | -79.33702 | 7913
+3167 | Laurentide Dr At Tetbury Cres | 43.7531999 | -79.33895 | 7916
+3019 | Laurentide Dr At Silverdale Cres | 43.75532 | -79.3403499 | 7915
+4022 | Silverdale Cres At York Mills Rd | 43.7568099 | -79.34118 | 8103
+8879 | York Mills Rd At Laurentide Dr | 43.7576699 | -79.33809 | 9075
+6913_ar | Valley Woods Rd At York Mills Rd | 43.7589699 | -79.33304
+2571 | Railside Rd (East) At Lawrence Ave East South Side | 43.74066 | -79.3193099 | 8056
+6747 | 20 Railside Rd | 43.7393899 | -79.32068 | 8045
+1431 | 68 Railside Rd | 43.73795 | -79.3223299 | 8048
+9529 | 90 Railside Rd | 43.73612 | -79.3244099 | 8049
+739 | Railside Rd At Codeco Crt East Side | 43.7357699 | -79.32708 | 8052
+5021 | 150 Railside Rd | 43.73776 | -79.3266499 | 8046
+2528 | 190 Railside Rd | 43.7395799 | -79.32487 | 8047
+10171 | Railside Rd (West) At Lawrence Ave East | 43.7405699 | -79.32452 | 8055

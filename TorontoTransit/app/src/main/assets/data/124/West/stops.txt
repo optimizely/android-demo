@@ -1,0 +1,13 @@
+854 | Hospital Rd At Wellness Way East Side (Sunnybrook Main Ent) | 43.7218099 | -79.37689 | 1729
+850 | Raab Blvd At Hospital Rd West Side (K &amp; L Wings) | 43.7225999 | -79.3761599 | 11247
+12890 | Wellness Way At Armistice Dr (Wellspring Centre) | 43.7235499 | -79.3785899 | 14510
+394 | Bayview Ave At Vallyanna Dr | 43.7241999 | -79.37944 | 9122
+8328 | Bayview Ave At Lawrence Ave East (York U Glendon Campus) | 43.72727 | -79.38157 | 1726
+2047 | Lawrence Ave East At Mildenhall Rd | 43.7285099 | -79.38636 | 2817
+8692 | Lawrence Ave East At Wanless Cres (East) West Side | 43.7278199 | -79.38972 | 1229
+2165 | Lawrence Ave East At Wanless Cres (West) | 43.7273599 | -79.39189 | 1232
+6404 | Lawrence Ave East At Ronan Ave | 43.72695 | -79.3938099 | 1228
+4949 | Lawrence Ave East At Mt Pleasant Rd | 43.7264599 | -79.39616 | 1226
+8981 | Lawrence Ave East At Cardinal Place | 43.72593 | -79.3986799 | 1221
+5845 | Lawrence Ave At Yonge St (Lawrence Station) | 43.7252199 | -79.40199 | 1234
+14245_ar | Lawrence Station | 43.7251399 | -79.40237

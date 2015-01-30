@@ -1,0 +1,27 @@
+4165 | Dupont St At Bedford Rd | 43.6761999 | -79.40084 | 0998
+1642 | Bedford Rd At Davenport Rd | 43.6745199 | -79.3998899 | 0334
+2410 | Davenport Rd At Avenue Rd | 43.6746499 | -79.39658 | 0926
+7542 | Davenport Rd At New St | 43.67472 | -79.39311 | 0948
+5542 | Bay St At Davenport Rd South Side | 43.6731199 | -79.3910499 | 0240
+5956 | Bay St At Bloor St West (Bay Station) | 43.6698999 | -79.38964 | 0235
+1677 | Bay St At Charles St West South Side | 43.6681 | -79.38893 | 0236
+8586 | Bay St At St Joseph St | 43.6657599 | -79.3878499 | 0265
+5580 | Bay St At Wellesley St West South Side | 43.6639999 | -79.3871199 | 0267
+6737 | Bay St At Grosvenor St | 43.6625999 | -79.3865199 | 0251
+8823 | Bay St At College St | 43.6609699 | -79.38604 | 0239
+2200 | Bay St At Gerrard St West | 43.65859 | -79.38501 | 0249
+7967 | Bay St At Elm St | 43.65741 | -79.38453 | 0245
+7505 | Bay St At Dundas St West (Toronto Coach Terminal) | 43.65584 | -79.38386 | 0242
+6939 | Bay St At Hagerman St | 43.65454 | -79.38338 | 0253
+4138 | Bay St At Albert St | 43.65309 | -79.38279 | 0234
+4400 | Bay St At Queen St West | 43.6519399 | -79.38225 | 0260
+723 | Bay St At Richmond St West South Side | 43.65085 | -79.38125 | 0263
+6347 | Bay St At Adelaide St West | 43.6500299 | -79.3808999 | 0232
+1917 | Bay St At King St West South Side | 43.64822 | -79.38016 | 0257
+14806 | Bay St At Front St West | 43.6461499 | -79.37932 | 15037
+7536 | Bay St At Harbour St South Side (Toronto Island Ferry) | 43.6416999 | -79.3773 | 0254
+4411 | Queens Quay West At Bay St East Side | 43.6415199 | -79.3755 | 1465
+14894 | Queens Quay East At Freeland St | 43.6423699 | -79.37312 | 15087
+14895 | Queens Quay East At Lower Jarvis St | 43.64383 | -79.3690199 | 15088
+14897 | Dockside Dr At Queens Quay East South Side | 43.64393 | -79.36766 | 15090
+14935_ar | Dockside Dr At Queens Quay East | 43.6448899 | -79.36538

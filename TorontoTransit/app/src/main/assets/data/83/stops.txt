@@ -1,0 +1,32 @@
+14172 | Donlands Station | 43.6810699 | -79.33792 | 14650
+5395 | Jones Ave At Danforth Ave South Side | 43.6793899 | -79.34003 | 1183
+5629 | Jones Ave At Strathcona Ave | 43.67715 | -79.33906 | 1199
+1766 | Jones Ave At Shudell Ave | 43.67528 | -79.33827 | 1196
+2070 | Jones Ave At Boultbee Ave | 43.6727499 | -79.3371799 | 1182
+5643 | Jones Ave At Myrtle Ave South Side | 43.6712199 | -79.3365399 | 1190
+5153 | Jones Ave At Gerrard St East | 43.6693199 | -79.3357199 | 1188
+1799 | Jones Ave At Sproat Ave South Side | 43.6677699 | -79.33505 | 1197
+10052 | Jones Ave At Dundas St East | 43.6663499 | -79.3344399 | 1186
+939 | Jones Ave At Queen St East | 43.6631299 | -79.3330999 | 1193
+1744 | Queen St East At Brooklyn Ave | 43.6620699 | -79.3358 | 3034
+2650 | Queen St East At Pape Ave | 43.66166 | -79.3376199 | 3063
+2934 | Carlaw Ave At Eastern Ave | 43.6584599 | -79.33908 | 6288
+3659 | Carlaw Ave At Lake Shore Blvd East | 43.65595 | -79.33805 | 6291
+9880 | Leslie St At Lake Shore Blvd East South Side | 43.6585899 | -79.3281299 | 1240
+747 | Leslie St At Commissioners St | 43.6567899 | -79.3266699 | 1238
+3464 | 600 Commissioners St | 43.65561 | -79.3287099 | 0849
+889_ar | Wheeltrans Exit At Commissioners St | 43.6549699 | -79.33033
+889 | Wheeltrans Exit At Commissioners St | 43.6549699 | -79.33033 | 13536
+1217 | Carlaw Ave At Commissioners St North Side | 43.65295 | -79.33566 | 4853
+4786 | Carlaw Ave At Lake Shore Blvd East North Side | 43.6555 | -79.33768 | 4857
+9270 | Leslie St At Eastern Ave North Side | 43.6620099 | -79.32958 | 13421
+794 | Jones Ave At Queen St East North Side | 43.6629099 | -79.33282 | 1192
+3049 | Jones Ave At Dundas St East | 43.6660699 | -79.3341499 | 1185
+5063 | Jones Ave At Sproat Ave | 43.6677999 | -79.3349199 | 1198
+7871 | Jones Ave At Gerrard St East North Side | 43.6695999 | -79.33566 | 1187
+5511 | Jones Ave At Myrtle Ave | 43.6713499 | -79.3364299 | 1191
+5444 | Jones Ave At Boultbee Ave | 43.67281 | -79.33705 | 1181
+8837 | Jones Ave At Shudell Ave | 43.67503 | -79.33798 | 1195
+7431 | Jones Ave At Baird Ave | 43.6766599 | -79.3386799 | 1180
+4366 | Jones Ave At Danforth Ave | 43.6796599 | -79.3399699 | 1184
+14172_ar | Donlands Station | 43.6810699 | -79.33792

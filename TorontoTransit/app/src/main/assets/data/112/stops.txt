@@ -1,0 +1,141 @@
+8064 | Skymark Ave At Commerce Blvd South Side | 43.6633999 | -79.59254 | 11392
+10409 | Eglinton Ave West At Commerce Blvd East Side | 43.6627599 | -79.59061 | 11393
+2149 | Renforth Dr At Eglinton Ave West South Side | 43.6658299 | -79.58699 | 8067
+5424 | Gentian Dr At Sagamore Cres | 43.66503 | -79.5848499 | 7773
+772 | Gentian Dr At Wellesworth Dr | 43.66529 | -79.5817399 | 7774
+4524 | Wellesworth Dr At Rangoon Rd | 43.66623 | -79.57912 | 8651
+5936 | Rangoon Rd At Hagersville Crt | 43.6639599 | -79.5776099 | 8064
+2722 | Rangoon Rd At Eringate Dr | 43.66235 | -79.57663 | 8062
+1522 | Eringate Dr At Sanctbury Pl | 43.6616399 | -79.57866 | 7738
+1844 | Eringate Dr At Wellesworth Dr | 43.66097 | -79.5806099 | 7741
+7637 | Wellesworth Dr At Faversham Cres | 43.65887 | -79.57961 | 8641
+4512 | Wellesworth Dr At Clumber Rd South Side | 43.65721 | -79.57754 | 8646
+5506 | Wellesworth Dr At Torrington Dr | 43.6551799 | -79.5765499 | 8644
+6698 | Wellesworth Dr At The West Mall | 43.6551621 | -79.5726784 | 8645
+9728 | The West Mall At Rathburn Rd South Side | 43.6526399 | -79.57244 | 8682
+2327 | 546 The West Mall | 43.6516599 | -79.5698699 | 8677
+14813 | The West Mall At Holiday Dr | 43.64948 | -79.56878 | 15044
+6934 | Opposite 451 The West Mall | 43.6470599 | -79.5678999 | 8686
+5562 | The West Mall At Burnhamthorpe Rd | 43.64468 | -79.56744 | 8671
+5221 | 400 The West Mall | 43.64316 | -79.56674 | 8680
+4936 | The West Mall At Civic Centre Crt South Side | 43.6416399 | -79.5657599 | 8673
+3742 | The West Mall At Eva Rd | 43.6394299 | -79.5649399 | 8675
+9257 | 328 The West Mall | 43.63728 | -79.5637399 | 8665
+8885 | The West Mall At Bloor St West | 43.63576 | -79.56244 | 8668
+5289 | The West Mall At Leavenworth Cres South Side | 43.63427 | -79.5613399 | 8663
+8925 | 244 The West Mall | 43.632 | -79.56036 | 8661
+10257 | 210 The West Mall | 43.62971 | -79.55938 | 8660
+5627 | The West Mall Cres At The West Mall West Side | 43.6272399 | -79.55948 | 1643
+3219 | Dundas St West At The West Mall Cres East Side | 43.62745 | -79.56086 | 7670
+3011 | Dundas St West At Highway 427 | 43.6288299 | -79.55511 | 9722
+5407 | Dundas St West At The East Mall Cres | 43.63039 | -79.5491699 | 2148
+2014 | Dundas St West At Paulart Dr East Side | 43.63109 | -79.5464899 | 2177
+1817 | Dundas St West At Shorncliffe Rd | 43.63191 | -79.5448599 | 5028
+5343 | Dundas St West At Wilmar Rd East Side | 43.6347499 | -79.54114 | 2195
+7008 | Dundas St West At Subway Cres | 43.63585 | -79.5400999 | 2180
+9892 | Dundas St West At Acorn Ave | 43.6369999 | -79.53909 | 2137
+3854 | Dundas St West At Aukland Rd | 43.63823 | -79.5380199 | 2139
+14236_ar | Kipling Station | 43.6373399 | -79.53595
+6895 | Carlingview Dr At Renforth Dr | 43.6773899 | -79.59141 | 7582
+2029 | Renforth Dr At Convair Dr | 43.6723699 | -79.5936199 | 8065
+5874 | International Blvd At Carlingview Dr East Side | 43.6769399 | -79.5905 | 9294
+4481 | International Blvd At Voyager Crt South | 43.6774899 | -79.58819 | 9295
+8496 | International Blvd At Galaxy Blvd | 43.67808 | -79.5856899 | 9296
+5027 | Opposite 195 Galaxy Boulevard | 43.67715 | -79.58382 | 9297
+4906 | Skyway Avewnue At Meridian Rd (South) | 43.6824699 | -79.58172 | 9298
+1613 | 115 Skyway Ave | 43.68384 | -79.58302 | 9299
+2476 | 87 Skyway Ave | 43.68538 | -79.58405 | 10752
+2996 | 65 Skyway Ave | 43.6866 | -79.58568 | 9300
+9516 | Skyway Ave At Dixon Rd | 43.68764 | -79.58654 | 9301
+3709 | Attwell Dr At Carlson Crt | 43.6891899 | -79.58719 | 9302
+8834 | Attwell Dr At Farnboro Rd | 43.69133 | -79.58741 | 9303
+993 | Attwell Dr At McLachlan Dr North Side | 43.69355 | -79.58847 | 11196
+9314 | Attwell Dr At Marmac Dr | 43.6958299 | -79.5895999 | 11197
+4040 | Belfield Rd At Attwell Dr East Side | 43.69794 | -79.5923699 | 3323
+7136 | Brockport Dr At Belfield Rd North Side | 43.6999699 | -79.58794 | 11696
+5423 | Opposite 200 Brockport Dr | 43.7015799 | -79.5885099 | 11697
+6863 | Disco Rd At Brockport Rd West Side | 43.7024099 | -79.59014 | 11698
+7641 | 10 Disco Rd | 43.70185 | -79.5926099 | 11699
+266 | Disco Rd At Attwell Dr | 43.7013299 | -79.59478 | 11700
+7773 | Opposite 111 Disco Rd (West Detention Centre) | 43.70034 | -79.5992899 | 3482
+1037 | Carlingview Dr At Disco Rd South Side | 43.6993099 | -79.6013299 | 7575
+8498 | Opposite 385-387 Carlingview Dr | 43.69598 | -79.59983 | 7573
+1264 | Carlingview Dr At Worcester Rd South Side | 43.6932299 | -79.5985699 | 7587
+8922 | Carlingview Dr At Fasken Dr South Side | 43.6911099 | -79.5976099 | 7580
+1452 | Carlingview Dr At Dixon Rd | 43.6870399 | -79.5957699 | 7578
+9097 | Opposite 215 Carlingview Dr | 43.68318 | -79.59403 | 7585
+6850 | Carlingview Dr At Meteor Dr South Side | 43.6805299 | -79.5928099 | 7583
+8694 | Explorer Dr At Skymark Ave | 43.6608899 | -79.59556 | 11390
+1514 | 2780 Skymark Ave | 43.66236 | -79.5942299 | 11391
+8064_ar | Skymark Ave At Commerce Blvd South Side | 43.6633999 | -79.59254
+14236 | Kipling Station | 43.6373399 | -79.53595 | 14717
+3686 | Dundas St West At Acorn Ave | 43.6375099 | -79.53898 | 2138
+10129 | Dundas St West At Poplar Ave | 43.6362699 | -79.54007 | 5022
+2965 | Dundas St West At Wilmar Rd | 43.63493 | -79.5412899 | 2196
+3225 | Dundas St West At Shaver Ave South | 43.6323199 | -79.54459 | 2184
+10385 | Dundas St West At Paulart Dr | 43.6312799 | -79.5465899 | 2178
+6721 | Dundas St West At The East Mall Cres | 43.63069 | -79.5489799 | 2149
+1056 | Dundas St West At The East Mall Cres West Side | 43.63019 | -79.5513299 | 5014
+3722 | Dundas St West At Highway 427 | 43.6292299 | -79.55477 | 9721
+3812 | The West Mall Cres At Dundas St West South Side | 43.6268799 | -79.5621 | 1642
+3853 | The West Mall Cres At The West Mall | 43.62711 | -79.55966 | 1644
+5730 | 211 The West Mall | 43.6300599 | -79.5593399 | 8659
+9584 | 247 The West Mall | 43.6320599 | -79.5602199 | 8662
+6364 | The West Mall At Leavenworth Cres | 43.63421 | -79.56115 | 8664
+3106 | The West Mall At Bloor St West | 43.6352299 | -79.5618699 | 8667
+4275 | The West Mall At Bloor St West North Side | 43.63602 | -79.56235 | 8669
+1860 | 339 The West Mall | 43.6379299 | -79.56407 | 8666
+7253 | The West Mall At Eva Rd | 43.6391599 | -79.5646099 | 8674
+1000 | 361 The West Mall | 43.6408 | -79.56524 | 9992
+6405 | The West Mall At Civic Centre Crt | 43.6420599 | -79.5657399 | 8672
+5009 | 399 The West Mall (Etobicoke Civic Centre) | 43.6432599 | -79.56653 | 8681
+6695 | The West Mall At Burnhamthorpe Rd | 43.6443299 | -79.5669299 | 8670
+8271 | 451 West Mall | 43.6467599 | -79.5677 | 8685
+2644 | The West Mall At Holiday Dr | 43.6491999 | -79.5684899 | 8679
+4933 | 551 The West Mall | 43.65175 | -79.56975 | 8676
+4984 | The West Mall At Rathburn Rd | 43.6527899 | -79.57233 | 8683
+10252 | Wellesworth Dr At Dixfield Dr (South) | 43.6553299 | -79.57287 | 8648
+1872 | Wellesworth Dr At Torrington Dr North Side | 43.6553699 | -79.5765999 | 8652
+2196 | Wellesworth Dr At Dixfield Dr (North) | 43.65689 | -79.57728 | 8647
+7237 | Wellesworth Dr At Faversham Cres North Side | 43.65877 | -79.57937 | 8650
+4190 | Wellesworth Dr At Eringate Dr | 43.66064 | -79.5806099 | 8649
+4977 | Eringate Dr At Sigmont Rd | 43.6619299 | -79.57715 | 7739
+9558 | Rangoon Rd At Hagersville Crt North Side | 43.6639799 | -79.5774999 | 8063
+6605 | Wellesworth Dr At Rangoon Road West Side | 43.6661899 | -79.5795 | 8643
+7972 | Wellesworth Dr At Gentian Dr | 43.66535 | -79.5814199 | 8642
+2201 | Gentian Dr At Renforth Dr | 43.6649699 | -79.58541 | 7772
+511 | Renforth Dr At Eglinton Ave West | 43.66574 | -79.5863 | 8068
+341 | Eglinton Ave West At Renforth Dr Loop | 43.6647699 | -79.58876 | 11283
+7312 | Eglinton Ave West At Commerce Blvd | 43.66278 | -79.5910399 | 11354
+8675 | Explorer Dr At Eglinton Ave West North Side | 43.66028 | -79.59473 | 11389
+510 | Renforth Dr At Eglinton Ave West | 43.6660899 | -79.58727 | 8069
+1084 | Renforth Dr At Convair Dr | 43.6720399 | -79.5930899 | 8066
+5874_IB | International Blvd At Carlingview Dr East Side | 43.6769399 | -79.5905 | 9294
+4481_IB | International Blvd At Voyager Crt South | 43.6774899 | -79.58819 | 9295
+8496_IB | International Blvd At Galaxy Blvd | 43.67808 | -79.5856899 | 9296
+5027_IB | Opposite 195 Galaxy Boulevard | 43.67715 | -79.58382 | 9297
+4906_IB | Skyway Avewnue At Meridian Rd (South) | 43.6824699 | -79.58172 | 9298
+1613_IB | 115 Skyway Ave | 43.68384 | -79.58302 | 9299
+2476_IB | 87 Skyway Ave | 43.68538 | -79.58405 | 10752
+2996_IB | 65 Skyway Ave | 43.6866 | -79.58568 | 9300
+9516_IB | Skyway Ave At Dixon Rd | 43.68764 | -79.58654 | 9301
+3709_IB | Attwell Dr At Carlson Crt | 43.6891899 | -79.58719 | 9302
+8834_IB | Attwell Dr At Farnboro Rd | 43.69133 | -79.58741 | 9303
+993_IB | Attwell Dr At McLachlan Dr North Side | 43.69355 | -79.58847 | 11196
+9314_IB | Attwell Dr At Marmac Dr | 43.6958299 | -79.5895999 | 11197
+4040_IB | Belfield Rd At Attwell Dr East Side | 43.69794 | -79.5923699 | 3323
+7136_IB | Brockport Dr At Belfield Rd North Side | 43.6999699 | -79.58794 | 11696
+5423_IB | Opposite 200 Brockport Dr | 43.7015799 | -79.5885099 | 11697
+6863_IB | Disco Rd At Brockport Rd West Side | 43.7024099 | -79.59014 | 11698
+7641_IB | 10 Disco Rd | 43.70185 | -79.5926099 | 11699
+266_IB | Disco Rd At Attwell Dr | 43.7013299 | -79.59478 | 11700
+7773_IB | Opposite 111 Disco Rd (West Detention Centre) | 43.70034 | -79.5992899 | 3482
+1037_IB | Carlingview Dr At Disco Rd South Side | 43.6993099 | -79.6013299 | 7575
+8498_IB | Opposite 385-387 Carlingview Dr | 43.69598 | -79.59983 | 7573
+1264_IB | Carlingview Dr At Worcester Rd South Side | 43.6932299 | -79.5985699 | 7587
+8922_IB | Carlingview Dr At Fasken Dr South Side | 43.6911099 | -79.5976099 | 7580
+1452_IB | Carlingview Dr At Dixon Rd | 43.6870399 | -79.5957699 | 7578
+9097_IB | Opposite 215 Carlingview Dr | 43.68318 | -79.59403 | 7585
+6850_IB | Carlingview Dr At Meteor Dr South Side | 43.6805299 | -79.5928099 | 7583
+6895_ar | Carlingview Dr At Renforth Dr | 43.6773899 | -79.59141
+5874_ar | International Blvd At Carlingview Dr East Side | 43.6769399 | -79.5905

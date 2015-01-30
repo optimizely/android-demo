@@ -1,0 +1,32 @@
+878 | Wellington St West At York St | 43.6467299 | -79.38288 | 4712
+921 | York St At King St West | 43.64782 | -79.3834 | 4736
+3070 | King St West At Yonge St (King Station) | 43.6489599 | -79.37843 | 4196
+2691 | King St East At Church St | 43.6497999 | -79.37453 | 4133
+2299 | Church St At Wellington St East | 43.64871 | -79.37399 | 12320
+7698 | The Esplanade At Market St | 43.6478899 | -79.3718 | 11177
+358 | The Esplanade At Lower Jarvis St East Side | 43.6482699 | -79.37048 | 6375
+8428 | The Esplanade At Frederick St | 43.64859 | -79.3690599 | 6374
+9228 | The Esplanade At Lower Sherbourne St | 43.6488999 | -79.36768 | 6376
+1210 | The Esplanade At Princess St | 43.6491999 | -79.36637 | 11178
+9153 | The Esplanade At Berkeley St | 43.64976 | -79.36392 | 9539
+6298 | Berkeley At Front St East | 43.6510299 | -79.36384 | 9540
+7193 | Front St East At Parliament St | 43.6514499 | -79.36289 | 11914
+9045 | Mill St At Parliament St East Side | 43.65028 | -79.36161 | 13330
+6596 | Mill St At Trinity St | 43.65067 | -79.3599099 | 13331
+4459 | Mill St At Cherry St | 43.6512199 | -79.35761 | 13332
+2970 | Cherry St At Lake Shore Blvd East | 43.64795 | -79.35476 | 4867
+8237 | Cherry St At Commissioners St South Side | 43.6449199 | -79.35224 | 13932
+2928 | Cherry St At Polson St South Side | 43.64266 | -79.35039 | 13934
+5938 | Cherry St At Unwin Ave | 43.6391 | -79.34682 | 13936
+2111 | Cherry Beach Loop At Clarke Beach | 43.6369799 | -79.34437 | 13937
+6846 | Cherry St At Unwin Ave North Side | 43.63939 | -79.34684 | 13945
+10393 | Cherry St At Polson St | 43.6427799 | -79.3502399 | 13933
+3684 | Cherry St At Commissioners St | 43.64501 | -79.35206 | 13931
+4257 | Commissioners St At Munition St East Side | 43.6465599 | -79.3494 | 4896
+4007 | 75 Commissioners St | 43.64756 | -79.3470599 | 4897
+5146 | Commissioners St At Don Roadway | 43.6483699 | -79.34513 | 13364
+1614 | Commissioners St At Saulter St | 43.6495199 | -79.34238 | 4898
+6634 | Commissioners St At Bouchette St | 43.65051 | -79.3400799 | 4892
+9066 | Commissioners St At Logan Ave | 43.65146 | -79.3379399 | 4895
+9528 | Carlaw Ave At Lake Shore Blvd East South Side | 43.6543799 | -79.3370199 | 6290
+8947_ar | Carlaw Ave At Commissioners St | 43.6527099 | -79.33571

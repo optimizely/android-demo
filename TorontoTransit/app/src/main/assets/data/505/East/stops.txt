@@ -1,0 +1,52 @@
+14187 | Dundas West Station | 43.6566999 | -79.45349 | 14666
+6600 | Dundas St West At Roncesvalles Ave East Side | 43.6534799 | -79.45126 | 2181
+2954 | Dundas St West At Howard Park Ave | 43.6521999 | -79.4484 | 2167
+2243 | Dundas St West At Sorauren Ave | 43.65126 | -79.44576 | 0987
+7506 | Dundas St West At Sterling Rd | 43.65063 | -79.44316 | 0991
+5525 | Dundas St West At College St | 43.6502199 | -79.4412799 | 0989
+1606 | Dundas St West At Lansdowne Ave | 43.6501299 | -79.44007 | 2170
+10193 | Dundas St West At St Clarens Ave East Side | 43.64999 | -79.43788 | 10183
+2176 | Dundas St West At Brock Ave | 43.6498499 | -79.4357299 | 2151
+1385 | Dundas St West At Sheridan Ave | 43.6497299 | -79.4338599 | 2186
+1063 | Dundas St West At Dufferin St | 43.64959 | -79.43156 | 2160
+7289 | Dundas St West At Gladstone Ave | 43.6495399 | -79.4300099 | 2164
+9568 | Dundas St West At Lisgar St | 43.64945 | -79.42687 | 2172
+1416 | Dundas St West At Dovercourt Rd | 43.64939 | -79.42482 | 2158
+3702 | Dundas St West At Ossington Ave | 43.6492799 | -79.42095 | 2175
+6324 | Dundas St West At Shaw St | 43.64972 | -79.4184799 | 2185
+7139 | Dundas St East At Grace St | 43.65058 | -79.4142199 | 10181
+8719 | Dundas St West At Bellwoods Ave | 43.65085 | -79.4128799 | 2145
+7088 | Dundas St West At Euclid Ave | 43.6514399 | -79.40999 | 2162
+3665 | Dundas St West At Bathurst St (Toronto Western Hospital) | 43.6521899 | -79.40625 | 2140
+6692 | Dundas St West At Denison Ave | 43.6519499 | -79.40237 | 2156
+6046 | Dundas St West At Spadina Ave | 43.6527999 | -79.39825 | 2189
+1479 | Dundas St West At Huron St | 43.65324 | -79.3962499 | 2168
+7171 | Dundas St West At Beverley St | 43.6537199 | -79.39396 | 2146
+9016 | Dundas St West At McCaul St | 43.65422 | -79.3915499 | 2173
+7311 | Dundas St West At University Ave (St Patrick Station) | 43.65474 | -79.3886499 | 2193
+6459 | Dundas St West At Chestnut St | 43.65515 | -79.3861399 | 2153
+2856 | Dundas St West At Bay St | 43.6556299 | -79.38399 | 2142
+3874 | Dundas St West At Yonge St | 43.65623 | -79.3810399 | 2197
+8159 | Dundas St East At Victoria St | 43.6562699 | -79.37979 | 2134
+4823 | Dundas St East At Bond St | 43.65627 | -79.3784499 | 10180
+3471 | Dundas St East At Church St | 43.65641 | -79.3772999 | 2116
+3184 | Dundas St East At Jarvis St | 43.6569799 | -79.37471 | 2118
+2641 | Dundas St East At Sherbourne St | 43.65824 | -79.3711099 | 2130
+2749 | Dundas St East At Ontario St | 43.65879 | -79.3686599 | 2122
+5988 | Dundas St East At Parliament St | 43.6593799 | -79.36613 | 2124
+9319 | Dundas St East At Regent Rd East Side | 43.6598199 | -79.36397 | 10182
+6541 | Dundas St East At Sackville St | 43.6599999 | -79.36311 | 2128
+1557 | Dundas St East At Sumach St | 43.6605399 | -79.36069 | 2132
+6694 | Dundas St East At River St | 43.6611 | -79.3582699 | 2126
+8632 | Dundas St East At Munro St | 43.66196 | -79.3531399 | 2120
+8820 | Dundas St East At Broadview Ave | 43.6623299 | -79.35149 | 2115
+3886 | Broadview Ave At Mount Stephen St | 43.66396 | -79.35191 | 9317
+6205 | Broadview Ave At Gerrard St East | 43.6652799 | -79.3524599 | 1757
+7672 | Broadview Ave At Simpson Ave North Side | 43.66651 | -79.35298 | 13459
+4891 | Broadview Ave At Langley Ave-Bridgepoint Health Ctr | 43.66767 | -79.35333 | 1759
+10098 | Broadview Ave At Withrow Ave | 43.6696399 | -79.35302 | 1766
+7415 | Broadview Ave At Bain Ave North Side | 43.67077 | -79.3541 | 10283
+3720 | Broadview Ave At Millbrook Cres | 43.6718999 | -79.3547299 | 1761
+9752 | Broadview Ave At Wolfrey Ave | 43.6741899 | -79.3568899 | 1768
+6517 | Broadview Ave At Danforth Ave | 43.67605 | -79.35862 | 1755
+14162_ar | Broadview Station | 43.6771299 | -79.35821

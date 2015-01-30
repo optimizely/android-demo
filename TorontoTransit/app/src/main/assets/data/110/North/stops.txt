@@ -1,0 +1,52 @@
+3707 | Islington Ave At Lake Shore Blvd West | 43.6009399 | -79.50542 | 3812
+1258 | Lake Shore Blvd West At Tenth St | 43.6001499 | -79.50846 | 5151
+2951 | Twelfth St At Lake Shore Blvd West North Side | 43.6000099 | -79.51089 | 11736
+3826 | Garnett Janes Rd At Twelfth St East Side | 43.60105 | -79.5108599 | 11737
+6146 | Garnett Janes Rd At Coin St | 43.6014499 | -79.50907 | 11738
+9279 | Ninth St At Birmingham St | 43.60232 | -79.50839 | 11739
+8513 | Birmingham St At Eighth St | 43.6028799 | -79.50765 | 11740
+4851 | Islington Ave At Birmingham St North Side | 43.60381 | -79.5064 | 3769
+6607 | Islington Ave At New Toronto St | 43.60655 | -79.50645 | 3821
+9084 | Islington Ave At Judson St North Side | 43.6140399 | -79.50839 | 3804
+3297 | Opposite 730 Islington Ave (Ourland Park) | 43.61518 | -79.50922 | 3822
+10404 | 791 Islington Ave | 43.6167999 | -79.5102899 | 13922
+2454 | Islington Ave At Evans Ave | 43.61824 | -79.51102 | 3787
+8042 | Islington Ave At The Queensway North Side | 43.6240299 | -79.51474 | 2728
+7123 | Islington Ave At Inverness Ave | 43.62514 | -79.51529 | 2721
+6343 | Islington Ave At Athol Ave | 43.6267199 | -79.5159399 | 2714
+5914 | Islington Ave At Ambleside Ave | 43.6292099 | -79.5169599 | 2713
+8641 | Islington Ave At Titan Rd | 43.63077 | -79.51758 | 3849
+7441 | Islington Ave At Norseman St | 43.6341099 | -79.5188799 | 2726
+6469 | Islington Ave At Saybrook Ave | 43.6363199 | -79.5198599 | 2730
+4062 | Islington Ave At Bering Ave North Side | 43.6397399 | -79.5212299 | 2718
+8240 | Islington Ave At Van Dusen Blvd | 43.6414099 | -79.5219399 | 2733
+403 | Bloor St West At Islington Ave West Side | 43.64459 | -79.5241499 | 0526
+14219_ar | Islington Station | 43.6450399 | -79.52479
+477 | Long Branch Loop | 43.5921199 | -79.54368 | 4435
+15037 | Lake Shore Blvd West At Thirty Ninth St | 43.59273 | -79.5406699 | 15223
+1073 | Lake Shore Blvd West At Thirty Seventh St | 43.59335 | -79.5382199 | 5164
+4736 | Lake Shore Blvd West At Long Branch Ave | 43.59432 | -79.5340999 | 5187
+1719 | Lake Shore Blvd West At Thirty First St | 43.5951299 | -79.53038 | 5163
+5349 | Thirtieth St At Lake Shore Blvd West North Side | 43.5956599 | -79.52981 | 9252
+7881 | Thirtieth St At Elder Ave | 43.5976799 | -79.5306699 | 9253
+14574 | Thirtieth St At Akron Rd | 43.5999199 | -79.5316499 | 9254
+3143 | Thirtieth St At Alhena Ave | 43.6022399 | -79.5327299 | 9255
+8993 | Thirtieth St At Horner Ave | 43.6040999 | -79.53353 | 9256
+3288 | Horner Ave At Edilou Dr | 43.6046999 | -79.53141 | 3716
+2057 | Horner Ave At Belvia Rd | 43.6053199 | -79.5287 | 3710
+4021 | Horner Ave At Fima Cres | 43.6057399 | -79.5268 | 3721
+6671 | 289 Horner Ave | 43.6065399 | -79.5233 | 3725
+9970 | Horner At Kipling Ave | 43.60709 | -79.5208699 | 3723
+2913 | 215 Horner Ave | 43.6077199 | -79.51769 | 3719
+2120 | 137 Horner Ave | 43.6095499 | -79.51463 | 3709
+1619 | Horner Ave At Judson St | 43.61171 | -79.51549 | 3722
+1122 | Judson St At Magnificent Rd | 43.6127899 | -79.51232 | 3950
+2527 | Browns Line At Lake Shore Blvd West North Side | 43.59335 | -79.53933 | 3386
+2760 | Browns Line At Jellicoe Ave | 43.59639 | -79.54266 | 3384
+3171 | Browns Line At Woodbury Rd North Side | 43.59936 | -79.54402 | 3387
+4104 | Browns Line At Horner Ave | 43.60153 | -79.54502 | 3383
+6198 | Horner Ave At Sheldon Ave | 43.6020499 | -79.54319 | 3726
+5496 | Horner Ave At Alderbrae Ave | 43.6026 | -79.5408499 | 3707
+6675 | Horner Ave At Beta St | 43.60301 | -79.5389399 | 3711
+3885 | Horner Ave At Delta St East Side | 43.60373 | -79.5357899 | 3714
+2238 | Horner Ave At Thirtieth St | 43.6041599 | -79.53384 | 3705
