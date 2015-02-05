@@ -34,6 +34,7 @@ import android.text.Editable;
 import android.text.InputFilter;
 import android.text.InputType;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -83,7 +84,7 @@ public class Favourites extends Fragment implements Observer {
 
     private static LiveVariable<Integer> intVariable = Optimizely.integerVariable("basicIntVariable",0);
 
-    private OptimizelyCodeBlock alertDialogCodeBlock = Optimizely.codeBlockWithBranchNames("Branch1","Branch2","Branch3");
+    private OptimizelyCodeBlock alertDialogCodeBlock = Optimizely.codeBlockWithBranchNames("AlertBranch", "Branch1","Branch2","Branch3");
 
 
     @Override
@@ -120,8 +121,6 @@ public class Favourites extends Fragment implements Observer {
             text.setVisibility(View.GONE);
         }
 
-/*
-
 
         final AlertDialog.Builder builder = new AlertDialog.Builder(this.getActivity());
         builder.setTitle("Experiment");
@@ -129,32 +128,33 @@ public class Favourites extends Fragment implements Observer {
         alertDialogCodeBlock.execute(new DefaultCodeBlock() {
             @Override
             public void execute() {
-                builder.setMessage("You are in the original. Var value:" + intVariable.get());
+                Log.d("OptimizelySuneet", "Default code block. Live var: " + intVariable.get());
             }
-        }, new CodeBlock("Branch 1") {
+        }, new CodeBlock("Branch1") {
             @Override
             public void execute() {
-                builder.setMessage("Code block branch 1. Live var: " + intVariable.get());
+                Log.d("OptimizelySuneet","Code block branch 1. Live var: " + intVariable.get());
+                //builder.create().show();
             }
-        }, new CodeBlock("Branch 2") {
+        }, new CodeBlock("Branch2") {
             @Override
             public void execute() {
-                builder.setMessage("Code block branch 2. Live var: " + intVariable.get());
+                Log.d("OptimizelySuneet","Code block branch 2. Live var: " + intVariable.get());
+                //builder.create().show();
             }
-        }, new CodeBlock("Branch 3") {
+        }, new CodeBlock("Branch3") {
             @Override
             public void execute() {
-                builder.setMessage("Code block branch 3. Live var: " + intVariable.get());
+                Log.d("OptimizelySuneet","Code block branch 3. Live var: " + intVariable.get());
+                //builder.create().show();
             }
         });
 
 
 
 
-        builder.create().show();
 
 
-*/
         //Return the view.
         return favourites;
     }

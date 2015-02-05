@@ -23,5 +23,5 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:support-v4:21.0.+'
-    compile 'com.optimizely:optimizely-dev-preview:0.2.8rc3'
+        compile 'com.optimizely:optimizely:0.3.0'
 }

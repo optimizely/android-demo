@@ -33,6 +33,8 @@ import android.widget.ImageButton;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import com.optimizely.Optimizely;
+
 import java.util.ArrayList;
 
 /**
@@ -104,6 +106,8 @@ public class Find extends Fragment
         route.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Optimizely.trackEvent("selectedRoute");
+                Optimizely.sendEvents();
                 Intent intent = new Intent(Find.this.getActivity(), RoutePicker.class);
                 startActivity(intent);
             }

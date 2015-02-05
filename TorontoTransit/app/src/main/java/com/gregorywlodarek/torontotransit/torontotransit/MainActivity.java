@@ -81,11 +81,12 @@ public class MainActivity extends FragmentActivity implements Observer {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+        Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
         Optimizely.startOptimizely("AAM7hIkAW0q7sdbkQszwnKwONyFQ6cfZ~2373321043", getApplication());
 
-        lm = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
+
+                lm = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
         if (lm.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
             lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, MIN_TIME_BW_UPDATES,
                     MIN_DISTANCE_CHANGE_FOR_UPDATES, new LocationListener() {
