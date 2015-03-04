@@ -4,5 +4,7 @@
     <string name="app_name">Gilt-Android</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_gilt_sales_list">GiltSalesListActivity</string>
+    <string name="title_activity_test">TestActivity</string>
 
 </resources>

@@ -119,60 +119,27 @@ public class GiltSale {
         // JSONObject image_161_110 = images.getJSONObject("744x281");
     }
 
-    public static void getSales() {
-        Log.d("D", "Started get request");
+    public static void getSales(final GetSalesResponseHandler responseHandler) {
         GiltClient.get("/sales/active.json", null, new SSJSONResponseHandler() {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
                 GiltLog.d("OnSuccess");
                 ArrayList<GiltSale> sales = parseSales(response);
-                GiltLog.d("Finished parsing sales: " + sales.size() + " sales");
-
-                GiltLog.d("Getting all producst from first sale");
-
-                GiltSale firstSale = sales.get(0);
-
-                firstSale.getAllProducts(new GetProductsResponseHandler() {
-                    @Override
-                    public void onCompletion(ArrayList<GiltProduct> products) {
-                        GiltLog.d("Received " + products.size() + " products");
-                    }
-                });
+                responseHandler.onCompletion(sales);
             }
 
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONArray response) {
-                GiltLog.d("OnSuccess");
+                responseHandler.onCompletion(new ArrayList<GiltSale>());
             }
 
             @Override
             public void onFailure(int statusCode, Header[] headers, Throwable throwable, JSONObject errorResponse) {
-                GiltLog.d("onFailure");
+                responseHandler.onCompletion(new ArrayList<GiltSale>());
             }
         });
     }
 
-    private class RequestCounter
-    {
-        private int numRequests;
-        private int completedRequests;
-
-        public RequestCounter(int requests)
-        {
-            this.numRequests = requests;
-            this.completedRequests = 0;
-        }
-
-        public boolean requestComleted()
-        {
-            this.completedRequests++;
-            if(completedRequests == numRequests) {
-                return true;
-            } else {
-                return false;
-            }
-        }
-    }
 
     public void getAllProducts(final GetProductsResponseHandler responseHandler)
     {
@@ -194,7 +161,7 @@ public class GiltSale {
                 public void onSuccess(GiltProduct product) {
                     products.add(product);
 
-                    if(counter.requestComleted()) {
+                    if(counter.requestCompleted()) {
                         // DONE with all requests
                         responseHandler.onCompletion(products);
                     }
@@ -202,7 +169,7 @@ public class GiltSale {
 
                 @Override
                 public void onFailure() {
-                    if(counter.requestComleted()) {
+                    if(counter.requestCompleted()) {
                         // DONE with all requests
                         responseHandler.onCompletion(products);
                     }
@@ -211,17 +178,6 @@ public class GiltSale {
 
         }
 
-    }
-
-    private interface GetProductResponseHandler
-    {
-        void onSuccess(GiltProduct product);
-        void onFailure();
-    }
-
-    private interface GetProductsResponseHandler
-    {
-        void onCompletion(ArrayList<GiltProduct> products);
     }
 
     private static void getProductInfo(String productURL, final GetProductResponseHandler handler)
@@ -265,6 +221,42 @@ public class GiltSale {
 
         return list;
     }
+
+    private class RequestCounter
+    {
+        private int numRequests;
+        private int completedRequests;
+
+        public RequestCounter(int requests)
+        {
+            this.numRequests = requests;
+            this.completedRequests = 0;
+        }
+
+        public boolean requestCompleted()
+        {
+            this.completedRequests++;
+            if(completedRequests == numRequests) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    }
+
+    public interface GetProductResponseHandler {
+        void onSuccess(GiltProduct product);
+        void onFailure();
+    }
+
+    public interface GetProductsResponseHandler {
+        void onCompletion(ArrayList<GiltProduct> products);
+    }
+
+    public interface GetSalesResponseHandler {
+        void onCompletion(ArrayList<GiltSale> sales);
+    }
+
 
 
 

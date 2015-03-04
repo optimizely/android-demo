@@ -1,39 +1,31 @@
 package com.example.sshah.gilt_android;
 
-import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 
 
-public class MainActivity extends ActionBarActivity {
+public class GiltSalesListActivity extends ActionBarActivity {
 
-    private Button clickMeButton;
+    private GiltSalesListFragment salesListFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        clickMeButton = (Button)findViewById(R.id.clickMeButton);
-        clickMeButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-                Intent showSales = new Intent(MainActivity.this, GiltSalesListActivity.class);
-                MainActivity.this.startActivity(showSales);
-            }
-        });
-        //GiltSale.getSales();
+        setContentView(R.layout.activity_gilt_sales_list);
+        if (savedInstanceState == null) {
+            getSupportFragmentManager().beginTransaction()
+                    .add(R.id.container, new GiltSalesListFragment())
+                    .commit();
+        }
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
+        getMenuInflater().inflate(R.menu.menu_gilt_sales_list, menu);
         return true;
     }
 

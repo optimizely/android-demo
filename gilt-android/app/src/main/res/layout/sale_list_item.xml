@@ -19,18 +19,19 @@
         android:layout_marginBottom="15dp">
 
         <LinearLayout
-            android:layout_width="0"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="0.3"></LinearLayout>
 
         <LinearLayout
             android:orientation="vertical"
-            android:layout_width="0"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="0.7"
             android:background="@color/grey">
             
             <TextView
+                android:id="@+id/sale_list_item_textView1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
@@ -39,6 +40,7 @@
                 android:text="Cool Product"/>
 
             <TextView
+                android:id="@+id/sale_list_item_textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
