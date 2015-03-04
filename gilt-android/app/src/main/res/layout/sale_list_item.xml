@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+
+    <ImageView
+        android:id="@+id/saleListItemImageView"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/gilt_test_image"
+        android:scaleType="centerCrop"/>
+
+    
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp">
+
+        <LinearLayout
+            android:layout_width="0"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"></LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7"
+            android:background="@color/grey">
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:padding="10dp"
+                android:text="Cool Product"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="12dp"
+                android:padding="10dp"
+                android:text="ENDS IN 3 DAYS"/>
+            
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
