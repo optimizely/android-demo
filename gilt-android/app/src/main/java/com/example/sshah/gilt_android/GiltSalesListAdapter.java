@@ -39,7 +39,7 @@ public class GiltSalesListAdapter extends ArrayAdapter<GiltSale>
 
         if (rowView == null) {
             LayoutInflater inflater = LayoutInflater.from(this.getContext());
-            rowView = inflater.inflate(R.layout.sale_list_item, null);
+            rowView = inflater.inflate(R.layout.sale_list_item, parent, false);
             ViewHolder viewHolder = new ViewHolder();
             viewHolder.saleNameTextView = (TextView) rowView.findViewById(R.id.sale_list_item_textView1);
             viewHolder.saleEndingTextView = (TextView) rowView.findViewById(R.id.sale_list_item_textView2);

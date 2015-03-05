@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item name="grey" type="color">#5E5B5D</item>
+    <item name="grey" type="color">#90000000</item>
     <item name="white" type="color">#FFFFFF</item>
 </resources>
