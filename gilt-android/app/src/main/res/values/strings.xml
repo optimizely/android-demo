@@ -7,5 +7,9 @@
     <string name="title_activity_gilt_sales_list">GiltSalesListActivity</string>
     <string name="title_activity_test">TestActivity</string>
     <string name="title_activity_gilt_products_list">GiltProductsListActivity</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="fbWarning">This app will never post any activitiy to your Facebook account without your permission. Signing in with Facebook is for registration purposes only.</string>
+
+    <string name="legalse">By pressing the Sign In button you are joining all Gilt Groupe Sites and agree to their Terms of Membership and Privacy Policy. </string>
 
 </resources>
