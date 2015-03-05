@@ -34,6 +34,13 @@ public class GiltSalesListAdapter extends ArrayAdapter<GiltSale>
     }
 
     @Override
+    public GiltSale getItem(int position)
+    {
+        return objects.get(position);
+    }
+
+
+    @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         View rowView = convertView;
 
@@ -51,7 +58,7 @@ public class GiltSalesListAdapter extends ArrayAdapter<GiltSale>
 
         GiltSale sale = objects.get(position);
         holder.saleNameTextView.setText(sale.getName());
-        holder.saleEndingTextView.setText(sale.getSaleDescription());
+        holder.saleEndingTextView.setText(sale.getEndsInDaysString());
         Picasso.with(this.getContext()).load(sale.getImage_url()).into(holder.bgImageView);
 
         return rowView;

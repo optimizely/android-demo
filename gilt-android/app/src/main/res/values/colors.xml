@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item name="grey" type="color">#90000000</item>
+    <item name="grey" type="color">#97000000</item>
     <item name="white" type="color">#FFFFFF</item>
+    <item name="gilt_orange" type="color">#F99200</item>
 </resources>

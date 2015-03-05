@@ -26,6 +26,14 @@
             android:name=".TestActivity"
             android:label="@string/title_activity_test" >
         </activity>
+        <activity
+            android:name=".GiltProductsListActivity"
+            android:label="@string/title_activity_gilt_products_list"
+            android:parentActivityName=".GiltSalesListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sshah.gilt_android.GiltSalesListActivity" />
+        </activity>
     </application>
 
 </manifest>

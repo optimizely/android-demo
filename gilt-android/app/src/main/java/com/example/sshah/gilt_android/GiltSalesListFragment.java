@@ -1,5 +1,6 @@
 package com.example.sshah.gilt_android;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
 import android.view.LayoutInflater;
@@ -31,6 +32,14 @@ public class GiltSalesListFragment extends ListFragment {
         listView = (ListView)view.findViewById(android.R.id.list);
         getSales();
         return view;
+    }
+
+    @Override
+    public void onListItemClick(ListView l, View v, int position, long id) {
+        GiltSale sale = (GiltSale)this.getListAdapter().getItem(position);
+        Intent showProducts = new Intent(this.getActivity(), GiltProductsListActivity.class);
+        showProducts.putExtra(GiltSale.TAG,sale);
+        getActivity().startActivity(showProducts);
     }
 
     private void getSales()

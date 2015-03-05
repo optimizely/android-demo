@@ -14,7 +14,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="90dp"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="20dp">
 
@@ -36,8 +36,9 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
                 android:textSize="18dp"
+                android:paddingLeft="10dp"
                 android:padding="10dp"
-                android:text="Cool Product"/>
+                android:text="Cool Product that takes up atleast 2 lines"/>
 
             <TextView
                 android:id="@+id/sale_list_item_textView2"
@@ -45,7 +46,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
                 android:textSize="12dp"
-                android:padding="10dp"
+                android:paddingLeft="10dp"
                 android:text="ENDS IN 3 DAYS"/>
             
             </LinearLayout>
