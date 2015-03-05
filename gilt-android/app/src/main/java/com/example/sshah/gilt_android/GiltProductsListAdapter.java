@@ -9,8 +9,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.sshah.gilt_android.GiltProduct;
-import com.example.sshah.gilt_android.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -27,6 +25,11 @@ public class GiltProductsListAdapter extends ArrayAdapter<GiltProduct> {
     {
         super(ctx, 0, products);
         this.objects = products;
+    }
+
+    public GiltProduct getItem(int position)
+    {
+        return objects.get(position);
     }
 
     static class ViewHolder
@@ -61,8 +64,8 @@ public class GiltProductsListAdapter extends ArrayAdapter<GiltProduct> {
 
         holder.brandTextView.setText(product.getBrand());
         holder.productNameTextView.setText(product.getName());
-        holder.msrpTextView.setText("$200");
-        holder.salesPriceTextView.setText("$150");
+        holder.msrpTextView.setText("$" + product.getMaxSalesRetailPrice());
+        holder.salesPriceTextView.setText("$" + product.getSalePrice());
 
         Picasso.with(this.getContext()).load(product.getImageURL()).into(holder.productImageView);
 

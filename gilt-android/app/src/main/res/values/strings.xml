@@ -9,7 +9,8 @@
     <string name="title_activity_gilt_products_list">GiltProductsListActivity</string>
     <string name="title_activity_sign_in">SignInActivity</string>
     <string name="fbWarning">This app will never post any activitiy to your Facebook account without your permission. Signing in with Facebook is for registration purposes only.</string>
-
     <string name="legalse">By pressing the Sign In button you are joining all Gilt Groupe Sites and agree to their Terms of Membership and Privacy Policy. </string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="example_description">Woven fit and flare dress  Embroidered lace overlay  Crewneck  Ruffle trim at banded waist  Pleated flare hem  Tonal topstitching and panel seaming   Hidden back zipper closure   Fully lined     Measurements:     34\" in circumference at bust; 37\" from shoulder to hem; taken from a size 4   Model\'s height is 5 feet 9 inches</string>
 
 </resources>

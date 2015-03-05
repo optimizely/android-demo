@@ -210,8 +210,6 @@ public class GiltSale implements Parcelable {
         int numProducts = getSaleProducts().size();
         int numToDownload = Math.min(30,numProducts);
 
-        GiltLog.d("Getting " + numToDownload + " products for sale: " + this.name);
-
         final RequestCounter counter = new RequestCounter(numToDownload);
 
         final ArrayList<GiltProduct> products = new ArrayList<>();

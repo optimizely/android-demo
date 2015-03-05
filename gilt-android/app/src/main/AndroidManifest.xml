@@ -34,6 +34,16 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.sshah.gilt_android.GiltSalesListActivity" />
         </activity>
+
+        <activity
+            android:name=".ProductDetailActivity"
+            android:label="@string/title_activity_product_detail"
+            android:parentActivityName=".GiltProductsListActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sshah.gilt_android.GiltProductsListActivity" />
+        </activity>
+
         <activity
             android:name=".SignInActivity"
             android:label="@string/title_activity_sign_in" >

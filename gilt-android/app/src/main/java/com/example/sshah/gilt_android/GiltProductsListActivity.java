@@ -1,5 +1,6 @@
 package com.example.sshah.gilt_android;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
@@ -9,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ProgressBar;
 
@@ -86,9 +88,21 @@ public class GiltProductsListActivity extends ActionBarActivity {
 
             gridView = (GridView)rootView.findViewById(R.id.gridView);
             spinner = (ProgressBar)rootView.findViewById(R.id.progressBar);
+            gridView.setOnItemClickListener(listener);
             getProducts();
             return rootView;
         }
+
+        private AdapterView.OnItemClickListener listener = new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                GiltProduct selectedProduct = (GiltProduct)GiltProductsListFragment.this.gridView.getAdapter().getItem(position);
+                Intent launchProduct = new Intent(GiltProductsListFragment.this.getActivity(), ProductDetailActivity.class);
+                launchProduct.putExtra(GiltProduct.TAG, selectedProduct);
+                GiltProductsListFragment.this.startActivity(launchProduct);
+            }
+        };
+
 
         private void getProducts()
         {
