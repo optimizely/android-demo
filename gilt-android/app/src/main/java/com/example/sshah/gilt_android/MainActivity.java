@@ -11,6 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import java.util.ArrayList;
+
 
 public class MainActivity extends ActionBarActivity {
 
@@ -65,6 +67,13 @@ public class MainActivity extends ActionBarActivity {
             signInButton = (Button)rootView.findViewById(R.id.signInButton);
             signInButton.setOnClickListener(signInButtonClicked);
             fbSignInButton = (Button)rootView.findViewById(R.id.fbSignInButton);
+
+            GiltSale.getSales(new GiltSale.GetSalesResponseHandler() {
+                @Override
+                public void onCompletion(ArrayList<GiltSale> sales) {
+                    // do nothing, start the download of sales when the app starts for caching
+                }
+            });
             return rootView;
         }
 

@@ -28,6 +28,8 @@ public class GiltSale implements Parcelable {
 
     public static String TAG = "GiltSale";
 
+    private static ArrayList<GiltSale> allSales = null;
+
     private String name;
     private String sale_url;
     private String store;
@@ -184,11 +186,18 @@ public class GiltSale implements Parcelable {
     }
 
     public static void getSales(final GetSalesResponseHandler responseHandler) {
+
+        if(allSales != null) {
+            responseHandler.onCompletion(allSales);
+            return;
+        }
+
         GiltClient.get("/sales/active.json", null, new SSJSONResponseHandler() {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
                 GiltLog.d("OnSuccess");
                 ArrayList<GiltSale> sales = parseSales(response);
+                allSales = sales;
                 responseHandler.onCompletion(sales);
             }
 
