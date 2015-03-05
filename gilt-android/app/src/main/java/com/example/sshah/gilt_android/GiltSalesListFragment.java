@@ -40,6 +40,8 @@ public class GiltSalesListFragment extends ListFragment {
         Intent showProducts = new Intent(this.getActivity(), GiltProductsListActivity.class);
         showProducts.putExtra(GiltSale.TAG,sale);
         getActivity().startActivity(showProducts);
+       // TODO make better animation
+       // getActivity().overridePendingTransition(R.animator.slide_in_right,0);
     }
 
     private void getSales()

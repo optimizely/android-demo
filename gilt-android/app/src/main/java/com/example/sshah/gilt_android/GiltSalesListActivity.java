@@ -19,6 +19,7 @@ public class GiltSalesListActivity extends ActionBarActivity {
                     .add(R.id.container, new GiltSalesListFragment())
                     .commit();
         }
+        this.setTitle("Gilt");
     }
 
 
