@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Gilt-Android</string>
+    <string name="app_name">Gilt</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_gilt_sales_list">GiltSalesListActivity</string>
@@ -11,6 +11,7 @@
     <string name="fbWarning">This app will never post any activitiy to your Facebook account without your permission. Signing in with Facebook is for registration purposes only.</string>
     <string name="legalse">By pressing the Sign In button you are joining all Gilt Groupe Sites and agree to their Terms of Membership and Privacy Policy. </string>
     <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <string name="facebook_app_id">594792770641203</string>
     <string name="example_description">Woven fit and flare dress  Embroidered lace overlay  Crewneck  Ruffle trim at banded waist  Pleated flare hem  Tonal topstitching and panel seaming   Hidden back zipper closure   Fully lined     Measurements:     34\" in circumference at bust; 37\" from shoulder to hem; taken from a size 4   Model\'s height is 5 feet 9 inches</string>
 
 </resources>

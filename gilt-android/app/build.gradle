@@ -25,5 +25,6 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.0'
     compile 'com.android.support:appcompat-v7:21.0.3'
     compile 'com.loopj.android:android-async-http:1.4.7-SNAPSHOT'
+    compile 'com.facebook.android:facebook-android-sdk:3.21.1'
 
 }

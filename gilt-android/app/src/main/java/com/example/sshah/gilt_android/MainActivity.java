@@ -2,38 +2,34 @@ package com.example.sshah.gilt_android;
 
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.Button;
 
 
 public class MainActivity extends ActionBarActivity {
 
-    private Button clickMeButton;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        clickMeButton = (Button)findViewById(R.id.clickMeButton);
-        clickMeButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-                Intent showSales = new Intent(MainActivity.this, GiltSalesListActivity.class);
-                MainActivity.this.startActivity(showSales);
-            }
-        });
-        //GiltSale.getSales();
+        setContentView(R.layout.activity_sign_in);
+        if (savedInstanceState == null) {
+            getSupportFragmentManager().beginTransaction()
+                    .add(R.id.container, new SignInFragment())
+                    .commit();
+        }
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
+        getMenuInflater().inflate(R.menu.menu_sign_in, menu);
         return true;
     }
 
@@ -50,5 +46,37 @@ public class MainActivity extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    /**
+     * A placeholder fragment containing a simple view.
+     */
+    public static class SignInFragment extends Fragment {
+
+        private Button signInButton, fbSignInButton;
+
+        public SignInFragment() {
+        }
+
+        @Override
+        public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                                 Bundle savedInstanceState) {
+            View rootView = inflater.inflate(R.layout.fragment_sign_in, container, false);
+            signInButton = (Button)rootView.findViewById(R.id.signInButton);
+            signInButton.setOnClickListener(signInButtonClicked);
+            fbSignInButton = (Button)rootView.findViewById(R.id.fbSignInButton);
+            return rootView;
+        }
+
+        private View.OnClickListener signInButtonClicked = new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // Sign in button pressed
+                Intent showSales = new Intent(SignInFragment.this.getActivity(), GiltSalesListActivity.class);
+                SignInFragment.this.getActivity().startActivity(showSales);
+            }
+        };
+
+
     }
 }
