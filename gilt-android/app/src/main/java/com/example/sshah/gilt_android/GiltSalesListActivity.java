@@ -203,7 +203,7 @@ public class GiltSalesListActivity extends ActionBarActivity {
 
         private ArrayList<GiltSale> getSubSetOfSales(String store, ArrayList<GiltSale> sales)
         {
-            ArrayList<GiltSale> retVal = new ArrayList<>();
+            ArrayList<GiltSale> retVal = new ArrayList<GiltSale>();
             for(int x = 0; x < sales.size(); x++){
 
                 GiltSale sale = sales.get(x);

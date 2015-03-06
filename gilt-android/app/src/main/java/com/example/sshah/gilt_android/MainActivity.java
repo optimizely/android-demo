@@ -31,7 +31,7 @@ public class MainActivity extends ActionBarActivity {
         String appetizeToken = getIntent().getExtras().getString("project");
 
         String projectToken;
-        
+
         if(appetizeToken != null) {
             projectToken = appetizeToken;
         } else {

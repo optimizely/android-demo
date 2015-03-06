@@ -125,7 +125,7 @@ public class GiltSale implements Parcelable {
             // JSONObject image_161_110 = images.getJSONObject("315x295");
             // JSONObject image_161_110 = images.getJSONObject("744x281");
 
-            ArrayList<String> productURLS = new ArrayList<>();
+            ArrayList<String> productURLS = new ArrayList<String>();
             // Get products
             if (jsonSale.has("products")) {
                 JSONArray productsJSON = jsonSale.getJSONArray("products");
@@ -221,7 +221,7 @@ public class GiltSale implements Parcelable {
 
         final RequestCounter counter = new RequestCounter(numToDownload);
 
-        final ArrayList<GiltProduct> products = new ArrayList<>();
+        final ArrayList<GiltProduct> products = new ArrayList<GiltProduct>();
 
         for(int x = 0; x < numToDownload; x++) {
 
