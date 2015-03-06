@@ -11,6 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import com.optimizely.Optimizely;
+
 import java.util.ArrayList;
 
 
@@ -25,6 +27,20 @@ public class MainActivity extends ActionBarActivity {
                     .add(R.id.container, new SignInFragment())
                     .commit();
         }
+
+        String appetizeToken = getIntent().getExtras().getString("project");
+
+        String projectToken;
+        
+        if(appetizeToken != null) {
+            projectToken = appetizeToken;
+        } else {
+            projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
+        }
+
+        Optimizely.setEditGestureEnabled(true);
+        Optimizely.setVerboseLogging(true);
+        Optimizely.startOptimizely(projectToken, getApplication());
     }
 
 
