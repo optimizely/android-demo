@@ -1,0 +1,9 @@
+Key alias:
+gilt
+
+key password:
+giltgilt
+
+keystore password:
+giltgilt
+

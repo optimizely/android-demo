@@ -28,17 +28,26 @@ public class MainActivity extends ActionBarActivity {
                     .commit();
         }
 
-        String appetizeToken = getIntent().getExtras().getString("project");
+        Intent launchIntent = getIntent();
+        String appetizeToken = null;
+
+        if(launchIntent.getExtras() != null) {
+            appetizeToken = launchIntent.getExtras().getString("project");
+        }
 
         String projectToken;
 
         if(appetizeToken != null) {
             projectToken = appetizeToken;
+            GiltLog.d("Using appetize token: " + appetizeToken);
         } else {
             projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
+            projectToken = "AAM7hIkArBrJL__0tat9IwBiWxr6ETmF~2601020079";
+            GiltLog.d("Using hardcoded token: " + projectToken);
         }
 
         Optimizely.setEditGestureEnabled(true);
+        Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.startOptimizely(projectToken, getApplication());
     }

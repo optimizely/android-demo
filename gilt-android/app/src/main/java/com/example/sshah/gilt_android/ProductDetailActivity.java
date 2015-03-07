@@ -79,6 +79,7 @@ public class ProductDetailActivity extends ActionBarActivity {
             Bundle bundle = getActivity().getIntent().getExtras();
             this.product = bundle.getParcelable(GiltProduct.TAG);
             getActivity().setTitle(product.getBrand());
+            AppRater.didSignificantEvent(this.getActivity());
         }
 
         @Override
