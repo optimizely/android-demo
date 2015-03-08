@@ -23,7 +23,6 @@ import java.util.ArrayList;
 
 public class GiltSalesListActivity extends ActionBarActivity {
 
-    private GiltSalesListFragment salesListFragment;
     private ViewPager mViewPager;
     private SalesListPageAdapter pagerAdapter;
 

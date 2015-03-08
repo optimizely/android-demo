@@ -13,5 +13,7 @@
     <string name="title_activity_product_detail">ProductDetailActivity</string>
     <string name="facebook_app_id">594792770641203</string>
     <string name="example_description">Woven fit and flare dress  Embroidered lace overlay  Crewneck  Ruffle trim at banded waist  Pleated flare hem  Tonal topstitching and panel seaming   Hidden back zipper closure   Fully lined     Measurements:     34\" in circumference at bust; 37\" from shoulder to hem; taken from a size 4   Model\'s height is 5 feet 9 inches</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tutorial_flow">TutorialFlowActivity</string>
 
 </resources>

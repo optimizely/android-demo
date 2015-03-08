@@ -50,6 +50,7 @@ public class MainActivity extends ActionBarActivity {
         Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.startOptimizely(projectToken, getApplication());
+
     }
 
 
@@ -106,8 +107,12 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onClick(View v) {
                 // Sign in button pressed
-                Intent showSales = new Intent(SignInFragment.this.getActivity(), GiltSalesListActivity.class);
+
+                Intent showSales = new Intent(SignInFragment.this.getActivity(), TutorialFlowActivity.class);
                 SignInFragment.this.getActivity().startActivity(showSales);
+
+                //Intent showSales = new Intent(SignInFragment.this.getActivity(), GiltSalesListActivity.class);
+                //SignInFragment.this.getActivity().startActivity(showSales);
             }
         };
 
