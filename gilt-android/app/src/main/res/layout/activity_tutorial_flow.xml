@@ -2,7 +2,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/black">
 
     <android.support.v4.view.ViewPager
         android:id="@+id/pager"
@@ -13,26 +14,39 @@
     </android.support.v4.view.ViewPager>
 
     <LinearLayout
+        android:background="@color/black"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:layout_marginTop="5dp"
         android:orientation="horizontal">
         <ImageView
+            android:id="@+id/pageIndicator0"
             android:layout_width="20dp"
-            android:background="@color/black"
+            android:padding="3dp"
+            android:src="@drawable/page_indicator"
+            android:scaleType="fitCenter"
             android:layout_height="20dp" />
         <ImageView
+            android:id="@+id/pageIndicator1"
             android:layout_width="20dp"
-            android:background="@color/black"
+            android:padding="3dp"
+            android:src="@drawable/page_indicator"
+            android:scaleType="fitCenter"
             android:layout_height="20dp" />
         <ImageView
+            android:id="@+id/pageIndicator2"
             android:layout_width="20dp"
-            android:background="@color/black"
+            android:padding="3dp"
+            android:src="@drawable/page_indicator"
+            android:scaleType="fitCenter"
             android:layout_height="20dp" />
         <ImageView
+            android:id="@+id/pageIndicator3"
             android:layout_width="20dp"
-            android:background="@color/black"
+            android:padding="3dp"
+            android:src="@drawable/page_indicator"
+            android:scaleType="fitCenter"
             android:layout_height="20dp" />
         </LinearLayout>
 
@@ -46,13 +60,23 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
+            style="?android:attr/borderlessButtonStyle"
+            android:background="@color/white"
+            android:textStyle="bold"
+            android:textSize="18dp"
             android:text="Login"/>
 
         <Button
+            android:id="@+id/signInButton"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="0.5"
-            android:text="Sign Up Now"/>
+            android:textColor="@color/white"
+            android:text="Sign Up Now"
+            android:background="@color/gilt_orange"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            style="?android:attr/borderlessButtonStyle"/>
 
     </LinearLayout>
 

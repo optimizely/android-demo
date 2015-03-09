@@ -5,4 +5,7 @@
     <item name="white" type="color">#FFFFFF</item>
     <item name="black" type="color">#000000</item>
     <item name="gilt_orange" type="color">#F99200</item>
+
+    <color name="black_overlay">#66000000</color>
+
 </resources>

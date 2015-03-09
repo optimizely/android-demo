@@ -10,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -22,16 +23,83 @@ public class TutorialFlowActivity extends ActionBarActivity {
 
     public static final String TUTORIAL_SCREEN_PARAMETER = "tutorial_screen_number";
 
+    private ImageView indicator0, indicator1, indicator2, indicator3;
+
+    private Button signUpButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tutorial_flow);
+        getSupportActionBar().hide();
 
         pageAdapter = new TutorialScreenPageAdapter(getSupportFragmentManager());
 
         mViewPager = (ViewPager)findViewById(R.id.pager);
         mViewPager.setAdapter(pageAdapter);
+
+        indicator0 = (ImageView)findViewById(R.id.pageIndicator0);
+        indicator1 = (ImageView)findViewById(R.id.pageIndicator1);
+        indicator2 = (ImageView)findViewById(R.id.pageIndicator2);
+        indicator3 = (ImageView)findViewById(R.id.pageIndicator3);
+
+        signUpButton = (Button)findViewById(R.id.signInButton);
+
+        signUpButton.setOnClickListener(signInButtonPressed);
+
+        updateIndicators(0);
+
+        mViewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                updateIndicators(position);
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
+
+    }
+
+    private View.OnClickListener signInButtonPressed = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+
+
+        }
+    };
+
+    private void updateIndicators(int selectedPage) {
+
+        indicator0.setImageResource(R.drawable.page_indicator);
+        indicator1.setImageResource(R.drawable.page_indicator);
+        indicator2.setImageResource(R.drawable.page_indicator);
+        indicator3.setImageResource(R.drawable.page_indicator);
+
+        switch(selectedPage) {
+            default:
+                break;
+            case 0:
+                indicator0.setImageResource(R.drawable.page_indicator_selected);
+                break;
+            case 1:
+                indicator1.setImageResource(R.drawable.page_indicator_selected);
+                break;
+            case 2:
+                indicator2.setImageResource(R.drawable.page_indicator_selected);
+                break;
+            case 3:
+                indicator3.setImageResource(R.drawable.page_indicator_selected);
+                break;
+        }
     }
 
 
@@ -92,23 +160,23 @@ public class TutorialFlowActivity extends ActionBarActivity {
             switch (tutorialScreenNumber) {
                 case 0:
                     imageView.setImageResource(R.drawable.tutorial1);
-                    titleTextView.setText("Title 1");
-                    detailsTextView.setText("THE BEST DESCRIPTION EVER 1");
+                    titleTextView.setText("The What");
+                    detailsTextView.setText("Shopping private sales for women, men, home, kids and more.");
                     break;
                 case 1:
-                    imageView.setImageResource(R.drawable.tutorial1);
-                    titleTextView.setText("Title 2");
-                    detailsTextView.setText("THE BEST DESCRIPTION EVER 1");
+                    imageView.setImageResource(R.drawable.tutorial2);
+                    titleTextView.setText("The Why");
+                    detailsTextView.setText("Access to the most sought-after brands at amazing prices, up to 70% off!");
                     break;
                 case 2:
-                    imageView.setImageResource(R.drawable.tutorial1);
-                    titleTextView.setText("Title 3");
-                    detailsTextView.setText("THE BEST DESCRIPTION EVER 1");
+                    imageView.setImageResource(R.drawable.tutorial3);
+                    titleTextView.setText("The How");
+                    detailsTextView.setText("Show up in the morning when the day's sales first start. Quantities are limited and it's first come, first serve.");
                     break;
                 default:
-                    imageView.setImageResource(R.drawable.tutorial1);
-                    titleTextView.setText("Title 4");
-                    detailsTextView.setText("THE BEST DESCRIPTION EVER 1");
+                    imageView.setImageResource(R.drawable.tutorial4);
+                    titleTextView.setText("The how did I live without it?");
+                    detailsTextView.setText("Come back everyday to see the latest sales!");
                     break;
             }
         }

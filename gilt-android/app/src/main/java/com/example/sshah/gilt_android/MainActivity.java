@@ -40,14 +40,13 @@ public class MainActivity extends ActionBarActivity {
         if(appetizeToken != null) {
             projectToken = appetizeToken;
             GiltLog.d("Using appetize token: " + appetizeToken);
+            Optimizely.enableEditor();
         } else {
             projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
-            projectToken = "AAM7hIkArBrJL__0tat9IwBiWxr6ETmF~2601020079";
             GiltLog.d("Using hardcoded token: " + projectToken);
         }
 
         Optimizely.setEditGestureEnabled(true);
-        Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.startOptimizely(projectToken, getApplication());
 
@@ -107,12 +106,8 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onClick(View v) {
                 // Sign in button pressed
-
-                Intent showSales = new Intent(SignInFragment.this.getActivity(), TutorialFlowActivity.class);
+                Intent showSales = new Intent(SignInFragment.this.getActivity(), GiltSalesListActivity.class);
                 SignInFragment.this.getActivity().startActivity(showSales);
-
-                //Intent showSales = new Intent(SignInFragment.this.getActivity(), GiltSalesListActivity.class);
-                //SignInFragment.this.getActivity().startActivity(showSales);
             }
         };
 
