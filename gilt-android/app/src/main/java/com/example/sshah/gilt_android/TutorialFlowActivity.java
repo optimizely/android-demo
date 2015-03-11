@@ -15,10 +15,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.optimizely.Optimizely;
-import com.optimizely.integration.OptimizelyEventListener;
-import com.optimizely.integration.OptimizelyExperimentState;
-
 
 public class TutorialFlowActivity extends ActionBarActivity {
 
@@ -80,7 +76,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
     private View.OnClickListener signInButtonPressed = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-            Intent signUpIntent = new Intent(TutorialFlowActivity.this, MainActivity.class);
+            Intent signUpIntent = new Intent(TutorialFlowActivity.this, SignInActivity.class);
             TutorialFlowActivity.this.startActivity(signUpIntent);
         }
     };

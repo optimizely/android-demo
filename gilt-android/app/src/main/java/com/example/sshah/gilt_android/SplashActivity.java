@@ -6,14 +6,10 @@ import com.optimizely.CodeBlocks.DefaultCodeBlock;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
 import com.optimizely.Optimizely;
 
-import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
-import android.view.MotionEvent;
-import android.view.View;
 
 
 /**
@@ -24,7 +20,7 @@ import android.view.View;
  */
 public class SplashActivity extends Activity {
 
-    private static final int SPLASH_SCREEN_LENGTH = 1000;
+    private static final int SPLASH_SCREEN_LENGTH = 2000;
 
     private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlockWithBranchNames("showTutorial");
 
@@ -32,14 +28,14 @@ public class SplashActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        String projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
-
         Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
-        Optimizely.startOptimizely(projectToken, getApplication());
 
-        this.getActionBar().hide();
 
+
+        Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
+
+        //this.getActionBar().hide();
         setContentView(R.layout.activity_splash);
 
         // Upon interacting with UI controls, delay any scheduled hide()
@@ -60,7 +56,7 @@ public class SplashActivity extends Activity {
 
         if(appetizeToken != null) {
             projectToken = appetizeToken;
-            GiltLog.d("Using appetize token: " + appetizeToken);
+            GiltLog.d("Using appetize project token");
             Optimizely.enableEditor();
         } else {
             projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
@@ -70,32 +66,35 @@ public class SplashActivity extends Activity {
         return projectToken;
     }
 
-
     @Override
-    protected void onResume()
+    protected void onStart()
     {
-        super.onResume();
+        super.onStart();
+        GiltLog.d("onStart being called");
 
         new Handler().postDelayed(new Runnable(){
             @Override
             public void run() {
 
+                GiltLog.d("Starting sign up flow");
+
                 signUpFlow.execute(new DefaultCodeBlock() {
                     @Override
                     public void execute() {
-                        Intent signUpIntent = new Intent(SplashActivity.this, MainActivity.class);
+                        Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
                         SplashActivity.this.startActivity(signUpIntent);
+                        SplashActivity.this.finish();
                     }
                 }, new CodeBlock("showTutorial") {
                     @Override
                     public void execute() {
                         Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
                         SplashActivity.this.startActivity(tutorialIntent);
+                        SplashActivity.this.finish();
                     }
                 });
             }
         }, SPLASH_SCREEN_LENGTH);
     }
-
 
 }

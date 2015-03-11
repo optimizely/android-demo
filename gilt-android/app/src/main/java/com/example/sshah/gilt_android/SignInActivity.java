@@ -16,7 +16,7 @@ import com.optimizely.Optimizely;
 import java.util.ArrayList;
 
 
-public class MainActivity extends ActionBarActivity {
+public class SignInActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

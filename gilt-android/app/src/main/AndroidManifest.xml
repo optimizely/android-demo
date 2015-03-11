@@ -14,7 +14,7 @@
             android:value="@string/facebook_app_id" />
 
         <activity
-            android:name=".MainActivity"
+            android:name=".SignInActivity"
             android:label="@string/app_name" >
         </activity>
         <activity
@@ -53,6 +53,7 @@
             android:name=".SplashActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_splash"
+            android:windowActionBar="false"
             android:theme="@style/FullscreenTheme" >
             <intent-filter>
             <action android:name="android.intent.action.MAIN" />
