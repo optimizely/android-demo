@@ -1,5 +1,6 @@
 package com.example.sshah.gilt_android;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
@@ -13,6 +14,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.optimizely.Optimizely;
+import com.optimizely.integration.OptimizelyEventListener;
+import com.optimizely.integration.OptimizelyExperimentState;
 
 
 public class TutorialFlowActivity extends ActionBarActivity {
@@ -53,7 +58,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
         mViewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
-
+                updateIndicators(position);
             }
 
             @Override
@@ -67,13 +72,16 @@ public class TutorialFlowActivity extends ActionBarActivity {
             }
         });
 
+
+
+
     }
 
     private View.OnClickListener signInButtonPressed = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-
-
+            Intent signUpIntent = new Intent(TutorialFlowActivity.this, MainActivity.class);
+            TutorialFlowActivity.this.startActivity(signUpIntent);
         }
     };
 
