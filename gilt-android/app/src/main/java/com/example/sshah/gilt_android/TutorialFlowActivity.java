@@ -78,6 +78,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
         public void onClick(View v) {
             Intent signUpIntent = new Intent(TutorialFlowActivity.this, SignInActivity.class);
             TutorialFlowActivity.this.startActivity(signUpIntent);
+            //TutorialFlowActivity.this.finish();
         }
     };
 

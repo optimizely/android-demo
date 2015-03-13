@@ -26,5 +26,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:21.0.3'
     compile 'com.loopj.android:android-async-http:1.4.7-SNAPSHOT'
     compile 'com.facebook.android:facebook-android-sdk:3.21.1'
-    compile 'com.optimizely:optimizely:+'
+    //compile 'com.optimizely:optimizely:+'
+    compile 'com.optimizely:optimizely-rc:0.3.4'
 }

@@ -8,6 +8,7 @@ import com.optimizely.Optimizely;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Handler;
 
@@ -24,18 +25,35 @@ public class SplashActivity extends Activity {
 
     private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlockWithBranchNames("showTutorial");
 
+    // Hack to work around the fact that onCreate() gets called twice
+    private boolean showSignUpFlowOnResume = false;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
+        if (!isTaskRoot()) {
+            final Intent intent = getIntent();
+            final String intentAction = intent.getAction();
+            if (intent.hasCategory(Intent.CATEGORY_LAUNCHER) && intentAction != null && intentAction.equals(Intent.ACTION_MAIN)) {
+                GiltLog.d("Main Activity is not the root.  Finishing Main Activity instead of launching.");
+                finish();
+                return;
+            }
+        }
+
+
+        GiltLog.d("splash onCreate");
         Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
-
-
-
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
 
-        //this.getActionBar().hide();
+        showSignUpFlow();
+        showSignUpFlowOnResume = false;
+
+
         setContentView(R.layout.activity_splash);
 
         // Upon interacting with UI controls, delay any scheduled hide()
@@ -66,13 +84,16 @@ public class SplashActivity extends Activity {
         return projectToken;
     }
 
-    @Override
-    protected void onStart()
-    {
-        super.onStart();
-        GiltLog.d("onStart being called");
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
 
-        new Handler().postDelayed(new Runnable(){
+        GiltLog.d("Config changed: " + newConfig);
+    }
+
+
+    private void showSignUpFlow()
+    {
+        new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
 
@@ -83,18 +104,35 @@ public class SplashActivity extends Activity {
                     public void execute() {
                         Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
                         SplashActivity.this.startActivity(signUpIntent);
-                        SplashActivity.this.finish();
                     }
                 }, new CodeBlock("showTutorial") {
                     @Override
                     public void execute() {
                         Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
                         SplashActivity.this.startActivity(tutorialIntent);
-                        SplashActivity.this.finish();
                     }
                 });
             }
         }, SPLASH_SCREEN_LENGTH);
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        GiltLog.d("onResume being called");
+        if(showSignUpFlowOnResume) {
+            showSignUpFlow();
+        } else {
+            GiltLog.d("Not showing sign up flow, two activities being created");
+        }
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        showSignUpFlowOnResume = true;
+    }
+
+
 
 }
