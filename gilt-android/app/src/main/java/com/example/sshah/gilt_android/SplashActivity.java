@@ -80,6 +80,7 @@ public class SplashActivity extends Activity {
             Optimizely.enableEditor();
         } else if (personalConstantsID != 0) {
             projectToken = getResources().getString(personalConstantsID);
+            GiltLog.d("Using personal constants token");
         } else {
             projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
             GiltLog.d("Using hardcoded token: " + projectToken);

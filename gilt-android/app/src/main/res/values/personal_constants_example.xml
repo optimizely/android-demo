@@ -2,23 +2,32 @@
 <resources>
     <!--
 
-    Personal constants file.
+            Personal constants file.
 
-    Instructions:
+            Instructions:
 
-    1. Copy and rename this file to personal_constants.xml
+            1. Copy and rename this file to personal_constants.xml
 
-    2. Enter your persona project token after renaming the file below.
+            2. Uncomment the the string declaration below
 
-    3. You should enter the full token without quotes between the <string> tags.
+            3. Enter your personal project token where you see "your_project_token_here"
 
-    Here is an example:
+            4. You should enter the full token without quotes between the <string> tags.
 
-        <string name="personal_project_token">AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125</string>
+
+            Here is an example:
+
+                <string name="personal_project_token">AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125</string>
 
     -->
 
+
+
+    <!-- DELETE THIS LINE TO UNCOMMENT
+
     <string name="personal_project_token">your_project_token_here</string>
+
+    DELETE THIS LINE ALSO -->
 
 
 </resources>
