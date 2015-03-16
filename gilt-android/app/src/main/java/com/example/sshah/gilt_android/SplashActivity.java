@@ -63,6 +63,7 @@ public class SplashActivity extends Activity {
 
     private String getOptimizelyToken()
     {
+        String projectToken;
         Intent launchIntent = getIntent();
         String appetizeToken = null;
 
@@ -70,12 +71,15 @@ public class SplashActivity extends Activity {
             appetizeToken = launchIntent.getExtras().getString("project");
         }
 
-        String projectToken;
+        // Check to see if a personal constants file/string is defined in the project
+        int personalConstantsID = getResources().getIdentifier("personal_project_token","string",getPackageName());
 
         if(appetizeToken != null) {
             projectToken = appetizeToken;
             GiltLog.d("Using appetize project token");
             Optimizely.enableEditor();
+        } else if (personalConstantsID != 0) {
+            projectToken = getResources().getString(personalConstantsID);
         } else {
             projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
             GiltLog.d("Using hardcoded token: " + projectToken);

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+
+    Personal constants file.
+
+    Instructions:
+
+    1. Copy and rename this file to personal_constants.xml
+
+    2. Enter your persona project token after renaming the file below.
+
+    3. You should enter the full token without quotes between the <string> tags.
+
+    Here is an example:
+
+        <string name="personal_project_token">AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125</string>
+
+    -->
+
+    <string name="personal_project_token">your_project_token_here</string>
+
+
+</resources>
