@@ -44,8 +44,7 @@ public class SplashActivity extends Activity {
             }
         }
 
-
-        GiltLog.d("splash onCreate");
+        GiltLog.d("SplashActivity onCreate");
         Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
@@ -124,11 +123,8 @@ public class SplashActivity extends Activity {
     @Override
     protected void onResume() {
         super.onResume();
-        GiltLog.d("onResume being called");
         if(showSignUpFlowOnResume) {
             showSignUpFlow();
-        } else {
-            GiltLog.d("Not showing sign up flow, two activities being created");
         }
     }
 

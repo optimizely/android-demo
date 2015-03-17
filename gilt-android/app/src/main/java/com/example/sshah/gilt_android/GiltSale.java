@@ -195,7 +195,6 @@ public class GiltSale implements Parcelable {
         GiltClient.get("/sales/active.json", null, new SSJSONResponseHandler() {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONObject response) {
-                GiltLog.d("OnSuccess");
                 ArrayList<GiltSale> sales = parseSales(response);
                 allSales = sales;
                 responseHandler.onCompletion(sales);
