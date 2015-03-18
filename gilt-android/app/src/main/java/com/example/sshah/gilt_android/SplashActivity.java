@@ -5,12 +5,19 @@ import com.optimizely.CodeBlocks.CodeBlock;
 import com.optimizely.CodeBlocks.DefaultCodeBlock;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
 import com.optimizely.Optimizely;
+import com.optimizely.integration.OptimizelyEventListener;
+import com.optimizely.integration.OptimizelyExperimentData;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Handler;
+
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
 
 
 /**
@@ -34,6 +41,8 @@ public class SplashActivity extends Activity {
         super.onCreate(savedInstanceState);
 
 
+        // The below is a hack to workaround the fact that when starting EditMode, the SplashActivity gets created twice-- and we only want to
+        // show and create the SignUpActivity once. We also need to show the signupactivity on resume.
         if (!isTaskRoot()) {
             final Intent intent = getIntent();
             final String intentAction = intent.getAction();
@@ -44,25 +53,20 @@ public class SplashActivity extends Activity {
             }
         }
 
-        GiltLog.d("SplashActivity onCreate");
         Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
+        Optimizely.addOptimizelyEventListener(optimizelyListener);
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
 
         showSignUpFlow();
         showSignUpFlowOnResume = false;
 
-
         setContentView(R.layout.activity_splash);
-
-        // Upon interacting with UI controls, delay any scheduled hide()
-        // operations to prevent the jarring behavior of controls going away
-        // while interacting with the UI.
     }
 
     private String getOptimizelyToken()
     {
-        String projectToken;
+        String projectToken = null;
         Intent launchIntent = getIntent();
         String appetizeToken = null;
 
@@ -81,19 +85,58 @@ public class SplashActivity extends Activity {
             projectToken = getResources().getString(personalConstantsID);
             GiltLog.d("Using personal constants token");
         } else {
-            projectToken = "AAM7hIkA_MgWBe0vo3LNNmAmyrDdeQc4~2615150125";
-            GiltLog.d("Using hardcoded token: " + projectToken);
+            showErrorForNoToken();
+            GiltLog.d("No project token found");
         }
 
         return projectToken;
     }
 
-    public void onConfigurationChanged(Configuration newConfig) {
-        super.onConfigurationChanged(newConfig);
+    private static OptimizelyEventListener optimizelyListener = new OptimizelyEventListener() {
+        @Override
+        public void onOptimizelyStarted() {
+            GiltLog.d("OptimizelyStarted");
+            GiltLog.printAllExperiments();
+        }
 
-        GiltLog.d("Config changed: " + newConfig);
+        @Override
+        public void onOptimizelyFailedToStart(String s) {
+            GiltLog.d("Optimizely Failed to start");
+        }
+
+        @Override
+        public void onOptimizelyExperimentViewed(OptimizelyExperimentData optimizelyExperimentData) {
+            GiltLog.d("Experiment viewed");
+            GiltLog.prettyPrintExperiment(optimizelyExperimentData);
+        }
+
+        @Override
+        public void onOptimizelyEditorEnabled() {
+            GiltLog.d("Optimizely editor enabled");
+        }
+
+        @Override
+            public void onOptimizelyDataFileLoaded() {
+            GiltLog.d("Optimizely datafile loaded");
+        }
+
+        @Override
+        public void onGoalTriggered(String s, List<OptimizelyExperimentData> list) {
+            GiltLog.d("Goal triggered: " + s);
+            GiltLog.d("Triggered for experiments: ");
+
+            for(int x = 0; x < list.size(); x++) {
+                GiltLog.prettyPrintExperiment(list.get(x));
+            }
+        }
+    };
+
+
+    private void showErrorForNoToken() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this)
+                .setMessage("You haven't set an Optimizely project token. Please set one in the personal_constants.xml file in the res/values directory");
+        builder.create().show();
     }
-
 
     private void showSignUpFlow()
     {
@@ -132,6 +175,7 @@ public class SplashActivity extends Activity {
     protected void onStop() {
         super.onStop();
         showSignUpFlowOnResume = true;
+        GiltLog.printAllExperiments();
     }
 
 

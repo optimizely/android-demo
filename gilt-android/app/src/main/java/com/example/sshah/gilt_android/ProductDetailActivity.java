@@ -12,9 +12,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.optimizely.Optimizely;
 import com.squareup.picasso.Picasso;
 
 
@@ -67,6 +69,7 @@ public class ProductDetailActivity extends ActionBarActivity {
         private GiltProduct product;
         private TextView textViewBrand, textViewProductName, textViewMSRP, textViewSalePrice, textViewDescription;
         private ImageView productImageView;
+        private Button addToCartButton;
 
         public ProductDetailFragment() {
         }
@@ -82,6 +85,13 @@ public class ProductDetailActivity extends ActionBarActivity {
             AppRater.didSignificantEvent(this.getActivity());
         }
 
+        private View.OnClickListener addToCartListener = new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Optimizely.trackEvent("addToCart");
+            }
+        };
+
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
@@ -93,6 +103,8 @@ public class ProductDetailActivity extends ActionBarActivity {
             textViewMSRP = (TextView)rootView.findViewById(R.id.textViewMSRP);
             textViewSalePrice = (TextView)rootView.findViewById(R.id.textViewSalePrice);
             textViewDescription = (TextView)rootView.findViewById(R.id.textViewDescription);
+            addToCartButton = (Button)rootView.findViewById(R.id.addToCartButton);
+            addToCartButton.setOnClickListener(addToCartListener);
 
             textViewMSRP.setPaintFlags(textViewMSRP.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
 
