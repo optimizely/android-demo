@@ -15,6 +15,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.optimizely.Optimizely;
+
 
 public class TutorialFlowActivity extends ActionBarActivity {
 
@@ -157,6 +159,8 @@ public class TutorialFlowActivity extends ActionBarActivity {
 
             setupTutorialScreen();
 
+            Optimizely.setOptimizelyId("tutorialScreen" + tutorialScreenNumber, imageView);
+            GiltLog.d("Set optimizely ID: " + "tutorialScreen" + tutorialScreenNumber);
             return rootView;
         }
 

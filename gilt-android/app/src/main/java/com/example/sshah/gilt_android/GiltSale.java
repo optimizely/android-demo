@@ -203,11 +203,13 @@ public class GiltSale implements Parcelable {
             @Override
             public void onSuccess(int statusCode, Header[] headers, JSONArray response) {
                 responseHandler.onCompletion(new ArrayList<GiltSale>());
+                GiltLog.d("failed to get sales: " + response);
             }
 
             @Override
             public void onFailure(int statusCode, Header[] headers, Throwable throwable, JSONObject errorResponse) {
                 responseHandler.onCompletion(new ArrayList<GiltSale>());
+                GiltLog.d("failed to get sales: " + throwable);
             }
         });
     }

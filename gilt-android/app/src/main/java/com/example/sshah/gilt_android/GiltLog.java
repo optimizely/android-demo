@@ -22,11 +22,9 @@ public class GiltLog {
 
     public static void prettyPrintExperiment(OptimizelyExperimentData experiment)
     {
-        d("Experiment: " + experiment.experimentName + "\n" +
-                        "state: " + experiment.state + "\n" +
-                        "visitedThisSession: " + experiment.visitedThisSession + "\n" +
-                        "visitedEver: " + experiment.visitedEver + "\n" +
-                        "visitedCount: " + experiment.visitedCount
+        d("Experiment: " + experiment.experimentName + " variation: " + experiment.variationName + "\n" +
+                        "visitedThisSession: " + experiment.visitedThisSession + " visitedEver: " + experiment.visitedEver + "\n" +
+                        "visitedCount: " + experiment.visitedCount + " state: " + experiment.state
         );
     }
 

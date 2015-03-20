@@ -11,9 +11,11 @@ import com.optimizely.integration.OptimizelyExperimentData;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Handler;
+import android.preference.PreferenceManager;
 
 import java.util.Collection;
 import java.util.Iterator;
@@ -53,6 +55,8 @@ public class SplashActivity extends Activity {
             }
         }
 
+        //Optimizely.enableEditor();
+        //Optimizely.setDumpNetworkCalls(true);
         Optimizely.setEditGestureEnabled(true);
         Optimizely.setVerboseLogging(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
@@ -66,7 +70,7 @@ public class SplashActivity extends Activity {
 
     private String getOptimizelyToken()
     {
-        String projectToken = null;
+        String projectToken = "fake_token";
         Intent launchIntent = getIntent();
         String appetizeToken = null;
 
@@ -108,6 +112,7 @@ public class SplashActivity extends Activity {
         public void onOptimizelyExperimentViewed(OptimizelyExperimentData optimizelyExperimentData) {
             GiltLog.d("Experiment viewed");
             GiltLog.prettyPrintExperiment(optimizelyExperimentData);
+            Optimizely.sendEvents();
         }
 
         @Override
@@ -128,6 +133,8 @@ public class SplashActivity extends Activity {
             for(int x = 0; x < list.size(); x++) {
                 GiltLog.prettyPrintExperiment(list.get(x));
             }
+
+            Optimizely.sendEvents();
         }
     };
 
@@ -161,7 +168,16 @@ public class SplashActivity extends Activity {
                 });
             }
         }, SPLASH_SCREEN_LENGTH);
+
     }
+
+    private void showProductListings()
+    {
+        Intent salesIntent = new Intent(SplashActivity.this, GiltSalesListActivity.class);
+        SplashActivity.this.startActivity(salesIntent);
+    }
+
+    private static final String SIGNED_IN_KEY = "hasSignedIn";
 
     @Override
     protected void onResume() {
