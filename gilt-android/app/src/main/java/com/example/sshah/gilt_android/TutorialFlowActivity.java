@@ -158,8 +158,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
             detailsTextView = (TextView)rootView.findViewById(R.id.detailsTextView);
 
             setupTutorialScreen();
-
-            Optimizely.setOptimizelyId("tutorialScreen" + tutorialScreenNumber, imageView);
+            Optimizely.setOptimizelyId("tutorialScreen" + tutorialScreenNumber, rootView);
             GiltLog.d("Set optimizely ID: " + "tutorialScreen" + tutorialScreenNumber);
             return rootView;
         }

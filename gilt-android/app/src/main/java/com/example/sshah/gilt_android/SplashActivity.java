@@ -1,8 +1,8 @@
 package com.example.sshah.gilt_android;
 
 import com.example.sshah.gilt_android.util.SystemUiHider;
-import com.optimizely.CodeBlocks.CodeBlock;
-import com.optimizely.CodeBlocks.DefaultCodeBlock;
+import com.optimizely.CodeBlocks.CodeBranch;
+import com.optimizely.CodeBlocks.DefaultCodeBranch;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
 import com.optimizely.Optimizely;
 import com.optimizely.integration.OptimizelyEventListener;
@@ -11,14 +11,8 @@ import com.optimizely.integration.OptimizelyExperimentData;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Handler;
-import android.preference.PreferenceManager;
-
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.List;
 
 
@@ -32,7 +26,6 @@ public class SplashActivity extends Activity {
 
     private static final int SPLASH_SCREEN_LENGTH = 2000;
 
-    private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlockWithBranchNames("showTutorial");
 
     // Hack to work around the fact that onCreate() gets called twice
     private boolean showSignUpFlowOnResume = false;
@@ -145,6 +138,8 @@ public class SplashActivity extends Activity {
         builder.create().show();
     }
 
+    private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
+
     private void showSignUpFlow()
     {
         new Handler().postDelayed(new Runnable() {
@@ -153,19 +148,20 @@ public class SplashActivity extends Activity {
 
                 GiltLog.d("Starting sign up flow");
 
-                signUpFlow.execute(new DefaultCodeBlock() {
+                signUpFlow.execute(new DefaultCodeBranch() {
                     @Override
                     public void execute() {
                         Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
                         SplashActivity.this.startActivity(signUpIntent);
                     }
-                }, new CodeBlock("showTutorial") {
+                }, new CodeBranch() {
                     @Override
                     public void execute() {
                         Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
                         SplashActivity.this.startActivity(tutorialIntent);
                     }
                 });
+
             }
         }, SPLASH_SCREEN_LENGTH);
 
