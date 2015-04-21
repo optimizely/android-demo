@@ -49,9 +49,6 @@ public class SplashActivity extends Activity {
         }
 
         //Optimizely.enableEditor();
-        //Optimizely.setDumpNetworkCalls(true);
-        Optimizely.setEditGestureEnabled(true);
-        Optimizely.setVerboseLogging(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
 
