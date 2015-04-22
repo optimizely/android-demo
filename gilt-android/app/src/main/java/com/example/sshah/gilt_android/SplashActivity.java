@@ -49,6 +49,7 @@ public class SplashActivity extends Activity {
         }
 
         //Optimizely.enableEditor();
+        Optimizely.setVerboseLogging(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
 
@@ -184,7 +185,6 @@ public class SplashActivity extends Activity {
     protected void onStop() {
         super.onStop();
         showSignUpFlowOnResume = true;
-        GiltLog.printAllExperiments();
     }
 
 
