@@ -1,6 +1,7 @@
 package com.example.sshah.gilt_android;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,6 +10,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.optimizely.Optimizely;
+import com.optimizely.Variable.LiveVariable;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -20,6 +23,8 @@ public class GiltProductsListAdapter extends ArrayAdapter<GiltProduct> {
 
     //private final Activity context;
     private final ArrayList<GiltProduct> objects;
+    private static LiveVariable<Integer> msrpPriceColor = Optimizely.colorVariable("MSRPColor", Color.parseColor("#97000000"));
+    private static LiveVariable<Boolean> shouldShowMsrp = Optimizely.booleanVariable("ShouldShowMSRP", true);
 
     public GiltProductsListAdapter(Activity ctx, ArrayList<GiltProduct> products)
     {
@@ -55,7 +60,8 @@ public class GiltProductsListAdapter extends ArrayAdapter<GiltProduct> {
 
             //Set strikethrough text
             viewHolder.msrpTextView.setPaintFlags(viewHolder.msrpTextView.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
-
+            viewHolder.msrpTextView.setTextColor(msrpPriceColor.get());
+            viewHolder.msrpTextView.setVisibility(shouldShowMsrp.get() ? View.VISIBLE : View.INVISIBLE);
             rowView.setTag(viewHolder);
         }
 
