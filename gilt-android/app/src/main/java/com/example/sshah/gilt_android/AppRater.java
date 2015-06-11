@@ -8,8 +8,8 @@ import android.content.Intent;
 import android.net.Uri;
 import android.widget.Toast;
 
-import com.optimizely.Optimizely;
-import com.optimizely.Variable.LiveVariable;
+
+
 
 /**
  * Created by sshah on 3/7/15.
@@ -18,20 +18,20 @@ public class AppRater {
 
     public static int numEventsTriggered = 0;
 
-    private static LiveVariable<Integer> numberOfEventsToShowRatingsPrompt = Optimizely.integerVariable("Number of events before showing ratings", 3);
+  //  private static LiveVariable<Integer> numberOfEventsToShowRatingsPrompt = Optimizely.integerVariable("Number of events before showing ratings", 3);
 
     private static final String defaultPrompt1Text = "Do you love Gilt?";
     private static final String defaultPrompt2Title = "Rate Gilt";
     private static final String defaultPrompt2Message = "If you enjoy using Gilt, would you mind taking a moment to rate it?";
 
-    private static LiveVariable<String> ratingsPrompt1Text = Optimizely.stringVariable("RatingsPrompt1",defaultPrompt1Text);
-    private static LiveVariable<String> ratingsPrompt2Text = Optimizely.stringVariable("RatingsPrompt2", defaultPrompt2Message);
-    private static LiveVariable<String> ratingsPrompt2Title = Optimizely.stringVariable("RatingsPrompt2Title", defaultPrompt2Title);
+//    private static LiveVariable<String> ratingsPrompt1Text = Optimizely.stringVariable("RatingsPrompt1",defaultPrompt1Text);
+//    private static LiveVariable<String> ratingsPrompt2Text = Optimizely.stringVariable("RatingsPrompt2", defaultPrompt2Message);
+//    private static LiveVariable<String> ratingsPrompt2Title = Optimizely.stringVariable("RatingsPrompt2Title", defaultPrompt2Title);
 
     public static void showRatingsPrompt(final Context ctx)
     {
         AlertDialog firstPrompt = new AlertDialog.Builder(ctx)
-                .setMessage(ratingsPrompt1Text.get())
+                .setMessage(defaultPrompt1Text)
                 .setPositiveButton("Yes",new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
@@ -53,8 +53,8 @@ public class AppRater {
     public static void showSecondPrompt(final Context ctx)
     {
         AlertDialog secondPrompt = new AlertDialog.Builder(ctx)
-                .setTitle(ratingsPrompt2Title.get())
-                .setMessage(ratingsPrompt2Text.get())
+                .setTitle(defaultPrompt2Title)
+                .setMessage(defaultPrompt2Message)
                 .setPositiveButton("Rate it now", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
@@ -76,7 +76,7 @@ public class AppRater {
         numEventsTriggered++;
         GiltLog.d("App Rater: did significant event");
 
-        if(numEventsTriggered == numberOfEventsToShowRatingsPrompt.get()) {
+        if(numEventsTriggered == 3) {
             showRatingsPrompt(ctx);
             numEventsTriggered = 0;
             GiltLog.d("App Rater: showing prompt");

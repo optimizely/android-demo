@@ -2,22 +2,22 @@ package com.example.sshah.gilt_android;
 
 import android.graphics.Paint;
 import android.graphics.Point;
-import android.support.v7.app.ActionBarActivity;
-import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewTreeObserver;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.optimizely.Optimizely;
 import com.squareup.picasso.Picasso;
+
+//import com.optimizely.Optimizely;
 
 
 public class ProductDetailActivity extends ActionBarActivity {
@@ -88,7 +88,7 @@ public class ProductDetailActivity extends ActionBarActivity {
         private View.OnClickListener addToCartListener = new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Optimizely.trackEvent("addToCart");
+   //             Optimizely.trackEvent("addToCart");
             }
         };
 

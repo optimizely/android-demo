@@ -1,11 +1,11 @@
 package com.example.sshah.gilt_android;
 
 import android.content.Intent;
+import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v4.app.Fragment;
-import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -14,8 +14,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.optimizely.Optimizely;
 
 
 public class TutorialFlowActivity extends ActionBarActivity {
@@ -158,7 +156,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
             detailsTextView = (TextView)rootView.findViewById(R.id.detailsTextView);
 
             setupTutorialScreen();
-            Optimizely.setOptimizelyId("tutorialScreen" + tutorialScreenNumber, rootView);
+     //       Optimizely.setOptimizelyId("tutorialScreen" + tutorialScreenNumber, rootView);
             GiltLog.d("Set optimizely ID: " + "tutorialScreen" + tutorialScreenNumber);
             return rootView;
         }

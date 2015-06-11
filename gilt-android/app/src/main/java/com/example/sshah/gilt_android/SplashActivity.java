@@ -1,19 +1,12 @@
 package com.example.sshah.gilt_android;
 
-import com.example.sshah.gilt_android.util.SystemUiHider;
-import com.optimizely.CodeBlocks.CodeBranch;
-import com.optimizely.CodeBlocks.DefaultCodeBranch;
-import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
-import com.optimizely.Optimizely;
-import com.optimizely.integration.OptimizelyEventListener;
-import com.optimizely.integration.OptimizelyExperimentData;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import java.util.List;
+
+import com.example.sshah.gilt_android.util.SystemUiHider;
 
 
 /**
@@ -48,10 +41,10 @@ public class SplashActivity extends Activity {
             }
         }
 
-        //Optimizely.enableEditor();
+     /*   //Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
-        Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
+        Optimizely.startOptimizely(getOptimizelyToken(), getApplication());*/
 
         showSignUpFlow();
         showSignUpFlowOnResume = false;
@@ -70,7 +63,7 @@ public class SplashActivity extends Activity {
         }
 
         // Check to see if a personal constants file/string is defined in the project
-        int personalConstantsID = getResources().getIdentifier("personal_project_token","string",getPackageName());
+    /*    int personalConstantsID = getResources().getIdentifier("personal_project_token","string",getPackageName());
 
         if(appetizeToken != null) {
             projectToken = appetizeToken;
@@ -82,16 +75,15 @@ public class SplashActivity extends Activity {
         } else {
             showErrorForNoToken();
             GiltLog.d("No project token found");
-        }
+        }*/
 
         return projectToken;
     }
 
-    private static OptimizelyEventListener optimizelyListener = new OptimizelyEventListener() {
+  /*  private static OptimizelyEventListener optimizelyListener = new OptimizelyEventListener() {
         @Override
         public void onOptimizelyStarted() {
             GiltLog.d("OptimizelyStarted");
-            GiltLog.printAllExperiments();
         }
 
         @Override
@@ -102,7 +94,7 @@ public class SplashActivity extends Activity {
         @Override
         public void onOptimizelyExperimentViewed(OptimizelyExperimentData optimizelyExperimentData) {
             GiltLog.d("Experiment viewed");
-            GiltLog.prettyPrintExperiment(optimizelyExperimentData);
+      //      GiltLog.prettyPrintExperiment(optimizelyExperimentData);
             Optimizely.sendEvents();
         }
 
@@ -122,12 +114,12 @@ public class SplashActivity extends Activity {
             GiltLog.d("Triggered for experiments: ");
 
             for(int x = 0; x < list.size(); x++) {
-                GiltLog.prettyPrintExperiment(list.get(x));
+        //        GiltLog.prettyPrintExperiment(list.get(x));
             }
 
             Optimizely.sendEvents();
         }
-    };
+    };*/
 
 
     private void showErrorForNoToken() {
@@ -136,7 +128,7 @@ public class SplashActivity extends Activity {
         builder.create().show();
     }
 
-    private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
+ //   private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
 
     private void showSignUpFlow()
     {
@@ -145,8 +137,10 @@ public class SplashActivity extends Activity {
             public void run() {
 
                 GiltLog.d("Starting sign up flow");
+                Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
+                SplashActivity.this.startActivity(signUpIntent);
 
-                signUpFlow.execute(new DefaultCodeBranch() {
+       /*         signUpFlow.execute(new DefaultCodeBranch() {
                     @Override
                     public void execute() {
                         Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
@@ -158,7 +152,7 @@ public class SplashActivity extends Activity {
                         Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
                         SplashActivity.this.startActivity(tutorialIntent);
                     }
-                });
+                });*/
 
             }
         }, SPLASH_SCREEN_LENGTH);

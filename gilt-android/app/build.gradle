@@ -26,7 +26,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:21.0.3'
     compile 'com.loopj.android:android-async-http:1.4.7'
     compile 'com.facebook.android:facebook-android-sdk:3.21.1'
-    compile('com.optimizely:optimizely:+@aar') {
-        transitive = true
-    }
+
 }
