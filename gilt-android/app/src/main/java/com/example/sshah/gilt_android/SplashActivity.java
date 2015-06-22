@@ -140,7 +140,7 @@ public class SplashActivity extends Activity {
                 Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
                 SplashActivity.this.startActivity(signUpIntent);
 
-       /*         signUpFlow.execute(new DefaultCodeBranch() {
+                signUpFlow.execute(new DefaultCodeBranch() {
                     @Override
                     public void execute() {
                         Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
@@ -152,7 +152,7 @@ public class SplashActivity extends Activity {
                         Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
                         SplashActivity.this.startActivity(tutorialIntent);
                     }
-                });*/
+                });
 
             }
         }, SPLASH_SCREEN_LENGTH);
