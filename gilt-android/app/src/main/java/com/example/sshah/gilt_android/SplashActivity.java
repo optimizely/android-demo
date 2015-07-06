@@ -146,11 +146,16 @@ public class SplashActivity extends Activity {
 
                 GiltLog.d("Starting sign up flow");
 
+
                 signUpFlow.execute(new DefaultCodeBranch() {
                     @Override
                     public void execute() {
-                        Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
-                        SplashActivity.this.startActivity(signUpIntent);
+
+                        Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
+                        SplashActivity.this.startActivity(tutorialIntent);
+
+                       //Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
+                        //SplashActivity.this.startActivity(signUpIntent);
                     }
                 }, new CodeBranch() {
                     @Override

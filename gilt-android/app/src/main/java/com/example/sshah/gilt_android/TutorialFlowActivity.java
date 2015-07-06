@@ -140,7 +140,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
         private int tutorialScreenNumber = 0;
 
         private ImageView imageView;
-        private TextView titleTextView, detailsTextView;
+        private TextView detailsTextView;
 
         public TutorialScreenFragment() {
         }
@@ -154,7 +154,6 @@ public class TutorialFlowActivity extends ActionBarActivity {
             tutorialScreenNumber = args.getInt(TUTORIAL_SCREEN_PARAMETER);
 
             imageView = (ImageView)rootView.findViewById(R.id.imageView);
-            titleTextView = (TextView)rootView.findViewById(R.id.titleTextView);
             detailsTextView = (TextView)rootView.findViewById(R.id.detailsTextView);
 
             setupTutorialScreen();
@@ -167,24 +166,20 @@ public class TutorialFlowActivity extends ActionBarActivity {
         {
             switch (tutorialScreenNumber) {
                 case 0:
-                    imageView.setImageResource(R.drawable.tutorial1);
-                    titleTextView.setText("The What");
-                    detailsTextView.setText("Shopping private sales for women, men, home, kids and more.");
+                    imageView.setImageResource(R.drawable.tutorial_new_1);
+                    detailsTextView.setText("Get access to the best deals on all the latest fashions");
                     break;
                 case 1:
-                    imageView.setImageResource(R.drawable.tutorial2);
-                    titleTextView.setText("The Why");
-                    detailsTextView.setText("Access to the most sought-after brands at amazing prices, up to 70% off!");
+                    imageView.setImageResource(R.drawable.tutorial1);
+                    detailsTextView.setText("Find the hottest accessories to complement any look");
                     break;
                 case 2:
-                    imageView.setImageResource(R.drawable.tutorial3);
-                    titleTextView.setText("The How");
-                    detailsTextView.setText("Show up in the morning when the day's sales first start. Quantities are limited and it's first come, first serve.");
+                    imageView.setImageResource(R.drawable.tutorial_new_3);
+                    detailsTextView.setText("Browse deals for women, men, home, and kids");
                     break;
                 default:
-                    imageView.setImageResource(R.drawable.tutorial4);
-                    titleTextView.setText("The how did I live without it?");
-                    detailsTextView.setText("Come back everyday to see the latest sales!");
+                    imageView.setImageResource(R.drawable.tutorial_new_4);
+                    detailsTextView.setText("Get up to 70% off retail prices!");
                     break;
             }
         }
