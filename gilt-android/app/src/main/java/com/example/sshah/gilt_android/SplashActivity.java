@@ -150,12 +150,8 @@ public class SplashActivity extends Activity {
                 signUpFlow.execute(new DefaultCodeBranch() {
                     @Override
                     public void execute() {
-
-                        Intent tutorialIntent = new Intent(SplashActivity.this, TutorialFlowActivity.class);
-                        SplashActivity.this.startActivity(tutorialIntent);
-
-                       //Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
-                        //SplashActivity.this.startActivity(signUpIntent);
+                        Intent signUpIntent = new Intent(SplashActivity.this, SignInActivity.class);
+                        SplashActivity.this.startActivity(signUpIntent);
                     }
                 }, new CodeBranch() {
                     @Override
