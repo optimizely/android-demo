@@ -167,7 +167,7 @@ public class TutorialFlowActivity extends ActionBarActivity {
             switch (tutorialScreenNumber) {
                 case 0:
                     imageView.setImageResource(R.drawable.tutorial_new_1);
-                    detailsTextView.setText("Get access to the best deals on all the latest fashions");
+                    detailsTextView.setText("Welcome to Gilt!");
                     break;
                 case 1:
                     imageView.setImageResource(R.drawable.tutorial1);
@@ -175,11 +175,11 @@ public class TutorialFlowActivity extends ActionBarActivity {
                     break;
                 case 2:
                     imageView.setImageResource(R.drawable.tutorial_new_3);
-                    detailsTextView.setText("Browse deals for women, men, home, and kids");
+                    detailsTextView.setText("Find items for the whole family");
                     break;
                 default:
                     imageView.setImageResource(R.drawable.tutorial_new_4);
-                    detailsTextView.setText("Get up to 70% off retail prices!");
+                    detailsTextView.setText("Never pay retail price again. Sound good? Get started now!");
                     break;
             }
         }
