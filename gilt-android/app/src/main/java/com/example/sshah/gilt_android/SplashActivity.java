@@ -1,19 +1,25 @@
 package com.example.sshah.gilt_android;
 
 import com.example.sshah.gilt_android.util.SystemUiHider;
+import com.localytics.android.AnalyticsListener;
+import com.localytics.android.Localytics;
 import com.optimizely.CodeBlocks.CodeBranch;
 import com.optimizely.CodeBlocks.DefaultCodeBranch;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
 import com.optimizely.Optimizely;
 import com.optimizely.integration.OptimizelyEventListener;
 import com.optimizely.integration.OptimizelyExperimentData;
+import com.optimizely.integrations.localytics.OptimizelyLocalyticsIntegration;
 
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.util.Log;
+
 import java.util.List;
+import java.util.Map;
 
 
 /**
@@ -50,29 +56,58 @@ public class SplashActivity extends Activity {
 
         //Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
+        Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
         Optimizely.startOptimizely(getOptimizelyToken(), getApplication());
+        Optimizely.registerPlugin(new OptimizelyLocalyticsIntegration());
 
         showSignUpFlow();
+
+//        new Handler().post(new Runnable() {
+//            @Override
+//            public void run() {
+//                Localytics.addAnalyticsListener(new AnalyticsListener() {
+//                    @Override
+//                    public void localyticsSessionWillOpen(boolean b, boolean b1, boolean b2) {
+//                        Log.d("GILT", "localyticsSessionWillOpen");
+//                    }
+//
+//                    @Override
+//                    public void localyticsSessionDidOpen(boolean b, boolean b1, boolean b2) {
+//                        Log.d("GILT", "localyticsSessionDidOpen");
+//                    }
+//
+//                    @Override
+//                    public void localyticsSessionWillClose() {
+//                        Log.d("GILT", "localyticsSessionWillClose");
+//                    }
+//
+//                    @Override
+//                    public void localyticsDidTagEvent(String s, Map<String, String> map, long l) {
+//                        Log.d("GILT", "localyticsDidTagEvent");
+//                    }
+//                });
+//            }
+//        });
+
         showSignUpFlowOnResume = false;
 
         setContentView(R.layout.activity_splash);
     }
 
-    private String getOptimizelyToken()
-    {
+    private String getOptimizelyToken() {
         String projectToken = "fake_token";
         Intent launchIntent = getIntent();
         String appetizeToken = null;
 
-        if(launchIntent.getExtras() != null) {
+        if (launchIntent.getExtras() != null) {
             appetizeToken = launchIntent.getExtras().getString("project");
         }
 
         // Check to see if a personal constants file/string is defined in the project
-        int personalConstantsID = getResources().getIdentifier("personal_project_token","string",getPackageName());
+        int personalConstantsID = getResources().getIdentifier("personal_project_token", "string", getPackageName());
 
-        if(appetizeToken != null) {
+        if (appetizeToken != null) {
             projectToken = appetizeToken;
             GiltLog.d("Using appetize project token");
             Optimizely.enableEditor();
@@ -112,7 +147,7 @@ public class SplashActivity extends Activity {
         }
 
         @Override
-            public void onOptimizelyDataFileLoaded() {
+        public void onOptimizelyDataFileLoaded() {
             GiltLog.d("Optimizely datafile loaded");
         }
 
@@ -121,11 +156,16 @@ public class SplashActivity extends Activity {
             GiltLog.d("Goal triggered: " + s);
             GiltLog.d("Triggered for experiments: ");
 
-            for(int x = 0; x < list.size(); x++) {
+            for (int x = 0; x < list.size(); x++) {
                 GiltLog.prettyPrintExperiment(list.get(x));
             }
 
             Optimizely.sendEvents();
+        }
+
+        @Override
+        public void onMessage(String s, String s1, Bundle bundle) {
+
         }
     };
 
@@ -138,8 +178,7 @@ public class SplashActivity extends Activity {
 
     private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
 
-    private void showSignUpFlow()
-    {
+    private void showSignUpFlow() {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
@@ -166,8 +205,7 @@ public class SplashActivity extends Activity {
 
     }
 
-    private void showProductListings()
-    {
+    private void showProductListings() {
         Intent salesIntent = new Intent(SplashActivity.this, GiltSalesListActivity.class);
         SplashActivity.this.startActivity(salesIntent);
     }
@@ -177,7 +215,7 @@ public class SplashActivity extends Activity {
     @Override
     protected void onResume() {
         super.onResume();
-        if(showSignUpFlowOnResume) {
+        if (showSignUpFlowOnResume) {
             showSignUpFlow();
         }
     }
@@ -187,7 +225,6 @@ public class SplashActivity extends Activity {
         super.onStop();
         showSignUpFlowOnResume = true;
     }
-
 
 
 }

@@ -26,7 +26,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:21.0.3'
     compile 'com.loopj.android:android-async-http:1.4.7'
     compile 'com.facebook.android:facebook-android-sdk:3.21.1'
-    compile('com.optimizely:optimizely:+@aar') {
+    compile(group: 'com.optimizely', name: 'optimizely-rc', version: '1.1.0-rc8', ext: 'aar') {
         transitive = true
     }
+    compile('com.optimizely:localyticsintegration:1.1@aar')
+    compile fileTree(dir: 'libs', include: ['localytics.jar'])
+
 }

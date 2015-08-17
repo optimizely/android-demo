@@ -1,6 +1,7 @@
 package com.example.sshah.gilt_android;
 
 import android.graphics.Paint;
+
 import android.graphics.Point;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
