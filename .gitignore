@@ -6,3 +6,5 @@
 /build
 *.apk
 personal_constants.xml
+.idea
+*.iml
