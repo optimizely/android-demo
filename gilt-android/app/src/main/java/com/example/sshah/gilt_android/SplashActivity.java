@@ -7,6 +7,7 @@ import com.optimizely.CodeBlocks.CodeBranch;
 import com.optimizely.CodeBlocks.DefaultCodeBranch;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
 import com.optimizely.Optimizely;
+import com.optimizely.integration.DefaultOptimizelyEventListener;
 import com.optimizely.integration.OptimizelyEventListener;
 import com.optimizely.integration.OptimizelyExperimentData;
 import com.optimizely.integrations.localytics.OptimizelyLocalyticsIntegration;
@@ -122,7 +123,9 @@ public class SplashActivity extends Activity {
         return projectToken;
     }
 
-    private static OptimizelyEventListener optimizelyListener = new OptimizelyEventListener() {
+
+
+    private static OptimizelyEventListener optimizelyListener = new DefaultOptimizelyEventListener() {
         @Override
         public void onOptimizelyStarted() {
             GiltLog.d("OptimizelyStarted");
