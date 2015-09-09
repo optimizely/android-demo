@@ -1,10 +1,6 @@
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-*.apk
-personal_constants.xml
+local.properties
 .idea
+.DS_Store
+personal_constants.xml
 *.iml
