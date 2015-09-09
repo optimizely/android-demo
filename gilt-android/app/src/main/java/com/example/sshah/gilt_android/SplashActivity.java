@@ -55,7 +55,7 @@ public class SplashActivity extends Activity {
             }
         }
 
-        //Optimizely.enableEditor();
+        Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
@@ -123,8 +123,6 @@ public class SplashActivity extends Activity {
         return projectToken;
     }
 
-
-
     private static OptimizelyEventListener optimizelyListener = new DefaultOptimizelyEventListener() {
         @Override
         public void onOptimizelyStarted() {
@@ -167,11 +165,9 @@ public class SplashActivity extends Activity {
         }
 
         @Override
-        public void onMessage(String s, String s1, Bundle bundle) {
-
+        public void onMessage(String s, String s2, Bundle bundle) {
         }
     };
-
 
     private void showErrorForNoToken() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this)
@@ -228,6 +224,4 @@ public class SplashActivity extends Activity {
         super.onStop();
         showSignUpFlowOnResume = true;
     }
-
-
 }
