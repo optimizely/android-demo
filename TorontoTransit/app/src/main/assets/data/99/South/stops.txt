@@ -1,8 +1,0 @@
-2567 | Jane St At Sheppard Ave West | 43.7395299 | -79.51339 | 3921
-7765 | 2002-2012 Sheppard Ave West | 43.73871 | -79.5166999 | 6057
-1351 | Sheppard Ave West At Laura Rd | 43.73796 | -79.5199699 | 6079
-2823 | Sheppard Ave West At Oakdale Rd | 43.7371499 | -79.52358 | 6085
-6161 | Arrow Rd At Sheppard Ave West North Side | 43.7363199 | -79.52934 | 11858
-5326 | Arrow Rd At Bartor Rd North Side | 43.73782 | -79.52972 | 7513
-9294 | Arrow Rd At Lido Rd | 43.74146 | -79.53064 | 7500
-7607 | Opposite 700 Arrow Rd | 43.7454199 | -79.52937 | 10470

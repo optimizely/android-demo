@@ -1,6 +1,0 @@
-14340 | 75 Carl Hall Rd (The Hangar) | 43.7473499 | -79.47395 | 14821
-12917 | Opposite 35 Carl Hall Rd | 43.7473499 | -79.47789 | 14368
-6065 | Sheppard Ave West At Tuscan Gate | 43.75252 | -79.48269 | 6089
-2042 | Sheppard Ave West At Chesswood Dr | 43.75542 | -79.4744599 | 7271
-3355 | Sheppard Ave West At Yukon Lane | 43.7519399 | -79.4674499 | 3109
-14179_ar | Downsview Station | 43.7488299 | -79.46229

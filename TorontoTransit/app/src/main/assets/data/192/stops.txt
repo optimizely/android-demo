@@ -1,9 +1,0 @@
-3169 | Pearson Airport Terminal 3 (Columns C8-C12) | 43.6859399 | -79.62016 | 14278
-5407 | Dundas St West At The East Mall Cres | 43.6303899 | -79.54917 | 2148
-14238_ar | Kipling Station | 43.6375899 | -79.53566
-14238 | Kipling Station | 43.6375899 | -79.53566 | 14719
-6721 | Dundas St West At The East Mall Cres | 43.6306899 | -79.54898 | 2149
-14957 | Jetliner Rd At Airport Rd South Side | 43.6846099 | -79.6075899 | 15144
-653 | Airport Roadway At Jetliner Rd | 43.6855299 | -79.6064399 | 14267
-7221 | Pearson Airport Terminal 1 (Column R4) | 43.6815999 | -79.61183 | 14092
-3169_ar | Pearson Airport Terminal 3 (Columns C8-C12) | 43.6859399 | -79.62016
