@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23"
+    buildToolsVersion "23.0.1"
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
@@ -30,6 +30,7 @@ dependencies {
     compile('com.optimizely:optimizely-rc:+@aar') {
         transitive = true
     }
+//    compile project(':core')
     compile('com.optimizely:localyticsintegration:1.1@aar')
     compile fileTree(dir: 'libs', include: ['localytics.jar'])
 
