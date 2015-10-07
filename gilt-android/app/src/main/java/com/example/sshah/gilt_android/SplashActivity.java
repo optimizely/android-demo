@@ -1,6 +1,9 @@
 package com.example.sshah.gilt_android;
 
 import com.example.sshah.gilt_android.util.SystemUiHider;
+import com.facebook.FacebookSdk;
+import com.localytics.android.AnalyticsListener;
+import com.localytics.android.Localytics;
 import com.optimizely.CodeBlocks.CodeBranch;
 import com.optimizely.CodeBlocks.DefaultCodeBranch;
 import com.optimizely.CodeBlocks.OptimizelyCodeBlock;
@@ -40,6 +43,8 @@ public class SplashActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        FacebookSdk.sdkInitialize(getApplicationContext());
+
 
         // The below is a hack to workaround the fact that when starting EditMode, the SplashActivity gets created twice-- and we only want to
         // show and create the SignUpActivity once. We also need to show the signupactivity on resume.
@@ -60,34 +65,39 @@ public class SplashActivity extends Activity {
         Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
         Optimizely.registerPlugin(new OptimizelyLocalyticsIntegration());
 
+        // The api_key string resource should be set in a file called personal_constants.xml because
+        // that file is git ignored and everyone has different project keys.
+        // DO NOT SET THIS IS A STRINGS FILE THAT IS SOURCE CONTROLLED OR YOU WILL BREAK THE BUILD
+        Optimizely.startOptimizelyWithAPIToken(getString(R.string.api_key), getApplication());
+
         showSignUpFlow();
 
-//        new Handler().post(new Runnable() {
-//            @Override
-//            public void run() {
-//                Localytics.addAnalyticsListener(new AnalyticsListener() {
-//                    @Override
-//                    public void localyticsSessionWillOpen(boolean b, boolean b1, boolean b2) {
-//                        Log.d("GILT", "localyticsSessionWillOpen");
-//                    }
-//
-//                    @Override
-//                    public void localyticsSessionDidOpen(boolean b, boolean b1, boolean b2) {
-//                        Log.d("GILT", "localyticsSessionDidOpen");
-//                    }
-//
-//                    @Override
-//                    public void localyticsSessionWillClose() {
-//                        Log.d("GILT", "localyticsSessionWillClose");
-//                    }
-//
-//                    @Override
-//                    public void localyticsDidTagEvent(String s, Map<String, String> map, long l) {
-//                        Log.d("GILT", "localyticsDidTagEvent");
-//                    }
-//                });
-//            }
-//        });
+        new Handler().post(new Runnable() {
+            @Override
+            public void run() {
+                Localytics.addAnalyticsListener(new AnalyticsListener() {
+                    @Override
+                    public void localyticsSessionWillOpen(boolean b, boolean b1, boolean b2) {
+                        Log.d("GILT", "localyticsSessionWillOpen");
+                    }
+
+                    @Override
+                    public void localyticsSessionDidOpen(boolean b, boolean b1, boolean b2) {
+                        Log.d("GILT", "localyticsSessionDidOpen");
+                    }
+
+                    @Override
+                    public void localyticsSessionWillClose() {
+                        Log.d("GILT", "localyticsSessionWillClose");
+                    }
+
+                    @Override
+                    public void localyticsDidTagEvent(String s, Map<String, String> map, long l) {
+                        Log.d("GILT", "localyticsDidTagEvent");
+                    }
+                });
+            }
+        });
 
         showSignUpFlowOnResume = false;
 
@@ -139,12 +149,6 @@ public class SplashActivity extends Activity {
         public void onMessage(String s, String s2, Bundle bundle) {
         }
     };
-
-    private void showErrorForNoToken() {
-        AlertDialog.Builder builder = new AlertDialog.Builder(this)
-                .setMessage("You haven't set an Optimizely project token. Please set one in the personal_constants.xml file in the res/values directory");
-        builder.create().show();
-    }
 
     private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
 

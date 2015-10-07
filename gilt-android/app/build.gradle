@@ -24,8 +24,8 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
             signingConfig signingConfigs.release
         }
     }
@@ -37,12 +37,13 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.0'
     compile 'com.android.support:appcompat-v7:23.+'
     compile 'com.loopj.android:android-async-http:1.4.7'
-    compile 'com.facebook.android:facebook-android-sdk:3.21.1'
-    compile('com.optimizely:optimizely-rc:+@aar') {
-        transitive = true
-    }
-//    compile project(':core')
-    compile('com.optimizely:localyticsintegration:1.1@aar')
+    compile 'com.facebook.android:facebook-android-sdk:4.6.0'
+//    compile('com.optimizely:optimizely-core:1.2.1@aar') {
+//        transitive = true
+//    }
+    compile project(':core')
+    compile('com.optimizely:localyticsintegration:+@aar')
     compile fileTree(dir: 'libs', include: ['localytics.jar'])
 
+    compile 'com.optimizely:optimizely-core:1.2.1'
 }
