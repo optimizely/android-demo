@@ -25,7 +25,7 @@ android {
     buildTypes {
         release {
             minifyEnabled true
-            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
         }
     }
@@ -38,12 +38,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.+'
     compile 'com.loopj.android:android-async-http:1.4.7'
     compile 'com.facebook.android:facebook-android-sdk:4.6.0'
-//    compile('com.optimizely:optimizely-core:1.2.1@aar') {
-//        transitive = true
-//    }
-    compile project(':core')
+    compile('com.optimizely:optimizely-core:1.2.1@aar') {
+        transitive = true
+    }
+//    compile project(':core')
     compile('com.optimizely:localyticsintegration:+@aar')
     compile fileTree(dir: 'libs', include: ['localytics.jar'])
-
-    compile 'com.optimizely:optimizely-core:1.2.1'
 }
