@@ -39,6 +39,38 @@ public class SplashActivity extends Activity {
     private boolean showSignUpFlowOnResume = false;
 
 
+    /*  This method is used to pull in the correct Optimizely token and enables the mobile playground
+    as well as the personalConstants file
+     */
+    private String getOptimizelyToken() {
+        String projectToken = "fake_token";
+        Intent launchIntent = getIntent();
+        String appetizeToken = null;
+
+        if (launchIntent.getExtras() != null) {
+            appetizeToken = launchIntent.getExtras().getString("project");
+        }
+
+        // Check to see if a personal constants file/string is defined in the project
+        int personalConstantsID = getResources().getIdentifier("personal_project_token", "string", getPackageName());
+
+        if (appetizeToken != null) {
+            projectToken = appetizeToken;
+            GiltLog.d("Using appetize project token");
+            Optimizely.enableEditor();
+        } else if (personalConstantsID != 0) {
+            projectToken = getResources().getString(personalConstantsID);
+            GiltLog.d("Using personal constants token");
+        } else {
+            AlertDialog.Builder builder = new AlertDialog.Builder(this)
+                    .setMessage("You haven't set an Optimizely project token. Please set one in the personal_constants.xml file in the res/values directory");
+            builder.create().show();
+            GiltLog.d("No project token found");
+        }
+
+        return projectToken;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -62,7 +94,7 @@ public class SplashActivity extends Activity {
         Optimizely.setVerboseLogging(true);
         Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
-        Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
+        Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication());
         Optimizely.registerPlugin(new OptimizelyLocalyticsIntegration());
 
         // The api_key string resource should be set in a file called personal_constants.xml because
@@ -149,6 +181,8 @@ public class SplashActivity extends Activity {
         public void onMessage(String s, String s2, Bundle bundle) {
         }
     };
+
+
 
     private static OptimizelyCodeBlock signUpFlow = Optimizely.codeBlock("onboardingFlow").withBranchNames("showTutorial");
 
