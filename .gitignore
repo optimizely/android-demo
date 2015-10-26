@@ -5,3 +5,4 @@ local.properties
 personal_constants.xml
 *.iml
 build
+gilt-android/app/app-release.apk
