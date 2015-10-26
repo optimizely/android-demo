@@ -14,7 +14,11 @@ public class GiltClient {
 
     //https://api.gilt.com/v1/sales/active.json?apikey=400f39436e49823611730ac9f0f2c258e5f60277ff4a92e102f81a7dc6cabd93
 
-    private static final String BASE_URL = "https://api.gilt.com/v1/";
+
+    // Previous Gilt API Endpoint
+    // private static final String BASE_URL = "https://api.gilt.com/v1/";
+
+    private static final String BASE_URL = "https://raw.githubusercontent.com/ghigo/gilt-sample/master/";
 
     private static AsyncHttpClient initializeClient()
     {

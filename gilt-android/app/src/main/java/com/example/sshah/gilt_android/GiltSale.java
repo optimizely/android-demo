@@ -117,7 +117,12 @@ public class GiltSale implements Parcelable {
 
             // Get an sale image URL
             JSONObject images = jsonSale.getJSONObject("image_urls");
-            JSONArray image_315x295_array = images.getJSONArray("744x281");
+
+            /* Previous version with GILT API now replaced with marco's static version
+            //JSONArray image_315x295_array = images.getJSONArray("744x281");
+            */
+
+            JSONArray image_315x295_array = images.getJSONArray("300x184");
             JSONObject image_315x295_object = image_315x295_array.getJSONObject(0);
             this.setImage_url(image_315x295_object.getString("url"));
 
