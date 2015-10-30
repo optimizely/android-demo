@@ -47,8 +47,9 @@ public class SplashActivity extends Activity {
         Intent launchIntent = getIntent();
         String appetizeToken = null;
 
-        if (launchIntent.getExtras() != null) {
-            appetizeToken = launchIntent.getExtras().getString("project");
+        final Bundle extras = launchIntent.getExtras();
+        if (extras != null) {
+            appetizeToken = extras.getString("project");
         }
 
         // Check to see if a personal constants file/string is defined in the project
@@ -58,6 +59,10 @@ public class SplashActivity extends Activity {
             projectToken = appetizeToken;
             GiltLog.d("Using appetize project token");
             Optimizely.enableEditor();
+            String socketHostname = extras.getString("socketServerHostname");
+            if (socketHostname != null) {
+                Optimizely.setSocketHost(socketHostname);
+            }
         } else if (personalConstantsID != 0) {
             projectToken = getResources().getString(personalConstantsID);
             GiltLog.d("Using personal constants token");
