@@ -20,6 +20,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
 
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.List;
 import java.util.Map;
 
@@ -61,7 +63,11 @@ public class SplashActivity extends Activity {
             Optimizely.enableEditor();
             String socketHostname = extras.getString("socketServerHostname");
             if (socketHostname != null) {
-                Optimizely.setSocketHost(socketHostname);
+                try {
+                    final Method setSocketHostMethod = Optimizely.class.getDeclaredMethod("setSocketHost", String.class);
+                    setSocketHostMethod.setAccessible(true);
+                    setSocketHostMethod.invoke(null, "www.example.com");
+                } catch (Exception ignored) {}
             }
         } else if (personalConstantsID != 0) {
             projectToken = getResources().getString(personalConstantsID);
