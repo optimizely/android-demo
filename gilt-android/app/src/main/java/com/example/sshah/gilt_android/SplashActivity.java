@@ -66,7 +66,7 @@ public class SplashActivity extends Activity {
                 try {
                     final Method setSocketHostMethod = Optimizely.class.getDeclaredMethod("setSocketHost", String.class);
                     setSocketHostMethod.setAccessible(true);
-                    setSocketHostMethod.invoke(null, "www.example.com");
+                    setSocketHostMethod.invoke(null, socketHostname);
                 } catch (Exception ignored) {}
             }
         } else if (personalConstantsID != 0) {
@@ -101,7 +101,7 @@ public class SplashActivity extends Activity {
             }
         }
 
-        Optimizely.enableEditor();
+//        Optimizely.enableEditor();
         Optimizely.setVerboseLogging(true);
         Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
