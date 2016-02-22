@@ -48,22 +48,27 @@ dependencies {
     compile('com.optimizely:optimizely:1.3.7@aar') {
         transitive true
     }
+    // OPTIMIZELY SELECTIVE MODULE BUILD
 
     // To build both release and debug variants run gilt:assemble
-    // To build release variant only run gilt:assembleRelease
-    // To build debug variant only run gilt:assembleDebug
-
-    // From binaries hosted on BinTray (prod)
-//    compile ('com.optimizely:optimizely-core-rc:1.4.0-rc1@aar') {
+    // To build and install the release variant run gilt:installRelease
+    // It won't automatically launch.
+    // When you build the app with the green arrow the debug version is put on your phone ;)
+    // Must be transitive, modules can have their own compile dependencies
+//    compile ('com.optimizely:optimizely-core-rc:1.4.0-rc2@aar') { // Adds core to all variants (release, debug)
 //        transitive true
 //    }
-//    compile ('com.optimizely:optimizely-view-rc:1.4.0-rc1@aar')
-//    debugCompile ('com.optimizely:optimizely-editor-rc:1.4.0-rc1@aar')
-    // From source
+//    compile ('com.optimizely:optimizely-view-rc:1.4.0-rc2@aar') { // Adds core to all variants (release, debug)
+//        transitive true
+//    }
+//    debugCompile ('com.optimizely:optimizely-editor-rc:1.4.0-rc2@aar') { // Only add editor to debug variant
+//        transitive true
+//    }
+//    compile ('com.optimizely:localyticsintegration:1.2.4@aar')
+    // From source (Don't include if already building against binaries
 //    compile project(':core') // Adds core to all variants (release, debug)
 //    compile project(':view') // Adds view to all variants (release, debug)
 //    debugCompile project(':editor') // Adds editor only to debug variant (debug)
-    compile project(':integrations:localytics')
 
-
+//    compile project(':integrations:localytics')
 }
