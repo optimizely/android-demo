@@ -61,7 +61,8 @@ public class GiltProductsListAdapter extends ArrayAdapter<GiltProduct> {
             //Set strikethrough text
             viewHolder.msrpTextView.setPaintFlags(viewHolder.msrpTextView.getPaintFlags() | Paint.STRIKE_THRU_TEXT_FLAG);
             viewHolder.msrpTextView.setTextColor(msrpPriceColor.get());
-            viewHolder.msrpTextView.setVisibility(shouldShowMsrp.get() ? View.VISIBLE : View.INVISIBLE);
+            boolean shouldShowMsrp = GiltProductsListAdapter.shouldShowMsrp.get();
+            viewHolder.msrpTextView.setVisibility(shouldShowMsrp ? View.VISIBLE : View.INVISIBLE);
             rowView.setTag(viewHolder);
         }
 

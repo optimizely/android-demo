@@ -71,6 +71,8 @@ public class SignInActivity extends ActionBarActivity {
             signInButton.setOnClickListener(signInButtonClicked);
             fbSignInButton = (Button)rootView.findViewById(R.id.fbSignInButton);
 
+            Optimizely.activateManualExperiment("3716923460");
+
             GiltSale.getSales(new GiltSale.GetSalesResponseHandler() {
                 @Override
                 public void onCompletion(ArrayList<GiltSale> sales) {

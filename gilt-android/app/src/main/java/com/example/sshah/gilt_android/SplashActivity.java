@@ -40,6 +40,8 @@ public class SplashActivity extends Activity {
     // Hack to work around the fact that onCreate() gets called twice
     private boolean showSignUpFlowOnResume = false;
 
+    long startTime;
+
 
     /*  This method is used to pull in the correct Optimizely token and enables the mobile playground
     as well as the personalConstants file
@@ -84,6 +86,7 @@ public class SplashActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        startTime = System.currentTimeMillis();
         super.onCreate(savedInstanceState);
 
         FacebookSdk.sdkInitialize(getApplicationContext());
@@ -105,13 +108,12 @@ public class SplashActivity extends Activity {
         Optimizely.setVerboseLogging(true);
         Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
-        Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication());
-        Optimizely.registerPlugin(new OptimizelyLocalyticsIntegration());
 
         // The api_key string resource should be set in a file called personal_constants.xml because
         // that file is git ignored and everyone has different project keys.
         // DO NOT SET THIS IS A STRINGS FILE THAT IS SOURCE CONTROLLED OR YOU WILL BREAK THE BUILD
-        Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
+//        Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
+        Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication());
 
         showSignUpFlow();
 
@@ -237,6 +239,8 @@ public class SplashActivity extends Activity {
         if (showSignUpFlowOnResume) {
             showSignUpFlow();
         }
+
+        Log.d("TIME", "Elapsed gilt" + (System.currentTimeMillis() - startTime));
     }
 
     @Override
