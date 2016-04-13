@@ -19,6 +19,8 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 
+import com.optimizely.Optimizely;
+
 import java.util.ArrayList;
 
 
@@ -49,6 +51,8 @@ public class GiltSalesListActivity extends ActionBarActivity {
                 });
 
         this.setTitle("Gilt");
+
+        Optimizely.trackEvent("customFoo");
 
         final ActionBar actionBar = getSupportActionBar();
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);

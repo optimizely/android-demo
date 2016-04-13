@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "23.0.3"
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
@@ -23,7 +23,7 @@ android {
     }
 
     buildTypes {
-        release {
+        debug {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
@@ -43,11 +43,33 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.+'
     compile 'com.loopj.android:android-async-http:1.4.7'
     compile 'com.facebook.android:facebook-android-sdk:4.6.0'
+    compile 'com.localytics.android:library:3.7+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
-    compile('com.optimizely:optimizely-rc:1.4.0-rc4@aar') {
+//    compile('com.optimizely:optimizely-eap:1.4.2-eap2@aar') {
+//        transitive true
+//    }
+
+//    compile project(':core')
+//    compile project(':view')
+//    compile project(':editor')
+//    compile project(':integrations:localytics')
+//    compile project(':integrations:mixpanel')
+//    compile project(':integrations:amplitude')
+//    compile project(':integrations:universal-analytics')
+//
+    compile "com.mixpanel.android:mixpanel-android:+"
+    compile 'com.amplitude:android-sdk:+'
+    compile 'com.crittercism:crittercism-android-agent:5.3.3'
+    compile("com.google.android.gms:play-services-base:+@aar") {
         transitive true
     }
+    compile("com.google.android.gms:play-services-analytics:+@aar") {
+        transitive true
+    }
+//    compile 'com.localytics.android:library:3.7+'
+//    compile 'com.localytics.android:library:3.7+'
+
     // OPTIMIZELY SELECTIVE MODULE BUILD
 
     // COMMENT THE BUNDLE ABOVE (compile('com.optimizely...'); AND UNCOMMENT BELOW
@@ -57,14 +79,19 @@ dependencies {
     // It won't automatically launch.
     // When you build the app with the green arrow the debug version is put on your phone ;)
     // Must be transitive, modules can have their own compile dependencies
-//    compile ('com.optimizely:optimizely-core-rc:1.4.0-rc2@aar') { // Adds core to all variants (release, debug)
-//        transitive true
+    // Required
+    compile ('com.optimizely:optimizely-rc:1.5.0-rc1@aar') { // Adds core to all variants (release, debug)
+        transitive = true
+    }
+//    compile ('com.optimizely:optimizely-view:1.4.2@aar') { // Adds core to all variants (release, debug)
+//        transitive = true
 //    }
-//    compile ('com.optimizely:optimizely-view-rc:1.4.0-rc2@aar') { // Adds core to all variants (release, debug)
-//        transitive true
+//    debugCompile ('com.optimizely:optimizely-editor:1.4.2@aar') { // Only add editor to debug variant
+//        transitive = true
 //    }
-//    debugCompile ('com.optimizely:optimizely-editor-rc:1.4.0-rc2@aar') { // Only add editor to debug variant
-//        transitive true
-//    }
-//    compile ('com.optimizely:localyticsintegration:1.2.4@aar')
+    // Optional
+    compile ('com.optimizely:localyticsintegration:1.2.6@aar')
+    compile ('com.optimizely:amplitudeintegration:1.2.6@aar')
+    compile ('com.optimizely:mixpanelintegration:1.2.6@aar')
+    compile ('com.optimizely:universalanalyticsintegration:1.2.6@aar')
 }
