@@ -43,7 +43,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.+'
     compile 'com.loopj.android:android-async-http:1.4.7'
     compile 'com.facebook.android:facebook-android-sdk:4.6.0'
-    compile 'com.localytics.android:library:3.7+'
+    compile 'com.localytics.android:library:3.8+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
 //    compile('com.optimizely:optimizely-eap:1.4.2-eap2@aar') {

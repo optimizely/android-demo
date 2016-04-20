@@ -19,5 +19,9 @@ allprojects {
         maven {
             url 'http://dl.bintray.com/optimizely/optimizely'
         }
+        maven
+        {
+            url 'http://maven.localytics.com/public'
+        }
     }
 }
