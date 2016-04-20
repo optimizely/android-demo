@@ -60,7 +60,6 @@ dependencies {
 //
     compile "com.mixpanel.android:mixpanel-android:+"
     compile 'com.amplitude:android-sdk:+'
-    compile 'com.crittercism:crittercism-android-agent:5.3.3'
     compile("com.google.android.gms:play-services-base:+@aar") {
         transitive true
     }

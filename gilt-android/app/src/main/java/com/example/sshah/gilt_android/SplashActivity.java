@@ -2,8 +2,6 @@ package com.example.sshah.gilt_android;
 
 import com.amplitude.api.Amplitude;
 import com.amplitude.api.AmplitudeClient;
-//import com.crittercism.app.Crittercism;
-import com.crittercism.app.Crittercism;
 import com.example.sshah.gilt_android.util.SystemUiHider;
 import com.facebook.FacebookSdk;
 import com.google.android.gms.analytics.GoogleAnalytics;
@@ -107,9 +105,6 @@ public class SplashActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         FacebookSdk.sdkInitialize(getApplicationContext());
-
-
-        Crittercism.initialize(getApplicationContext(), "004c8f627ad44032a9f0e85d52737b8500555300");
 
 
         // The below is a hack to workaround the fact that when starting EditMode, the SplashActivity gets created twice-- and we only want to
