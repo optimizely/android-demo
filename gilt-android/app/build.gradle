@@ -79,7 +79,7 @@ dependencies {
     // When you build the app with the green arrow the debug version is put on your phone ;)
     // Must be transitive, modules can have their own compile dependencies
     // Required
-    compile ('com.optimizely:optimizely-rc:1.4.3-rc3@aar') { // Adds core to all variants (release, debug)
+    compile ('com.optimizely:optimizely-rc:1.5.0-rc1@aar') { // Adds core to all variants (release, debug)
         transitive = true
     }
 //    compile ('com.optimizely:optimizely-view:1.4.2@aar') { // Adds core to all variants (release, debug)
