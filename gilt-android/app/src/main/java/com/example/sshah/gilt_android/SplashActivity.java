@@ -3,7 +3,6 @@ package com.example.sshah.gilt_android;
 import com.amplitude.api.Amplitude;
 import com.amplitude.api.AmplitudeClient;
 import com.example.sshah.gilt_android.util.SystemUiHider;
-import com.facebook.FacebookSdk;
 import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.Tracker;
 import com.localytics.android.AnalyticsListener;
@@ -103,9 +102,6 @@ public class SplashActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         startTime = System.currentTimeMillis();
         super.onCreate(savedInstanceState);
-
-        FacebookSdk.sdkInitialize(getApplicationContext());
-
 
         // The below is a hack to workaround the fact that when starting EditMode, the SplashActivity gets created twice-- and we only want to
         // show and create the SignUpActivity once. We also need to show the signupactivity on resume.

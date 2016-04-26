@@ -67,14 +67,6 @@
             android:layout_marginTop="5dp"
             android:text="OR"/>
 
-    <com.facebook.login.widget.LoginButton
-        android:id="@+id/fbSignInButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="5dp"
-        />
-
 
     <TextView android:text="@string/fbWarning"
         android:layout_width="wrap_content"
