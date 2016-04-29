@@ -15,6 +15,5 @@ public class GiltApp extends Application {
         Localytics.integrate(this);
         Localytics.setLoggingEnabled(true);
         Localytics.setCustomerId("User12345");
-
     }
 }

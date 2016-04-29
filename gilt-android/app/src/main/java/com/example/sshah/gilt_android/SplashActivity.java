@@ -137,7 +137,10 @@ public class SplashActivity extends Activity {
         Tracker tracker = GoogleAnalytics.getInstance(this).newTracker("UUID");
         OptimizelyUniversalAnalyticsIntegration.setTracker(tracker);
 
+        Toast.makeText(this, "Hello", Toast.LENGTH_LONG).show();
+
         Optimizely.enableEditor();
+//        Optimizely.enablePreview();
         Optimizely.setVerboseLogging(true);
         Optimizely.setDumpNetworkCalls(true);
         Optimizely.addOptimizelyEventListener(optimizelyListener);
