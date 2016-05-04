@@ -45,9 +45,9 @@ dependencies {
     compile 'com.localytics.android:library:3.8+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
-//    compile('com.optimizely:optimizely-eap:1.4.2-eap2@aar') {
-//        transitive true
-//    }
+    compile('com.optimizely:optimizely-rc:1.5.0-rc3@aar') {
+        transitive true
+    }
 
 //    compile project(':core')
 //    compile project(':view')
@@ -78,9 +78,9 @@ dependencies {
     // When you build the app with the green arrow the debug version is put on your phone ;)
     // Must be transitive, modules can have their own compile dependencies
     // Required
-    compile ('com.optimizely:optimizely-rc:+@aar') { // Adds core to all variants (release, debug)
-        transitive = true
-    }
+//    compile ('com.optimizely:optimizely-core:1.4.23@aar') { // Adds core to all variants (release, debug)
+//        transitive = true
+//    }
 //    compile ('com.optimizely:optimizely-view:1.4.2@aar') { // Adds core to all variants (release, debug)
 //        transitive = true
 //    }
