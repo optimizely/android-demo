@@ -152,6 +152,7 @@ public class SplashActivity extends Activity {
 //        Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
 //        Optimizely.enableEditor();
 //        Optimizely.startOptimizelyAsync(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
+        Optimizely.setValueForAttributeApiName("bar", "foo", this);
         Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication());
 
         showSignUpFlow();
