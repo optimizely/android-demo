@@ -149,6 +149,7 @@ public class SplashActivity extends Activity {
         // that file is git ignored and everyone has different project keys.
         // DO NOT SET THIS IS A STRINGS FILE THAT IS SOURCE CONTROLLED OR YOU WILL BREAK THE BUILD
         Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
+        Optimizely.trackEvent("foo");
 //        Optimizely.enableEditor();
 //        Optimizely.startOptimizelyAsync(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
 //        Optimizely.setValueForAttributeApiName("bar", "foo", this);

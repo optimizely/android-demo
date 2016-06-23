@@ -45,7 +45,7 @@ dependencies {
     compile 'com.localytics.android:library:3.8+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
-    compile('com.optimizely:optimizely-rc:1.6.0-rc3@aar') {
+    compile('com.optimizely:optimizely-eap:1.6.0-eap1@aar') {
         transitive true
     }
 
