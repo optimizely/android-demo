@@ -148,7 +148,9 @@ public class SplashActivity extends Activity {
         // The api_key string resource should be set in a file called personal_constants.xml because
         // that file is git ignored and everyone has different project keys.
         // DO NOT SET THIS IS A STRINGS FILE THAT IS SOURCE CONTROLLED OR YOU WILL BREAK THE BUILD
-        Optimizely.startOptimizelyWithAPIToken(getString(R.string.personal_project_token), getApplication());
+
+        Optimizely.forceVariation("5472683795", "5458030716");
+        Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
         Optimizely.trackEvent("foo");
 //        Optimizely.enableEditor();
 //        Optimizely.startOptimizelyAsync(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
