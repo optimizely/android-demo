@@ -24,7 +24,7 @@ android {
 
     buildTypes {
         debug {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
         }
@@ -45,7 +45,7 @@ dependencies {
     compile 'com.localytics.android:library:3.8+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
-    compile('com.optimizely:optimizely-rc:1.6.0-rc5@aar') {
+    compile('com.optimizely:optimizely:1.6.0@aar') {
         transitive true
     }
 
@@ -78,13 +78,13 @@ dependencies {
     // When you build the app with the green arrow the debug version is put on your phone ;)
     // Must be transitive, modules can have their own compile dependencies
     // Required
-//    compile ('com.optimizely:optimizely-core:1.4.2@aar') { // Adds core to all variants (release, debug)
+//    compile ('com.optimizely:optimizely-core-rc:1.6.0-rc7@aar') { // Adds core to all variants (release, debug)
 //        transitive = true
 //    }
-//    compile ('com.optimizely:optimizely-view:1.4.2@aar') { // Adds core to all variants (release, debug)
+//    compile ('com.optimizely:optimizely-view-rc:1.6.0-rc7@aar') { // Adds core to all variants (release, debug)
 //        transitive = true
 //    }
-//    debugCompile ('com.optimizely:optimizely-editor:1.4.2@aar') { // Only add editor to debug variant
+//    compile ('com.optimizely:optimizely-editor-rc:1.6.0-rc7@aar') { // Only add editor to debug variant
 //        transitive = true
 //    }
     // Optional
