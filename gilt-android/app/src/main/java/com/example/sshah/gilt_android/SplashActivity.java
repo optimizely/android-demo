@@ -149,6 +149,7 @@ public class SplashActivity extends Activity {
         // that file is git ignored and everyone has different project keys.
         // DO NOT SET THIS IS A STRINGS FILE THAT IS SOURCE CONTROLLED OR YOU WILL BREAK THE BUILD
 
+        Optimizely.registerClassWithOptlyFields(AppRater.class, GiltProductsListAdapter.class, SplashActivity.class);
         Optimizely.forceVariation("5472683795", "5458030716");
         Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
         Optimizely.trackEvent("foo");
