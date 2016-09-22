@@ -214,13 +214,6 @@ public class SplashActivity extends Activity {
         }
 
         @Override
-        public void onOptimizelyExperimentViewed(OptimizelyExperimentData optimizelyExperimentData) {
-            GiltLog.d("Experiment viewed");
-            GiltLog.prettyPrintExperiment(optimizelyExperimentData);
-            Optimizely.sendEvents();
-        }
-
-        @Override
         public void onOptimizelyEditorEnabled() {
             GiltLog.d("Optimizely editor enabled");
         }
