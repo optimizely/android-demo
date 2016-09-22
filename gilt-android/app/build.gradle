@@ -1,14 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
+    compileSdkVersion 24
     buildToolsVersion "23.0.3"
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
         applicationId "com.example.sshah.gilt_android"
         minSdkVersion 15
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
     }
@@ -45,7 +45,7 @@ dependencies {
     compile 'com.localytics.android:library:3.8+'
 
 //     If you want to include all Optimizely modules and integrations for all variants use the bundle
-    compile('com.optimizely:optimizely-rc:1.7.0-rc1@aar') {
+    compile('com.optimizely:optimizely-rc:1.7.0-rc2@aar') {
         transitive true
     }
 
