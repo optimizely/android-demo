@@ -151,7 +151,9 @@ public class SplashActivity extends Activity {
 
         Optimizely.registerClassWithOptlyFields(AppRater.class, GiltProductsListAdapter.class, SplashActivity.class);
         Optimizely.forceVariation("5472683795", "5458030716");
+        Optimizely.setEditGestureEnabled(true);
         Optimizely.enableEditor();
+//        Optimizely.enablePreview();
         Optimizely.startOptimizelyWithAPIToken(getOptimizelyToken(), getApplication(), new DefaultOptimizelyEventListener());
         Optimizely.trackEvent("foo");
 //        Optimizely.enableEditor();
