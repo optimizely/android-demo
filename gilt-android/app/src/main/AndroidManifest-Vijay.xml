@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sshah.gilt_android" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:name=".GiltApp"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <meta-data android:name="LOCALYTICS_APP_KEY" android:value="6f029cc0168f04125ac594a-2cbbe57c-3a32-11e5-a285-00d0fea82624"/>
+
+        <activity
+            android:name=".SignInActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".GiltSalesListActivity"
+            android:label="@string/title_activity_gilt_sales_list" >
+        </activity>
+        <activity
+            android:name=".TestActivity"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name=".GiltProductsListActivity"
+            android:label="@string/title_activity_gilt_products_list"
+            android:parentActivityName=".GiltSalesListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sshah.gilt_android.GiltSalesListActivity" />
+        </activity>
+        <activity
+            android:name=".ProductDetailActivity"
+            android:label="@string/title_activity_product_detail"
+            android:parentActivityName=".GiltProductsListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sshah.gilt_android.GiltProductsListActivity" />
+        </activity>
+        <activity
+            android:name=".TutorialFlowActivity"
+            android:label="@string/title_activity_tutorial_flow" >
+        </activity>
+        <activity
+            android:name=".SplashActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_splash"
+            android:windowActionBar="false"
+            android:theme="@style/FullscreenTheme" >
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="optly5824282244" />
+                <!--<data android:scheme="optly6362980612" />-->
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
